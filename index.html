@@ -105,6 +105,13 @@
             display: flex;
             flex-wrap: wrap;
             gap: 8px;
+            align-items: center;
+        }
+
+        .tags-label {
+            color: #666;
+            font-size: 0.8rem;
+            margin-right: 4px;
         }
 
         .tag {
@@ -223,6 +230,7 @@
                 </div>
                 <p class="article-summary">${summary}</p>
                 <div class="tags">
+                    ${tags.length > 0 ? '<span class="tags-label">Tags:</span>' : ''}
                     ${tags.slice(0, 4).map(tag => `<span class="tag">${tag}</span>`).join('')}
                 </div>
             `;
