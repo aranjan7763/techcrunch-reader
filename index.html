@@ -97,6 +97,159 @@
             color: #fff;
         }
 
+        /* Theme toggle */
+        .theme-toggle {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 12px;
+        }
+
+        .theme-toggle-label {
+            font-size: 0.75rem;
+            color: #888;
+        }
+
+        .theme-toggle-btn {
+            position: relative;
+            width: 50px;
+            height: 26px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 13px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .theme-toggle-btn::after {
+            content: '🌙';
+            position: absolute;
+            top: 3px;
+            left: 3px;
+            width: 18px;
+            height: 18px;
+            background: linear-gradient(135deg, #00d4ff 0%, #7b2cbf 100%);
+            border-radius: 50%;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 10px;
+        }
+
+        /* Light mode styles */
+        body.light-mode {
+            background: linear-gradient(135deg, #f0f4f8 0%, #e2e8f0 100%);
+            color: #1a202c;
+        }
+
+        body.light-mode .theme-toggle-btn {
+            background: #cbd5e0;
+            border-color: #a0aec0;
+        }
+
+        body.light-mode .theme-toggle-btn::after {
+            content: '☀️';
+            left: 27px;
+        }
+
+        body.light-mode .left-panel {
+            background: rgba(255, 255, 255, 0.8);
+            border-right-color: #e2e8f0;
+        }
+
+        body.light-mode .panel-header {
+            background: rgba(255, 255, 255, 0.95);
+            border-bottom-color: #e2e8f0;
+        }
+
+        body.light-mode .panel-header .subtitle {
+            color: #718096;
+        }
+
+        body.light-mode .last-updated {
+            color: #a0aec0;
+        }
+
+        body.light-mode .theme-toggle-label {
+            color: #718096;
+        }
+
+        body.light-mode .font-toggle-btn {
+            background: #e2e8f0;
+            border-color: #cbd5e0;
+            color: #4a5568;
+        }
+
+        body.light-mode .font-toggle-btn:hover {
+            background: #cbd5e0;
+        }
+
+        body.light-mode .article-item {
+            border-bottom-color: #e2e8f0;
+        }
+
+        body.light-mode .article-item:hover {
+            background: rgba(0, 212, 255, 0.08);
+        }
+
+        body.light-mode .article-item.active {
+            background: rgba(0, 212, 255, 0.12);
+            border-left-color: #00d4ff;
+        }
+
+        body.light-mode .article-item-title {
+            color: #1a202c;
+        }
+
+        body.light-mode .article-item-meta {
+            color: #718096;
+        }
+
+        body.light-mode .right-panel {
+            background: transparent;
+        }
+
+        body.light-mode .article-view-title {
+            background: linear-gradient(90deg, #1a202c, #4a5568);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        body.light-mode .article-view-meta {
+            color: #718096;
+        }
+
+        body.light-mode .article-view-content {
+            color: #4a5568;
+        }
+
+        body.light-mode .placeholder {
+            color: #a0aec0;
+        }
+
+        body.light-mode .category-value {
+            background: rgba(0, 212, 255, 0.15);
+            color: #0891b2;
+        }
+
+        body.light-mode .category-label,
+        body.light-mode .tags-label {
+            color: #718096;
+        }
+
+        body.light-mode .hamburger-btn {
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+        }
+
+        body.light-mode .overlay {
+            background: rgba(0, 0, 0, 0.4);
+        }
+
+        body.light-mode .article-view-image {
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+
         /* Hamburger menu button */
         .hamburger-btn {
             display: none;
@@ -550,6 +703,10 @@
                     <button class="font-toggle-btn" data-size="medium">A+</button>
                     <button class="font-toggle-btn active" data-size="large">A++</button>
                 </div>
+                <div class="theme-toggle">
+                    <span class="theme-toggle-label">Theme</span>
+                    <button class="theme-toggle-btn" id="theme-toggle" aria-label="Toggle theme"></button>
+                </div>
             </div>
             <div class="article-list" id="article-list">
                 <div class="loading">Loading articles...</div>
@@ -759,6 +916,27 @@
         // Load saved preference (default to large)
         const savedSize = localStorage.getItem('fontSize') || 'large';
         setFontSize(savedSize);
+
+        // Theme toggle
+        const themeToggle = document.getElementById('theme-toggle');
+
+        function setTheme(theme) {
+            if (theme === 'light') {
+                document.body.classList.add('light-mode');
+            } else {
+                document.body.classList.remove('light-mode');
+            }
+            localStorage.setItem('theme', theme);
+        }
+
+        themeToggle.addEventListener('click', () => {
+            const isLight = document.body.classList.contains('light-mode');
+            setTheme(isLight ? 'dark' : 'light');
+        });
+
+        // Load saved theme (default to dark)
+        const savedTheme = localStorage.getItem('theme') || 'dark';
+        setTheme(savedTheme);
 
         // Hamburger menu toggle
         const hamburgerBtn = document.getElementById('hamburger-btn');
