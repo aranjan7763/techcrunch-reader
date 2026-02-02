@@ -85,6 +85,44 @@
             color: #fff;
         }
 
+        /* Hamburger menu button */
+        .hamburger-btn {
+            display: none;
+            position: fixed;
+            top: 16px;
+            left: 16px;
+            z-index: 1000;
+            background: linear-gradient(135deg, #00d4ff 0%, #7b2cbf 100%);
+            border: none;
+            color: #fff;
+            width: 50px;
+            height: 50px;
+            border-radius: 12px;
+            cursor: pointer;
+            font-size: 1.5rem;
+            box-shadow: 0 4px 20px rgba(0, 212, 255, 0.4);
+        }
+
+        .hamburger-btn:hover {
+            transform: scale(1.05);
+        }
+
+        /* Mobile overlay */
+        .overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 998;
+        }
+
+        .overlay.active {
+            display: block;
+        }
+
         /* Font size classes - Small */
         body.font-small .article-item-title {
             font-size: 0.85rem !important;
@@ -359,73 +397,117 @@
             body {
                 font-size: 18px;
             }
+
+            .hamburger-btn {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
             .app-container {
                 flex-direction: column;
             }
+
             .left-panel {
+                position: fixed;
+                top: 0;
+                left: -100%;
+                width: 85%;
+                max-width: 350px;
+                height: 100vh;
+                z-index: 999;
+                transition: left 0.3s ease;
+                border-right: 1px solid rgba(255, 255, 255, 0.1);
+            }
+
+            .left-panel.open {
+                left: 0;
+            }
+
+            .right-panel {
                 width: 100%;
-                height: 40vh;
-                border-right: none;
-                border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+                padding: 24px;
+                padding-top: 80px;
             }
+
             .panel-header h1 {
-                font-size: 1.8rem;
+                font-size: 1.6rem;
             }
+
             .panel-header .subtitle {
-                font-size: 1.1rem;
+                font-size: 1rem;
             }
+
             .last-updated {
-                font-size: 0.9rem;
+                font-size: 0.85rem;
             }
+
             .article-item {
                 padding: 18px;
             }
+
             .article-item-title {
-                font-size: 1.2rem;
+                font-size: 1.15rem;
                 line-height: 1.5;
             }
+
             .article-item-meta {
-                font-size: 1rem;
+                font-size: 0.95rem;
             }
-            .right-panel {
-                padding: 24px;
-            }
+
             .article-view-title {
-                font-size: 1.8rem;
+                font-size: 1.7rem;
                 line-height: 1.4;
             }
+
             .article-view-meta {
-                font-size: 1.1rem;
+                font-size: 1rem;
                 gap: 12px;
             }
+
             .article-view-content {
-                font-size: 1.2rem;
+                font-size: 1.15rem;
                 line-height: 1.9;
             }
+
             .category-value {
-                font-size: 1.05rem;
+                font-size: 1rem;
                 padding: 8px 16px;
             }
+
             .category-label {
-                font-size: 1.05rem;
+                font-size: 1rem;
             }
+
             .tag {
-                font-size: 0.95rem;
+                font-size: 0.9rem;
                 padding: 8px 16px;
             }
+
             .tags-label {
-                font-size: 1.05rem;
+                font-size: 1rem;
             }
+
             .read-full-btn {
-                font-size: 1.2rem;
+                font-size: 1.1rem;
                 padding: 18px 36px;
                 width: 100%;
                 text-align: center;
+            }
+
+            .placeholder {
+                height: 50vh;
+            }
+
+            .placeholder-icon {
+                font-size: 3rem;
             }
         }
     </style>
 </head>
 <body>
+    <button class="hamburger-btn" id="hamburger-btn">☰</button>
+    <div class="overlay" id="overlay"></div>
     <div class="app-container">
         <!-- Left Panel: Article List -->
         <div class="left-panel">
@@ -527,7 +609,10 @@
                 </div>
             `;
 
-            item.addEventListener('click', () => showArticle(index));
+            item.addEventListener('click', () => {
+                showArticle(index);
+                closeMenuOnMobile();
+            });
             return item;
         }
 
@@ -644,6 +729,29 @@
         // Load saved preference (default to large)
         const savedSize = localStorage.getItem('fontSize') || 'large';
         setFontSize(savedSize);
+
+        // Hamburger menu toggle
+        const hamburgerBtn = document.getElementById('hamburger-btn');
+        const leftPanel = document.querySelector('.left-panel');
+        const overlay = document.getElementById('overlay');
+
+        function toggleMenu() {
+            leftPanel.classList.toggle('open');
+            overlay.classList.toggle('active');
+            hamburgerBtn.textContent = leftPanel.classList.contains('open') ? '✕' : '☰';
+        }
+
+        hamburgerBtn.addEventListener('click', toggleMenu);
+        overlay.addEventListener('click', toggleMenu);
+
+        // Close menu when article is selected (on mobile)
+        function closeMenuOnMobile() {
+            if (window.innerWidth <= 768) {
+                leftPanel.classList.remove('open');
+                overlay.classList.remove('active');
+                hamburgerBtn.textContent = '☰';
+            }
+        }
     </script>
 </body>
 </html>
