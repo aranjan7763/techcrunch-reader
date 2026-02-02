@@ -52,6 +52,12 @@
             margin-top: 4px;
         }
 
+        .last-updated {
+            font-size: 0.7rem;
+            color: #444;
+            margin-top: 8px;
+        }
+
         .article-list {
             padding: 10px;
         }
@@ -98,7 +104,7 @@
         }
 
         .reading-canvas {
-            max-width: 700px;
+            max-width: 750px;
             margin: 0 auto;
         }
 
@@ -123,6 +129,46 @@
 
         .article-view.active {
             display: block;
+        }
+
+        .article-view-image {
+            width: 100%;
+            border-radius: 12px;
+            margin-bottom: 25px;
+            object-fit: cover;
+            max-height: 400px;
+        }
+
+        .article-hero {
+            width: 100%;
+            height: 200px;
+            border-radius: 12px;
+            margin-bottom: 25px;
+            background: linear-gradient(135deg, #1a1a2e 0%, #7b2cbf 50%, #00d4ff 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .article-hero::before {
+            content: '';
+            position: absolute;
+            width: 150%;
+            height: 150%;
+            background: repeating-linear-gradient(
+                45deg,
+                transparent,
+                transparent 20px,
+                rgba(255,255,255,0.03) 20px,
+                rgba(255,255,255,0.03) 40px
+            );
+        }
+
+        .article-hero-icon {
+            font-size: 4rem;
+            z-index: 1;
         }
 
         .article-view-title {
@@ -170,9 +216,10 @@
 
         .article-view-content {
             color: #bbb;
-            line-height: 1.8;
-            font-size: 1.05rem;
+            line-height: 1.9;
+            font-size: 1.1rem;
             margin-bottom: 30px;
+            text-align: justify;
         }
 
         .article-view-tags {
@@ -196,46 +243,6 @@
             font-size: 0.75rem;
             font-weight: 600;
             text-transform: uppercase;
-        }
-
-        .article-view-image {
-            width: 100%;
-            border-radius: 12px;
-            margin-bottom: 25px;
-            object-fit: cover;
-            max-height: 400px;
-        }
-
-        .article-hero {
-            width: 100%;
-            height: 200px;
-            border-radius: 12px;
-            margin-bottom: 25px;
-            background: linear-gradient(135deg, #1a1a2e 0%, #7b2cbf 50%, #00d4ff 100%);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            position: relative;
-            overflow: hidden;
-        }
-
-        .article-hero::before {
-            content: '';
-            position: absolute;
-            width: 150%;
-            height: 150%;
-            background: repeating-linear-gradient(
-                45deg,
-                transparent,
-                transparent 20px,
-                rgba(255,255,255,0.03) 20px,
-                rgba(255,255,255,0.03) 40px
-            );
-        }
-
-        .article-hero-icon {
-            font-size: 4rem;
-            z-index: 1;
         }
 
         .read-full-btn {
@@ -296,6 +303,7 @@
             <div class="panel-header">
                 <h1>TechCrunch Reader</h1>
                 <p class="subtitle">Latest tech news</p>
+                <p class="last-updated" id="last-updated"></p>
             </div>
             <div class="article-list" id="article-list">
                 <div class="loading">Loading articles...</div>
@@ -310,7 +318,8 @@
                     <p>Select an article from the left to start reading</p>
                 </div>
                 <div class="article-view" id="article-view">
-                    <div class="article-hero" id="view-hero">
+                    <img class="article-view-image" id="view-image" src="" alt="" style="display: none;">
+                    <div class="article-hero" id="view-hero" style="display: none;">
                         <span class="article-hero-icon" id="view-hero-icon">📰</span>
                     </div>
                     <h1 class="article-view-title" id="view-title"></h1>
@@ -331,21 +340,26 @@
     </div>
 
     <script>
-        const RSS_URL = 'https://api.rss2json.com/v1/api.json?rss_url=https://techcrunch.com/feed/';
+        // Load from our scraped JSON file
+        const DATA_URL = 'articles.json';
         let articles = [];
 
         async function loadArticles() {
             const listContainer = document.getElementById('article-list');
 
             try {
-                const response = await fetch(RSS_URL);
+                const response = await fetch(DATA_URL);
                 const data = await response.json();
 
-                if (data.status !== 'ok') {
-                    throw new Error('Failed to load feed');
+                articles = data.articles;
+
+                // Show last updated time
+                if (data.last_updated) {
+                    const updated = new Date(data.last_updated);
+                    document.getElementById('last-updated').textContent =
+                        'Updated: ' + updated.toLocaleString();
                 }
 
-                articles = data.items.slice(0, 10);
                 listContainer.innerHTML = '';
 
                 articles.forEach((article, index) => {
@@ -354,7 +368,7 @@
                 });
 
             } catch (error) {
-                listContainer.innerHTML = `<div class="error">Failed to load articles</div>`;
+                listContainer.innerHTML = `<div class="error">Failed to load articles.<br>Run the scraper first!</div>`;
             }
         }
 
@@ -363,16 +377,19 @@
             item.className = 'article-item';
             item.setAttribute('data-index', index);
 
-            const date = new Date(article.pubDate);
-            const formattedDate = date.toLocaleDateString('en-US', {
-                month: 'short',
-                day: 'numeric'
-            });
+            let formattedDate = '';
+            if (article.date) {
+                const date = new Date(article.date);
+                formattedDate = date.toLocaleDateString('en-US', {
+                    month: 'short',
+                    day: 'numeric'
+                });
+            }
 
             item.innerHTML = `
                 <div class="article-item-title">${article.title}</div>
                 <div class="article-item-meta">
-                    <span class="author">${article.author || 'TechCrunch'}</span> · ${formattedDate}
+                    <span class="author">${article.author || 'TechCrunch'}</span> ${formattedDate ? '· ' + formattedDate : ''}
                 </div>
             `;
 
@@ -390,25 +407,17 @@
             document.querySelector(`[data-index="${index}"]`).classList.add('active');
 
             // Format date
-            const date = new Date(article.pubDate);
-            const formattedDate = date.toLocaleDateString('en-US', {
-                year: 'numeric',
-                month: 'long',
-                day: 'numeric'
-            });
-
-            // Get category and tags
-            const allCategories = article.categories || [];
-            const category = allCategories[0] || '';
-            const tags = allCategories.slice(1);
-
-            // Clean up description (show up to 1000 characters)
-            let content = article.description.replace(/<[^>]*>/g, '');
-            if (content.length > 1000) {
-                content = content.substring(0, 1000) + '...';
+            let formattedDate = '';
+            if (article.date) {
+                const date = new Date(article.date);
+                formattedDate = date.toLocaleDateString('en-US', {
+                    year: 'numeric',
+                    month: 'long',
+                    day: 'numeric'
+                });
             }
 
-            // Set hero icon based on category
+            // Category icons
             const categoryIcons = {
                 'AI': '🤖',
                 'Startups': '🚀',
@@ -421,21 +430,36 @@
                 'Government & Policy': '⚖️',
                 'Space': '🛸',
                 'Robotics': '🦾',
-                'Crypto': '₿'
+                'Crypto': '₿',
+                'Venture': '💼'
             };
-            const heroIcon = categoryIcons[category] || '📰';
-            document.getElementById('view-hero-icon').textContent = heroIcon;
 
+            // Handle image or hero
+            const imageEl = document.getElementById('view-image');
+            const heroEl = document.getElementById('view-hero');
+
+            if (article.image) {
+                imageEl.src = article.image;
+                imageEl.style.display = 'block';
+                heroEl.style.display = 'none';
+            } else {
+                imageEl.style.display = 'none';
+                heroEl.style.display = 'flex';
+                const heroIcon = categoryIcons[article.category] || '📰';
+                document.getElementById('view-hero-icon').textContent = heroIcon;
+            }
+
+            // Update content
             document.getElementById('view-title').textContent = article.title;
             document.getElementById('view-author').textContent = 'By ' + (article.author || 'TechCrunch');
             document.getElementById('view-date').textContent = formattedDate;
-            document.getElementById('view-content').textContent = content;
+            document.getElementById('view-content').textContent = article.content || article.excerpt || '';
             document.getElementById('view-link').href = article.link;
 
             // Category
             const categoryContainer = document.getElementById('view-category-container');
-            if (category) {
-                document.getElementById('view-category').textContent = category;
+            if (article.category) {
+                document.getElementById('view-category').textContent = article.category;
                 categoryContainer.style.display = 'flex';
             } else {
                 categoryContainer.style.display = 'none';
@@ -443,9 +467,10 @@
 
             // Tags
             const tagsContainer = document.getElementById('view-tags');
+            const tags = article.tags || [];
             if (tags.length > 0) {
                 tagsContainer.innerHTML = '<span class="tags-label">Tags:</span>' +
-                    tags.slice(0, 4).map(tag => `<span class="tag">${tag}</span>`).join('');
+                    tags.slice(0, 5).map(tag => `<span class="tag">${tag}</span>`).join('');
                 tagsContainer.style.display = 'flex';
             } else {
                 tagsContainer.style.display = 'none';
