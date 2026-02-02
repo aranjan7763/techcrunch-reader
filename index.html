@@ -13,261 +13,449 @@
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
             min-height: 100vh;
-            padding: 40px 20px;
             color: #fff;
         }
 
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
+        .app-container {
+            display: flex;
+            height: 100vh;
         }
 
-        header {
-            text-align: center;
-            margin-bottom: 40px;
+        /* Left Panel - Article List */
+        .left-panel {
+            width: 350px;
+            background: rgba(0, 0, 0, 0.3);
+            border-right: 1px solid rgba(255, 255, 255, 0.1);
+            overflow-y: auto;
+            flex-shrink: 0;
         }
 
-        h1 {
-            font-size: 2.5rem;
-            margin-bottom: 10px;
+        .panel-header {
+            padding: 20px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            position: sticky;
+            top: 0;
+            background: rgba(26, 26, 46, 0.95);
+            backdrop-filter: blur(10px);
+        }
+
+        .panel-header h1 {
+            font-size: 1.4rem;
             background: linear-gradient(90deg, #00d4ff, #7b2cbf);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
 
-        .subtitle {
-            color: #888;
-            font-size: 1rem;
+        .panel-header .subtitle {
+            color: #666;
+            font-size: 0.8rem;
+            margin-top: 4px;
         }
 
-        .loading {
-            text-align: center;
-            padding: 60px;
-            color: #888;
-            font-size: 1.2rem;
+        .article-list {
+            padding: 10px;
         }
 
-        .article-card {
+        .article-item {
+            padding: 15px;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: background 0.2s;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .article-item:hover {
             background: rgba(255, 255, 255, 0.05);
-            border-radius: 16px;
-            padding: 24px;
-            margin-bottom: 20px;
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            transition: transform 0.3s, box-shadow 0.3s;
         }
 
-        .article-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 40px rgba(0, 212, 255, 0.2);
-            border-color: rgba(0, 212, 255, 0.3);
+        .article-item.active {
+            background: rgba(0, 212, 255, 0.1);
+            border-left: 3px solid #00d4ff;
         }
 
-        .article-title {
-            font-size: 1.4rem;
-            margin-bottom: 12px;
+        .article-item-title {
+            font-size: 0.95rem;
+            font-weight: 600;
             line-height: 1.4;
-        }
-
-        .article-title a {
+            margin-bottom: 8px;
             color: #fff;
-            text-decoration: none;
         }
 
-        .article-title a:hover {
-            color: #00d4ff;
+        .article-item-meta {
+            font-size: 0.75rem;
+            color: #666;
         }
 
-        .article-meta {
+        .article-item-meta .author {
+            color: #7b2cbf;
+        }
+
+        /* Right Panel - Reading Canvas */
+        .right-panel {
+            flex: 1;
+            overflow-y: auto;
+            padding: 40px;
+        }
+
+        .reading-canvas {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .placeholder {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 60vh;
+            color: #444;
+            text-align: center;
+        }
+
+        .placeholder-icon {
+            font-size: 4rem;
+            margin-bottom: 20px;
+        }
+
+        .article-view {
+            display: none;
+        }
+
+        .article-view.active {
+            display: block;
+        }
+
+        .article-view-title {
+            font-size: 2rem;
+            line-height: 1.3;
+            margin-bottom: 20px;
+            background: linear-gradient(90deg, #fff, #ccc);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .article-view-meta {
             display: flex;
             gap: 20px;
-            margin-bottom: 12px;
-            font-size: 0.85rem;
+            margin-bottom: 20px;
+            font-size: 0.9rem;
             color: #888;
         }
 
-        .author {
+        .article-view-meta .author {
             color: #7b2cbf;
             font-weight: 600;
         }
 
-        .date {
-            color: #666;
-        }
-
-        .article-summary {
-            color: #aaa;
-            line-height: 1.6;
-            margin-bottom: 16px;
-            font-size: 0.95rem;
-        }
-
-        .tags {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            align-items: center;
-        }
-
-        .tags-label {
-            color: #666;
-            font-size: 0.8rem;
-            margin-right: 4px;
-        }
-
-        .category {
+        .article-view-category {
             display: flex;
             align-items: center;
-            gap: 8px;
-            margin-bottom: 12px;
+            gap: 10px;
+            margin-bottom: 25px;
         }
 
         .category-label {
             color: #666;
-            font-size: 0.8rem;
+            font-size: 0.85rem;
         }
 
         .category-value {
             background: rgba(0, 212, 255, 0.2);
             color: #00d4ff;
-            padding: 4px 12px;
+            padding: 5px 14px;
             border-radius: 6px;
             font-size: 0.85rem;
             font-weight: 600;
         }
 
+        .article-view-content {
+            color: #bbb;
+            line-height: 1.8;
+            font-size: 1.05rem;
+            margin-bottom: 30px;
+        }
+
+        .article-view-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .tags-label {
+            color: #666;
+            font-size: 0.85rem;
+        }
+
         .tag {
             background: linear-gradient(135deg, #7b2cbf 0%, #00d4ff 100%);
             color: #fff;
-            padding: 4px 12px;
+            padding: 5px 14px;
             border-radius: 20px;
             font-size: 0.75rem;
             font-weight: 600;
             text-transform: uppercase;
         }
 
-        .error {
-            background: rgba(255, 0, 0, 0.1);
-            border: 1px solid rgba(255, 0, 0, 0.3);
-            padding: 20px;
+        .article-view-image {
+            width: 100%;
             border-radius: 12px;
-            text-align: center;
-            color: #ff6b6b;
+            margin-bottom: 25px;
+            object-fit: cover;
+            max-height: 400px;
         }
 
-        @media (max-width: 600px) {
-            h1 {
-                font-size: 1.8rem;
-            }
-            .article-title {
-                font-size: 1.1rem;
-            }
-            .article-meta {
+        .article-hero {
+            width: 100%;
+            height: 200px;
+            border-radius: 12px;
+            margin-bottom: 25px;
+            background: linear-gradient(135deg, #1a1a2e 0%, #7b2cbf 50%, #00d4ff 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .article-hero::before {
+            content: '';
+            position: absolute;
+            width: 150%;
+            height: 150%;
+            background: repeating-linear-gradient(
+                45deg,
+                transparent,
+                transparent 20px,
+                rgba(255,255,255,0.03) 20px,
+                rgba(255,255,255,0.03) 40px
+            );
+        }
+
+        .article-hero-icon {
+            font-size: 4rem;
+            z-index: 1;
+        }
+
+        .read-full-btn {
+            display: inline-block;
+            background: linear-gradient(135deg, #00d4ff 0%, #7b2cbf 100%);
+            color: #fff;
+            padding: 14px 28px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1rem;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .read-full-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(0, 212, 255, 0.3);
+        }
+
+        .loading {
+            padding: 40px;
+            text-align: center;
+            color: #666;
+        }
+
+        .error {
+            padding: 20px;
+            background: rgba(255, 0, 0, 0.1);
+            border-radius: 8px;
+            color: #ff6b6b;
+            text-align: center;
+        }
+
+        /* Mobile responsive */
+        @media (max-width: 768px) {
+            .app-container {
                 flex-direction: column;
-                gap: 5px;
+            }
+            .left-panel {
+                width: 100%;
+                height: 40vh;
+                border-right: none;
+                border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            }
+            .right-panel {
+                padding: 20px;
+            }
+            .article-view-title {
+                font-size: 1.4rem;
             }
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>TechCrunch Reader</h1>
-            <p class="subtitle">Latest tech news, updated live</p>
-        </header>
+    <div class="app-container">
+        <!-- Left Panel: Article List -->
+        <div class="left-panel">
+            <div class="panel-header">
+                <h1>TechCrunch Reader</h1>
+                <p class="subtitle">Latest tech news</p>
+            </div>
+            <div class="article-list" id="article-list">
+                <div class="loading">Loading articles...</div>
+            </div>
+        </div>
 
-        <main id="articles">
-            <div class="loading">Loading latest articles...</div>
-        </main>
+        <!-- Right Panel: Reading Canvas -->
+        <div class="right-panel">
+            <div class="reading-canvas">
+                <div class="placeholder" id="placeholder">
+                    <div class="placeholder-icon">📰</div>
+                    <p>Select an article from the left to start reading</p>
+                </div>
+                <div class="article-view" id="article-view">
+                    <div class="article-hero" id="view-hero">
+                        <span class="article-hero-icon" id="view-hero-icon">📰</span>
+                    </div>
+                    <h1 class="article-view-title" id="view-title"></h1>
+                    <div class="article-view-meta">
+                        <span class="author" id="view-author"></span>
+                        <span class="date" id="view-date"></span>
+                    </div>
+                    <div class="article-view-category" id="view-category-container">
+                        <span class="category-label">Category:</span>
+                        <span class="category-value" id="view-category"></span>
+                    </div>
+                    <div class="article-view-content" id="view-content"></div>
+                    <div class="article-view-tags" id="view-tags"></div>
+                    <a href="#" target="_blank" class="read-full-btn" id="view-link">Read Full Article →</a>
+                </div>
+            </div>
+        </div>
     </div>
 
     <script>
-        // RSS feed URL (using rss2json service to convert RSS to JSON)
         const RSS_URL = 'https://api.rss2json.com/v1/api.json?rss_url=https://techcrunch.com/feed/';
+        let articles = [];
 
-        // Fetch and display articles when page loads
         async function loadArticles() {
-            const container = document.getElementById('articles');
+            const listContainer = document.getElementById('article-list');
 
             try {
-                // Fetch the RSS feed as JSON
                 const response = await fetch(RSS_URL);
                 const data = await response.json();
 
-                // Check if we got articles
                 if (data.status !== 'ok') {
                     throw new Error('Failed to load feed');
                 }
 
-                // Clear loading message
-                container.innerHTML = '';
+                articles = data.items.slice(0, 10);
+                listContainer.innerHTML = '';
 
-                // Get first 10 articles
-                const articles = data.items.slice(0, 10);
-
-                // Create a card for each article
-                articles.forEach(article => {
-                    const card = createArticleCard(article);
-                    container.appendChild(card);
+                articles.forEach((article, index) => {
+                    const item = createArticleItem(article, index);
+                    listContainer.appendChild(item);
                 });
 
             } catch (error) {
-                container.innerHTML = `
-                    <div class="error">
-                        <p>Failed to load articles. Please try again later.</p>
-                        <p style="font-size: 0.8rem; margin-top: 10px;">${error.message}</p>
-                    </div>
-                `;
+                listContainer.innerHTML = `<div class="error">Failed to load articles</div>`;
             }
         }
 
-        // Create an article card element
-        function createArticleCard(article) {
-            const card = document.createElement('div');
-            card.className = 'article-card';
+        function createArticleItem(article, index) {
+            const item = document.createElement('div');
+            item.className = 'article-item';
+            item.setAttribute('data-index', index);
 
-            // Format the date nicely
             const date = new Date(article.pubDate);
             const formattedDate = date.toLocaleDateString('en-US', {
-                year: 'numeric',
                 month: 'short',
                 day: 'numeric'
             });
 
-            // Clean up the description (remove HTML tags)
-            const summary = article.description
-                .replace(/<[^>]*>/g, '')  // Remove HTML tags
-                .substring(0, 400) + '...';  // Limit to 400 characters (3-4 lines)
+            item.innerHTML = `
+                <div class="article-item-title">${article.title}</div>
+                <div class="article-item-meta">
+                    <span class="author">${article.author || 'TechCrunch'}</span> · ${formattedDate}
+                </div>
+            `;
 
-            // Get categories/tags (first one is category, rest are tags)
+            item.addEventListener('click', () => showArticle(index));
+            return item;
+        }
+
+        function showArticle(index) {
+            const article = articles[index];
+
+            // Update active state in list
+            document.querySelectorAll('.article-item').forEach(item => {
+                item.classList.remove('active');
+            });
+            document.querySelector(`[data-index="${index}"]`).classList.add('active');
+
+            // Format date
+            const date = new Date(article.pubDate);
+            const formattedDate = date.toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+            });
+
+            // Get category and tags
             const allCategories = article.categories || [];
             const category = allCategories[0] || '';
             const tags = allCategories.slice(1);
 
-            card.innerHTML = `
-                <h2 class="article-title">
-                    <a href="${article.link}" target="_blank">${article.title}</a>
-                </h2>
-                <div class="article-meta">
-                    <span class="author">By ${article.author || 'TechCrunch'}</span>
-                    <span class="date">${formattedDate}</span>
-                </div>
-                ${category ? `
-                <div class="category">
-                    <span class="category-label">Category:</span>
-                    <span class="category-value">${category}</span>
-                </div>
-                ` : ''}
-                <p class="article-summary">${summary}</p>
-                <div class="tags">
-                    ${tags.length > 0 ? '<span class="tags-label">Tags:</span>' : ''}
-                    ${tags.slice(0, 4).map(tag => `<span class="tag">${tag}</span>`).join('')}
-                </div>
-            `;
+            // Clean up description (show up to 1000 characters)
+            let content = article.description.replace(/<[^>]*>/g, '');
+            if (content.length > 1000) {
+                content = content.substring(0, 1000) + '...';
+            }
 
-            return card;
+            // Set hero icon based on category
+            const categoryIcons = {
+                'AI': '🤖',
+                'Startups': '🚀',
+                'Apps': '📱',
+                'Hardware': '💻',
+                'Security': '🔒',
+                'Fintech': '💰',
+                'Enterprise': '🏢',
+                'Gaming': '🎮',
+                'Government & Policy': '⚖️',
+                'Space': '🛸',
+                'Robotics': '🦾',
+                'Crypto': '₿'
+            };
+            const heroIcon = categoryIcons[category] || '📰';
+            document.getElementById('view-hero-icon').textContent = heroIcon;
+
+            document.getElementById('view-title').textContent = article.title;
+            document.getElementById('view-author').textContent = 'By ' + (article.author || 'TechCrunch');
+            document.getElementById('view-date').textContent = formattedDate;
+            document.getElementById('view-content').textContent = content;
+            document.getElementById('view-link').href = article.link;
+
+            // Category
+            const categoryContainer = document.getElementById('view-category-container');
+            if (category) {
+                document.getElementById('view-category').textContent = category;
+                categoryContainer.style.display = 'flex';
+            } else {
+                categoryContainer.style.display = 'none';
+            }
+
+            // Tags
+            const tagsContainer = document.getElementById('view-tags');
+            if (tags.length > 0) {
+                tagsContainer.innerHTML = '<span class="tags-label">Tags:</span>' +
+                    tags.slice(0, 4).map(tag => `<span class="tag">${tag}</span>`).join('');
+                tagsContainer.style.display = 'flex';
+            } else {
+                tagsContainer.style.display = 'none';
+            }
+
+            // Show article view, hide placeholder
+            document.getElementById('placeholder').style.display = 'none';
+            document.getElementById('article-view').classList.add('active');
         }
 
-        // Load articles when page loads
         loadArticles();
     </script>
 </body>
