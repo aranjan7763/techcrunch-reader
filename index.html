@@ -25,32 +25,107 @@
         tr:hover {
             background-color: lightyellow;
         }
+        button {
+            background-color: darkblue;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        button:hover {
+            background-color: blue;
+        }
+        .delete-btn {
+            background-color: red;
+            padding: 4px 8px;
+        }
+        #task-input {
+            padding: 8px;
+            width: 300px;
+            margin-right: 10px;
+        }
     </style>
 </head>
 <body>
     <h1>Hello Amit</h1>
 
-    <table border="1">
+    <input type="text" id="task-input" placeholder="Enter a new task...">
+    <button onclick="addRow()">Add Task</button>
+
+    <table id="task-table">
         <tr>
             <th>SN</th>
             <th>Details</th>
             <th>Date</th>
+            <th>Action</th>
         </tr>
         <tr>
             <td>1</td>
             <td>Learn HTML basics</td>
             <td>2026-02-02</td>
+            <td><button class="delete-btn" onclick="deleteRow(this)">X</button></td>
         </tr>
         <tr>
             <td>2</td>
             <td>Add CSS styling</td>
             <td>2026-02-02</td>
+            <td><button class="delete-btn" onclick="deleteRow(this)">X</button></td>
         </tr>
         <tr>
             <td>3</td>
             <td>Build a cool project</td>
             <td>2026-02-03</td>
+            <td><button class="delete-btn" onclick="deleteRow(this)">X</button></td>
         </tr>
     </table>
+
+    <script>
+        // This variable keeps track of the row number
+        let rowCount = 3;
+
+        // Function to add a new row
+        function addRow() {
+            // Get what the user typed
+            const input = document.getElementById('task-input');
+            const task = input.value;
+
+            // Don't add empty tasks
+            if (task === '') {
+                alert('Please enter a task!');
+                return;
+            }
+
+            // Increase the row count
+            rowCount++;
+
+            // Get today's date
+            const today = new Date().toISOString().split('T')[0];
+
+            // Find the table
+            const table = document.getElementById('task-table');
+
+            // Create a new row
+            const newRow = table.insertRow(-1);  // -1 means at the end
+
+            // Add cells to the row
+            newRow.innerHTML = `
+                <td>${rowCount}</td>
+                <td>${task}</td>
+                <td>${today}</td>
+                <td><button class="delete-btn" onclick="deleteRow(this)">X</button></td>
+            `;
+
+            // Clear the input
+            input.value = '';
+        }
+
+        // Function to delete a row
+        function deleteRow(button) {
+            // Find the row that contains this button and remove it
+            const row = button.parentElement.parentElement;
+            row.remove();
+        }
+    </script>
 </body>
 </html>
