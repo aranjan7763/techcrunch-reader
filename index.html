@@ -1,164 +1,237 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hello Page</title>
+    <title>TechCrunch Reader</title>
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
         body {
-            background-color: yellow;
-            color: darkblue;
-            font-family: Arial, sans-serif;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+            color: #fff;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #00d4ff, #7b2cbf);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            color: #888;
+            font-size: 1rem;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px;
+            color: #888;
+            font-size: 1.2rem;
+        }
+
+        .article-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .article-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 40px rgba(0, 212, 255, 0.2);
+            border-color: rgba(0, 212, 255, 0.3);
+        }
+
+        .article-title {
+            font-size: 1.4rem;
+            margin-bottom: 12px;
+            line-height: 1.4;
+        }
+
+        .article-title a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        .article-title a:hover {
+            color: #00d4ff;
+        }
+
+        .article-meta {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 12px;
+            font-size: 0.85rem;
+            color: #888;
+        }
+
+        .author {
+            color: #7b2cbf;
+            font-weight: 600;
+        }
+
+        .date {
+            color: #666;
+        }
+
+        .article-summary {
+            color: #aaa;
+            line-height: 1.6;
+            margin-bottom: 16px;
+            font-size: 0.95rem;
+        }
+
+        .tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .tag {
+            background: linear-gradient(135deg, #7b2cbf 0%, #00d4ff 100%);
+            color: #fff;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .error {
+            background: rgba(255, 0, 0, 0.1);
+            border: 1px solid rgba(255, 0, 0, 0.3);
             padding: 20px;
+            border-radius: 12px;
+            text-align: center;
+            color: #ff6b6b;
         }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            padding: 10px;
-            text-align: left;
-            border: 2px solid darkblue;
-        }
-        th {
-            background-color: darkblue;
-            color: white;
-        }
-        tr:hover {
-            background-color: lightyellow;
-        }
-        button {
-            background-color: darkblue;
-            color: white;
-            border: none;
-            padding: 8px 16px;
-            cursor: pointer;
-            margin: 5px;
-        }
-        button:hover {
-            background-color: blue;
-        }
-        .delete-btn {
-            background-color: red;
-            padding: 4px 8px;
-        }
-        #task-input {
-            padding: 8px;
-            width: 300px;
-            margin-right: 10px;
-        }
-        #search-input {
-            padding: 8px;
-            width: 200px;
-            margin-left: 20px;
-            border: 2px solid darkblue;
+
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 1.8rem;
+            }
+            .article-title {
+                font-size: 1.1rem;
+            }
+            .article-meta {
+                flex-direction: column;
+                gap: 5px;
+            }
         }
     </style>
 </head>
 <body>
-    <h1>Hello Amit</h1>
+    <div class="container">
+        <header>
+            <h1>TechCrunch Reader</h1>
+            <p class="subtitle">Latest tech news, updated live</p>
+        </header>
 
-    <input type="text" id="task-input" placeholder="Enter a new task...">
-    <button onclick="addRow()">Add Task</button>
-    <input type="text" id="search-input" placeholder="Search tasks..." oninput="searchTable()">
-
-    <table id="task-table">
-        <tr>
-            <th>SN</th>
-            <th>Details</th>
-            <th>Date</th>
-            <th>Action</th>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>Learn HTML basics</td>
-            <td>2026-02-02</td>
-            <td><button class="delete-btn" onclick="deleteRow(this)">X</button></td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Add CSS styling</td>
-            <td>2026-02-02</td>
-            <td><button class="delete-btn" onclick="deleteRow(this)">X</button></td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td>Build a cool project</td>
-            <td>2026-02-03</td>
-            <td><button class="delete-btn" onclick="deleteRow(this)">X</button></td>
-        </tr>
-    </table>
+        <main id="articles">
+            <div class="loading">Loading latest articles...</div>
+        </main>
+    </div>
 
     <script>
-        // This variable keeps track of the row number
-        let rowCount = 3;
+        // RSS feed URL (using rss2json service to convert RSS to JSON)
+        const RSS_URL = 'https://api.rss2json.com/v1/api.json?rss_url=https://techcrunch.com/feed/';
 
-        // Function to add a new row
-        function addRow() {
-            // Get what the user typed
-            const input = document.getElementById('task-input');
-            const task = input.value;
+        // Fetch and display articles when page loads
+        async function loadArticles() {
+            const container = document.getElementById('articles');
 
-            // Don't add empty tasks
-            if (task === '') {
-                alert('Please enter a task!');
-                return;
+            try {
+                // Fetch the RSS feed as JSON
+                const response = await fetch(RSS_URL);
+                const data = await response.json();
+
+                // Check if we got articles
+                if (data.status !== 'ok') {
+                    throw new Error('Failed to load feed');
+                }
+
+                // Clear loading message
+                container.innerHTML = '';
+
+                // Get first 10 articles
+                const articles = data.items.slice(0, 10);
+
+                // Create a card for each article
+                articles.forEach(article => {
+                    const card = createArticleCard(article);
+                    container.appendChild(card);
+                });
+
+            } catch (error) {
+                container.innerHTML = `
+                    <div class="error">
+                        <p>Failed to load articles. Please try again later.</p>
+                        <p style="font-size: 0.8rem; margin-top: 10px;">${error.message}</p>
+                    </div>
+                `;
             }
+        }
 
-            // Increase the row count
-            rowCount++;
+        // Create an article card element
+        function createArticleCard(article) {
+            const card = document.createElement('div');
+            card.className = 'article-card';
 
-            // Get today's date
-            const today = new Date().toISOString().split('T')[0];
+            // Format the date nicely
+            const date = new Date(article.pubDate);
+            const formattedDate = date.toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric'
+            });
 
-            // Find the table
-            const table = document.getElementById('task-table');
+            // Clean up the description (remove HTML tags)
+            const summary = article.description
+                .replace(/<[^>]*>/g, '')  // Remove HTML tags
+                .substring(0, 400) + '...';  // Limit to 400 characters (3-4 lines)
 
-            // Create a new row
-            const newRow = table.insertRow(-1);  // -1 means at the end
+            // Get categories/tags
+            const tags = article.categories || [];
 
-            // Add cells to the row
-            newRow.innerHTML = `
-                <td>${rowCount}</td>
-                <td>${task}</td>
-                <td>${today}</td>
-                <td><button class="delete-btn" onclick="deleteRow(this)">X</button></td>
+            card.innerHTML = `
+                <h2 class="article-title">
+                    <a href="${article.link}" target="_blank">${article.title}</a>
+                </h2>
+                <div class="article-meta">
+                    <span class="author">By ${article.author || 'TechCrunch'}</span>
+                    <span class="date">${formattedDate}</span>
+                </div>
+                <p class="article-summary">${summary}</p>
+                <div class="tags">
+                    ${tags.slice(0, 4).map(tag => `<span class="tag">${tag}</span>`).join('')}
+                </div>
             `;
 
-            // Clear the input
-            input.value = '';
+            return card;
         }
 
-        // Function to delete a row
-        function deleteRow(button) {
-            // Find the row that contains this button and remove it
-            const row = button.parentElement.parentElement;
-            row.remove();
-        }
-
-        // Function to search/filter the table
-        function searchTable() {
-            // Get the search text (convert to lowercase for easier matching)
-            const searchText = document.getElementById('search-input').value.toLowerCase();
-
-            // Get all rows in the table
-            const table = document.getElementById('task-table');
-            const rows = table.getElementsByTagName('tr');
-
-            // Loop through all rows (skip the first one - it's the header)
-            for (let i = 1; i < rows.length; i++) {
-                const row = rows[i];
-                const cells = row.getElementsByTagName('td');
-
-                // Get the text from the Details column (index 1)
-                const taskText = cells[1].textContent.toLowerCase();
-
-                // Show or hide the row based on whether it matches
-                if (taskText.includes(searchText)) {
-                    row.style.display = '';  // Show the row
-                } else {
-                    row.style.display = 'none';  // Hide the row
-                }
-            }
-        }
+        // Load articles when page loads
+        loadArticles();
     </script>
 </body>
 </html>
