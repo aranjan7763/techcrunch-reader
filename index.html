@@ -58,6 +58,72 @@
             margin-top: 8px;
         }
 
+        .font-toggle {
+            display: flex;
+            gap: 6px;
+            margin-top: 12px;
+        }
+
+        .font-toggle-btn {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: #888;
+            padding: 6px 12px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.75rem;
+            transition: all 0.2s;
+        }
+
+        .font-toggle-btn:hover {
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        .font-toggle-btn.active {
+            background: linear-gradient(135deg, #00d4ff 0%, #7b2cbf 100%);
+            border-color: transparent;
+            color: #fff;
+        }
+
+        /* Font size classes */
+        .font-small {
+            --font-title: 0.9rem;
+            --font-meta: 0.75rem;
+            --font-content: 1rem;
+            --font-heading: 1.8rem;
+        }
+
+        .font-medium {
+            --font-title: 1.1rem;
+            --font-meta: 0.9rem;
+            --font-content: 1.15rem;
+            --font-heading: 2rem;
+        }
+
+        .font-large {
+            --font-title: 1.35rem;
+            --font-meta: 1.05rem;
+            --font-content: 1.35rem;
+            --font-heading: 2.2rem;
+        }
+
+        /* Apply font size variables */
+        .article-item-title {
+            font-size: var(--font-title, 0.95rem);
+        }
+
+        .article-item-meta {
+            font-size: var(--font-meta, 0.75rem);
+        }
+
+        .article-view-content {
+            font-size: var(--font-content, 1.1rem);
+        }
+
+        .article-view-title {
+            font-size: var(--font-heading, 2rem);
+        }
+
         .article-list {
             padding: 10px;
         }
@@ -355,6 +421,11 @@
                 <h1>TechCrunch Reader</h1>
                 <p class="subtitle">Latest tech news</p>
                 <p class="last-updated" id="last-updated"></p>
+                <div class="font-toggle">
+                    <button class="font-toggle-btn" data-size="small">A</button>
+                    <button class="font-toggle-btn" data-size="medium">A+</button>
+                    <button class="font-toggle-btn active" data-size="large">A++</button>
+                </div>
             </div>
             <div class="article-list" id="article-list">
                 <div class="loading">Loading articles...</div>
@@ -533,6 +604,34 @@
         }
 
         loadArticles();
+
+        // Font size toggle
+        function setFontSize(size) {
+            document.body.classList.remove('font-small', 'font-medium', 'font-large');
+            document.body.classList.add('font-' + size);
+
+            // Update active button
+            document.querySelectorAll('.font-toggle-btn').forEach(btn => {
+                btn.classList.remove('active');
+                if (btn.dataset.size === size) {
+                    btn.classList.add('active');
+                }
+            });
+
+            // Save preference
+            localStorage.setItem('fontSize', size);
+        }
+
+        // Add click handlers to font buttons
+        document.querySelectorAll('.font-toggle-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                setFontSize(btn.dataset.size);
+            });
+        });
+
+        // Load saved preference (default to large)
+        const savedSize = localStorage.getItem('fontSize') || 'large';
+        setFontSize(savedSize);
     </script>
 </body>
 </html>
