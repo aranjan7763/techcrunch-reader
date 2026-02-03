@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TechCrunch Reader</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect x='5' y='5' width='90' height='90' rx='18' fill='url(%23g)'/><defs><linearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'><stop offset='0%25' stop-color='%2300d4ff'/><stop offset='100%25' stop-color='%237b2cbf'/></linearGradient></defs><text x='50' y='58' text-anchor='middle' font-family='Arial' font-weight='bold' font-size='36' fill='white'>TC</text></svg>">
     <!-- Firebase SDK -->
     <script type="module">
         import { initializeApp } from "https://www.gstatic.com/firebasejs/11.1.0/firebase-app.js";
@@ -668,12 +672,159 @@
             color: #666;
         }
 
+        /* Loading spinner */
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid rgba(255, 255, 255, 0.1);
+            border-top-color: #00d4ff;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 15px;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .loading-text {
+            color: #666;
+            font-size: 0.9rem;
+        }
+
         .error {
             padding: 20px;
             background: rgba(255, 0, 0, 0.1);
-            border-radius: 8px;
+            border-radius: 12px;
             color: #ff6b6b;
             text-align: center;
+        }
+
+        .error-icon {
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+
+        .retry-btn {
+            margin-top: 15px;
+            background: rgba(255, 100, 100, 0.2);
+            border: 1px solid rgba(255, 100, 100, 0.3);
+            color: #ff6b6b;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+        }
+
+        .retry-btn:hover {
+            background: rgba(255, 100, 100, 0.3);
+        }
+
+        /* Refresh button */
+        .refresh-btn {
+            background: rgba(0, 212, 255, 0.1);
+            border: 1px solid rgba(0, 212, 255, 0.3);
+            color: #00d4ff;
+            padding: 6px 12px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.7rem;
+            margin-left: 10px;
+            transition: all 0.2s;
+        }
+
+        .refresh-btn:hover {
+            background: rgba(0, 212, 255, 0.2);
+        }
+
+        .refresh-btn.spinning {
+            animation: spin 1s linear infinite;
+        }
+
+        /* Read time */
+        .read-time {
+            color: #00d4ff;
+            font-size: 0.85rem;
+        }
+
+        /* Article actions */
+        .article-actions {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 25px;
+            flex-wrap: wrap;
+        }
+
+        .action-btn {
+            background: rgba(255, 255, 255, 0.08);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            color: #888;
+            padding: 10px 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .action-btn:hover {
+            background: rgba(255, 255, 255, 0.12);
+            color: #fff;
+        }
+
+        .action-btn.bookmarked {
+            background: rgba(0, 212, 255, 0.15);
+            border-color: rgba(0, 212, 255, 0.3);
+            color: #00d4ff;
+        }
+
+        body.light-mode .action-btn {
+            background: rgba(0, 0, 0, 0.05);
+            border-color: rgba(0, 0, 0, 0.1);
+            color: #666;
+        }
+
+        body.light-mode .action-btn:hover {
+            background: rgba(0, 0, 0, 0.08);
+            color: #333;
+        }
+
+        body.light-mode .action-btn.bookmarked {
+            background: rgba(0, 212, 255, 0.1);
+            color: #0891b2;
+        }
+
+        body.light-mode .refresh-btn {
+            background: rgba(0, 212, 255, 0.08);
+            border-color: rgba(0, 212, 255, 0.2);
+            color: #0891b2;
+        }
+
+        body.light-mode .spinner {
+            border-color: rgba(0, 0, 0, 0.1);
+            border-top-color: #0891b2;
+        }
+
+        /* Smooth transitions */
+        .article-item, .article-view, .action-btn, .font-toggle-btn, .theme-toggle-btn {
+            transition: all 0.3s ease;
+        }
+
+        /* Fade in animation */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .article-item {
+            animation: fadeIn 0.3s ease forwards;
+        }
+
+        .article-view.active {
+            animation: fadeIn 0.4s ease forwards;
         }
 
         /* Mobile responsive */
@@ -816,7 +967,10 @@
                     <h1>TechCrunch Reader</h1>
                 </div>
                 <p class="subtitle">Latest tech news</p>
-                <p class="last-updated" id="last-updated"></p>
+                <p class="last-updated">
+                    <span id="last-updated"></span>
+                    <button class="refresh-btn" id="refresh-btn" onclick="refreshArticles()">&#8635;</button>
+                </p>
                 <div class="font-toggle">
                     <button class="font-toggle-btn" data-size="small">A</button>
                     <button class="font-toggle-btn" data-size="medium">A+</button>
@@ -836,7 +990,10 @@
                 </div>
             </div>
             <div class="article-list" id="article-list">
-                <div class="loading">Loading articles...</div>
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <div class="loading-text">Loading articles...</div>
+                </div>
             </div>
         </div>
 
@@ -856,6 +1013,15 @@
                     <div class="article-view-meta">
                         <span class="author" id="view-author"></span>
                         <span class="date" id="view-date"></span>
+                        <span class="read-time" id="view-read-time"></span>
+                    </div>
+                    <div class="article-actions">
+                        <button class="action-btn" id="bookmark-btn" onclick="toggleBookmark()">
+                            <span id="bookmark-icon">&#9734;</span> <span id="bookmark-text">Bookmark</span>
+                        </button>
+                        <button class="action-btn" onclick="shareArticle()">
+                            &#8599; Share
+                        </button>
                     </div>
                     <div class="article-view-category" id="view-category-container">
                         <span class="category-label">Category:</span>
@@ -877,8 +1043,16 @@
         async function loadArticles() {
             const listContainer = document.getElementById('article-list');
 
+            // Show loading spinner
+            listContainer.innerHTML = `
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <div class="loading-text">Loading articles...</div>
+                </div>
+            `;
+
             try {
-                const response = await fetch(DATA_URL);
+                const response = await fetch(DATA_URL + '?t=' + Date.now()); // Cache bust
                 const data = await response.json();
 
                 articles = data.articles;
@@ -894,11 +1068,94 @@
 
                 articles.forEach((article, index) => {
                     const item = createArticleItem(article, index);
+                    item.style.animationDelay = (index * 0.05) + 's';
                     listContainer.appendChild(item);
                 });
 
             } catch (error) {
-                listContainer.innerHTML = `<div class="error">Failed to load articles.<br>Run the scraper first!</div>`;
+                listContainer.innerHTML = `
+                    <div class="error">
+                        <div class="error-icon">&#9888;</div>
+                        <div>Failed to load articles</div>
+                        <button class="retry-btn" onclick="loadArticles()">Try Again</button>
+                    </div>
+                `;
+            }
+        }
+
+        // Refresh articles
+        async function refreshArticles() {
+            const btn = document.getElementById('refresh-btn');
+            btn.classList.add('spinning');
+            await loadArticles();
+            btn.classList.remove('spinning');
+        }
+
+        // Calculate read time
+        function getReadTime(text) {
+            const wordsPerMinute = 200;
+            const words = text ? text.trim().split(/\s+/).length : 0;
+            const minutes = Math.ceil(words / wordsPerMinute);
+            return minutes < 1 ? '1 min read' : minutes + ' min read';
+        }
+
+        // Bookmarks
+        let currentArticleIndex = -1;
+
+        function getBookmarks() {
+            return JSON.parse(localStorage.getItem('bookmarks') || '[]');
+        }
+
+        function toggleBookmark() {
+            if (currentArticleIndex < 0) return;
+            const article = articles[currentArticleIndex];
+            let bookmarks = getBookmarks();
+            const index = bookmarks.findIndex(b => b.link === article.link);
+
+            if (index > -1) {
+                bookmarks.splice(index, 1);
+            } else {
+                bookmarks.push({ title: article.title, link: article.link });
+            }
+
+            localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
+            updateBookmarkButton();
+        }
+
+        function updateBookmarkButton() {
+            if (currentArticleIndex < 0) return;
+            const article = articles[currentArticleIndex];
+            const bookmarks = getBookmarks();
+            const isBookmarked = bookmarks.some(b => b.link === article.link);
+
+            const btn = document.getElementById('bookmark-btn');
+            const icon = document.getElementById('bookmark-icon');
+            const text = document.getElementById('bookmark-text');
+
+            if (isBookmarked) {
+                btn.classList.add('bookmarked');
+                icon.innerHTML = '&#9733;';
+                text.textContent = 'Bookmarked';
+            } else {
+                btn.classList.remove('bookmarked');
+                icon.innerHTML = '&#9734;';
+                text.textContent = 'Bookmark';
+            }
+        }
+
+        // Share
+        function shareArticle() {
+            if (currentArticleIndex < 0) return;
+            const article = articles[currentArticleIndex];
+
+            if (navigator.share) {
+                navigator.share({
+                    title: article.title,
+                    url: article.link
+                });
+            } else {
+                navigator.clipboard.writeText(article.link);
+                alert('Link copied to clipboard!');
             }
         }
 
@@ -932,6 +1189,7 @@
 
         function showArticle(index) {
             const article = articles[index];
+            currentArticleIndex = index;
 
             // Update active state in list
             document.querySelectorAll('.article-item').forEach(item => {
@@ -986,8 +1244,12 @@
             document.getElementById('view-title').textContent = article.title;
             document.getElementById('view-author').textContent = 'By ' + (article.author || 'TechCrunch');
             document.getElementById('view-date').textContent = formattedDate;
+            document.getElementById('view-read-time').textContent = getReadTime(article.content || article.excerpt);
             document.getElementById('view-content').textContent = article.content || article.excerpt || '';
             document.getElementById('view-link').href = article.link;
+
+            // Update bookmark button
+            updateBookmarkButton();
 
             // Category
             const categoryContainer = document.getElementById('view-category-container');
