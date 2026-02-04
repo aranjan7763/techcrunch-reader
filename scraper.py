@@ -73,12 +73,12 @@ def scrape_article(url):
         if cat_el:
             category = cat_el.get_text(strip=True)
 
-        # Content - get article paragraphs
+        # Content - get article paragraphs (preserve paragraph breaks)
         content = ''
         content_el = soup.select_one('.entry-content, .article-content, article')
         if content_el:
             paragraphs = content_el.select('p')
-            content = ' '.join([p.get_text(strip=True) for p in paragraphs if p.get_text(strip=True)])
+            content = '\n\n'.join([p.get_text(strip=True) for p in paragraphs if p.get_text(strip=True)])
 
         # Tags
         tags = []

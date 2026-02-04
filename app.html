@@ -627,6 +627,14 @@
             text-align: justify;
         }
 
+        .article-view-content p {
+            margin-bottom: 1.2em;
+        }
+
+        .article-view-content p:last-child {
+            margin-bottom: 0;
+        }
+
         .article-view-tags {
             display: flex;
             flex-wrap: wrap;
@@ -1244,7 +1252,13 @@
             document.getElementById('view-author').textContent = 'By ' + (article.author || 'TechCrunch');
             document.getElementById('view-date').textContent = formattedDate;
             document.getElementById('view-read-time').textContent = getReadTime(article.content || article.excerpt);
-            document.getElementById('view-content').textContent = article.content || article.excerpt || '';
+            // Format content with paragraphs
+            const contentText = article.content || article.excerpt || '';
+            const paragraphs = contentText.split(/\n\n+/).filter(p => p.trim());
+            const formattedContent = paragraphs.map(p =>
+                '<p>' + p.replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</p>'
+            ).join('');
+            document.getElementById('view-content').innerHTML = formattedContent || '<p>No content available.</p>';
             document.getElementById('view-link').href = article.link;
 
             // Update bookmark button
