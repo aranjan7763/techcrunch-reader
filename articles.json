@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-02-04T19:40:58.338976+00:00",
+  "last_updated": "2026-02-04T20:38:42.390186+00:00",
   "articles": [
     {
-      "title": "Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips",
-      "link": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/",
-      "author": "Rebecca Bellan",
-      "date": "2026-02-04T00:18:51-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/positron.jpg?w=1200",
-      "category": "AI",
-      "content": "Semiconductor startupPositronhas secured $230 million in Series B funding, TechCrunch has exclusively learned. The outfit plans to use the capital to speed up deployment of its high-speed memory chips, a critical component for the chips used for AI workloads, sources familiar with the matter told TechCrunch.\n\nThe round, which brought Positron to a $1 billion valuation, was co-led by Arena Private Wealth, Jump Trading, and Unless, with strategic investment from Qatar Investment Authority (QIA), the country’s sovereign wealth fund, which has been increasingly focused on building out AI infrastructure, the sources said.\n\nThe Reno-based startup’s Series B comes as hyperscalers and AI firms push to reduce their reliance on longstanding leader Nvidia. These firms include OpenAI, which, despite being one of Nvidia’s largest and most important customers, isreportedlyunsatisfied with some of the firm’s latest AI chips and has been seeking alternatives since last year.\n\nMeanwhile, Qatar, through QIA, has been accelerating a broader push into so-called “sovereign” AI infrastructure — a priority repeatedly underscored at Web Summit Qatar in Doha this week. Several sources told TechCrunch the country views compute capacity as critical to staying competitive on the global economic stage, and is positioning itself as a leading AI services hub in the Middle East, fueling interest in startups like Positron.\n\nThe strategy is already taking shape through major commitments, including a $20 billion AI infrastructurejoint venture with Brookfield Asset Managementthat was announced in December.\n\nPositron’s fundraise brings the three-year-old startup’s total capital raised to just over $300 million. The startup previously raised $75 million last year from investors including Valor Equity Partners, Atreides Management, DFJ Growth, Flume Ventures, and Resilience Reserve.\n\nThe company claims its first-generation chip, Atlas, manufactured in Arizona, can match the performance of Nvidia’s H100 G",
-      "excerpt": "Semiconductor startupPositronhas secured $230 million in Series B funding, TechCrunch has exclusively learned. The outfit plans to use the capital to speed up deployment of its high-speed memory chips, a critical component for the chips used for AI workloads, sources familiar with the matter told Te",
+      "title": "Hackers publish personal information stolen during Harvard, UPenn data breaches",
+      "link": "https://techcrunch.com/2026/02/04/hackers-publish-personal-information-stolen-during-harvard-upenn-data-breaches/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "date": "2026-02-04T09:56:37-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/harvard-university-campus-2025.jpg?resize=1200,770",
+      "category": "Security",
+      "content": "A notorious hacking group has claimed responsibility for last year’s data breaches at Harvard University and the University of Pennsylvania (UPenn) and published the data that they claim to have stolen from the two schools.\n\nOn Wednesday, the group known asShinyHunterspublished what it claims are more than 1 million records from each university on the group’s dedicated leak site, which the gang uses to extort its victims.\n\nIn November,UPenn confirmed a data breachof “a select group of information systems related to Penn’s development and alumni activities.” At the time, the hackers also sent alumni emails announcing the hack fromofficial university addresses.\n\nThe university blamed the breach onsocial engineering, an attack that often relies on hackers impersonating someone and tricking them into doing something they would not normally do. In itsofficial breach disclosure web page, which has since been taken offline, UPenn did not say exactly what type of data the hackers stole, simply saying the cybercriminals accessed “systems related to Penn’s development and alumni activities.”\n\nContact UsDo you have more information about these breaches, or similar attacks? From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram, Keybase and Wire @lorenzofb, oremail.\n\nTechCrunch verified a portion of the dataset by confirming with alumni and public records, such as matching the data against student ID numbers.\n\nLater in November, Harvard University also confirmed a breach on its alumni systems, blaming it on a voicephishingattack, meaning an attack where hackers tricked the targets into clicking on a link or opening an attachment with a voice call.\n\nHarvardsaidthat the stolen data included email addresses, phone numbers, home and business addresses, event attendance, details of donations to the university, and other biographical information relating to the university’s fundraising and alumni engagement activit",
+      "excerpt": "A notorious hacking group has claimed responsibility for last year’s data breaches at Harvard University and the University of Pennsylvania (UPenn) and published the data that they claim to have stolen from the two schools.\n\nOn Wednesday, the group known asShinyHunterspublished what it claims are mo",
       "tags": [
         "Apple",
         "Amazon",
@@ -19,14 +19,82 @@
       ]
     },
     {
-      "title": "Epstein-linked longevity guru Peter Attia leaves David Protein, and his own startup ‘won’t comment’",
-      "link": "https://techcrunch.com/2026/02/03/epstein-linked-longevity-guru-peter-attia-leaves-david-protein-and-his-own-startup-wont-comment/",
-      "author": "Julie Bort",
-      "date": "2026-02-03T16:11:48-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/10/unsplash_exit_sign-e1770157478202.jpeg?w=1102",
-      "category": "Startups",
-      "content": "The founder of David Protein, maker of popular high-protein nutrition bars,announcedon X on Monday that longevity guru Dr. Peter Attia “has stepped down from his role as Chief Science Officer at David.”\n\nThe announcement comes after Attia’s name appeared in more than 1,700 documents, including email correspondence, released on Friday as part of a massive file dump related to convicted sex offender Jeffrey Epstein,according to The New York Times. Attia served on the executive team of the food startup and was also anearly investor.\n\nFor those unfamiliar, Attia is a Canadian American physician who has become one of the most prominent voices in longevity and preventive health. He’s best known for his bestselling book “Outlive: The Science and Art of Longevity” and his now seven-year-old podcast, wherein he explores optimization strategies. He was also hired just last month as a contributor to CBS.\n\nThree-year-old, New York-based David Protein raised a $75 million Series A funding round in May of last year led by Greenoaks, with participation from Valor Equity Partners. The company has experienced significant growth since launching its flagship protein bar in September 2024, a product it describes as having 28 grams of protein, zero sugar, and 150 calories.\n\nIn a lengthypost on X, Attia wrote that he was “ashamed” of some of the crude content in his emails with Epstein, but he also said he was not involved in criminal activity and never visited Epstein’s island or traveled on his plane. Attia also discussed at length how he came to know Epstein and why he stayed involved with him even after Epstein’s2008 conviction.\n\nThe fallout appears to extend beyond David Protein. It also appears that Biograph, the healthcare testing and longevity startup that Attia co-founded with entrepreneur John Hering, may be distancing itself from the physician. The company declined to comment on Attia’s ongoing participation with the startup or about the pages on its website that used to menti",
-      "excerpt": "The founder of David Protein, maker of popular high-protein nutrition bars,announcedon X on Monday that longevity guru Dr. Peter Attia “has stepped down from his role as Chief Science Officer at David.”\n\nThe announcement comes after Attia’s name appeared in more than 1,700 documents, including email",
+      "title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
+      "link": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
+      "author": "Sarah Perez",
+      "date": "2026-02-04T10:08:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843",
+      "category": "Apps",
+      "content": "Tinder is turning to a new AI-powered feature, Chemistry, to help it reduce so-called “swipe fatigue,” a growing problem among online dating users who are feeling burned out and are in search of better outcomes.\n\nIntroduced last quarter, the Match-owned dating app said that Chemistry leverages AI to get to know users through questions and, with permission, accesses their Camera Roll on their phone to learn more about their interests and personality.\n\nOn Match’s Q4 2026 earnings call, one analyst from Morgan Stanley asked for an update on the product’s success so far.\n\nMatch CEO Spencer Rascoff noted that Chemistry was still only being tested in Australia for the time being, but said that the feature offered users an “AI way to interact with Tinder.” He explained that users could choose to answer questions to then “get just a single drop or two, rather than swiping through many, many profiles.”\n\nIn addition to Chemistry’s Q&A and Camera Roll features, the company plans to use the AI feature in other ways going forward, the CEO also hinted.\n\nMost importantly, Rascoff said the feature is designed to combat swipe fatigue — a complaint from users who say they have to swipe through too many profiles to find a potential match.\n\nThe company’s turn toward AI comes as Tinder and other dating apps have been experiencing paying subscriber declines, user burnout, and declines in new sign-ups.\n\nIn the fourth quarter, new registrations on Tinder were still down 5% year-over-year, and its monthly active users were down 9%. These numbers show some slight improvements over prior quarters, which Match attributes to AI-driven recommendations that change the order of profiles shown to women, and other product experiments.\n\nMatch said that this year, it aims to address common Gen Z pain points, including better relevance, authenticity, and trust. To do so, the company said it is redesigning discovery to make it less repetitive and is using other features, likeFace Check— a facial recogni",
+      "excerpt": "Tinder is turning to a new AI-powered feature, Chemistry, to help it reduce so-called “swipe fatigue,” a growing problem among online dating users who are feeling burned out and are in search of better outcomes.\n\nIntroduced last quarter, the Match-owned dating app said that Chemistry leverages AI to",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
+      "link": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
+      "author": "Ivan Mehta",
+      "date": "2026-02-04T07:33:58-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+      "category": "Venture",
+      "content": "Voice AI company ElevenLabs said today it raised $500 million in a new funding round led by Sequoia Capital, which was an investor inthe startup’s last secondary round through a tender. Sequoia partner Andrew Reed is joining the company’s board.\n\nThe startup is now valued at $11 billion, more than three times its valuation inits last round in January 2025. Earlier in the year, theFinancial Timesreported that the startup was looking to raise at that valuation.\n\nThe company said that existing investor a16z quadrupled its investment amount, and Iconiq, which led the last round, tripled it. Some prior investors, like BroadLight, NFDG, Valor Capital, AMP Coalition, and Smash Capital, also joined the round. New investors for the funding included Lightspeed Venture Partners, EvanticCapital, and Bond.\n\nElevenLabs said that it will disclose some investors later in February, which might be strategic partners. The company has raised over $781 million to date. It said that it will use the funding for research and product development, along with expansion in international markets like India, Japan, Singapore, Brazil, and Mexico.\n\nThe company’s co-founder, Mati Staniszewski, indicated that ElevenLabs might work on agents beyond voice and incorporate video. In January, the company announceda partnership with LTX to produce audio-to-video content.\n\n“The intersection of models and products is critical – and our team has proven, time and again, how to translate research into real-world experiences. This funding helps us go beyond voice alone to transform how we interact with technology altogether. We plan to expand our Creative offering – helping creators combine our best-in-class audio with video and Agents – enabling businesses to build agents that can talk, type, and take action,” he said in a statement.\n\nThe company has seen good growth momentum as it closed the year at $330 million ARR. In an interview withBloombergearlier this year, Staniszewski said that it took ElevenLabs fiv",
+      "excerpt": "Voice AI company ElevenLabs said today it raised $500 million in a new funding round led by Sequoia Capital, which was an investor inthe startup’s last secondary round through a tender. Sequoia partner Andrew Reed is joining the company’s board.\n\nThe startup is now valued at $11 billion, more than t",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Uber appoints new CFO as its AV plans accelerate",
+      "link": "https://techcrunch.com/2026/02/04/uber-appoints-new-cfo-as-its-av-plans-accelerate/",
+      "author": "Ram Iyer",
+      "date": "2026-02-04T06:15:34-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2043993878-e1722276196662.jpg?resize=1200,676",
+      "category": "Transportation",
+      "content": "Uber is promoting Balaji Krishnamurthy, its VP of strategic finance and investor relations, to be its CFO, replacing its current finance chief Prashanth Mahendra-Rajah.\n\nKrishnamurthy has been at Uber for over six years, spending most of his tenure in the company in its investor relations division. He often posts about the company’s autonomous ride-hailing efforts, and has a board seat at AV company Waabi — so the appointment may be a signal of the company’s plans to expand its driverless investments and operations.\n\nIndeed, on the company’s fourth-quarter earnings call on Wednesday, Krishnamurthysaidthe company would invest capital in its AV software partners, work with AV makers by investing equity or via offtake agreements, and “support our AV infrastructure partners.”\n\n“With large and growing free cash flows, over the coming years we will invest with discipline across a multitude of opportunities, including positioning Uber to win in an AV future,” Krishnamurthy wrote in astatementdetailing the company’s Q4 results.\n\nUber’s CEO Dara Khosrowshahi said on the call that he was convinced autonomous vehicles would “unlock a multitrillion-dollar opportunity,” for the company, adding that autonomy “fundamentally amplifies” the strengths of the company’s platform.\n\n“By the end of 2026, we expect to be facilitating AV trips in as many as 15 cities globally, with a roughly even split of U.S. and international cities. And by 2029, we intend to be the largest facilitator of AV trips in the world,” Khosrowshahi said.\n\nOver the past two years, Uber has amassed partnerships with at least 20 autonomous vehicle companies across a variety of use cases, including sidewalk delivery robots, robotaxis, and trucking. Waymo is perhaps its highest profile partner with shared robotaxi operations in Atlanta and Austin. It has also struck deals withAvride, UK-based Wayve, Chinese companiesWeRide,Momenta, andVolkswagen, among others.\n\nIt has made direct investments in AV startups as well. W",
+      "excerpt": "Uber is promoting Balaji Krishnamurthy, its VP of strategic finance and investor relations, to be its CFO, replacing its current finance chief Prashanth Mahendra-Rajah.\n\nKrishnamurthy has been at Uber for over six years, spending most of his tenure in the company in its investor relations division. ",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Lunar Energy raises $232M to deploy home batteries that prop up the grid",
+      "link": "https://techcrunch.com/2026/02/04/lunar-energy-raises-232m-to-deploy-home-batteries-that-prop-up-the-grid/",
+      "author": "Tim De Chant",
+      "date": "2026-02-04T09:56:40-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Lunar-System_KM-1.jpg?resize=1200,673",
+      "category": "Climate",
+      "content": "Forget EVs — stationary batteries aregetting all the buzz, and investment, in the U.S. these days.\n\nStartupLunar Energyis the latest example. The six-year-old company, which builds battery packs for homeowners in California, Georgia, and Washington, said Wednesday it has completed two large funding rounds. The startup shared it raised a previously unannounced $130 million Series C and a $102 million Series D. The Series C was led by Activate Capital, while the Series D was led by B Capital and Prelude Ventures.\n\nThe startup plans to use the funds to scale manufacturing to 20,000 units by the end of this year before ramping up to 100,000 by the end of 2028. In total, Lunar has raised more than $500 million from investors.\n\nStationary storage has become a bright spot for battery manufacturers that have been subject to policy whiplash after the Trump administration and GOP-controlled Congressgutted large parts of the Inflation Reduction Act, which had incentivized companies to build batteries in the U.S. to supply the automotive industry.\n\nAs the grid strains under the weight of an increasingly electrified economy — along with the boom in data center demand — grid-connected batteries have become one of the most versatile ways to boost its resiliency.\n\nLunar can call on its fleet of batteries, which come in 15 kilowatt-hour and 30 kilowatt-hour modules, to deliver juice to the grid when needed. Its virtual power plant (VPP) software can also control EV chargers and appliances, allowing it to both supply electrons while tamping down demand.\n\nSuch VPPs areexpectedto be able to replace costly and polluting peaking power plants in a matter of years.\n\nCompetition in the space has been heating up lately. In October,Base Power raised $1 billion, less than six months after raising a $200 million round for its residential battery-based VPP. Tesla operates its own Powerwall-based VPP, too.\n\nOutside of residential settings, Tesla’s storage business has beengrowing in leaps and bou",
+      "excerpt": "Forget EVs — stationary batteries aregetting all the buzz, and investment, in the U.S. these days.\n\nStartupLunar Energyis the latest example. The six-year-old company, which builds battery packs for homeowners in California, Georgia, and Washington, said Wednesday it has completed two large funding ",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips",
+      "link": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/",
+      "author": "Rebecca Bellan",
+      "date": "2026-02-04T00:18:51-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/positron.jpg?w=1200",
+      "category": "AI",
+      "content": "Semiconductor startupPositronhas secured $230 million in Series B funding, TechCrunch has exclusively learned. The outfit plans to use the capital to speed up deployment of its high-speed memory chips, a critical component for the chips used for AI workloads, sources familiar with the matter told TechCrunch.\n\nThe round, which brought Positron to a $1 billion valuation, was co-led by Arena Private Wealth, Jump Trading, and Unless, with strategic investment from Qatar Investment Authority (QIA), the country’s sovereign wealth fund, which has been increasingly focused on building out AI infrastructure, the sources said.\n\nThe Reno-based startup’s Series B comes as hyperscalers and AI firms push to reduce their reliance on longstanding leader Nvidia. These firms include OpenAI, which, despite being one of Nvidia’s largest and most important customers, isreportedlyunsatisfied with some of the firm’s latest AI chips and has been seeking alternatives since last year.\n\nMeanwhile, Qatar, through QIA, has been accelerating a broader push into so-called “sovereign” AI infrastructure — a priority repeatedly underscored at Web Summit Qatar in Doha this week. Several sources told TechCrunch the country views compute capacity as critical to staying competitive on the global economic stage, and is positioning itself as a leading AI services hub in the Middle East, fueling interest in startups like Positron.\n\nThe strategy is already taking shape through major commitments, including a $20 billion AI infrastructurejoint venture with Brookfield Asset Managementthat was announced in December.\n\nPositron’s fundraise brings the three-year-old startup’s total capital raised to just over $300 million. The startup previously raised $75 million last year from investors including Valor Equity Partners, Atreides Management, DFJ Growth, Flume Ventures, and Resilience Reserve.\n\nThe company claims its first-generation chip, Atlas, manufactured in Arizona, can match the performance of Nvidia’s H100 G",
+      "excerpt": "Semiconductor startupPositronhas secured $230 million in Series B funding, TechCrunch has exclusively learned. The outfit plans to use the capital to speed up deployment of its high-speed memory chips, a critical component for the chips used for AI workloads, sources familiar with the matter told Te",
       "tags": [
         "Apple",
         "Amazon",
@@ -53,23 +121,6 @@
       ]
     },
     {
-      "title": "Homeland Security is trying to force tech companies to hand over data about Trump critics",
-      "link": "https://techcrunch.com/2026/02/03/homeland-security-is-trying-to-force-tech-companies-to-hand-over-data-about-trump-critics/",
-      "author": "Zack Whittaker",
-      "date": "2026-02-03T10:35:19-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259748542_ba5e93.jpg?w=800",
-      "category": "Security",
-      "content": "The Department of Homeland Security has been quietly demanding tech companies turn over user information about critics of the Trump administration, according to reports.\n\nIn several cases over recent months, Homeland Security has relied on the use of administrative subpoenas to seek identifiable information about individuals who run anonymous Instagram accounts, which share posts about ICE immigration raids in their local neighborhoods. These subpoenas have also been used to demand information about people who have criticized Trump officials or protested government policies.\n\nUnlike judicial subpoenas, which are authorized by a judge after seeing enough evidence of a crime to authorize a search or seizure of someone’s things, administrative subpoenas are issued by federal agencies, allowing investigators to seek a wealth of information about individuals from tech and phone companies without a judge’s oversight.\n\nWhile administrative subpoenas cannot be used to obtain the contents of aperson’s emails, online searches, or location data, they can demand information specifically about the user, such as what time a user logs in, from where, using which devices, and revealing the email addresses and other identifiable information about who opened an online account. But because administrative subpoenas are not backed by a judge’s authority or a court’s order, it’s largely up to a company whether to give over any data to the requesting government agency.\n\nAdministrative subpoenas are not new; the use of these self-signed demands by Trump officials to seek identifiable information about people who are critical of the president’s policies has raised alarm.\n\nBloombergreported last weekthat Homeland Security sought the identity of an anonymous Instagram account called@montocowatch, which says its goal is to share resources to help protect immigrant rights and due process across Montgomery County in Pennsylvania. This comes amid an ongoing federal immigration crackdown across th",
-      "excerpt": "The Department of Homeland Security has been quietly demanding tech companies turn over user information about critics of the Trump administration, according to reports.\n\nIn several cases over recent months, Homeland Security has relied on the use of administrative subpoenas to seek identifiable inf",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
       "title": "2026 plans: What’s next for Startup Battlefield 200",
       "link": "https://techcrunch.com/2026/02/03/looking-ahead-to-2026-whats-next-for-startup-battlefield-200/",
       "author": "Isabelle Johannessen",
@@ -87,14 +138,14 @@
       ]
     },
     {
-      "title": "YC startups can now receive investment in stablecoin",
-      "link": "https://techcrunch.com/2026/02/03/yc-startups-can-now-recieve-investment-in-stablecoin/",
-      "author": "Dominic-Madori Davis",
-      "date": "2026-02-03T11:54:12-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/shrinking-yc.jpg?resize=1200,675",
-      "category": "",
-      "content": "All startups accepted into YC will soon have the option to receive their seed checks via stablecoins, crypto YC partner Nemil Dalaltold The Block.\n\nYC’s famous“standard deal”is that it invests $500,000 into startups accepted into its program in exchange for 7% of their companies. Now that deal is hitting the blockchain (Base, Solana, and Ethereum, to be exact), starting with the upcoming spring batch.\n\nDalal said that stablecoin transfers are often more effective, specifically for founders working in emerging markets. But also, YC is putting its money where its mouth is, so to speak.Last fall, YCpartnered withBase and Coinbase Ventures to encourage founders to build more blockchain-related companies.\n\nInterest in blockchain tech is on the rise again in Silicon Valley as the U.S.has taken steps towardmore formal, crypto-friendly regulation of the industry.",
-      "excerpt": "All startups accepted into YC will soon have the option to receive their seed checks via stablecoins, crypto YC partner Nemil Dalaltold The Block.\n\nYC’s famous“standard deal”is that it invests $500,000 into startups accepted into its program in exchange for 7% of their companies. Now that deal is hi",
+      "title": "Roblox’s 4D creation feature is now available in open beta",
+      "link": "https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/",
+      "author": "Lauren Forristal",
+      "date": "2026-02-04T09:00:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Roblox4d.png?w=1200",
+      "category": "Gaming",
+      "content": "Last year, Robloxlaunchedan open source AI model that could generate 3D objects on the platform, helping users quickly design digital items such as furniture, vehicles, and accessories. The company claims the tool, called Cube 3D, has so far helped users generate over 1.8 million 3D objects since it was rolled out last March.\n\nOn Wednesday, the companylaunched the open betafor its anticipated 4D creation feature that lets creators make not just static 3D models, but fully functional and interactive objects. The feature has been inearly accesssince November.\n\nRoblox says 4D creation adds an important new layer: interactivity. With this technology, users can design items that can move and react to players in the game.\n\n​At launch, there are two types of object templates (called schemas) that creators can try out.\n\nThe first is the “Car-5” schema, which is used to create a car made of five separate parts: the main body and four wheels. Previously, cars were a single, solid 3D object that couldn’t move. The new system breaks down objects into parts and assigns behaviors to each so that they function individually within the virtual world. The AI therefore can generate cars with spinning wheels, making them more realistic and interactive. ​\n\nThe second is called “Body-1,” which can generate any object made from a single piece, like a simple box or sculpture.\n\nThe first experience with 4D generation is a game calledWish Master, where players can generate cars they can drive, planes they can fly, and even dragons.\n\n​In the future, Roblox plans to let creators make their own schemas so they’ll have more freedom to define how objects behave. The company says it is also developing new technology that could use a reference image to create a detailed 3D model that matches the image’s style (example below).\n\nThe company says it is developing more ways to help people create games and experiences using AI, including a project it has dubbed “real-time dreaming.” Roblox CEO David Bas",
+      "excerpt": "Last year, Robloxlaunchedan open source AI model that could generate 3D objects on the platform, helping users quickly design digital items such as furniture, vehicles, and accessories. The company claims the tool, called Cube 3D, has so far helped users generate over 1.8 million 3D objects since it",
       "tags": [
         "Apple",
         "Amazon",
@@ -104,65 +155,14 @@
       ]
     },
     {
-      "title": "Intel will start making GPUs, a market dominated by Nvidia",
-      "link": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
-      "author": "Rebecca Szkutak",
-      "date": "2026-02-03T13:01:34-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2228936694.jpg?resize=1200,800",
-      "category": "",
-      "content": "As Intel continues to try to turn itself around, its CEO promised that the company will start producing a new type of chip, one that has been made very popular by rival Nvidia.\n\nAt theCisco AI Summiton Tuesday, Intel CEO Lip-Bu Tan announced that the company will start producing graphics processing units (GPUs). These are more specialized processors, compared to the CPUs Intel traditionally produces, and are used for gaming and tasks like training artificial intelligence models.\n\nTechCrunch reached out to Intel for more information.\n\nThe project will be overseen by Kevork Kechichian, the executive vice president and general manager of Intel’s data center group, according toreporting from Reuters. Kechichian was hired in September among aslew of new engineer-focused hires.\n\nIntel also hired Eric Demers for the effort in January. Demers was previously at Qualcomm for more than 13 years, most recently serving as a senior vice president of engineering.\n\nThis initiative seems to be in relatively early stages as Tan said the company plans to develop its strategy around customer demands and needs.\n\nWhile Nvidia didn’t invent the GPU, that specific kind of chip has played a large role in its success. Its GPUs for AI systems are so advanced and popular, the chipmaker currently holds acommanding market lead.\n\nIt’s interesting to see Intel expand into this area now as Tan said the company would beconsolidating and focusing on its core businesseswhen he took the helm as CEO last March. While GPUs are still semiconductors, of course, this is still a notable expansion.",
-      "excerpt": "As Intel continues to try to turn itself around, its CEO promised that the company will start producing a new type of chip, one that has been made very popular by rival Nvidia.\n\nAt theCisco AI Summiton Tuesday, Intel CEO Lip-Bu Tan announced that the company will start producing graphics processing ",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Fitbit founders launch AI platform to help families monitor their health",
-      "link": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
-      "author": "Aisha Malik",
-      "date": "2026-02-03T07:53:36-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Luffu_Family_Morning_Land.jpg?resize=1200,675",
-      "category": "Apps",
-      "content": "Fitbit founders James Park and Eric Friedman haveannouncedthe launch of a new AI startup called Luffu that aims to help families proactively monitor their health. The duo are developing an “intelligent family care system” that will start with an app experience and then expand into hardware devices.\n\nTwo years after their exit from Google, Park and Friedman are betting on AI to help lighten the mental burden of caregiving. According to arecent report, 63 million, or nearly 1 in 4, U.S. adults are family caregivers, up 45% from 10 years ago.\n\nLuffu uses AI in the background to gather and organize family information, learn day-to-day patterns, and flag notable changes so families can stay aligned and address potential well-being issues.\n\n“At Fitbit, we focused on personal health—but after Fitbit, health for me became bigger than just thinking about myself,” Park said in apress release. “I was caring for my parents from across the country, trying to piece together my mom’s health care across various portals and providers, with a language barrier that made it hard to get complete, timely context from her about doctor visits. I didn’t want to constantly check in, and she didn’t want to feel monitored. Luffu is the product we wished existed—to stay on top of our family’s health, know what changed and when to step in—without hovering.”\n\nThe pair note that today’s consumer health market is filled with tools for individuals, but that real life health is shared across partners, kids, parents, pets, and caregivers. Family information is scattered across devices, portals, calendars, attachments, spreadsheets, and paper documents.\n\nWith Luffu, people will be able to track the whole family’s details, including health stats, diet, medications, symptoms, lab tests, doctor visits, and more. Users can log health information using voice, text, or photos. Luffu proactively watches for changes, and surfaces insights and alerts, such as unusual vitals or changes in sleep.\n\nThe pairtold Ax",
-      "excerpt": "Fitbit founders James Park and Eric Friedman haveannouncedthe launch of a new AI startup called Luffu that aims to help families proactively monitor their health. The duo are developing an “intelligent family care system” that will start with an app experience and then expand into hardware devices.\n",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
-      "link": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
+      "title": "After backlash, Adobe cancels Adobe Animate shutdown and puts app on ‘maintenance mode’",
+      "link": "https://techcrunch.com/2026/02/04/after-backlash-adobe-cancels-adobe-animate-shutdown-and-puts-app-on-maintenance-mode/",
       "author": "Sarah Perez",
-      "date": "2026-02-04T10:08:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/tinder-featured.png?resize=1200,675",
+      "date": "2026-02-04T06:53:21-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-95799630.jpg?resize=1200,800",
       "category": "Apps",
-      "content": "Tinder is turning to a new AI-powered feature, Chemistry, to help it reduce so-called “swipe fatigue,” a growing problem among online dating users who are feeling burned out and are in search of better outcomes.\n\nIntroduced last quarter, the Match-owned dating app said that Chemistry leverages AI to get to know users through questions and, with permission, accesses their Camera Roll on their phone to learn more about their interests and personality.\n\nOn Match’s Q4 2026 earnings call, one analyst from Morgan Stanley asked for an update on the product’s success so far.\n\nMatch CEO Spencer Rascoff noted that Chemistry was still only being tested in Australia for the time being, but said that the feature offered users an “AI way to interact with Tinder.” He explained that users could choose to answer questions to then “get just a single drop or two, rather than swiping through many, many profiles.”\n\nIn addition to Chemistry’s Q&A and Camera Roll features, the company plans to use the AI feature in other ways going forward, the CEO also hinted.\n\nMost importantly, Rascoff said the feature is designed to combat swipe fatigue — a complaint from users who say they have to swipe through too many profiles to find a potential match.\n\nThe company’s turn toward AI comes as Tinder and other dating apps have been experiencing paying subscriber declines, user burnout, and declines in new sign-ups.\n\nIn the fourth quarter, new registrations on Tinder were still down 5% year-over-year, and its monthly active users were down 9%. These numbers show some slight improvements over prior quarters, which Match attributes to AI-driven recommendations that change the order of profiles shown to women, and other product experiments.\n\nMatch said that this year, it aims to address common Gen Z pain points, including better relevance, authenticity and trust. To do so, the company said it is redesigning discovery to make it less repetitive and is using other features, likeFace Check— a facial recognit",
-      "excerpt": "Tinder is turning to a new AI-powered feature, Chemistry, to help it reduce so-called “swipe fatigue,” a growing problem among online dating users who are feeling burned out and are in search of better outcomes.\n\nIntroduced last quarter, the Match-owned dating app said that Chemistry leverages AI to",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Lunar Energy raises $232M to deploy home batteries that prop up the grid",
-      "link": "https://techcrunch.com/2026/02/04/lunar-energy-raises-232m-to-deploy-home-batteries-that-prop-up-the-grid/",
-      "author": "Tim De Chant",
-      "date": "2026-02-04T09:56:40-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Lunar-System_KM-1.jpg?resize=1200,673",
-      "category": "Climate",
-      "content": "Forget EVs — stationary batteries aregetting all the buzz, and investment, in the U.S. these days.\n\nStartupLunar Energyis the latest example. The six-year-old company, which builds battery packs for homeowners in California, Georgia, and Washington, said Wednesday it has completed two large funding rounds. The startup shared it raised a previously unannounced $130 million Series C and a $102 million Series D. The Series C was led by Activate Capital, while the Series D was led by B Capital and Prelude Ventures.\n\nThe startup plans to use the funds to scale manufacturing to 20,000 units by the end of this year before ramping up to 100,000 by the end of 2028. In total, Lunar has raised more than $500 million from investors.\n\nStationary storage has become a bright spot for battery manufacturers that have been subject to policy whiplash after the Trump administration and GOP-controlled Congressgutted large parts of the Inflation Reduction Act, which had incentivized companies to build batteries in the U.S. to supply the automotive industry.\n\nAs the grid strains under the weight of an increasingly electrified economy — along with the boom in data center demand — grid-connected batteries have become one of the most versatile ways to boost its resiliency.\n\nLunar can call on its fleet of batteries, which come in 15 kilowatt-hour and 30 kilowatt-hour modules, to deliver juice to the grid when needed. Its virtual power plant (VPP) software can also control EV chargers and appliances, allowing it to both supply electrons while tamping down demand.\n\nSuch VPPs areexpectedto be able to replace costly and polluting peaking power plants in a matter of years.\n\nCompetition in the space has been heating up lately. In October,Base Power raised $1 billion, less than six months after raising a $200 million round for its residential battery-based VPP. Tesla operates its own Powerwall-based VPP, too.\n\nOutside of residential settings, Tesla’s storage business has beengrowing in leaps and bou",
-      "excerpt": "Forget EVs — stationary batteries aregetting all the buzz, and investment, in the U.S. these days.\n\nStartupLunar Energyis the latest example. The six-year-old company, which builds battery packs for homeowners in California, Georgia, and Washington, said Wednesday it has completed two large funding ",
+      "content": "Adobe is putting on hold its plan to discontinue Adobe Animate following intense backlash from its customers after it announced plans to shut down the 2D animation software amid an increasedfocusonitsinvestmentsinAI.\n\n“We are not discontinuing or removing access to Adobe Animate. Animate will continue to be available for both current and new customers, and we will ensure you continue to have access to your content,” the companywrote in a poston Wednesday.\n\nAdobe’s Monday announcement about discontinuing Animate wasmetwithincredulity, disappointment, and anger, and users aired concerns about the lack of alternatives that mirror Animate’s functionality.\n\nThe company changed its tune on Wednesday, saying there would no longer be a “deadline or date by which Animate will no longer be available.”\n\n“Adobe Animate is in maintenance mode for all customers. This applies to individual, small business, and enterprise customers.  Maintenance mode means we will continue to support the application and provide ongoing security and bug fixes, but we are no longer adding new features. Animate will continue to be available for both new and existing users - we will not be discontinuing or removing access to Adobe Animate,” it said.\n\nOne customer,posting on X, had asked Adobe to at least open source the software rather than abandon it. Commenters on the thread responded with angst, saying thingslike, “this is legit gonna ruin my life,”and, “literally what the hell are they doing? animate is the reason a good chunk of adobe users even subscribe in the first place.”\n\nOn Monday, the company updated its support site and sent emails to existing customers announcing that Adobe Animate would be discontinued on March 1, 2026. Enterprise customers would continue to receive technical support through March 1, 2029, to ease the transition, the company said at the time. Other customers would have support through March of next year.\n\nAdobe explained its decision to discontinue the program in anFAQ, ",
+      "excerpt": "Adobe is putting on hold its plan to discontinue Adobe Animate following intense backlash from its customers after it announced plans to shut down the 2D animation software amid an increasedfocusonitsinvestmentsinAI.\n\n“We are not discontinuing or removing access to Adobe Animate. Animate will contin",
       "tags": [
         "Apple",
         "Amazon",
