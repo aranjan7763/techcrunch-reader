@@ -345,6 +345,7 @@
             text-align: center;
             color: rgba(255, 255, 255, 0.3);
             font-size: 0.85rem;
+            margin-top: 30px;
         }
 
         .auth-footer a {
@@ -476,16 +477,16 @@
                 <div class="error-msg" id="signup-error"></div>
                 <div class="success-msg" id="signup-success"></div>
 
-                <form id="signup-form">
+                <form id="signup-form" autocomplete="off">
                     <div class="form-group">
                         <div class="input-wrapper">
-                            <input type="email" id="signup-email" placeholder="Email address" required>
+                            <input type="email" id="signup-email" placeholder="Email address" required autocomplete="new-email">
                             <span class="input-icon">&#9993;</span>
                         </div>
                     </div>
                     <div class="form-group">
                         <div class="input-wrapper">
-                            <input type="password" id="signup-password" placeholder="Create password" required minlength="6">
+                            <input type="password" id="signup-password" placeholder="Create password" required minlength="6" autocomplete="new-password">
                             <span class="input-icon">&#128274;</span>
                         </div>
                     </div>
@@ -575,6 +576,9 @@
                 await createUserWithEmailAndPassword(auth, email, password);
                 successEl.textContent = 'Account created! Redirecting...';
                 successEl.style.display = 'block';
+                // Clear the form fields
+                document.getElementById('signup-email').value = '';
+                document.getElementById('signup-password').value = '';
                 setTimeout(() => {
                     window.location.href = 'app.html';
                 }, 1000);
