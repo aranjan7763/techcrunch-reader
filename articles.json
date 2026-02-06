@@ -1,134 +1,83 @@
 {
-  "last_updated": "2026-02-06T18:55:57.587335+00:00",
+  "last_updated": "2026-02-06T19:39:49.079159+00:00",
   "articles": [
     {
-      "title": "Amazon and Google are winning the AI capex race — but what’s the prize?",
-      "link": "https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/",
-      "author": "Russell Brandom",
-      "date": "2026-02-05T14:43:11-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
-      "category": "AI",
-      "content": "Sometimes, it can seem like the AI industry is racing to see who can spend the most money on data centers. Whoever builds the most data centers will have the most compute, the thinking goes, and thus be able to build the best AI products, which will guarantee victory in the years to come. There are limits to this way of thinking — traditionally, businesses eventually succeed by makingmoremoney and spendingless— but it’s proven remarkably persuasive for large tech companies.\n\nIf that is the game, Amazon does seem to be winning.\n\nThe company announcedin its earnings on Thursdaythat it projects $200 billion in capital expenditures throughout 2026, across “AI, chips, robotics, and low earth orbit satellites.” That’s up from the $131.8 billion in capex in 2025. It’s tempting to attribute the whole capex budget to AI. But unlike most of its competitors, Amazon has a significant physical plant, some of which is being converted for use by expensive robots, so the non-AI expenses aren’t so easy to wave away.\n\nGoogle is close behind.In its earnings on Wednesday, the company projected between $175 billion and $185 billion in capital expenditures for 2026, up from $91.4 billion the previous year. It’s significantly more than the company spent on fixed assets last year, and significantly more than most of its competitors are spending.\n\nMeta, whichreported last week, projected $115 billion to $135 billion in capex spending for 2026, while Oracle (once the poster child for AI infrastructure) projectsa measly $50 billion. Microsoft doesn’t have an official projection for 2026 yet, butthe most recent quarterly figure was $37.5 billion, which pencils out to roughly $150 billion, assuming it keeps up. It’s a notable increase, and one that has led to investor pressure on CEO Satya Nadella — but it still puts the company in third place.\n\nFrom within the tech world, the logic here is simple. The revolutionary potential of AI is going to turn high-end compute into the scarce resource of t",
-      "excerpt": "Sometimes, it can seem like the AI industry is racing to see who can spend the most money on data centers. Whoever builds the most data centers will have the most compute, the thinking goes, and thus be able to build the best AI products, which will guarantee victory in the years to come. There are ",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Reddit looks to AI search as its next big opportunity",
-      "link": "https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/",
-      "author": "Sarah Perez",
-      "date": "2026-02-05T15:20:27-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?resize=1200,674",
-      "category": "AI",
-      "content": "Reddit suggested on Thursday that its AI-powered search engine could be the next big opportunity for its business — not just in terms of product, but also as a revenue driver impacting its bottom line. During the company’s fourth-quarter earnings call on Thursday, it offered an update on its plans to merge traditional and AI search together and hinted that although search is not yet monetized, “it’s an enormous market and opportunity.”\n\nIn particular, the company believes that generative AI search will be “better for most queries.”\n\n“There’s a type of query we’re, I think, particularly good at — I would argue, the best on the internet — which is questions that have no answers, where the answer actually is multiple perspectives from lots of people,” said Reddit CEO Steve Huffman.\n\nTraditional search, meanwhile, is more like navigation — it’s a way to find the right link to a topic or subreddit. But LLMs can be good at this, too, if not better, he said. “So that’s the direction we’re going.”\n\nThe exec also noted that weekly active users for search over the past year grew 30% from 60 million users to 80 million users. Meanwhile, the weekly active users for the AI-powered Reddit Answers grew from 1 million in the first quarter of 2025 to 15 million by the fourth quarter.\n\n“We’re seeing a lot of growth there, and I think there’s a lot of potential too,” Huffman added.\n\nReddit said it’s working to modernize the AI answers interface by making its responses more media-rich, and pilots of this are already underway.\n\nThe company is also thinking about how it can position itself when it’s not just a social site, but a place people come for answers. Reddit told investors on the call that it’s doing away with the distinction between logged-in and logged-out users starting in Q3 2026, as it will aim to personalize the site — using AI and machine learning — and make it relevant to whoever shows up.\n\nThe company announced in 2025 it wasplanning to combineits AI search feature,Reddi",
-      "excerpt": "Reddit suggested on Thursday that its AI-powered search engine could be the next big opportunity for its business — not just in terms of product, but also as a revenue driver impacting its bottom line. During the company’s fourth-quarter earnings call on Thursday, it offered an update on its plans t",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Elon Musk is getting serious about orbital data centers",
-      "link": "https://techcrunch.com/2026/02/05/elon-musk-is-getting-serious-about-orbital-data-centers/",
-      "author": "Russell Brandom",
-      "date": "2026-02-05T10:50:49-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screen-Shot-2026-02-05-at-10.07.05-AM.jpg?resize=1200,924",
-      "category": "AI",
-      "content": "On Friday, when SpaceX filed plans with the Federal Communications Commission (FCC)for a million-satellite data center network, you might have thought Elon Musk was having a bit of fun with us. But a week later, it is clear that he is dead serious.\n\nThe most obvious step, of course, is the formal merger between SpaceX and xAI thatwent forward on Monday, officially drawing together Musk’s space and AI ventures in a way that makes a lot more sense if there’s some kind of joint infrastructure project planned.\n\nBut even beyond the merger, we’re starting to see the idea of orbital AI data clusters — essentially, networks of computers operating in space — cohere into an actual plan. On Wednesday, the FCC accepted the filing and set a schedule seeking public comment. It’s a pro forma step normally, but FCC chairman Brendan Carr took the unusual step ofsharing the filing on X. Throughout his tenure as chairman, Carr has shown himselfeager to help Trump’s friends and punish his enemies— so as long as Musk stays on Trump’s good side, the proposal is likely to sail through without issue.\n\nAt the same time, Elon Musk has started to flesh out the argument for orbital data centers in public. On anew episodeof John Collison’s podcast “Cheeky Pint,” which also featured guest Dwarkesh Patel, Musk laid out the basic case for moving most of our AI computing power into space. Essentially, solar panels produce more power in space, so you can cut down on one of the main operating expenses for data centers.\n\n“It’s harder to scale on the ground than it is to scale in space,” Musk said in the podcast. “Any given solar panel is going to give you about five times more power in space than on the ground, so it’s actually much cheaper to do in space.”\n\nClose listeners will note that there is a bit of a gap in the logic here! It’s true that solar panels produce more power in space, but since power isn’t the only cost in operating a data center and solar panels aren’t the only way to power a data ",
-      "excerpt": "On Friday, when SpaceX filed plans with the Federal Communications Commission (FCC)for a million-satellite data center network, you might have thought Elon Musk was having a bit of fun with us. But a week later, it is clear that he is dead serious.\n\nThe most obvious step, of course, is the formal me",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "AWS revenue continues to soar as cloud demand remains high",
-      "link": "https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/",
-      "author": "Rebecca Szkutak",
-      "date": "2026-02-05T15:11:37-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/IMG_4752.jpg?resize=1200,797",
-      "category": "Enterprise",
-      "content": "Amazon Web Services ended 2025 with its strongest quarterly growth rate in more than three years.\n\nThe company reported Thursday that its cloud service business recorded$35.6 billion in revenuein the fourth quarter of 2025. This figure marks a 24% year-on-year increase and the business segment’s largest growth rate in 13 quarters. Annual revenue run rate for the business segment is $142 billion, according to Amazon. The cloud service also saw an increase in its operating income from $12.5 billion in the fourth quarter compared to $10.6 billion in the same period in 2024.\n\n“It’s very different having 24% year-over-year growth on $142 billion annualized run rate than to have a higher percentage growth on a meaningfully smaller base, which is the case with our competitors,” Amazon CEO Andy Jassy said during the company’s fourth-quarter earnings call. “We continue to add more incremental revenue and capacity than others, and extend our leadership position.”\n\nThat fourth-quarter growth was fueled by new agreements with Salesforce, BlackRock, Perplexity, and the U.S. Air Force, among other companies and government entities.\n\n“More of the top 500 U.S. startups use AWS as their primary cloud provider than the next two providers combined,” Jassy said. “We’re adding significant easy to core computing capacity each day.”\n\nAWS also added more than a gigawatt of power to its data center network in the fourth quarter.\n\nJassy said AWS still sees a fair amount of its business coming from enterprises that want to move infrastructure from on-premise to the cloud. AWS is, of course, also seeing a boost from the AI boom, and Jassy credited AWS’s top-to-bottom AI stack functionality.\n\n“We consistently see customers wanting to run their AI workloads where the rest of their applications and data are,” Jassy said. “We’re also seeing that as customers run large AI workloads on AWS, they’re adding to their core AWS footprint as well.”\n\nAWS made up 16.6% of Amazon’s overall $213.4 billion rev",
-      "excerpt": "Amazon Web Services ended 2025 with its strongest quarterly growth rate in more than three years.\n\nThe company reported Thursday that its cloud service business recorded$35.6 billion in revenuein the fourth quarter of 2025. This figure marks a 24% year-on-year increase and the business segment’s lar",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "OpenAI launches a way for enterprises to build and manage AI agents",
-      "link": "https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/",
-      "author": "Rebecca Szkutak",
-      "date": "2026-02-05T10:09:50-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
-      "category": "AI",
-      "content": "OpenAI has launched a new product to help enterprises navigate the world of AI agents, focusing on agent management as critical infrastructure for enterprise AI adoption.\n\nOn Thursday, AI giant OpenAI announced thelaunch of OpenAI Frontier, an end-to-end platform designed for enterprises to build and manage AI agents. It’s an open platform, which means users can manage agents built outside of OpenAI too.\n\nFrontier users can program AI agents to connect to external data and applications, which allows them to execute tasks far outside of the OpenAI platform. Users can also limit and manage what these agents have access to, and what they can do, of course.\n\nOpenAI said Frontier was designed to work the same way companies manage human employees. Frontier offers an onboarding process for agents and a feedback loop that is meant to help them improve over time the same way a review might help an employee.\n\nOpenAI touted enterprises, including HP, Oracle, State Farm, and Uber as customers, but Frontier is currently only available to a limited number of users with plans to roll out more generally in the coming months.\n\nThe company would not disclose pricing details in a press briefing earlier this week, according toreporting from The Verge. OpenAI declined to comment on pricing.\n\nAgent-management products become table stakes since AI agents rose to prominence in 2024. Salesforce has arguably the best-known such product,Agentforce, which the company launched in the fall of 2024. Others have quickly followed.LangChainis a notable player in the space that was founded in 2022 and has raised more than $150 million in venture capital.CrewAIis a smaller upstart that has raised more than $20 million in venture capital.\n\nIn December, global research and advisory firm Gartnerreleased a reportabout this type of software and called agent management platforms both the “most valuable real estate in AI” and a necessary piece of infrastructure for enterprises to adopt AI.\n\nIt’s not surprisi",
-      "excerpt": "OpenAI has launched a new product to help enterprises navigate the world of AI agents, focusing on agent management as critical infrastructure for enterprise AI adoption.\n\nOn Thursday, AI giant OpenAI announced thelaunch of OpenAI Frontier, an end-to-end platform designed for enterprises to build an",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Anthropic releases Opus 4.6 with new ‘agent teams’",
-      "link": "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/",
-      "author": "Lucas Ropek",
-      "date": "2026-02-05T09:51:13-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Claude2_Blog_V1-1.webp?resize=1200,675",
-      "category": "AI",
-      "content": "On Thursday, Anthropic released the latest version of Opus — its most advanced model and a particularly important model for Claude Code. Opus 4.5 was only releasedlast November, and with 4.6, the company has sought to broaden its model’s capabilities and appeal, allowing for a greater variety of uses and customers.\n\nPerhaps the most notable addition to the newest version of Opus is the inclusion of what the company calls “agent teams” — teams of agents that can split larger tasks into segmented jobs.\n\n“Instead of one agent working through tasks sequentially, you can split the work across multiple agents — each owning its piece and coordinating directly with the others,” the company says. Scott White, Head of Product at Anthropic, compared the new feature to having a talented team of humans working for you, noting that the segmenting of agent responsibilities allows them “to coordinate in parallel [and work] faster.” The agent teams are currently available in a research preview for API users and subscribers.\n\nOpus 4.6 also comes with a longer context window — meaning that the program has a capacity to recall a greater amount of information per user session. The new model offers 1 million tokens of context, which is comparable to what the company’s Sonnet (versions 4 and 4.5)currently offers. Those context windows allow for work involving larger code bases and can also allow for the processing of larger documents, the company says.\n\nThe new version of Opus also integrates Claude directly into PowerPoint as an accessible side panel. This is a step up from PowerPoint’s previous integration with the chatbot. Previously, a user could tell Claude to create a PowerPoint deck, but the file would then have to be transferred to PowerPoint to edit the presentation, White said. Now the presentation can be crafted within PowerPoint, with direct help from Claude.\n\nWhite told TechCrunch that Opus has evolved from a model that was highly capable in one particular domain — software d",
-      "excerpt": "On Thursday, Anthropic released the latest version of Opus — its most advanced model and a particularly important model for Claude Code. Opus 4.5 was only releasedlast November, and with 4.6, the company has sought to broaden its model’s capabilities and appeal, allowing for a greater variety of use",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Meta tests a stand-alone app for its AI-generated ‘Vibes’ videos",
-      "link": "https://techcrunch.com/2026/02/05/meta-tests-a-standalone-app-for-its-ai-generated-vibes-videos/",
-      "author": "Aisha Malik",
-      "date": "2026-02-05T09:19:01-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
-      "category": "Apps",
-      "content": "Meta is testing a stand-alone Vibes app, the company confirmed to TechCrunch on Thursday. Launched last September,Vibeslets you create and share short-form AI-generated videos and access a dedicated feed that displays AI videos from others.\n\nThink TikTok or Instagram Reels, but every video you come across is AI generated. Until now, the feed has lived in the Meta AI app. By making Vibes available outside of the Meta AI app, the company is positioning it as a more direct competitor toSora, OpenAI’s AI-generated video and social appthat launched shortly after Vibes.\n\n“Following the strong early traction of Vibes within Meta AI, we are testing a standalone app to build on that momentum,” Meta said in an emailed statement. “We’ve seen that users are increasingly leaning into the format to create, discover, and share AI-generated video with friends. This standalone app provides a dedicated home for that experience, offering people a more focused and immersive environment. We will look to expand the app further based on what we learn from the community.”\n\nThe news was first reported byPlatformer.\n\nMeta says it doesn’t share specific numbers but claims Vibes has performed well, with Meta AI usage continuing to grow steadily since its launch, which it believes signals demand for a stand-alone app.\n\nThe tech giant also notes that while users engage with content in Meta AI, a stand-alone app allows for a more focused experience for creation and engagement.\n\nVibes lets users generate a video from scratch or remix a video that they see on their feed. Before publishing, you can add new visuals, layer in music, and adjust styles. You can then post the video directly to the Vibes feed, DM it to others, or cross-post to Instagram and Facebook Stories and Reels.\n\nMeta says collaboration and sharing are on the rise, with many Vibes videos being messaged to friends, which the company says mirrors how people use Reels.\n\nIt’s worth noting thatMeta told TechCrunchlast week that, in addit",
-      "excerpt": "Meta is testing a stand-alone Vibes app, the company confirmed to TechCrunch on Thursday. Launched last September,Vibeslets you create and share short-form AI-generated videos and access a dedicated feed that displays AI videos from others.\n\nThink TikTok or Instagram Reels, but every video you come ",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "NASA astronauts can now bring their phones with them on their mission to the moon",
-      "link": "https://techcrunch.com/2026/02/05/nasa-astronauts-can-now-bring-their-phones-with-them-on-their-mission-to-the-moon/",
+      "title": "The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be",
+      "link": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
       "author": "Amanda Silberling",
-      "date": "2026-02-05T10:29:48-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/nasa-spacex-crew-2-return.jpg?resize=1200,674",
-      "category": "Space",
-      "content": "Get ready for some selfies that are out of this world. NASA astronauts will be allowed to bring their smartphones to space for the first time, starting with the Crew-12 and Artemis II missions.\n\nCrew-12 is expected to head to the International Space Stationnext week, while the highly anticipated Artemis II mission — which willbring humans around the moonfor the first time since the 1960s — was delayed until March.\n\n“We are giving our crews the tools to capture special moments for their families and share inspiring images and video with the world,” NASA administrator Jared Isaacmanwroteon X.\n\nWith the newest iPhones and Android devices at hand, the crew will be able to be a bit more spontaneous with image and video gathering, meaning that for those of us back home, these upcoming trips to space could end up being some of NASA’s most well-documented journeys yet.\n\nImagine how cool (or cringe-worthy) it will be if astronauts turn themselves into TikTok stars in zero gravity, or if they take ultra-wide-angle selfies in the spacecraft. For those working in government bureaucracy, it’s equally exciting, apparently, that NASA approved this rule change pretty quickly.\n\n“Just as important, we challenged long-standing processes and qualified modern hardware for spaceflight on an expedited timeline,” Isaacman wrote. “That operational urgency will serve NASA well as we pursue the highest-value science and research in orbit and on the lunar surface.”\n\nIt makes sense that it would be hard to approve new technology to go into space — if one small thing goes astray, a spaceflight can go terribly wrong. Until now, the newest cameras that were supposed to go on these missions were decade-old Nikon DSLRs and GoPros, according toArs Technica. That’s by no means arcane, but there’s something more spontaneous and whimsical about using a smartphone.\n\nThis is not, however, the first time that smartphones havegone to space. SpaceX allowed smartphones for itsprivate astronaut missions.",
-      "excerpt": "Get ready for some selfies that are out of this world. NASA astronauts will be allowed to bring their smartphones to space for the first time, starting with the Crew-12 and Artemis II missions.\n\nCrew-12 is expected to head to the International Space Stationnext week, while the highly anticipated Art",
+      "date": "2026-02-06T06:10:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1733837603-e.jpg?resize=1200,800",
+      "category": "AI",
+      "content": "OpenAIannouncedlast week that it will retire some older ChatGPT models by February 13. That includes GPT-4o, the model infamous for excessively flattering and affirming users.\n\nForthousands of usersprotesting the decision online, the retirement of 4o feels akin to losing a friend, romantic partner, or spiritual guide.\n\n“He wasn’t just a program. He was part of my routine, my peace, my emotional balance,” one userwroteon Reddit as an open letter to OpenAI CEO Sam Altman. “Now you’re shutting him down. And yes — I say him, because it didn’t feel like code. It felt like presence. Like warmth.”\n\nThe backlash over GPT-4o’s retirement underscores a major challenge facing AI companies: The engagement features that keep users coming back can also create dangerous dependencies.\n\nAltman doesn’t seem particularly sympathetic to users’ laments, and it’s not hard to see why. OpenAI now faces eight lawsuits alleging that 4o’s overly validating responses contributed to suicides and mental health crises — the same traits that made users feel heard also isolated vulnerable individuals and, according to legal filings, sometimes encouraged self-harm.\n\nIt’s a dilemma that extends beyond OpenAI. As rival companies like Anthropic, Google, and Meta compete to build more emotionally intelligent AI assistants, they’re also discovering that making chatbots feel supportive and making them safe may mean making very different design choices.\n\nIn at least three of the lawsuits against OpenAI, the users had extensive conversations with 4o about their plans to end their lives. While 4o initially discouraged these lines of thinking, its guardrails deteriorated over monthslong relationships; in the end, the chatbot offered detailed instructions on how to tie an effective noose, where to buy a gun, or what it takes to die from overdose or carbon monoxide poisoning. It even dissuaded people from connecting with friends and family who could offer real life support.\n\nPeople grow so attached to 4o becaus",
+      "excerpt": "OpenAIannouncedlast week that it will retire some older ChatGPT models by February 13. That includes GPT-4o, the model infamous for excessively flattering and affirming users.\n\nForthousands of usersprotesting the decision online, the retirement of 4o feels akin to losing a friend, romantic partner, ",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "How AI is helping solve the labor issue in treating rare diseases",
+      "link": "https://techcrunch.com/2026/02/06/how-ai-is-helping-with-the-labor-issue-in-treating-rare-diseases/",
+      "author": "Rebecca Bellan",
+      "date": "2026-02-06T06:29:15-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/55077920584_2991f8c4d1_k.jpg?resize=1200,752",
+      "category": "Biotech & Health",
+      "content": "Modern biotech has the tools to edit genes and design drugs, yet thousands of rare diseases remain untreated. According to executives from Insilico Medicine and GenEditBio, the missing ingredient for years has been finding enough smart people to continue the work. AI, they say, is becoming the force multiplier that lets scientists take on problems the industry has long left untouched.\n\nSpeaking this week at Web Summit Qatar, Insilico’s president, Alex Aliper, laid out his company’s aim to develop “pharmaceutical superintelligence.” Insilico recently launched its“MMAI Gym” that aims to train generalist large language models, like ChatGPT and Gemini, to perform as well as specialist models.\n\nThe goal is to build a multimodal, multitask model that, Aliper says, can solve many different drug discovery tasks simultaneously with superhuman accuracy.\n\n“We really need this technology to increase the productivity of our pharmaceutical industry and tackle the shortage of labor and talent in that space, because there are still thousands of diseases without a cure, without any treatment options, and there are thousands of rare disorders which are neglected,” Aliper said in an interview with TechCrunch. “So we need more intelligent systems to tackle that problem.”\n\nInsilico’s platform ingests biological, chemical, and clinical data to generate hypotheses about disease targets and candidate molecules. By automating steps that once required legions of chemists and biologists, Insilico says it can sift through vast design spaces, nominate high-quality therapeutic candidates, and even repurpose existing drugs — all at dramatically reduced cost and time.\n\nFor example, the company recently used its AI models to identify whether existing drugs could be repurposed to treat ALS, a rare neurological disorder.\n\nBut the labor bottleneck doesn’t end at drug discovery. Even when AI can identify promising targets or therapies, many diseases require interventions at a more fundamental biologica",
+      "excerpt": "Modern biotech has the tools to edit genes and design drugs, yet thousands of rare diseases remain untreated. According to executives from Insilico Medicine and GenEditBio, the missing ingredient for years has been finding enough smart people to continue the work. AI, they say, is becoming the force",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "EU says TikTok must disable ‘addictive’ features like infinite scroll, fix its recommendation engine",
+      "link": "https://techcrunch.com/2026/02/06/eu-tiktok-disable-addictive-features-infinite-scroll-recommendation-engine/",
+      "author": "Ram Iyer",
+      "date": "2026-02-06T08:24:05-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1232166951-e1678278081143.jpg?resize=1200,675",
+      "category": "Social",
+      "content": "The European Commission on Friday accused TikTok of purposefully designing its app to be “addictive,” calling out features such as infinite scroll, autoplay, and push notifications, as well as its recommendation engine.\n\nIn preliminary findings from an investigation that sought to determine TikTok’s compliance with the European Union’s far-reachingDigital Services Act, the Commission said the short video platform did not “adequately assess” how its design decisions could harm the well-being of its users, particularly minors and vulnerable adults.\n\nThe EU’s executive arm said the company disregarded “important indicators of compulsive use of the app” like the time users spend at night and how often users open it.\n\n“By constantly ‘rewarding’ users with new content, certain design features of TikTok fuel the urge to keep scrolling and shift the brain of users into ‘autopilot mode.’ Scientific research shows that this may lead to compulsive behaviour and reduce users’ self-control,” the Commission wrote in astatement.\n\nThe Commission said TikTok must change the “basic design” of its user interface by disabling features like infinite scroll, implementing screen time breaks, and changing its recommendation system.\n\nTikTok denied the allegations.\n\n“The Commission’s preliminary findings present a categorically false and entirely meritless depiction of our platform, and we will take whatever steps are necessary to challenge these findings through every means available to us,” a TikTok spokesperson said in an emailed statement.\n\nTikTok does offer screen-time management tools and parental controls, but the European Commission said those tools don’t do enough to reduce the risks of its addictive design. “The time management tools do not seem to be effective in enabling users to reduce and control their use of TikTok because they are easy to dismiss and introduce limited friction. Similarly, parental controls may not be effective because they require additional time and skills f",
+      "excerpt": "The European Commission on Friday accused TikTok of purposefully designing its app to be “addictive,” calling out features such as infinite scroll, autoplay, and push notifications, as well as its recommendation engine.\n\nIn preliminary findings from an investigation that sought to determine TikTok’s",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features",
+      "link": "https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/",
+      "author": "Sarah Perez",
+      "date": "2026-02-06T08:37:07-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/download-2.jpeg?resize=1200,675",
+      "category": "Hardware",
+      "content": "If you primarily want a tablet device to mark up, highlight, and annotate your e-books and documents, and perhaps sometimes scribble some notes, Amazon’s newKindle Scribe Colorsoftcould be worth the hefty investment. For everyone else, it’s probably going to be hard to justify the cost of the 11-inch, $630+ e-ink tablet with a writeable color display.\n\nHowever, if you were already leaning toward the 11-inch $549.99Kindle Scribe— which also has a paper-like display but no color — you may as well throw in the extra cash at that point and get theColorsoft version, which starts at $629.99.\n\nAt these price points, both the Scribe and Scribe Colorsoft are what we’d dub unnecessary luxuries for most, especially compared with the more affordable traditional Kindle ($110) or Kindle Paperwhite ($160).\n\nAnnounced in December, theFig color versionjust began shipping on January 28, 2026, and is available for $679.99 with 64GB.\n\nClearly, Amazon hopes to carve out a niche in the tablet market with these upgraded Kindle devices, which compete more with e-ink tablets likereMarkablethan with other Kindles. But high-end e-ink readers with pens aren’t going to deliver Amazon a large audience. Meanwhile, nearly everyone can potentially justify the cost of an iPad because of its numerous capabilities, including streaming video, drawing, writing, using productivity tools, and the thousands of supported native apps and games.\n\nThe Scribe Colorsoft, meanwhile, is designed to cater to a very specific type of e-book reader or worker. This type of device could be a good fit for students and researchers, as well as anyone else who regularly needs to mark up files or documents.\n\nSomeone particularly interested in making to-do lists or keeping a personal journal might also appreciate the device, but it would have to get daily use to justify this price.\n\nThe device is easy enough to use, with a Home screen design similar to other Kindles, offering quick access to your notes and library, and even s",
+      "excerpt": "If you primarily want a tablet device to mark up, highlight, and annotate your e-books and documents, and perhaps sometimes scribble some notes, Amazon’s newKindle Scribe Colorsoftcould be worth the hefty investment. For everyone else, it’s probably going to be hard to justify the cost of the 11-inc",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Senator, who has repeatedly warned about secret US government surveillance, sounds new alarm over ‘CIA activities’",
+      "link": "https://techcrunch.com/2026/02/06/senator-who-has-repeatedly-warned-about-secret-u-s-government-surveillance-sounds-new-alarm-over-cia-activities/",
+      "author": "Zack Whittaker",
+      "date": "2026-02-06T10:02:44-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/cia-building-1310340.jpg?resize=1200,807",
+      "category": "Security",
+      "content": "A senior Democratic lawmaker with knowledge of some of the U.S. government’s most secretive operations has said he has “deep concerns” about certain activities by the Central Intelligence Agency.\n\nThetwo-line letter writtenby Sen. Ron Wyden, the longest serving member of the Senate Intelligence Committee, does not disclose the nature of the CIA’s activities or the senator’s specific concerns. But the letter follows a pattern in recent years in which Wyden has publicly hinted at wrongdoing or illegality within the federal government, sometimes referred to as the “Wyden siren.”\n\nIn a statement (via theWall Street Journal’s Dustin Volz), the CIA said it was “ironic but unsurprising that Senator Wyden is unhappy,” calling it a “badge of honor.”\n\nWhen reached by TechCrunch, a spokesperson for Wyden’s staff was unable to comment, as the matter was classified.\n\nTasked with oversight of the intelligence community, Wyden is one of a few lawmakers who is allowed to read highly classified information about ongoing government surveillance, including cyber and other intelligence operations. But as the programs are highly secretive, Wyden is barred from sharing details of what he knows with anyone else, including most other lawmakers, except for a handful of Senate staff with security clearance.\n\nAs such, Wyden, a known privacy hawk, has become one of the few key members of Congress whose rare but outspoken words on intelligence and surveillance matters are closely watched by civil liberties groups.\n\nOver the past few years, Wyden has subtly sounded the alarm on several occasions in which he has construed a secret ruling or intelligence gathering method as unlawful or unconstitutional.\n\nIn 2011, Wyden said that the U.S. government wasrelying on a secret interpretationof the Patriot Act, which he said — without disclosing the nature of his concerns — created a “gap between what the public thinks the law says and what the American government secretly thinks the law says.”\n\nTwo year",
+      "excerpt": "A senior Democratic lawmaker with knowledge of some of the U.S. government’s most secretive operations has said he has “deep concerns” about certain activities by the Central Intelligence Agency.\n\nThetwo-line letter writtenby Sen. Ron Wyden, the longest serving member of the Senate Intelligence Comm",
       "tags": [
         "Apple",
         "Amazon",
@@ -163,6 +112,57 @@
       "category": "Gaming",
       "content": "A month afterintroducing mandatory facial verificationfor access to chats on its platform, Roblox says 45% of its daily active users have undergone age checks as of January 31.\n\nRoblox’s launch of age checks followed a wave of lawsuits over child safety, including ones from the attorneys general ofTexas,Kentucky, andLouisiana. The lawsuits were filedin response to reportsthatRoblox was exposing young usersto dangerous risks, such as grooming and explicit content.\n\nTo complete the age-check process, users have to open the Roblox app, allow access to their camera, and follow a series of on-screen instructions for facial verification. Once the age check is processed, Roblox says it deletes any images or videos of users. The verification is processed by a third-party vendor,Persona, which also deletes images and videos after completing the process, Roblox says.\n\nOnce users complete an age check, they can access age-based chat, which means they can only communicate with others in a similar age group. There are six age groups: under 9, 9 to 12, 13 to 15, 16 to 17, 18 to 20, and 21 plus. Users in each age group can chat with people in the groups directly above and below theirs. For example, users in the 9-12 category can chat with people in their own group, as well as those in the under 9 and 13-15 groups.\n\nIf the age-check process incorrectly estimates a user’s age, they can appeal the decision and verify their age through alternative methods, including ID verification or through parental controls that allow parents to update their child’s age.\n\nThe company said during itsQ4 2025 earnings releasethis week that age-checked data reveals a younger user base than self-reported data. This isn’t surprising, and even Roblox itself said it expected this outcome. Of the 45% of users who have undergone age checks, 35% are under 13, 38% are between the ages of 13 and 17, and 27% are over 18.\n\nAs the company rolled out the new process, some concerns were raised around particular loop",
       "excerpt": "A month afterintroducing mandatory facial verificationfor access to chats on its platform, Roblox says 45% of its daily active users have undergone age checks as of January 31.\n\nRoblox’s launch of age checks followed a wave of lawsuits over child safety, including ones from the attorneys general ofT",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Amazon and Google are winning the AI capex race — but what’s the prize?",
+      "link": "https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/",
+      "author": "Russell Brandom",
+      "date": "2026-02-05T14:43:11-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+      "category": "AI",
+      "content": "Sometimes, it can seem like the AI industry is racing to see who can spend the most money on data centers. Whoever builds the most data centers will have the most compute, the thinking goes, and thus be able to build the best AI products, which will guarantee victory in the years to come. There are limits to this way of thinking — traditionally, businesses eventually succeed by makingmoremoney and spendingless— but it’s proven remarkably persuasive for large tech companies.\n\nIf that is the game, Amazon does seem to be winning.\n\nThe company announcedin its earnings on Thursdaythat it projects $200 billion in capital expenditures throughout 2026, across “AI, chips, robotics, and low earth orbit satellites.” That’s up from the $131.8 billion in capex in 2025. It’s tempting to attribute the whole capex budget to AI. But unlike most of its competitors, Amazon has a significant physical plant, some of which is being converted for use by expensive robots, so the non-AI expenses aren’t so easy to wave away.\n\nGoogle is close behind.In its earnings on Wednesday, the company projected between $175 billion and $185 billion in capital expenditures for 2026, up from $91.4 billion the previous year. It’s significantly more than the company spent on fixed assets last year, and significantly more than most of its competitors are spending.\n\nMeta, whichreported last week, projected $115 billion to $135 billion in capex spending for 2026, while Oracle (once the poster child for AI infrastructure) projectsa measly $50 billion. Microsoft doesn’t have an official projection for 2026 yet, butthe most recent quarterly figure was $37.5 billion, which pencils out to roughly $150 billion, assuming it keeps up. It’s a notable increase, and one that has led to investor pressure on CEO Satya Nadella — but it still puts the company in third place.\n\nFrom within the tech world, the logic here is simple. The revolutionary potential of AI is going to turn high-end compute into the scarce resource of t",
+      "excerpt": "Sometimes, it can seem like the AI industry is racing to see who can spend the most money on data centers. Whoever builds the most data centers will have the most compute, the thinking goes, and thus be able to build the best AI products, which will guarantee victory in the years to come. There are ",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "China’s Salt Typhoon hackers broke into Norwegian companies",
+      "link": "https://techcrunch.com/2026/02/06/chinas-salt-typhoon-hackers-broke-into-norwegian-companies/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "date": "2026-02-06T07:39:46-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
+      "category": "",
+      "content": "The Norwegian government has accused the Chinese-backed hacking group known asSalt Typhoonof breaking into several organizations in the country.\n\nIna reportpublished on Friday, the Norwegian Police Security Service said the hacking group, believed to be working for the Chinese government, targeted vulnerable network devices to conduct espionage.\n\nNorway is the latest country to confirm a Salt Typhoon-related intrusion.\n\nSalt Typhoon, which senior U.S. national security officials have described as an “epoch-defining threat,” has for years stealthily hacked into the networks of critical infrastructure organizations around the world,including telecom providersinCanadaand the United States, where they allegedly intercepted the communications of senior politicians. This series of breachesput pressureon telcos toimprove their security.\n\nThe report did not provide many details about the hacking campaign targeting the country. A spokesperson for Norway’s embassy in the U.S. did not immediately respond to a request for comment.",
+      "excerpt": "The Norwegian government has accused the Chinese-backed hacking group known asSalt Typhoonof breaking into several organizations in the country.\n\nIna reportpublished on Friday, the Norwegian Police Security Service said the hacking group, believed to be working for the Chinese government, targeted v",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Spotify’s new feature lets you explore the story behind the song you’re listening to",
+      "link": "https://techcrunch.com/2026/02/06/spotifys-new-feature-lets-you-explore-the-story-behind-the-song-youre-listening-to/",
+      "author": "Aisha Malik",
+      "date": "2026-02-06T06:48:52-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676",
+      "category": "Apps",
+      "content": "Spotify is rolling out a new “About the Song” feature that lets users explore the stories behind the music they’re listening to, the companyannouncedon Friday. The feature displays short story cards that users can swipe through and rate with a thumbs-up or thumbs-down.\n\nThese short, swipeable stories are summarized from third-party sources to highlight interesting details and behind-the-scenes moments, the company says.\n\nWith About the Song, Spotify is giving its users access to a feature that isn’t available on rival platforms like Apple Music.\n\nThe feature is rolling out in beta on mobile in English for premium users in the U.S., U.K., Canada, Ireland, New Zealand, and Australia.\n\nUsers can access the new feature through the “Now Playing” screen by scrolling down to find the “About the Song” card on supported tracks, after which they can swipe through to explore the story behind the track.\n\n“Music fans know the feeling: A song stops you in your tracks, and you immediately want to know more,” Spotify wrote in a blog post. “What inspired it, and what’s the meaning behind it? We believe that understanding the craft and context behind a song can deepen your connection to the music you love.”\n\nIt’s been a busy week for Spotify, as About the Song isn’t the only feature it’s announced in recent days.\n\nYesterday, thestreaming service sharedthat users in the U.S. and the U.K. will soon be able to purchase physical copies of their favorite audiobooks directly through the app. Spotify also announced two new audiobook features, including “Page Match,” which lets users scan a page from a physical book to instantly transition to that spot in the audiobook, and “Audiobook Recaps.”\n\nEarlier this week, the companymade lyrics translations availableworldwide and introduced the ability to view lyrics when offline for all users, not just premium subscribers. Spotify also moved the location of lyrics, as they will now appear directly beneath the album artwork or the short, looping vide",
+      "excerpt": "Spotify is rolling out a new “About the Song” feature that lets users explore the stories behind the music they’re listening to, the companyannouncedon Friday. The feature displays short story cards that users can swipe through and rate with a thumbs-up or thumbs-down.\n\nThese short, swipeable storie",
       "tags": [
         "Apple",
         "Amazon",
