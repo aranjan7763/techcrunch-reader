@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-02-06T22:28:38.552387+00:00",
+  "last_updated": "2026-02-06T23:29:37.825948+00:00",
   "articles": [
+    {
+      "title": "Prince Andrew advisor pitched Jeffrey Epstein on investing in EV startups like Lucid Motors",
+      "link": "https://techcrunch.com/2026/02/06/prince-andrew-advisor-pitched-jeffrey-epstein-on-investing-in-ev-startups-like-lucid-motors/",
+      "author": "Sean O'Kane",
+      "date": "2026-02-06T13:23:50-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Prince-andrew-Getty.jpg?resize=1200,800",
+      "category": "Transportation",
+      "content": "Electric vehicle startup Lucid Motors was scrambling to raise a Series D funding round in 2017. It had courted Ford as a potential investor, but Jia Yueting, the founder of rival EV startup Faraday Future, had quietly amassed around a 30% stake and was essentially blocking new investors.\n\nDavid Stern, a mysterious businessman and close advisor to former Prince Andrew, saw an opportunity to break the logjam: bring in Jeffrey Epstein.\n\n“Ford will likely be lead in $400m Series D in Lucid. Big strategic move,” Sternwroteto Epstein in emails released last week as part of the Department of Justice’s latest disclosure of 3 million documents related to Epstein. Jia “has massive cash issues” at Faraday, he wrote, and needs to “sell now to make payroll for his other business.”\n\nIt wasn’t the first EV startup Stern pitched Epstein, and it wouldn’t be the last, according to hundreds of documents reviewed by TechCrunch.\n\nAt the time, legacy automakers and newly minted startups, fueled by the breakthrough success of Tesla and progress by Google’s self-driving project, were jumping into electric and autonomous vehicles. And Stern was apparently hungry to take advantage of the resulting deal flow. The documents show he also pitched investments in Faraday Future and in another EV startup, Canoo.\n\nIt’s unlikely Epstein invested in any of them. Lucid didn’t close its Series D until late 2018, when it raised more than $1 billion from Saudi Arabia’s sovereign wealth fund. Faraday ultimately received a major investment from Chinese real estate conglomerate Evergrande in late 2017. Epstein said in a 2018 message included in the Justice Department’s files that he had no “direct” or “indirect” interest in Canoo.\n\nThese discussions instead provide greater insight into themany connectionsEpstein, a convicted sex offender, had to Silicon Valley startups up until his arrest and death in 2019. They also provide a snapshot of a relationship that has not been explored in previous reporting.\n\nBy t",
+      "excerpt": "Electric vehicle startup Lucid Motors was scrambling to raise a Series D funding round in 2017. It had courted Ford as a potential investor, but Jia Yueting, the founder of rival EV startup Faraday Future, had quietly amassed around a 30% stake and was essentially blocking new investors.\n\nDavid Ster",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+      "link": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+      "author": "Lauren Forristal",
+      "date": "2026-02-06T14:43:22-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/svedkasuperbowl2026.png?w=1200",
+      "category": "Media & Entertainment",
+      "content": "Followinglast year’s trend of showcasing AIin multimillion-dollar ad spots, the 2026 Super Bowl advertisements took it a step further by leveraging AI both to create the commercials and to promote the latest AI products. Love it or hate it, the technology has become a star in its own right, alongside the latest movie trailers and snack brands.\n\nLet’s explore the biggest moments from this year’s Big Game ads, which featured everything from robots and AI glasses to a touch of drama involving tech founders.\n\nVodka brand Svedka went with what it touts as the first “primarily” AI-generated national Super Bowl spot. The 30-second ad, titled “Shake Your Bots Off,” features the company’s robot character, Fembot, and her new companion, Brobot, dancing their circuits off at a human party.\n\nAccording to Svedka’s parent company, Sazerac, it took roughly four months to reconstruct the Fembot and train the AI to mimic facial expressions and body movements,The Wall Street Journal reported. However, the vodka brand noted that certain aspects were still handled by humans, such as developing the storyline.\n\n​The company partnered with AI company Silverside to create the Super Bowl spot,according to ADWEEK. Silverside AI is the same team behind recent AI-generatedCoca-Cola commercialsthatsparked controversy.\n\n​It’s a bold move to debut AI-generated content during the Super Bowl, an event known for star-studded, high-production ads. The heavy reliance on AI is polarizing, fueling debates over whether AI will replace creative jobs.\n\nEither way, Svedka definitely got people talking.\n\nAnthropic’s adwasn’t just about selling its Claude chatbot; it was about throwing shade. The commercial took a jab atOpenAI’s plan to introduce ads to ChatGPT, with a tagline: “Ads are coming to AI. But not to Claude.” Rather than focus solely on Claude’s features, itpoked funat the idea of your helpful AI assistant suddenly turning into a hype man for “Step Boost Maxx” insoles, for example.\n\nIt was not only",
+      "excerpt": "Followinglast year’s trend of showcasing AIin multimillion-dollar ad spots, the 2026 Super Bowl advertisements took it a step further by leveraging AI both to create the commercials and to promote the latest AI products. Love it or hate it, the technology has become a star in its own right, alongsid",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be",
       "link": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
@@ -10,6 +44,23 @@
       "category": "AI",
       "content": "OpenAIannouncedlast week that it will retire some older ChatGPT models by February 13. That includes GPT-4o, the model infamous for excessively flattering and affirming users.\n\nForthousands of usersprotesting the decision online, the retirement of 4o feels akin to losing a friend, romantic partner, or spiritual guide.\n\n“He wasn’t just a program. He was part of my routine, my peace, my emotional balance,” one userwroteon Reddit as an open letter to OpenAI CEO Sam Altman. “Now you’re shutting him down. And yes — I say him, because it didn’t feel like code. It felt like presence. Like warmth.”\n\nThe backlash over GPT-4o’s retirement underscores a major challenge facing AI companies: The engagement features that keep users coming back can also create dangerous dependencies.\n\nAltman doesn’t seem particularly sympathetic to users’ laments, and it’s not hard to see why. OpenAI now faces eight lawsuits alleging that 4o’s overly validating responses contributed to suicides and mental health crises — the same traits that made users feel heard also isolated vulnerable individuals and, according to legal filings, sometimes encouraged self-harm.\n\nIt’s a dilemma that extends beyond OpenAI. As rival companies like Anthropic, Google, and Meta compete to build more emotionally intelligent AI assistants, they’re also discovering that making chatbots feel supportive and making them safe may mean making very different design choices.\n\nIn at least three of the lawsuits against OpenAI, the users had extensive conversations with 4o about their plans to end their lives. While 4o initially discouraged these lines of thinking, its guardrails deteriorated over monthslong relationships; in the end, the chatbot offered detailed instructions on how to tie an effective noose, where to buy a gun, or what it takes to die from overdose or carbon monoxide poisoning. It even dissuaded people from connecting with friends and family who could offer real life support.\n\nPeople grow so attached to 4o becaus",
       "excerpt": "OpenAIannouncedlast week that it will retire some older ChatGPT models by February 13. That includes GPT-4o, the model infamous for excessively flattering and affirming users.\n\nForthousands of usersprotesting the decision online, the retirement of 4o feels akin to losing a friend, romantic partner, ",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Maybe AI agents can be lawyers after all",
+      "link": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
+      "author": "Russell Brandom",
+      "date": "2026-02-06T12:26:23-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/54888410931_c37fed4674_k.jpg?resize=1200,800",
+      "category": "",
+      "content": "Last month, I wrote aboutMercor’s new benchmarkmeasuring AI agents’ capabilities on professional tasks like law and corporate analysis. At the time, the scores were pretty dismal, with every major lab scoring under 25%, so we concluded lawyers were safe from AI displacement, at least for now.\n\nBut AI capabilities can change a lot in a couple of weeks.\n\nThis week’s release of Anthropic’s Opus 4.6shook upthe leaderboards, with Anthropic’s new model scoring just shy of 30% in one-shot trials, and an average of 45% when given a few more cracks at the problem. Notably, the release included a bunch of new agentic features, including “agent swarms,” which may have helped with this kind of multistep problem-solving.\n\nRegardless, the score is a huge jump from the previous state-of-the-art, and a sign that progress on foundation models isn’t slowing down. Mercor CEO Brendan Foody, who was particularly impressed, said, “jumping from 18.4% to 29.8% in a few months is insane.”\n\nThirty percent is still a long way from 100%, so it’s not like lawyers need to be worried about getting replaced by machines next week. But they should be a lot less confident than they were last month!",
+      "excerpt": "Last month, I wrote aboutMercor’s new benchmarkmeasuring AI agents’ capabilities on professional tasks like law and corporate analysis. At the time, the scores were pretty dismal, with every major lab scoring under 25%, so we concluded lawyers were safe from AI displacement, at least for now.\n\nBut A",
       "tags": [
         "Apple",
         "Amazon",
@@ -87,57 +138,6 @@
       ]
     },
     {
-      "title": "Reddit says it’s looking for more acquisitions in adtech and elsewhere",
-      "link": "https://techcrunch.com/2026/02/06/reddit-says-its-looking-for-more-acquisitions-in-adtech-and-elsewhere/",
-      "author": "Sarah Perez",
-      "date": "2026-02-06T10:33:36-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?resize=1200,675",
-      "category": "Social",
-      "content": "Reddit is gearing up for more M&A, the company told analysts on its fourth-quarter earnings call on Thursday. Reddit CFO Andrew Vollero said the online forum site is looking for businesses that can either leverage Reddit’s scale — meaning their products become more impactful when deployed across Reddit’s massive user base — or help grow the company’s user base.\n\n“[We’re] looking to buy capabilities, technologies, and companies,” he said during the introductory remarks.\n\nInvestors, obviously, wanted to know more — particularly about what the company had in mind when it came to scaled opportunities.\n\nIn the Q&A portion of the call, Vollero clarified, “I probably wouldn’t overthink the scaled opportunities. I would just look at it as sort of a spectrum of opportunities.” He reiterated that the company was looking for capabilities and technologies that could add to its business, noting that it’s been successful doing this in the past.\n\n“It’s really been one of the secrets of our success,” he pointed out.\n\nVollero explained that Reddit’s adtech team in particular had been adept at “tucking in” acquired technologies rather than building these things themselves.\n\n“Saves us six months to market, saves us twelve months to market, and you have a proven product,” the CFO remarked, crediting these deals with helping Reddit improve its monetization capabilities as an ad-supported business.\n\nStill, Vollero cautioned that while adtech acquisitions have been what worked in the past, the company is “not ruling anything off the table.” That’s why he had mentioned that Reddit might buy companies that could deliver when added to a company of its size.\n\nThe company in the quarter reported strongearnings, with $726 million in revenue, $690 million of which came from ads. Its global daily active unique users were up 19% year-over-year to 121.4 million, and its earnings per share of $1.24 beat estimates.\n\nReddit also said it sees a growing opportunity of generating revenuefrom its AI searc",
-      "excerpt": "Reddit is gearing up for more M&A, the company told analysts on its fourth-quarter earnings call on Thursday. Reddit CFO Andrew Vollero said the online forum site is looking for businesses that can either leverage Reddit’s scale — meaning their products become more impactful when deployed across Red",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Here’s how Roblox’s age checks work",
-      "link": "https://techcrunch.com/2026/02/06/heres-how-robloxs-age-checks-work/",
-      "author": "Aisha Malik",
-      "date": "2026-02-06T10:28:02-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/roblox-header.jpg?resize=1200,800",
-      "category": "Gaming",
-      "content": "A month afterintroducing mandatory facial verificationfor access to chats on its platform, Roblox says 45% of its daily active users have undergone age checks as of January 31.\n\nRoblox’s launch of age checks followed a wave of lawsuits over child safety, including ones from the attorneys general ofTexas,Kentucky, andLouisiana. The lawsuits were filedin response to reportsthatRoblox was exposing young usersto dangerous risks, such as grooming and explicit content.\n\nTo complete the age-check process, users have to open the Roblox app, allow access to their camera, and follow a series of on-screen instructions for facial verification. Once the age check is processed, Roblox says it deletes any images or videos of users. The verification is processed by a third-party vendor,Persona, which also deletes images and videos after completing the process, Roblox says.\n\nOnce users complete an age check, they can access age-based chats, which means they can only communicate with others in a similar age group. There are six age groups: under 9, 9 to 12, 13 to 15, 16 to 17, 18 to 20, and 21 plus. Users in each age group can chat with people in the groups directly above and below theirs. For example, users in the 9-12 category can chat with people in their own group, as well as those in the under 9 and 13-15 groups.\n\nIf the age-check process incorrectly estimates a user’s age, they can appeal the decision and verify their age through alternative methods, including ID verification or through parental controls that allow parents to update their child’s age.\n\nThe company said during itsQ4 2025 earnings releasethis week that age-checked data reveals a younger user base than self-reported data. This isn’t surprising, and even Roblox itself said it expected this outcome. Of the 45% of users who have undergone age checks, 35% are under 13, 38% are between the ages of 13 and 17, and 27% are over 18.\n\nAs the company rolled out the new process, some concerns were raised around particular loo",
-      "excerpt": "A month afterintroducing mandatory facial verificationfor access to chats on its platform, Roblox says 45% of its daily active users have undergone age checks as of January 31.\n\nRoblox’s launch of age checks followed a wave of lawsuits over child safety, including ones from the attorneys general ofT",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Amazon and Google are winning the AI capex race — but what’s the prize?",
-      "link": "https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/",
-      "author": "Russell Brandom",
-      "date": "2026-02-05T14:43:11-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
-      "category": "AI",
-      "content": "Sometimes, it can seem like the AI industry is racing to see who can spend the most money on data centers. Whoever builds the most data centers will have the most compute, the thinking goes, and thus be able to build the best AI products, which will guarantee victory in the years to come. There are limits to this way of thinking — traditionally, businesses eventually succeed by makingmoremoney and spendingless— but it’s proven remarkably persuasive for large tech companies.\n\nIf that is the game, Amazon does seem to be winning.\n\nThe company announcedin its earnings on Thursdaythat it projects $200 billion in capital expenditures throughout 2026, across “AI, chips, robotics, and low earth orbit satellites.” That’s up from the $131.8 billion in capex in 2025. It’s tempting to attribute the whole capex budget to AI. But unlike most of its competitors, Amazon has a significant physical plant, some of which is being converted for use by expensive robots, so the non-AI expenses aren’t so easy to wave away.\n\nGoogle is close behind.In its earnings on Wednesday, the company projected between $175 billion and $185 billion in capital expenditures for 2026, up from $91.4 billion the previous year. It’s significantly more than the company spent on fixed assets last year, and significantly more than most of its competitors are spending.\n\nMeta, whichreported last week, projected $115 billion to $135 billion in capex spending for 2026, while Oracle (once the poster child for AI infrastructure) projectsa measly $50 billion. Microsoft doesn’t have an official projection for 2026 yet, butthe most recent quarterly figure was $37.5 billion, which pencils out to roughly $150 billion, assuming it keeps up. It’s a notable increase, and one that has led to investor pressure on CEO Satya Nadella — but it still puts the company in third place.\n\nFrom within the tech world, the logic here is simple. The revolutionary potential of AI is going to turn high-end compute into the scarce resource of t",
-      "excerpt": "Sometimes, it can seem like the AI industry is racing to see who can spend the most money on data centers. Whoever builds the most data centers will have the most compute, the thinking goes, and thus be able to build the best AI products, which will guarantee victory in the years to come. There are ",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
       "title": "It just got easier for Claude to check in on your WordPress site",
       "link": "https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/",
       "author": "Lucas Ropek",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Prince Andrew advisor pitched Jeffrey Epstein on investing in EV startups like Lucid Motors",
-      "link": "https://techcrunch.com/2026/02/06/prince-andrew-advisor-pitched-jeffrey-epstein-on-investing-in-ev-startups-like-lucid-motors/",
-      "author": "Sean O'Kane",
-      "date": "2026-02-06T13:23:50-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Prince-andrew-Getty.jpg?resize=1200,800",
-      "category": "Transportation",
-      "content": "Electric vehicle startup Lucid Motors was scrambling to raise a Series D funding round in 2017. It had courted Ford as a potential investor, but Jia Yueting, the founder of rival EV startup Faraday Future, had quietly amassed around a 30% stake and was essentially blocking new investors.\n\nDavid Stern, a mysterious businessman and close advisor to former Prince Andrew, saw an opportunity to break the logjam: bring in Jeffrey Epstein.\n\n“Ford will likely be lead in $400m Series D in Lucid. Big strategic move,” Sternwroteto Epstein in emails released last week as part of the Department of Justice’s latest disclosure of 3 million documents related to Epstein. Jia “has massive cash issues” at Faraday, he wrote, and needs to “sell now to make payroll for his other business.”\n\nIt wasn’t the first EV startup Stern pitched Epstein, and it wouldn’t be the last, according to hundreds of documents reviewed by TechCrunch.\n\nAt the time, legacy automakers and newly minted startups, fueled by the breakthrough success of Tesla and progress by Google’s self-driving project, were jumping into electric and autonomous vehicles. And Stern was apparently hungry to take advantage of the resulting deal flow. The documents show he also pitched investments in Faraday Future itself, and in another EV startup, Canoo.\n\nIt’s unlikely Epstein invested in any of them. Lucid didn’t close its Series D until late 2018, when it raised more than $1 billion from Saudi Arabia’s sovereign wealth fund. Faraday ultimately received a major investment from Chinese real estate conglomerate Evergrande in late 2017. Epstein said in a 2018 message included in the Justice Department’s files that he had no “direct” or “indirect” interest in Canoo.\n\nThese discussions instead provide greater insight into themany connectionsEpstein, a convicted sex offender, had to Silicon Valley startups up until his arrest and death in 2019. They also provide a snapshot of a relationship that has not been explored in previous reportin",
-      "excerpt": "Electric vehicle startup Lucid Motors was scrambling to raise a Series D funding round in 2017. It had courted Ford as a potential investor, but Jia Yueting, the founder of rival EV startup Faraday Future, had quietly amassed around a 30% stake and was essentially blocking new investors.\n\nDavid Ster",
+      "title": "Google- and Microsoft-backed Terradot acquires carbon-removal competitor",
+      "link": "https://techcrunch.com/2026/02/06/google-and-microsoft-backed-terradot-acquires-carbon-removal-competitor/",
+      "author": "Tim De Chant",
+      "date": "2026-02-06T12:26:29-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-687009578.jpg?resize=1200,798",
+      "category": "",
+      "content": "Carbon-removal startupTerradotis acquiring competitorEion, the two companies announced today. The sale was driven largely by big investors like sovereign wealth funds, which want to work with companies that can handle large contracts. Eion was simply too small, Eion CEO Anastasia Pavlovic HanstoldThe Wall Street Journal.\n\nBoth companies spread pulverized rocks on farm fields to absorb carbon dioxide from the atmosphere. Known as enhanced rock weathering (EWR), it speeds up a natural process and has the potential to be alow-cost way to remove carbon, but it requires large and distributed operations. The spread between what EWR companies would like to charge and what buyers would like to payremains wide, according to a survey by CDR.fyi.\n\nCalifornia-based Terradot’s operations are centered on Brazil, where the company works with basalt as its mineral of choice, while Eionworks in the U.S. and uses olivine. Terradot’s investor list includes Gigascale Capital, Google, Kleiner Perkins, and Microsoft, while Eion’s investors include AgFunder, Mercator Partners, and Overture.",
+      "excerpt": "Carbon-removal startupTerradotis acquiring competitorEion, the two companies announced today. The sale was driven largely by big investors like sovereign wealth funds, which want to work with companies that can handle large contracts. Eion was simply too small, Eion CEO Anastasia Pavlovic HanstoldTh",
       "tags": [
         "Apple",
         "Amazon",
