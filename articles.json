@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T20:38:01.750775+00:00",
+  "last_updated": "2026-02-06T21:34:32.679649+00:00",
   "articles": [
     {
       "title": "The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Google and Microsoft-backed Terradot acquires carbon removal competitor",
-      "link": "https://techcrunch.com/2026/02/06/google-and-microsoft-backed-terradot-acquires-carbon-removal-competitor/",
-      "author": "Tim De Chant",
-      "date": "2026-02-06T12:26:29-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-687009578.jpg?resize=1200,798",
-      "category": "",
-      "content": "Carbon removal startupTerradotis acquiring competitorEion, the two companies announced today. The sale was driven largely by big investors like sovereign wealth funds, which want to work with companies that can handle large contracts. Eion was simply too small, Eion CEO Anastasia Pavlovic HanstoldThe Wall Street Journal.\n\nBoth companies spread pulverized rocks on farm fields to absorb carbon dioxide from the atmosphere. Known as enhanced rock weathering (EWR), it speeds up a natural process and has the potential to be alow-cost way to remove carbon, but it requires large and distributed operations. The spread between what EWR companies would like to charge and what buyers would like to payremains wide, according to a survey by CDR.fyi.\n\nCalifornia-based Terradot’s operations are centered on Brazil, where the company works with basalt as its mineral of choice, while Eionworks in the U.S. and uses olivine. Terradot’s investor list includes Gigascale Capital, Google, Kleiner Perkins, and Microsoft, while Eion’s investors include AgFunder, Mercator Partners, and Overture.",
-      "excerpt": "Carbon removal startupTerradotis acquiring competitorEion, the two companies announced today. The sale was driven largely by big investors like sovereign wealth funds, which want to work with companies that can handle large contracts. Eion was simply too small, Eion CEO Anastasia Pavlovic HanstoldTh",
+      "title": "Prince Andrew advisor pitched Jeffrey Epstein on investing in EV startups like Lucid Motors",
+      "link": "https://techcrunch.com/2026/02/06/prince-andrew-advisor-pitched-jeffrey-epstein-on-investing-in-ev-startups-like-lucid-motors/",
+      "author": "Sean O'Kane",
+      "date": "2026-02-06T13:23:50-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Prince-andrew-Getty.jpg?resize=1200,800",
+      "category": "Transportation",
+      "content": "Electric vehicle startup Lucid Motors was scrambling to raise a Series D funding round in 2017. It had courted Ford as a potential investor, but Jia Yueting, the founder of rival EV startup Faraday Future, had quietly amassed around a 30% stake and was essentially blocking new investors.\n\nDavid Stern, a mysterious businessman and close advisor to former Prince Andrew, saw an opportunity to break the logjam: bring in Jeffrey Epstein.\n\n“Ford will likely be lead in $400m Series D in Lucid. Big strategic move,” Sternwroteto Epstein in emails released last week as part of the Department of Justice’s latest disclosure of 3 million documents related to Epstein. Jia “has massive cash issues” at Faraday, he wrote, and needs to “sell now to make payroll for his other business.”\n\nIt wasn’t the first EV startup Stern pitched Epstein, and it wouldn’t be the last, according to hundreds of documents reviewed by TechCrunch.\n\nAt the time, legacy automakers and newly minted startups, fueled by the breakthrough success of Tesla and progress by Google’s self-driving project, were jumping into electric and autonomous vehicles. And Stern was apparently hungry to take advantage of the resulting deal flow. The documents show he also pitched investments in Faraday Future itself, and in another EV startup, Canoo.\n\nIt’s unlikely Epstein invested in any of them. Lucid didn’t close its Series D until late 2018, when it raised more than $1 billion from Saudi Arabia’s sovereign wealth fund. Faraday ultimately received a major investment from Chinese real estate conglomerate Evergrande in late 2017. Epstein said in a 2018 message included in the Justice Department’s files that he had no “direct” or “indirect” interest in Canoo.\n\nThese discussions instead provide greater insight into themany connectionsEpstein, a convicted sex offender, had to Silicon Valley startups up until his arrest and death in 2019. They also provide a snapshot of a relationship that has not been explored in previous reportin",
+      "excerpt": "Electric vehicle startup Lucid Motors was scrambling to raise a Series D funding round in 2017. It had courted Ford as a potential investor, but Jia Yueting, the founder of rival EV startup Faraday Future, had quietly amassed around a 30% stake and was essentially blocking new investors.\n\nDavid Ster",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Maybe AI agents can be lawyers after all",
-      "link": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
-      "author": "Russell Brandom",
-      "date": "2026-02-06T12:26:23-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/54888410931_c37fed4674_k.jpg?resize=1200,800",
+      "title": "Google- and Microsoft-backed Terradot acquires carbon-removal competitor",
+      "link": "https://techcrunch.com/2026/02/06/google-and-microsoft-backed-terradot-acquires-carbon-removal-competitor/",
+      "author": "Tim De Chant",
+      "date": "2026-02-06T12:26:29-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-687009578.jpg?resize=1200,798",
       "category": "",
-      "content": "Last month, I wrote aboutMercor’s new benchmarkmeasuring AI agents’ capabilities on professional tasks like law and corporate analysis. At the time, the scores were pretty dismal, with every major lab scoring under 25%, so we concluded lawyers were safe from AI displacement, at least for now.\n\nBut AI capabilities can change a lot in a couple of weeks.\n\nThis week’s release of Opus 4.6shook upthe leaderboards, with Anthropic’s new model scoring just shy of 30% in one-shot trials, and an average of 45% when given a few more cracks at the problem. Notably, the release included a bunch of new agentic features, including “agent swarms,” which may have helped with this kind of multi-step problem-solving.\n\nRegardless, the score is a huge jump from the previous state-of-the-art, and a sign that progress on foundation models isn’t slowing down. Mercor CEO Brendan Foody, who was particularly impressed, said, “jumping from 18.4% to 29.8% in a few months is insane.”\n\nThirty percent is still a long way from 100%, so it’s not like lawyers need to be worried about getting replaced by machines next week. But they should be a lot less confident than they were last month!",
-      "excerpt": "Last month, I wrote aboutMercor’s new benchmarkmeasuring AI agents’ capabilities on professional tasks like law and corporate analysis. At the time, the scores were pretty dismal, with every major lab scoring under 25%, so we concluded lawyers were safe from AI displacement, at least for now.\n\nBut A",
+      "content": "Carbon-removal startupTerradotis acquiring competitorEion, the two companies announced today. The sale was driven largely by big investors like sovereign wealth funds, which want to work with companies that can handle large contracts. Eion was simply too small, Eion CEO Anastasia Pavlovic HanstoldThe Wall Street Journal.\n\nBoth companies spread pulverized rocks on farm fields to absorb carbon dioxide from the atmosphere. Known as enhanced rock weathering (EWR), it speeds up a natural process and has the potential to be alow-cost way to remove carbon, but it requires large and distributed operations. The spread between what EWR companies would like to charge and what buyers would like to payremains wide, according to a survey by CDR.fyi.\n\nCalifornia-based Terradot’s operations are centered on Brazil, where the company works with basalt as its mineral of choice, while Eionworks in the U.S. and uses olivine. Terradot’s investor list includes Gigascale Capital, Google, Kleiner Perkins, and Microsoft, while Eion’s investors include AgFunder, Mercator Partners, and Overture.",
+      "excerpt": "Carbon-removal startupTerradotis acquiring competitorEion, the two companies announced today. The sale was driven largely by big investors like sovereign wealth funds, which want to work with companies that can handle large contracts. Eion was simply too small, Eion CEO Anastasia Pavlovic HanstoldTh",
       "tags": [
         "Apple",
         "Amazon",
