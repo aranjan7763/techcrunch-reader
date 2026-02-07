@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-02-07T17:28:39.602978+00:00",
+  "last_updated": "2026-02-07T18:39:57.329524+00:00",
   "articles": [
+    {
+      "title": "‘Industry’ season 4 captures tech fraud better than any show on TV right now",
+      "link": "https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/",
+      "author": "Dominic-Madori Davis",
+      "date": "2026-02-06T16:06:23-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/max-minghella-myha-la.jpg?resize=1200,800",
+      "category": "Media & Entertainment",
+      "content": "HBO’s hit financial thriller “Industry” has delivered one of its most compelling storylines yet this season: a hunt to expose a fraudulent fintech company called Tender.\n\nThe show follows Harper Stern, who’s leading her newly launched investment firm and looking for a company to short — essentially, betting that its stock will crash. After a journalist tips her off that something’s wrong with Tender, she sends her associates, Sweetpea and Kwabena, to Ghana to investigate.\n\nWhat they discover is damning. “Fake users drive fake revenue drives fake cash,” Sweetpea tells Harper. The entire company appears to be built on fabricated numbers. “The thing is nothing.”\n\nWhat’s fascinating about this season of “Industry” is how well it speaks to this moment. Tender starts as a payment processing platform for adult content. The show references the very real (and still controversial)Online Safety Billthat the UK introduced, which has led to age verification and other enhanced rules for consuming adult content online. Because of its affiliation with adult content, Tender finds itself at odds with the new government’s regulation and must pivot or die, as the saying goes.\n\nIts CFO-turned-leader, Whitney, wants the company to pivot into a bank and has a plan to make that happen, including making Tender’s CEO, Henry, the face of that transformation. Whitney is the embodiment of every tech baron cliche. Move fast, break things. Win at all costs. He’s lobbying politicians for a banking license and hunting for merger opportunities.\n\nHarper, meanwhile, is leading her newly launched firm after feeling undermined at her previous firm and being called a DEI plant by the man who hired her (a nod to the decline of DEI in the past few years). She has teamed up with new friends and old frenemies and is looking for blood — meaning a company on the precipice of crashing. To her, Tender is that company.\n\nThis puts her at odds with her friend Yasmin, who is married to Henry and is crafting communic",
+      "excerpt": "HBO’s hit financial thriller “Industry” has delivered one of its most compelling storylines yet this season: a hunt to expose a fraudulent fintech company called Tender.\n\nThe show follows Harper Stern, who’s leading her newly launched investment firm and looking for a company to short — essentially,",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "Benchmark raises $225M in special funds to double down on Cerebras",
       "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
@@ -87,23 +104,6 @@
       ]
     },
     {
-      "title": "Maybe AI agents can be lawyers after all",
-      "link": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
-      "author": "Russell Brandom",
-      "date": "2026-02-06T12:26:23-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/54888410931_c37fed4674_k.jpg?resize=1200,800",
-      "category": "",
-      "content": "Last month, I wrote aboutMercor’s new benchmarkmeasuring AI agents’ capabilities on professional tasks like law and corporate analysis. At the time, the scores were pretty dismal, with every major lab scoring under 25%, so we concluded lawyers were safe from AI displacement, at least for now.\n\nBut AI capabilities can change a lot in a couple of weeks.\n\nThis week’s release of Anthropic’s Opus 4.6shook upthe leaderboards, with Anthropic’s new model scoring just shy of 30% in one-shot trials, and an average of 45% when given a few more cracks at the problem. Notably, the release included a bunch of new agentic features, including “agent swarms,” which may have helped with this kind of multistep problem-solving.\n\nRegardless, the score is a huge jump from the previous state-of-the-art, and a sign that progress on foundation models isn’t slowing down. Mercor CEO Brendan Foody, who was particularly impressed, said, “jumping from 18.4% to 29.8% in a few months is insane.”\n\nThirty percent is still a long way from 100%, so it’s not like lawyers need to be worried about getting replaced by machines next week. But they should be a lot less confident than they were last month!",
-      "excerpt": "Last month, I wrote aboutMercor’s new benchmarkmeasuring AI agents’ capabilities on professional tasks like law and corporate analysis. At the time, the scores were pretty dismal, with every major lab scoring under 25%, so we concluded lawyers were safe from AI displacement, at least for now.\n\nBut A",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
       "title": "The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features",
       "link": "https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/",
       "author": "Sarah Perez",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "‘Industry’ season 4 captures tech fraud better than any show on TV right now",
-      "link": "https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/",
-      "author": "Dominic-Madori Davis",
-      "date": "2026-02-06T16:06:23-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/max-minghella-myha-la.jpg?resize=1200,800",
-      "category": "Media & Entertainment",
-      "content": "HBO’s hit financial thriller “Industry” has delivered one of its most compelling storylines yet this season: a hunt to expose a fraudulent fintech company called Tender.\n\nThe show follows Harper Stern, who’s leading her newly launched investment firm and looking for a company to short — essentially, betting that its stock will crash. After a journalist tips her off that something’s wrong with Tender, she sends her associates, Sweetpea and Kwabena, to Ghana to investigate.\n\nWhat they discover is damning. “Fake users drive fake revenue drives fake cash,” Sweetpea tells Harper. The entire company appears to be built on fabricated numbers. “The thing is nothing.”\n\nWhat’s fascinating about this season of “Industry” is how well it speaks to this moment. Tender starts as a payment processing platform for adult content. The show references the very real (and still controversial)Online Safety Billthat the UK introduced, which has led to age verification and other enhanced rules for consuming adult content online. Because of its affiliation with adult content, Tender finds itself at odds with the new government’s regulation and must pivot or die, as the saying goes.\n\nIts CFO-turned-leader, Whitney, wants the company to pivot into a bank and has a plan to make that happen, including making Tender’s CEO, Henry, the face of that transformation. Whitney is the embodiment of every tech baron cliche. Move fast, break things. Win at all costs. He’s lobbying politicians for a banking license and hunting for merger opportunities.\n\nHarper, meanwhile, is leading her newly launched firm after feeling undermined at her previous firm and being called a DEI plant by the man who hired her (a nod to the decline of DEI in the past few years). She has teamed up with new friends and old frenemies and is looking for blood — meaning a company on the precipice of crashing. To her, Tender is that company.\n\nThis puts her at odds with her friend Yasmin, who is married to Henry and is crafting communic",
-      "excerpt": "HBO’s hit financial thriller “Industry” has delivered one of its most compelling storylines yet this season: a hunt to expose a fraudulent fintech company called Tender.\n\nThe show follows Harper Stern, who’s leading her newly launched investment firm and looking for a company to short — essentially,",
+      "title": "New York lawmakers propose a three-year pause on new data centers",
+      "link": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
+      "author": "Anthony Ha",
+      "date": "2026-02-07T10:23:04-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+      "category": "Government & Policy",
+      "content": "New Yorker state lawmakers haveintroduced a billthat would impose a moratorium of at least three years on permits tied to the construction and operation of new data centers. While the bill’s prospects are uncertain,Wired reportsthat New York is at least the sixth state to consider pausing construction of new data centers.\n\nAs tech companies plan tospend ever-increasing amounts of moneyto build AI infrastructure, both Democrats and Republicans have expressed concerns about the impact those data centers might have on surrounding communities. Studies have also linked data centers toincreased home electricity bills.\n\nCritics include progressive Senator Bernie Sanders, who hascalled for a national moratorium, as well as conservative Florida Governor Ron De Santis, whosaid data centers will lead to“higher energy bills just so some chatbot can corrupt some 13 year old kid online.”\n\nMore than 230 environmental groups including Food & Water Watch, Friends of the Earth, and Greenpeacerecently signed an open letter to Congresscalling for a national moratorium on the construction of new data centers.\n\nEric Weltman of Food & Water Watch told Wired that the New York bill — sponsored by state senator Liz Krueger and assemblymember Anna Kelles, both Democrats — was “our idea.” Data center pauses have also been proposed by Democrats in Georgia, Vermont, and Virginia, while Republicans sponsored similar bills in Maryland and Oklahoma.\n\nAccording to Politico, Krueger described her state as “completely unprepared” for the “massive data centers” that are “gunning for New York.”\n\n“It’s time to hit the pause button, give ourselves some breathing room to adopt strong policies on data centers, and avoid getting caught in a bubble that will burst and leave New York utility customers footing a huge bill,” she said.\n\nLast month, New York Governor Kathy Hochulannounced a new initiativecalled Energize NY Development, which her office said would both modernize the way large energy users (i.e., da",
+      "excerpt": "New Yorker state lawmakers haveintroduced a billthat would impose a moratorium of at least three years on permits tied to the construction and operation of new data centers. While the bill’s prospects are uncertain,Wired reportsthat New York is at least the sixth state to consider pausing constructi",
       "tags": [
         "Apple",
         "Amazon",
