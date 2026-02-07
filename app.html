@@ -10,6 +10,7 @@
     <script type="module">
         import { initializeApp } from "https://www.gstatic.com/firebasejs/11.1.0/firebase-app.js";
         import { getAuth, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/11.1.0/firebase-auth.js";
+        import { getFirestore, doc, getDoc, setDoc } from "https://www.gstatic.com/firebasejs/11.1.0/firebase-firestore.js";
 
         const firebaseConfig = {
             apiKey: "AIzaSyC5DW8JIgNsamnA0h7QkWPEd37CWGK9ARw",
@@ -22,17 +23,51 @@
 
         const app = initializeApp(firebaseConfig);
         const auth = getAuth(app);
+        const db = getFirestore(app);
+
+        // Current user profile data
+        window.currentProfile = {};
+
+        // Load user profile from Firestore
+        window.loadProfile = async (uid) => {
+            try {
+                const snap = await getDoc(doc(db, 'users', uid));
+                if (snap.exists()) {
+                    window.currentProfile = snap.data();
+                } else {
+                    window.currentProfile = {};
+                }
+            } catch (e) {
+                console.error('Failed to load profile:', e);
+                window.currentProfile = {};
+            }
+            return window.currentProfile;
+        };
+
+        // Save user profile to Firestore
+        window.saveProfile = async (uid, data) => {
+            await setDoc(doc(db, 'users', uid), data, { merge: true });
+            window.currentProfile = { ...window.currentProfile, ...data };
+        };
 
         // Check if user is logged in
-        onAuthStateChanged(auth, (user) => {
+        onAuthStateChanged(auth, async (user) => {
             if (!user) {
                 window.location.href = 'login.html';
             } else {
                 // Show the app and user email
                 document.body.style.visibility = 'visible';
+                window.currentUid = user.uid;
+                window.currentEmail = user.email;
+
+                // Load profile and show name if available
+                const profile = await window.loadProfile(user.uid);
                 const userEmailEl = document.getElementById('user-email');
                 if (userEmailEl) {
-                    userEmailEl.textContent = user.email;
+                    userEmailEl.textContent = profile.name || user.email;
+                    userEmailEl.title = user.email;
+                    userEmailEl.style.cursor = 'pointer';
+                    userEmailEl.onclick = () => openProfileModal();
                 }
             }
         });
@@ -372,6 +407,382 @@
 
         body.light-mode .article-view-image {
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Profile button */
+        .profile-btn {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: #888;
+            padding: 6px 10px;
+            border-radius: 6px;
+            font-size: 0.85rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .profile-btn:hover {
+            background: rgba(255, 255, 255, 0.15);
+            color: #fff;
+        }
+
+        body.light-mode .profile-btn {
+            background: rgba(0, 0, 0, 0.05);
+            border-color: rgba(0, 0, 0, 0.1);
+            color: #718096;
+        }
+
+        body.light-mode .profile-btn:hover {
+            background: rgba(0, 0, 0, 0.08);
+            color: #333;
+        }
+
+        /* Profile Modal Overlay */
+        .profile-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 2000;
+        }
+
+        .profile-overlay.active {
+            display: block;
+        }
+
+        /* Profile Modal */
+        .profile-modal {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 90%;
+            max-width: 520px;
+            max-height: 85vh;
+            overflow-y: auto;
+            background: #1e1e30;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 16px;
+            padding: 32px;
+            z-index: 2001;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+        }
+
+        .profile-modal.active {
+            display: block;
+            animation: fadeIn 0.3s ease;
+        }
+
+        .profile-modal-close {
+            position: absolute;
+            top: 16px;
+            right: 16px;
+            background: none;
+            border: none;
+            color: #888;
+            font-size: 1.5rem;
+            cursor: pointer;
+            line-height: 1;
+            padding: 4px 8px;
+            border-radius: 6px;
+            transition: all 0.2s;
+        }
+
+        .profile-modal-close:hover {
+            color: #fff;
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        /* Profile View Mode */
+        .profile-view {
+            text-align: center;
+        }
+
+        .profile-avatar {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #00d4ff 0%, #7b2cbf 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            font-weight: bold;
+            color: #fff;
+            margin: 0 auto 16px;
+            text-transform: uppercase;
+        }
+
+        .profile-view-name {
+            font-size: 1.4rem;
+            margin-bottom: 4px;
+            color: #fff;
+        }
+
+        .profile-view-username {
+            color: #00d4ff;
+            font-size: 0.9rem;
+            margin-bottom: 12px;
+        }
+
+        .profile-view-tagline {
+            color: #aaa;
+            font-size: 0.95rem;
+            font-style: italic;
+            margin-bottom: 12px;
+        }
+
+        .profile-view-about {
+            color: #bbb;
+            font-size: 0.9rem;
+            line-height: 1.6;
+            margin-bottom: 12px;
+        }
+
+        .profile-view-location {
+            color: #888;
+            font-size: 0.85rem;
+            margin-bottom: 16px;
+        }
+
+        .profile-social-links {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 8px;
+            margin-bottom: 20px;
+        }
+
+        .profile-social-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: rgba(255, 255, 255, 0.08);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            color: #ccc;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+
+        .profile-social-pill:hover {
+            background: rgba(0, 212, 255, 0.15);
+            border-color: rgba(0, 212, 255, 0.3);
+            color: #00d4ff;
+        }
+
+        .profile-edit-btn {
+            background: linear-gradient(135deg, #00d4ff 0%, #7b2cbf 100%);
+            border: none;
+            color: #fff;
+            padding: 10px 24px;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .profile-edit-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0, 212, 255, 0.3);
+        }
+
+        /* Profile Edit Mode */
+        .profile-edit-title {
+            font-size: 1.3rem;
+            margin-bottom: 20px;
+            color: #fff;
+        }
+
+        .profile-section-heading {
+            font-size: 0.9rem;
+            color: #888;
+            margin: 16px 0 8px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .profile-form-row {
+            display: flex;
+            gap: 12px;
+        }
+
+        .profile-form-row .profile-form-group {
+            flex: 1;
+        }
+
+        .profile-form-group {
+            margin-bottom: 14px;
+        }
+
+        .profile-form-group label {
+            display: block;
+            font-size: 0.8rem;
+            color: #888;
+            margin-bottom: 4px;
+        }
+
+        .profile-form-group input,
+        .profile-form-group textarea {
+            width: 100%;
+            background: rgba(255, 255, 255, 0.06);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            color: #fff;
+            padding: 10px 12px;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            font-family: inherit;
+            transition: border-color 0.2s;
+        }
+
+        .profile-form-group input:focus,
+        .profile-form-group textarea:focus {
+            outline: none;
+            border-color: #00d4ff;
+        }
+
+        .profile-form-group textarea {
+            resize: vertical;
+        }
+
+        .profile-form-actions {
+            display: flex;
+            justify-content: flex-end;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .profile-cancel-btn {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: #aaa;
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .profile-cancel-btn:hover {
+            background: rgba(255, 255, 255, 0.15);
+            color: #fff;
+        }
+
+        .profile-save-btn {
+            background: linear-gradient(135deg, #00d4ff 0%, #7b2cbf 100%);
+            border: none;
+            color: #fff;
+            padding: 10px 24px;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .profile-save-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0, 212, 255, 0.3);
+        }
+
+        .profile-save-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
+        }
+
+        /* Light mode overrides for profile */
+        body.light-mode .profile-overlay {
+            background: rgba(0, 0, 0, 0.4);
+        }
+
+        body.light-mode .profile-modal {
+            background: #fff;
+            border-color: #e2e8f0;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+        }
+
+        body.light-mode .profile-modal-close {
+            color: #a0aec0;
+        }
+
+        body.light-mode .profile-modal-close:hover {
+            color: #333;
+            background: rgba(0, 0, 0, 0.05);
+        }
+
+        body.light-mode .profile-view-name {
+            color: #1a202c;
+        }
+
+        body.light-mode .profile-view-username {
+            color: #0891b2;
+        }
+
+        body.light-mode .profile-view-tagline {
+            color: #718096;
+        }
+
+        body.light-mode .profile-view-about {
+            color: #4a5568;
+        }
+
+        body.light-mode .profile-view-location {
+            color: #a0aec0;
+        }
+
+        body.light-mode .profile-social-pill {
+            background: rgba(0, 0, 0, 0.04);
+            border-color: #e2e8f0;
+            color: #4a5568;
+        }
+
+        body.light-mode .profile-social-pill:hover {
+            background: rgba(0, 212, 255, 0.08);
+            color: #0891b2;
+        }
+
+        body.light-mode .profile-edit-title {
+            color: #1a202c;
+        }
+
+        body.light-mode .profile-section-heading {
+            color: #a0aec0;
+        }
+
+        body.light-mode .profile-form-group label {
+            color: #718096;
+        }
+
+        body.light-mode .profile-form-group input,
+        body.light-mode .profile-form-group textarea {
+            background: #f7fafc;
+            border-color: #e2e8f0;
+            color: #1a202c;
+        }
+
+        body.light-mode .profile-form-group input:focus,
+        body.light-mode .profile-form-group textarea:focus {
+            border-color: #0891b2;
+        }
+
+        body.light-mode .profile-cancel-btn {
+            background: #edf2f7;
+            border-color: #e2e8f0;
+            color: #718096;
+        }
+
+        body.light-mode .profile-cancel-btn:hover {
+            background: #e2e8f0;
+            color: #333;
         }
 
         /* Hamburger menu button */
@@ -944,6 +1355,16 @@
             .placeholder-icon {
                 font-size: 3rem;
             }
+
+            .profile-form-row {
+                flex-direction: column;
+                gap: 0;
+            }
+
+            .profile-modal {
+                width: 95%;
+                padding: 24px;
+            }
         }
     </style>
 </head>
@@ -993,6 +1414,7 @@
                 </div>
                 <div class="user-section">
                     <span class="user-email" id="user-email"></span>
+                    <button class="profile-btn" onclick="openProfileModal()" title="Profile Settings">&#9881;</button>
                     <button class="logout-btn" onclick="logout()">Logout</button>
                 </div>
             </div>
@@ -1039,6 +1461,84 @@
                     <a href="#" target="_blank" class="read-full-btn" id="view-link">Read Full Article →</a>
                 </div>
             </div>
+        </div>
+    </div>
+
+    <!-- Profile Modal -->
+    <div class="profile-overlay" id="profile-overlay" onclick="closeProfileModal()"></div>
+    <div class="profile-modal" id="profile-modal">
+        <button class="profile-modal-close" onclick="closeProfileModal()">&times;</button>
+
+        <!-- View Mode -->
+        <div class="profile-view" id="profile-view">
+            <div class="profile-avatar" id="profile-avatar">?</div>
+            <h2 class="profile-view-name" id="profile-view-name">No name set</h2>
+            <p class="profile-view-username" id="profile-view-username"></p>
+            <p class="profile-view-tagline" id="profile-view-tagline"></p>
+            <p class="profile-view-about" id="profile-view-about"></p>
+            <p class="profile-view-location" id="profile-view-location"></p>
+            <div class="profile-social-links" id="profile-social-links"></div>
+            <button class="profile-edit-btn" onclick="switchToEditMode()">Edit Profile</button>
+        </div>
+
+        <!-- Edit Mode -->
+        <div class="profile-edit" id="profile-edit" style="display:none;">
+            <h2 class="profile-edit-title">Edit Profile</h2>
+            <form id="profile-form" onsubmit="handleProfileSave(event)">
+                <div class="profile-form-row">
+                    <div class="profile-form-group">
+                        <label for="profile-name">Name</label>
+                        <input type="text" id="profile-name" placeholder="Your full name">
+                    </div>
+                    <div class="profile-form-group">
+                        <label for="profile-username">Username</label>
+                        <input type="text" id="profile-username" placeholder="@username">
+                    </div>
+                </div>
+                <div class="profile-form-group">
+                    <label for="profile-tagline">Tagline</label>
+                    <input type="text" id="profile-tagline" placeholder="A short tagline about yourself">
+                </div>
+                <div class="profile-form-group">
+                    <label for="profile-about">About</label>
+                    <textarea id="profile-about" rows="3" placeholder="Tell us about yourself"></textarea>
+                </div>
+                <div class="profile-form-row">
+                    <div class="profile-form-group">
+                        <label for="profile-city">City</label>
+                        <input type="text" id="profile-city" placeholder="City">
+                    </div>
+                    <div class="profile-form-group">
+                        <label for="profile-country">Country</label>
+                        <input type="text" id="profile-country" placeholder="Country">
+                    </div>
+                </div>
+                <h3 class="profile-section-heading">Social Handles</h3>
+                <div class="profile-form-row">
+                    <div class="profile-form-group">
+                        <label for="profile-twitter">Twitter / X</label>
+                        <input type="text" id="profile-twitter" placeholder="@handle">
+                    </div>
+                    <div class="profile-form-group">
+                        <label for="profile-linkedin">LinkedIn</label>
+                        <input type="text" id="profile-linkedin" placeholder="username or URL">
+                    </div>
+                </div>
+                <div class="profile-form-row">
+                    <div class="profile-form-group">
+                        <label for="profile-instagram">Instagram</label>
+                        <input type="text" id="profile-instagram" placeholder="@handle">
+                    </div>
+                    <div class="profile-form-group">
+                        <label for="profile-facebook">Facebook</label>
+                        <input type="text" id="profile-facebook" placeholder="username or URL">
+                    </div>
+                </div>
+                <div class="profile-form-actions">
+                    <button type="button" class="profile-cancel-btn" onclick="switchToViewMode()">Cancel</button>
+                    <button type="submit" class="profile-save-btn">Save Profile</button>
+                </div>
+            </form>
         </div>
     </div>
 
@@ -1362,6 +1862,141 @@
                 hamburgerBtn.textContent = '☰';
             }
         }
+
+        // Profile modal functions
+        function openProfileModal() {
+            renderProfileView();
+            document.getElementById('profile-overlay').classList.add('active');
+            document.getElementById('profile-modal').classList.add('active');
+            document.getElementById('profile-view').style.display = '';
+            document.getElementById('profile-edit').style.display = 'none';
+        }
+
+        function closeProfileModal() {
+            document.getElementById('profile-overlay').classList.remove('active');
+            document.getElementById('profile-modal').classList.remove('active');
+        }
+
+        function renderProfileView() {
+            const p = window.currentProfile || {};
+            const name = p.name || 'No name set';
+            const avatar = document.getElementById('profile-avatar');
+            avatar.textContent = p.name ? p.name.charAt(0) : '?';
+
+            document.getElementById('profile-view-name').textContent = name;
+
+            const usernameEl = document.getElementById('profile-view-username');
+            usernameEl.textContent = p.username ? '@' + p.username : '';
+            usernameEl.style.display = p.username ? '' : 'none';
+
+            const taglineEl = document.getElementById('profile-view-tagline');
+            taglineEl.textContent = p.tagline || '';
+            taglineEl.style.display = p.tagline ? '' : 'none';
+
+            const aboutEl = document.getElementById('profile-view-about');
+            aboutEl.textContent = p.about || '';
+            aboutEl.style.display = p.about ? '' : 'none';
+
+            const locationEl = document.getElementById('profile-view-location');
+            const locationParts = [p.city, p.country].filter(Boolean).join(', ');
+            locationEl.textContent = locationParts ? '\u{1F4CD} ' + locationParts : '';
+            locationEl.style.display = locationParts ? '' : 'none';
+
+            // Social links
+            const social = p.social || {};
+            const linksContainer = document.getElementById('profile-social-links');
+            linksContainer.innerHTML = '';
+            const platforms = [
+                { key: 'twitter', label: 'Twitter', urlPrefix: 'https://twitter.com/' },
+                { key: 'linkedin', label: 'LinkedIn', urlPrefix: 'https://linkedin.com/in/' },
+                { key: 'instagram', label: 'Instagram', urlPrefix: 'https://instagram.com/' },
+                { key: 'facebook', label: 'Facebook', urlPrefix: 'https://facebook.com/' }
+            ];
+            platforms.forEach(({ key, label, urlPrefix }) => {
+                if (social[key]) {
+                    const handle = social[key].replace(/^@/, '');
+                    const url = handle.startsWith('http') ? handle : urlPrefix + handle;
+                    const a = document.createElement('a');
+                    a.href = url;
+                    a.target = '_blank';
+                    a.rel = 'noopener noreferrer';
+                    a.className = 'profile-social-pill';
+                    a.textContent = label + ': ' + social[key];
+                    linksContainer.appendChild(a);
+                }
+            });
+        }
+
+        function switchToEditMode() {
+            const p = window.currentProfile || {};
+            const social = p.social || {};
+            document.getElementById('profile-name').value = p.name || '';
+            document.getElementById('profile-username').value = p.username || '';
+            document.getElementById('profile-tagline').value = p.tagline || '';
+            document.getElementById('profile-about').value = p.about || '';
+            document.getElementById('profile-city').value = p.city || '';
+            document.getElementById('profile-country').value = p.country || '';
+            document.getElementById('profile-twitter').value = social.twitter || '';
+            document.getElementById('profile-linkedin').value = social.linkedin || '';
+            document.getElementById('profile-instagram').value = social.instagram || '';
+            document.getElementById('profile-facebook').value = social.facebook || '';
+
+            document.getElementById('profile-view').style.display = 'none';
+            document.getElementById('profile-edit').style.display = '';
+        }
+
+        function switchToViewMode() {
+            document.getElementById('profile-view').style.display = '';
+            document.getElementById('profile-edit').style.display = 'none';
+            renderProfileView();
+        }
+
+        async function handleProfileSave(e) {
+            e.preventDefault();
+            const saveBtn = document.querySelector('.profile-save-btn');
+            saveBtn.disabled = true;
+            saveBtn.textContent = 'Saving...';
+
+            const data = {
+                name: document.getElementById('profile-name').value.trim(),
+                username: document.getElementById('profile-username').value.trim(),
+                tagline: document.getElementById('profile-tagline').value.trim(),
+                about: document.getElementById('profile-about').value.trim(),
+                city: document.getElementById('profile-city').value.trim(),
+                country: document.getElementById('profile-country').value.trim(),
+                social: {
+                    twitter: document.getElementById('profile-twitter').value.trim(),
+                    linkedin: document.getElementById('profile-linkedin').value.trim(),
+                    instagram: document.getElementById('profile-instagram').value.trim(),
+                    facebook: document.getElementById('profile-facebook').value.trim()
+                }
+            };
+
+            try {
+                await window.saveProfile(window.currentUid, data);
+
+                // Update sidebar display
+                const userEmailEl = document.getElementById('user-email');
+                if (userEmailEl) {
+                    userEmailEl.textContent = data.name || window.currentEmail;
+                }
+
+                switchToViewMode();
+            } catch (err) {
+                console.error('Failed to save profile:', err);
+                alert('Failed to save profile. Please try again.');
+            } finally {
+                saveBtn.disabled = false;
+                saveBtn.textContent = 'Save Profile';
+            }
+        }
+
+        // Close profile modal on Escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closeProfileModal();
+            }
+        });
     </script>
 </body>
 </html>
