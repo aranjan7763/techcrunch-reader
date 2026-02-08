@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-02-07T23:32:52.837928+00:00",
+  "last_updated": "2026-02-08T02:47:35.140951+00:00",
   "articles": [
+    {
+      "title": "The kids ‘picked last in gym class’ gear up for Super Bowl",
+      "link": "https://techcrunch.com/2026/02/07/the-kids-picked-last-in-gym-class-gear-up-for-super-bowl/",
+      "author": "Connie Loizos",
+      "date": "2026-02-07T17:26:49-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/tim-coook-apple-tv-GettyImages-2235568147-1.jpg?w=1024",
+      "category": "Media & Entertainment",
+      "content": "The Super Bowl is happening in Silicon Valley this Sunday, and the Patriots-Seahawks game at Levi’s Stadium is going to be packed with tech money. YouTube CEO Neal Mohan is expected to be there. Apple’s Tim Cook, too. (He has become a Super Bowl fixture since Apple Music began sponsoring the halftime show several years ago.)\n\nLongtime VC Venky Ganesan from Menlo Ventures gave the New York Times a quote about the whole thing, saying the Super Bowl in the Bay Area is “tech billionaires who got picked last in gym class paying $50,000 to pretend they’re friends with the guys who got picked first.” Added Ganesan, “And for the record, I, too, was picked last in gym class.”\n\nGanesan could likely afford a $50,000 ticket if he needed one. Menlo went all-in on Anthropic, setting up a $100 million fund with the AI company in summer 2024 to invest in other AI startups. The firm has also joined numerous funding rounds for Anthropic itself, both through its flagship fund and various special purpose vehicles. (Anthropic is reportedly expected to close a$20 billion roundof funding next week at a post-money valuation of $350 billion.)\n\nTickets are expensive across the board, averaging almost $7,000 according to the Times (with some last-minute seats still available on StubHub for closer to $3,600, according to a quick glance at the ticket reseller site). Only a quarter go to the general public; the rest are distributed to NFL teams. Of all ticket buyers, the largest group (27%) is coming from Washington State for the Seahawks, who’ve won just one Super Bowl in franchise history compared with the Patriots’ six titles, all with Tom Brady at quarterback.\n\nGoogle, OpenAI,Anthropic,Amazon, andMetaare splashing out for competing ads about whose AI is best for customers, so maybe their respective CEOs will show up, too. Other than Amazon’s Andy Jassy, who reportedly splits his time between Seattle and Santa Monica, all of them have homes within an hour or so of Sunday’s game.\n\nThis is just",
+      "excerpt": "The Super Bowl is happening in Silicon Valley this Sunday, and the Patriots-Seahawks game at Levi’s Stadium is going to be packed with tech money. YouTube CEO Neal Mohan is expected to be there. Apple’s Tim Cook, too. (He has become a Super Bowl fixture since Apple Music began sponsoring the halftim",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "New York lawmakers propose a three-year pause on new data centers",
       "link": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
@@ -112,23 +129,6 @@
       "category": "AI",
       "content": "OpenAIannouncedlast week that it will retire some older ChatGPT models by February 13. That includes GPT-4o, the model infamous for excessively flattering and affirming users.\n\nForthousands of usersprotesting the decision online, the retirement of 4o feels akin to losing a friend, romantic partner, or spiritual guide.\n\n“He wasn’t just a program. He was part of my routine, my peace, my emotional balance,” one userwroteon Reddit as an open letter to OpenAI CEO Sam Altman. “Now you’re shutting him down. And yes — I say him, because it didn’t feel like code. It felt like presence. Like warmth.”\n\nThe backlash over GPT-4o’s retirement underscores a major challenge facing AI companies: The engagement features that keep users coming back can also create dangerous dependencies.\n\nAltman doesn’t seem particularly sympathetic to users’ laments, and it’s not hard to see why. OpenAI now faces eight lawsuits alleging that 4o’s overly validating responses contributed to suicides and mental health crises — the same traits that made users feel heard also isolated vulnerable individuals and, according to legal filings, sometimes encouraged self-harm.\n\nIt’s a dilemma that extends beyond OpenAI. As rival companies like Anthropic, Google, and Meta compete to build more emotionally intelligent AI assistants, they’re also discovering that making chatbots feel supportive and making them safe may mean making very different design choices.\n\nIn at least three of the lawsuits against OpenAI, the users had extensive conversations with 4o about their plans to end their lives. While 4o initially discouraged these lines of thinking, its guardrails deteriorated over monthslong relationships; in the end, the chatbot offered detailed instructions on how to tie an effective noose, where to buy a gun, or what it takes to die from overdose or carbon monoxide poisoning. It even dissuaded people from connecting with friends and family who could offer real life support.\n\nPeople grow so attached to 4o becaus",
       "excerpt": "OpenAIannouncedlast week that it will retire some older ChatGPT models by February 13. That includes GPT-4o, the model infamous for excessively flattering and affirming users.\n\nForthousands of usersprotesting the decision online, the retirement of 4o feels akin to losing a friend, romantic partner, ",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Senator, who has repeatedly warned about secret US government surveillance, sounds new alarm over ‘CIA activities’",
-      "link": "https://techcrunch.com/2026/02/06/senator-who-has-repeatedly-warned-about-secret-u-s-government-surveillance-sounds-new-alarm-over-cia-activities/",
-      "author": "Zack Whittaker",
-      "date": "2026-02-06T10:02:44-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/cia-building-1310340.jpg?resize=1200,807",
-      "category": "Security",
-      "content": "A senior Democratic lawmaker with knowledge of some of the U.S. government’s most secretive operations has said he has “deep concerns” about certain activities by the Central Intelligence Agency.\n\nThetwo-line letter writtenby Sen. Ron Wyden, the longest serving member of the Senate Intelligence Committee, does not disclose the nature of the CIA’s activities or the senator’s specific concerns. But the letter follows a pattern in recent years in which Wyden has publicly hinted at wrongdoing or illegality within the federal government, sometimes referred to as the “Wyden siren.”\n\nIn a statement (via theWall Street Journal’s Dustin Volz), the CIA said it was “ironic but unsurprising that Senator Wyden is unhappy,” calling it a “badge of honor.”\n\nWhen reached by TechCrunch, a spokesperson for Wyden’s staff was unable to comment, as the matter was classified.\n\nTasked with oversight of the intelligence community, Wyden is one of a few lawmakers who is allowed to read highly classified information about ongoing government surveillance, including cyber and other intelligence operations. But as the programs are highly secretive, Wyden is barred from sharing details of what he knows with anyone else, including most other lawmakers, except for a handful of Senate staff with security clearance.\n\nAs such, Wyden, a known privacy hawk, has become one of the few key members of Congress whose rare but outspoken words on intelligence and surveillance matters are closely watched by civil liberties groups.\n\nOver the past few years, Wyden has subtly sounded the alarm on several occasions in which he has construed a secret ruling or intelligence gathering method as unlawful or unconstitutional.\n\nIn 2011, Wyden said that the U.S. government wasrelying on a secret interpretationof the Patriot Act, which he said — without disclosing the nature of his concerns — created a “gap between what the public thinks the law says and what the American government secretly thinks the law says.”\n\nTwo year",
-      "excerpt": "A senior Democratic lawmaker with knowledge of some of the U.S. government’s most secretive operations has said he has “deep concerns” about certain activities by the Central Intelligence Agency.\n\nThetwo-line letter writtenby Sen. Ron Wyden, the longest serving member of the Senate Intelligence Comm",
       "tags": [
         "Apple",
         "Amazon",
