@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-02-10T19:10:00.733117+00:00",
+  "last_updated": "2026-02-10T20:48:48.066055+00:00",
   "articles": [
+    {
+      "title": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
+      "link": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
+      "author": "Rebecca Bellan",
+      "date": "2026-02-10T08:00:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Shay-Sandler-Eli-Rosen.-Credit-Ohad-Kab.jpeg?resize=1200,802",
+      "category": "AI",
+      "content": "Modern enterprises generate enormous amounts of security data, but legacy tools like Splunk still require companies to store all of it in one place before they can detect threats — a slow and costly process that’s increasingly breaking down in cloud environments where volumes are exploding and data lives everywhere.\n\nAI cybersecurity startupVega Securitywants to flip that approach by running security where the data already lives, implementing in cloud services, data lakes, and existing storage systems. And the two-year-old firm just raised a $120 million Series B round to scale that vision, TechCrunch has exclusively learned.\n\nLed by Accel with participation from Cyberstarts, Redpoint, and CRV, the new round nearly doubles Vega’s valuation to $700 million, and brings its total funding to $185 million, money the startup will use to further develop its AI-native security operations suite, beef up its go-to-market team, and expand globally.\n\nShay Sandler, co-founder and CEO of Vega, told TechCrunch that the current operating model of the SIEM (security information and event management) — the dominant technology in this domain for the last two decades — is not only “crazy expensive,” but is also increasingly causing AI-native security operations to fail. In complex cloud environments, he says, the current model often increases exposure to threat actors.\n\n“Vega has defined a new operating model that enables organizations to leverage the full potential of their enterprise data to achieve incident response readiness, without all the complexity, the cost, the drama,” Sandler told TechCrunch. “We want to simply enable them to reach AI-native detection response capability anywhere the data is, at scale.”\n\nLike so many cybersecurity founders, Sandler did his time in the Israeli military’s cybersecurity unit before being one of the founding employees behind Granulate, whichIntel acquired for $650 millionin 2022. After a year at Intel, Sandler decided to “do it big time in the c",
+      "excerpt": "Modern enterprises generate enormous amounts of security data, but legacy tools like Splunk still require companies to store all of it in one place before they can detect threats — a slow and costly process that’s increasingly breaking down in cloud environments where volumes are exploding and data ",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip",
+      "link": "https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/",
+      "author": "Ivan Mehta",
+      "date": "2026-02-10T08:30:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Veritas-feat-photo.jpg?w=1200",
+      "category": "Commerce",
+      "content": "The fake goods crisis cuts two ways. Luxury brands lose more than$30 billion a yearto counterfeits, while buyers in the booming$210 billion second-hand markethave no reliable way to verify that what they’re purchasing is genuine.Veritaswants to solve both problems with a solution that combines custom hardware and software.\n\nThe startup claims that it has developed a “hack-proof” chip that can’t be bypassed by devices like Flipper Zero, a widely available hacking tool that can be used to tamper with wireless systems. These chips are linked with digital certificates to verify the authenticity of the products.\n\nVeritas founder Luci Holland has experienced life as both a technologist and an artist. She has worked in different artistic mediums, including mixed media painting and metal sculpture. She has also worked at Tesla as a technical product manager and has held several business development, community growth, and product management roles at tech companies and venture funds.\n\nHolland noted that traditionally, luxury goods makers use various symbols or physical marks to authenticate their products. However, with the growing demand for these goods, counterfeiters have learned to create convincing copies of these marks along with high-quality fake certificates. These goods are often called “superfakes.”\n\nHolland mentioned that she spoke with maisons — established luxury fashion houses — that said some of their locations had to stop authenticating goods because fakes were becoming too convincing to reliably detect. She said that drawing on her experience in both the tech and art worlds, she wanted to solve the problem.\n\n“For me, as someone who has a background in being a designer and then also has experience in tech, I saw this problem and thought about the different ways we could solve it. I think what’s truly innovative is we’ve used and combined elements from both hardware and software to create this solution that helps protect brands in this way to convey the informa",
+      "excerpt": "The fake goods crisis cuts two ways. Luxury brands lose more than$30 billion a yearto counterfeits, while buyers in the booming$210 billion second-hand markethave no reliable way to verify that what they’re purchasing is genuine.Veritaswants to solve both problems with a solution that combines custo",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "Former GitHub CEO raises record $60M dev tool seed round at $300M valuation",
       "link": "https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/",
@@ -10,6 +44,23 @@
       "category": "Startups",
       "content": "Former GitHub CEO Thomas Dohmke has raised the largest-ever seed round for a dev tool startup, according to its lead backer, Felicis. The startup,Entire, has raised $60 million at a $300 million valuation.\n\nEntire offers an open source tool to help developers better manage code written by AI agents.\n\nEntire’s tech has three components. One is a Git-compatible database to unify the AI-produced code. Git is a distributed version control system popular with enterprises and used by open source sites like GitHub and GitLab.\n\nAnother component is what it calls “a universal semantic reasoning layer” intended to allow multiple AI agents to work together. The final piece is an AI-native user interface designed with agent-to-human collaboration in mind.\n\nThe first product Entire is releasing is an open source tool it calls Checkpoints that automatically pairs every bit of software the agent submits for use in a software project with the context that created it, including prompts and transcripts. The idea is to allow the human developer to review, search, and perhaps even learn from why the AI did what it did.\n\nEntire hopes to help developers better deal with the large volumes of software created by AI coding agents. Popular open source projects areparticularly overwhelmed these days with suggested code contributionsthat may or may not be AI slop — meaning poorly designed and possibly unusable code.\n\nDohmke explains in the press release: “We are living through an agent boom, and now massive volumes of code are being generated faster than any human could reasonably understand. The truth is, our manual system of software production — from issues, to git repositories, to pull requests, to deployment — was never designed for the era of AI in the first place.”\n\nDohmke was CEO of Microsoft’s GitHub for four years, leaving in August 2025 to found a startup, he said in aposton X at the time. During his time there, he oversaw the rise of the popular coding agent GitHub Copilot.\n\nOther ",
       "excerpt": "Former GitHub CEO Thomas Dohmke has raised the largest-ever seed round for a dev tool startup, according to its lead backer, Felicis. The startup,Entire, has raised $60 million at a $300 million valuation.\n\nEntire offers an open source tool to help developers better manage code written by AI agents.",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Singapore says China-backed hackers targeted its four largest phone companies",
+      "link": "https://techcrunch.com/2026/02/10/singapore-china-backed-hackers-targeted-largest-phone-companies-salt-typhoon/",
+      "author": "Zack Whittaker",
+      "date": "2026-02-10T08:19:39-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/singapore-2152482714.jpg?resize=1200,800",
+      "category": "Security",
+      "content": "Singapore’s government has blamed a known Chinese cyber-espionage group for targeting four of its top telecommunication companies as part of a months-long attack.\n\nIna statement Monday, Singapore confirmed for the first time that the hackers, known as UNC3886, targeted the country’s telecoms infrastructure, including its largest companies: Singtel, StarHub, M1, and Simba Telecom. The government previously said that it was responding to an unspecified attack on its critical infrastructure.\n\nWhile the intruders were able to breach and access some systems, they did not disrupt services or access personal information, said K. Shanmugam, the country’s coordinating minister for national security.\n\nGoogle-owned cybersecurity unit Mandiantpreviously linkedUNC3886 as an espionage group likely working on behalf of China. The Chinese government is known to conduct regular cyber-espionage operations, as well asprepositioning for disruptive attacksahead of an anticipated invasion of Taiwan, which Beijing has routinely denied,per Reuters.\n\nUNC3886 is known for exploitingzero-day vulnerabilitiesin routers, firewalls, and virtualized environments, where cybersecurity tools that are designed to spot malware cannot typically reach. The hacking group hastargeted the defense, technology, and telecom industriesacross the U.S. and the Asia-Pacific region.\n\nIn the case of the attack on Singapore’s top telcos, Shanmugam said the hackers used advanced tools, like rootkits, to gain long-term persistence to their systems.\n\n“In one instance, they were able to gain limited access to critical systems but did not get far enough to have been able to disrupt services,” according to the government’s statement.\n\nPer Reuters, the telcos said in a joint statement that the companies regularly face distributed denial-of-service and other malware attacks. “We adopt defence-in-depth mechanisms to protect our networks and conduct prompt remediation when any issues are detected,” the statement read.\n\nThe att",
+      "excerpt": "Singapore’s government has blamed a known Chinese cyber-espionage group for targeting four of its top telecommunication companies as part of a months-long attack.\n\nIna statement Monday, Singapore confirmed for the first time that the hackers, known as UNC3886, targeted the country’s telecoms infrast",
       "tags": [
         "Apple",
         "Amazon",
@@ -87,65 +138,14 @@
       ]
     },
     {
-      "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
-      "link": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
-      "author": "Julie Bort",
-      "date": "2026-02-09T13:14:50-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/Databricks_042221_Ali_Ghodsi_236.jpg?resize=1200,800",
-      "category": "Startups",
-      "content": "On Monday, Databricksannouncedit reached a $5.4 billion revenue run rate, growing 65% year-over-year, of which more than $1.4 billion was from its AI products.\n\nCo-founder and CEO Ali Ghodsi wanted to share these growth numbers because there’s so much talk about how AI is going to kill the SaaS business, he told TechCrunch.\n\n“Everybody’s like, ‘Oh, it’s SaaS. What’s going to happen to all these companies? What’s AI going to do with all these companies?’ For us, it’s just increasing the usage,” he said.\n\nTo be sure, he also wants to distance Databricks from the SaaS label, given that private markets value it as an AI company. Databricks on Monday also officially closed on its massive, previously announced $5 billion raiseat a $134 billion valuation, and nabbed a $2 billion loan facility as well.\n\nBut the company is straddling both worlds. Databricks is still best known as a cloud data warehouse provider. A data warehouse is where enterprises store massive amounts of data to analyze for business insights.\n\nGhodsi called out, in particular, one AI product that’s driving usage of its data warehouse: its LLM user interface named Genie.\n\nGenie is an example of how a SaaS business canreplace its user interfacewith natural language. For instance, he uses it to ask why warehouse usage and revenue spike on particular days.\n\nJust a few years ago, such a request required writing queries in a specific technical language, or having a special report programmed. Today, any product with an LLM interface can be used by anyone, Ghodsi noted. Genie is one reason for the company’s usage growth numbers, he said.\n\nThe threat of AI to SaaS isn’t, asone AI VC jokingly tweeted, that enterprises will rip out their SaaS “systems of record” to replace them with vibe-coded homegrown versions. Systems of record store critical business data, whether it’s on sales, customer support, or finance.\n\n“Why would you move your system of record? You know, it’s hard to move it,” Ghodsi said.\n\nThe model make",
-      "excerpt": "On Monday, Databricksannouncedit reached a $5.4 billion revenue run rate, growing 65% year-over-year, of which more than $1.4 billion was from its AI products.\n\nCo-founder and CEO Ali Ghodsi wanted to share these growth numbers because there’s so much talk about how AI is going to kill the SaaS busi",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Tem raises $75M to remake electricity markets using AI",
-      "link": "https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/",
-      "author": "Tim De Chant",
-      "date": "2026-02-09T19:01:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2014/04/shutterstock_103274513.jpg?resize=1200,800",
-      "category": "Climate",
-      "content": "As AIdata centers drive up electricity prices, London-based startupTemthinks AI might be able to help solve it, too.\n\nTem has built an energy transaction engine that relies on AI to cut prices relative to other energy traders. The company has signed up more than 2,600 business customers throughout the U.K. on the promise that buying energy from its utility division can save them up to 30% on their energy bills.\n\nThe startup recently closed an oversubscribed $75 million Series B led by Lightspeed Venture Partners with participation from AlbionVC, Allianz, Atomico, Hitachi Ventures, Revent, Schroders Capital, and Voyager Ventures, TechCrunch has exclusively learned.\n\nThe round values Tem at more than $300 million, a source familiar with the deal told TechCrunch. The startup plans to use the funding to help expand to Australia and the U.S., starting with Texas.\n\n“We’re in a nice position where we kind of have control over our own profitability. So I could have chosen not to raise at all and had a lovely, nice bootstrap business in some ways,” Joe McDonald, co-founder and CEO of Tem, told TechCrunch. “Well, we’re not that kind of business. We know what we want to achieve as someone who wants to go public over the years.”\n\nTem is a classic marketplace play, matching electricity generators with consumers. The company intentionally started by focusing almost exclusively on renewable energy generators and small businesses to fill both sides of the ledger. “The more decentralized and the more distributed, the better it is for the algorithms,” McDonald said. “But this works all the way up to enterprise.”\n\nThe company’s customers include fast-fashion retailer Boohoo Group, soft drink company Fever-Tree, and Newcastle United FC.\n\nCurrently, Tem is running what amounts to two different businesses. One, called Rosso, is the transaction engine that matches suppliers with buyers. Here, machine learning algorithms and LLMs help predict supply and demand.\n\nThe goal with Rosso, McDona",
-      "excerpt": "As AIdata centers drive up electricity prices, London-based startupTemthinks AI might be able to help solve it, too.\n\nTem has built an energy transaction engine that relies on AI to cut prices relative to other energy traders. The company has signed up more than 2,600 business customers throughout t",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip",
-      "link": "https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/",
-      "author": "Ivan Mehta",
-      "date": "2026-02-10T08:30:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Veritas-feat-photo.jpg?w=1200",
-      "category": "Commerce",
-      "content": "The fake goods crisis cuts two ways. Luxury brands lose more than$30 billion a yearto counterfeits, while buyers in the booming$210 billion second-hand markethave no reliable way to verify that what they’re purchasing is genuine.Veritaswants to solve both problems with a solution that combines custom hardware and software.\n\nThe startup claims that it has developed a “hack-proof” chip that can’t be bypassed by devices like Flipper Zero, a widely available hacking tool that can be used to tamper with wireless systems. These chips are linked with digital certificates to verify the authenticity of the products.\n\nVertitas founder Luci Holland has experienced life as both a technologist and an artist. She has worked in different artistic mediums, including mixed media painting and metal sculpture. She has also worked at Tesla as a technical product manager and has held several business development, community growth, and product management roles at tech companies and venture funds.\n\nHolland noted that traditionally, luxury goods makers use various symbols or physical marks to authenticate their products. However, with the growing demand for these goods, counterfeiters have learned to create convincing copies of these marks along with high-quality fake certificates. These goods are often called “superfakes.”\n\nHolland mentioned that she spoke with maisons — established luxury fashion houses — that said that some of their locations had to stop authenticating goods because fakes were becoming too convincing to reliably detect. She said that drawing on her experience in both the tech and art worlds, she wanted to solve the problem.\n\n“For me, as someone who has a background in being a designer and then also has experience in tech, I saw this problem and thought about the different ways we could solve it. I think what’s truly innovative is we’ve used and combined elements from both hardware and software to create this solution that helps protect brands in this way to convey the i",
-      "excerpt": "The fake goods crisis cuts two ways. Luxury brands lose more than$30 billion a yearto counterfeits, while buyers in the booming$210 billion second-hand markethave no reliable way to verify that what they’re purchasing is genuine.Veritaswants to solve both problems with a solution that combines custo",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Singapore says China-backed hackers targeted its four largest phone companies",
-      "link": "https://techcrunch.com/2026/02/10/singapore-china-backed-hackers-targeted-largest-phone-companies-salt-typhoon/",
-      "author": "Zack Whittaker",
-      "date": "2026-02-10T08:19:39-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/singapore-2152482714.jpg?resize=1200,800",
+      "title": "Google sent personal and financial information of student journalist to ICE",
+      "link": "https://techcrunch.com/2026/02/10/google-sent-personal-and-financial-information-of-student-journalist-to-ice/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "date": "2026-02-10T12:41:21-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
       "category": "Security",
-      "content": "Singapore’s government has blamed a known Chinese cyber-espionage group for targeting four of its top telecommunication companies as part of a months-long attack.\n\nIna statement Monday, Singapore confirmed for the first time that the hackers, known as UNC3886, targeted the country’s telecoms infrastructure, including its largest companies: Singtel, StarHub, M1, and Simba Telecom. The government previously said that it was responding to an unspecified attack on its critical infrastructure.\n\nWhile the intruders were able to breach and access some systems, they did not disrupt services or access personal information, said K. Shanmugam, the country’s coordinating minister for national security.\n\nGoogle-owned cybersecurity unit Mandiantpreviously linkedUNC3886 as an espionage group likely working on behalf of China. The Chinese government is known to conduct regular cyber-espionage operations, as well asprepositioning for disruptive attacksahead of an anticipated invasion of Taiwan, which Beijing has routinely denied,per Reuters.\n\nUNC3886 is known for exploitingzero-day vulnerabilitiesin routers, firewalls, and virtualized environments, where cybersecurity tools that are designed to spot malware cannot typically reach. The hacking group hastargeted the defense, technology, and telecom industriesacross the U.S. and the Asia-Pacific region.\n\nIn the case of the attack on Singapore’s top telcos, Shanmugam said the hackers used advanced tools, like rootkits, to gain long-term persistence to their systems.\n\n“In one instance, they were able to gain limited access to critical systems but did not get far enough to have been able to disrupt services,” according to the government’s statement.\n\nPer Reuters, the telcos said in a joint statement that the companies regularly face distributed denial-of-service and other malware attacks. “We adopt defence-in-depth mechanisms to protect our networks and conduct prompt remediation when any issues are detected,” the statement read.\n\nThe att",
-      "excerpt": "Singapore’s government has blamed a known Chinese cyber-espionage group for targeting four of its top telecommunication companies as part of a months-long attack.\n\nIna statement Monday, Singapore confirmed for the first time that the hackers, known as UNC3886, targeted the country’s telecoms infrast",
+      "content": "Google handed over a trove of personal data about a student and journalist to U.S. Immigration and Customs Enforcement in response to a subpoena that had not been approved by a judge,according to a report by The Intercept.\n\nThe search and advertising tech giant provided ICE with the usernames, physical addresses, and an itemized list of services associated with the Google account of Amandla Thomas-Johnson, a British student and journalist who briefly attended a pro-Palestinian protest in 2024 while attending Cornell University in New York.\n\nGoogle also turned over Thomas-Johnson’s IP addresses, phone numbers, subscriber numbers and identities, and credit card and bank account numbers linked to his account.\n\nThe subpoena, which reportedly included a gag order, did not include a specific justification for why ICE was requesting Thomas-Johnson’s personal data, but the studentpreviously saidthat the demand for his data came within two hours of Cornell informing him that the U.S. government had revoked his student visa.\n\nThis is the latest example of how the U.S. government is using a controversial type of legal request, called an administrative subpoena, to demand that tech companiesturn over the private data of individualswho have been critical of the Trump administration. This has included anonymous Instagram accounts that share information about ICE presence and raids, as well as people who criticize or protest Trump and his policies.\n\nICE and Google did not immediately respond to a request for comment.\n\nAdministrative subpoenas are issued directly by federal agencies without the intervention of a judge. These legal demands cannot compel companies to turn over the contents of a person’s email accounts, online searches, or location data, but can request metadata and other identifiable information, such as email addresses, in an attempt to de-anonymize the owner of a certain online account.\n\nUnlike a court order, tech companies are under no obligation to provide someon",
+      "excerpt": "Google handed over a trove of personal data about a student and journalist to U.S. Immigration and Customs Enforcement in response to a subpoena that had not been approved by a judge,according to a report by The Intercept.\n\nThe search and advertising tech giant provided ICE with the usernames, physi",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
-      "link": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
-      "author": "Rebecca Bellan",
-      "date": "2026-02-10T08:00:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Shay-Sandler-Eli-Rosen.-Credit-Ohad-Kab.jpeg?resize=1200,802",
+      "title": "Nearly half of xAI’s founding team has now left the company",
+      "link": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
+      "author": "Russell Brandom",
+      "date": "2026-02-10T12:31:51-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?resize=1200,800",
       "category": "AI",
-      "content": "Modern enterprises generate enormous amounts of security data, but legacy tools like Splunk still require companies to store all of it in one place before they can detect threats — a slow and costly process that’s increasingly breaking down in cloud environments where volumes are exploding and data lives everywhere.\n\nAI cybersecurity startupVega Securitywants to flip that approach by running security where the data already lives, implementing in cloud services, data lakes, and existing storage systems. And the two-year-old firm just raised a $120 million Series B round to scale that vision, TechCrunch has exclusively learned.\n\nLed by Accel with participation from Cyberstarts, Redpoint, and CRV, the new round nearly doubles Vega’s valuation to $700 million, and brings its total funding to $185 million, money the startup will use to further develop its AI-native security operations suite, beef up its go-to-market team, and expand globally.\n\nShay Sandler, co-founder and CEO of Vega, told TechCrunch that the current operating model of the SIEM (security information and event management) — the dominant technology in this domain for the last two decades — is not only “crazy expensive,” but is also increasingly causing AI-native security operations to fail. In complex cloud environments, he says, the current model often increases exposure to threat actors.\n\n“Vega has defined a new operating model that enables organizations to leverage the full potential of their enterprise data to achieve incident response readiness, without all the complexity, the cost, the drama,” Sandler told TechCrunch. “We want to simply enable them to reach AI-native detection response capability anywhere the data is, at scale.”\n\nLike so many cybersecurity founders, Sandler did his time in the Israeli military’s cybersecurity unit before being one of the founding employees behind Granulate, whichIntel acquired for $650 millionin 2022. After a year at Intel, Sandler decided to “do it big time in the c",
-      "excerpt": "Modern enterprises generate enormous amounts of security data, but legacy tools like Splunk still require companies to store all of it in one place before they can detect threats — a slow and costly process that’s increasingly breaking down in cloud environments where volumes are exploding and data ",
+      "content": "Monday night, xAI co-founder Yuhuai (Tony) Wu announced he was leaving the company. “It’s time for my next chapter,” Wu wrotein a late-night poston X. “It is an era with full possibilities: a small team armed with AIs can move mountains and redefine what’s possible.”\n\nOn its own, it’s a pretty standard tech departure announcement — but it’s part of a troubling pattern for the lab. Five members ofthe company’s 12-person founding teamhave now left the company, with four of the departures coming in just the last year. Infrastructure lead Kyle Kosic left for OpenAI in mid-2024, followed by Google veteran Christian Szegedy in February 2025. This past August, Igor Babushkinleft to found a venture firm, and Microsoft alum Greg Yang departed just last month,citing health issues.\n\nBy all accounts, the splits have all been amicable, and there are lots of reasons why, nearly three years in, some founders might decide to move on. Elon Musk is a notoriously demanding boss, and with the SpaceX’s acquisition of xAI complete and an IPO pending in the coming months, everyone involved has a pretty big windfall coming. It’s a great time to be fundraising for an AI startup, so it’s only natural for high-level researchers to want to strike out on their own.\n\nThere are also less amicable reasons that might factor in. The company’s flagship product, the Grok chatbot, has struggled withbizarre behaviorandapparent internal tampering— the kind of thing that might easily create friction on the technical team. Then there were the recent changes to xAI’s image-generation tools thatflooded the platform with deepfake pornography, sparking slow-moving but reallegal consequences.\n\nWhatever the cause, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more scrutiny than the lab has ever faced before. With Musk alreadyspinning up plans for orbital data centers, the pressure to make good on those plans will be intense. The pace of model development isn’t",
+      "excerpt": "Monday night, xAI co-founder Yuhuai (Tony) Wu announced he was leaving the company. “It’s time for my next chapter,” Wu wrotein a late-night poston X. “It is an era with full possibilities: a small team armed with AIs can move mountains and redefine what’s possible.”\n\nOn its own, it’s a pretty stand",
       "tags": [
         "Apple",
         "Amazon",
