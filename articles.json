@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-02-10T15:04:07.510914+00:00",
+  "last_updated": "2026-02-10T17:13:52.967985+00:00",
   "articles": [
+    {
+      "title": "Former GitHub CEO raises record $60M dev tool seed round at $300M valuation",
+      "link": "https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/",
+      "author": "Julie Bort",
+      "date": "2026-02-10T06:30:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Github-Thomas.jpeg?resize=1200,800",
+      "category": "Startups",
+      "content": "Former GitHub CEO Thomas Dohmke has raised the largest-ever seed round for a dev tool startup, according to its lead backer, Felicis. The startup,Entire, has raised $60 million at a $300 million valuation.\n\nEntire offers an open source tool to help developers better manage code written by AI agents.\n\nEntire’s tech has three components. One is a git-compatible database to unify the AI-produced code. Git is a distributed version control system popular with enterprises and used by open source sites like GitHub and GitLab.\n\nAnother component is what it calls “a universal semantic reasoning layer” intended to allow multiple AI agents to work together. The final piece is an AI-native user interface designed with agent-to-human collaboration in mind.\n\nThe first product Entire is releasing is an open-source tool it calls Checkpoints that automatically pairs every bit of software the agent submits for use in a software project with the context that created it, including prompts and transcripts. The idea is to allow the human developer to review, search, and perhaps even learn from why the AI did what it did.\n\nEntire hopes to help developers better deal with the large volumes of software created by AI coding agents. Popular open-source projects areparticularly overwhelmed these days with suggested code contributionsthat may or may not be AI slop — meaning poorly designed and possibly unusable code.\n\nDohmke explains in the press release: “We are living through an agent boom, and now massive volumes of code are being generated faster than any human could reasonably understand. The truth is, our manual system of software production — from issues, to git repositories, to pull requests, to deployment — was never designed for the era of AI in the first place.”\n\nDohmke was CEO of Microsoft’s GitHub for four years, leaving in August 2025 to found a startup, he said in aposton X at the time. During his time there, he oversaw the rise of the popular coding agent GitHub Copilot.\n\nOther ",
+      "excerpt": "Former GitHub CEO Thomas Dohmke has raised the largest-ever seed round for a dev tool startup, according to its lead backer, Felicis. The startup,Entire, has raised $60 million at a $300 million valuation.\n\nEntire offers an open source tool to help developers better manage code written by AI agents.",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Google expands tools to let users remove sensitive data about themselves from Search",
+      "link": "https://techcrunch.com/2026/02/10/google-remove-sensitive-personal-data-from-search/",
+      "author": "Aisha Malik",
+      "date": "2026-02-10T07:54:48-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=1024",
+      "category": "Apps",
+      "content": "As part of Safer Internet Day, Googleunveiled updatesto its “Results about you” and non-consensual explicit image removal tools.\n\nThe “Results about you” tool already allows users to remove Search results containing their phone number, email address, or home address, and it can now also be used to request the removal of results that include information such as a driver’s license, passport, or Social Security number, the company said in the update Tuesday.\n\nYou can access the tool in the Google app by tapping your Google account photo and selecting “Results about you.” If it’s your first time using the tool, you need to click “Get started” and then add the personal contact information you want to monitor. You’ll then be prompted to add your government ID numbers. Existing users can add their ID numbers and select which ones they want to monitor.\n\nOnce you’ve confirmed your details, Google will automatically monitor Search results and notify you if it finds results that contain your information. Google notes that removing this information from Search doesn’t remove it from the web entirely, but that doing so can help keep your information private.\n\nThe update is rolling out in the U.S. over the coming days. Google plans to bring it to additional regions in the future.\n\nThe tech giant also announced that it’s making it easier to request the removal of non-consensual explicit images on Search. Now, users just have to click on the three dots on an image, select “remove result,” then tap “It shows a sexual image of me.” Additionally, you no longer need to report images one by one, as you can now select and submit requests for multiple images from Search results using a single form. Users can also track the status of all requests in one place within the “Results about you” hub.\n\n“We understand that removing existing content is only part of the solution,” Google wrote in itsblog post. “For added protection, the new process allows you to opt-in to safeguards that will proact",
+      "excerpt": "As part of Safer Internet Day, Googleunveiled updatesto its “Results about you” and non-consensual explicit image removal tools.\n\nThe “Results about you” tool already allows users to remove Search results containing their phone number, email address, or home address, and it can now also be used to r",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "The first signs of burnout are coming from the people who embrace AI the most",
       "link": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
@@ -10,6 +44,40 @@
       "category": "AI",
       "content": "The most seductive narrative in American work culture right now isn’t that AI will take your job. It’s that AI will save you from it.\n\nThat’s the version the industry has spent the last three years selling to millions of nervous people who are eager to buy it. Yes, some white-collar jobs will disappear. But for most other roles, the argument goes, AI is a force multiplier. You become a more capable, more indispensable lawyer, consultant, writer, coder, financial analyst — and so on. The tools work for you, you work less hard, everybody wins.\n\nBut anew studypublished in Harvard Business Review follows that premise to its actual conclusion, and what it finds there isn’t a productivity revolution. It finds companies are at risk of becoming burnout machines.\n\nAs part of what they describe as “in-progress research,” UC Berkeley researchers spent eight months inside a 200-person tech company watching what happened when workers genuinely embraced AI. What they found across more than 40 “in-depth” interviews was that nobody was pressured at this company. Nobody was told to hit new targets. People just started doing more because the tools made more feel doable. But because they could do these things, work began bleeding into lunch breaks and late evenings. The employees’ to-do lists expanded to fill every hour that AI freed up, and then kept going.\n\nAs one engineer told them, “You had thought that maybe, oh, because you could be more productive with AI, then you save some time, you can work less. But then really, you don’t work less. You just work the same amount or even more.”\n\nOver on the tech industry forum Hacker News, one commenter had thesame reaction, writing, “I feel this. Since my team has jumped into an AI everything working style, expectations have tripled, stress has tripled and actual productivity has only gone up by maybe 10%. It feels like leadership is putting immense pressure on everyone to prove their investment in AI is worth it and we all feel the pressur",
       "excerpt": "The most seductive narrative in American work culture right now isn’t that AI will take your job. It’s that AI will save you from it.\n\nThat’s the version the industry has spent the last three years selling to millions of nervous people who are eager to buy it. Yes, some white-collar jobs will disapp",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "India orders social media platforms to take down deepfakes faster",
+      "link": "https://techcrunch.com/2026/02/10/india-orders-social-media-platforms-to-take-down-deepfakes-faster/",
+      "author": "Jagmeet Singh",
+      "date": "2026-02-10T06:51:13-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/12/india-parliament-getty.jpg?w=1200",
+      "category": "Government & Policy",
+      "content": "India has ordered social media platforms to step up policing of deepfakes and other AI-generated impersonations, while sharply shortening the time they have to comply with takedown orders. It’s a move that could reshape how global tech firms moderate content in one of the world’s largest and fastest growing market for internet services.\n\nThe changes,published(PDF) on Tuesday as amendments toIndia’s 2021 IT Rules, bring deepfakes under a formal regulatory framework, mandating the labelling and traceability of synthetic audio and visual content, while also slashing compliance timelines for platforms, including a three-hour deadline for official takedown orders and a two-hour window for certain urgent user complaints.\n\nIndia’s importance as a digital market amplifies the impact of the new rules. With over a billion internet users and a predominantly young population, the South Asian nation is a critical market for platforms like Meta and YouTube, making it likely that compliance measures adopted in India will influence global product and moderation practices.\n\nUnder the amended rules, social media platforms that allow users to upload or share audio-visual content must require disclosures on whether material is synthetically generated, deploy tools to verify those claims, and ensure that deepfakes are clearly labelled and embedded with traceable provenance data.\n\nCertain categories of synthetic content — including deceptive impersonations, non-consensual intimate imagery, and material linked to serious crimes — are barred outright in the rules. Non-compliance, particularly in cases flagged by authorities or users, can expose companies to greater legal liability by jeopardising their safe-harbour protections under Indian law.\n\nThe rules lean heavily on automated systems to meet those obligations. Platforms are expected to deploy technical tools to verify user disclosures, identify, and label deepfakes, and prevent the creation or sharing of prohibited synthetic content i",
+      "excerpt": "India has ordered social media platforms to step up policing of deepfakes and other AI-generated impersonations, while sharply shortening the time they have to comply with takedown orders. It’s a move that could reshape how global tech firms moderate content in one of the world’s largest and fastest",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Trump EPA reportedly seeks to revoke landmark air pollution rule",
+      "link": "https://techcrunch.com/2026/02/10/trump-epa-reportedly-seeks-to-revoke-landmark-air-pollution-rule/",
+      "author": "Tim De Chant",
+      "date": "2026-02-10T07:47:13-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2201520437.jpeg?resize=1200,800",
+      "category": "Climate",
+      "content": "The Trump administration’s EPA administrator, Lee Zeldin, is looking to repeal the 2009 “endangerment finding” that found greenhouse gases pose a threat to human health and welfare, possibly as early as this week, the Wall Street Journalreports.\n\nThe EPA finding had set the legal basis for federal regulation of six greenhouse gases, including carbon dioxide and methane, and it has been unsuccessfully challenged since it was first instituted.\n\nThe move is almost certain to attract a number of lawsuits, and it could be years before the matter is settled. The EPA’s move will only affect tailpipe emissions for cars and trucks, though it’s expected that the Trump administration will use it to unwind regulations in other sectors like power plants and industrial facilities.\n\nLegacy automakers, whichpushed Trump to weaken fuel efficiency rules, notably did not push for the EPA to repeal the endangerment finding. Tesla went further,asking the EPA to maintain the finding, saying it was “based on a robust factual and scientific record.”\n\nIf the Trump administration is successful, the U.S. will be increasingly out of step with regulations in other advanced economies. Companies that do business across borders will need to develop different approaches for each market, increasing costs.\n\nAutomakers, in particular, are facing a future in which they’ll be forced to serve bifurcated markets, at least in the near term. Regulatory whiplash in the U.S. coupled with increasing competition from China has cost automakerstens of billions of dollars.\n\nAmerican automakers’ reliance on fossil fuel-powered trucks, in particular, has painted the domestic industry into a corner, providing addictive profits that distract from future-proofing their fleets in advance ofseemingly inevitablecompetition from Chinese marques.\n\nThe Trump administration told the WSJ it expects the policy change to save more than $1 trillion, though it didn’t provide any evidence to back that figure up.\n\nClimate change is ",
+      "excerpt": "The Trump administration’s EPA administrator, Lee Zeldin, is looking to repeal the 2009 “endangerment finding” that found greenhouse gases pose a threat to human health and welfare, possibly as early as this week, the Wall Street Journalreports.\n\nThe EPA finding had set the legal basis for federal r",
       "tags": [
         "Apple",
         "Amazon",
@@ -53,14 +121,14 @@
       ]
     },
     {
-      "title": "MrBeast’s company buys Gen Z-focused fintech app Step",
-      "link": "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/",
-      "author": "Amanda Silberling",
-      "date": "2026-02-09T13:26:11-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-03-at-4.07.49-PM.png?resize=1200,671",
-      "category": "Fintech",
-      "content": "YouTube megastar MrBeastannouncedon Monday that his company, Beast Industries, is buying Step, ateen-focused banking app.\n\nStep, which raised half a billion in funding and has grown to over7 million users, offers financial services geared toward Gen Z to help them build credit, save money, and invest. The company has attracted celebrity investors likeCharli D’Amelio, Will Smith, The Chainsmokers, and Stephen Curry, in addition to venture firms like General Catalyst, Coatue, and the payments company Stripe.\n\nIf the company wants to continue getting its fintech product in front of young eyes, then partnering with Gen Z phenom MrBeast is wise. MrBeast, whose real name is Jimmy Donaldson, is the most-subscribed creator on YouTube, with over 466 million subscribers, but his ambitions stretch beyond his over-the-top videos.\n\n“Nobody taught me about investing, building credit, or managing money when I was growing up,” the 27-year-oldsaid. “I want to give millions of young people the financial foundation I never had.”\n\nI'm so excited to share that we are acquiring the financial services app,@stepNobody taught me about investing, building credit, or managing money when I was growing up. That's exactly why we’re joining forces with Step! I want to give millions of young people the financial…\n\nThis acquisition makes sense, considering that aleaked pitch documentfrom last year showed this was an area of interest for Beast Industries. The company is also reportedly interested in launching a mobile virtual network operator (MVNO), a lower-cost cell phone plan similar to Ryan Reynolds’ Mint Mobile.\n\nIn line with other top creators, Beast Industries’ business is much more thanYouTube ad revenue. (In fact, the company reinvests much of that money back into the content.) The company’s cash cow is the chocolate brand Feastables, which ismore profitablethan both the MrBeast YouTube channel and the Prime Video show “Beast Games,” according to leaked documents reported on by Bloomberg. S",
-      "excerpt": "YouTube megastar MrBeastannouncedon Monday that his company, Beast Industries, is buying Step, ateen-focused banking app.\n\nStep, which raised half a billion in funding and has grown to over7 million users, offers financial services geared toward Gen Z to help them build credit, save money, and inves",
+      "title": "Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip",
+      "link": "https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/",
+      "author": "Ivan Mehta",
+      "date": "2026-02-10T08:30:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Veritas-feat-photo.jpg?w=1200",
+      "category": "Commerce",
+      "content": "The fake goods crisis cuts two ways. Luxury brands lose more than$30 billion a yearto counterfeits, while buyers in the booming$210 billion second-hand markethave no reliable way to verify that what they’re purchasing is genuine.Veritaswants to solve both problems with a solution that combines custom hardware and software.\n\nThe startup claims that it has developed a “hack-proof” chip that can’t be bypassed by devices like Flipper Zero, a widely available hacking tool that can be used to tamper with wireless systems. These chips are linked with digital certificates to verify the authenticity of the products.\n\nVertitas founder Luci Holland has experienced life as both a technologist and an artist. She has worked in different artistic mediums, including mixed media painting and metal sculpture. She has also worked at Tesla as a technical product manager and has held several business development, community growth, and product management roles at tech companies and venture funds.\n\nHolland noted that traditionally, luxury goods makers use various symbols or physical marks to authenticate their products. However, with the growing demand for these goods, counterfeiters have learned to create convincing copies of these marks along with high-quality fake certificates. These goods are often called “superfakes.”\n\nHolland mentioned that she spoke with maisons — established luxury fashion houses — that said that some of their locations had to stop authenticating goods because fakes were becoming too convincing to reliably detect. She said that drawing on her experience in both the tech and art worlds, she wanted to solve the problem.\n\n“For me, as someone who has a background in being a designer and then also has experience in tech, I saw this problem and thought about the different ways we could solve it. I think what’s truly innovative is we’ve used and combined elements from both hardware and software to create this solution that helps protect brands in this way to convey the i",
+      "excerpt": "The fake goods crisis cuts two ways. Luxury brands lose more than$30 billion a yearto counterfeits, while buyers in the booming$210 billion second-hand markethave no reliable way to verify that what they’re purchasing is genuine.Veritaswants to solve both problems with a solution that combines custo",
       "tags": [
         "Apple",
         "Amazon",
@@ -70,99 +138,31 @@
       ]
     },
     {
-      "title": "ChatGPT rolls out ads",
-      "link": "https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads/",
-      "author": "Sarah Perez",
-      "date": "2026-02-09T12:15:26-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-ads.webp?resize=1200,675",
+      "title": "Singapore says China-backed hackers targeted its four largest phone companies",
+      "link": "https://techcrunch.com/2026/02/10/singapore-china-backed-hackers-targeted-largest-phone-companies-salt-typhoon/",
+      "author": "Zack Whittaker",
+      "date": "2026-02-10T08:19:39-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/singapore-2152482714.jpg?resize=1200,800",
+      "category": "Security",
+      "content": "Singapore’s government has blamed a known Chinese cyber-espionage group for targeting four of its top telecommunication companies as part of a months-long attack.\n\nIna statement Monday, Singapore confirmed for the first time that the hackers, known as UNC3886, targeted the country’s telecoms infrastructure, including its largest companies: Singtel, StarHub, M1, and Simba Telecom. The government previously said that it was responding to an unspecified attack on its critical infrastructure.\n\nWhile the intruders were able to breach and access some systems, they did not disrupt services or access personal information, said K. Shanmugam, the country’s coordinating minister for national security.\n\nGoogle-owned cybersecurity unit Mandiantpreviously linkedUNC3886 as an espionage group likely working on behalf of China. The Chinese government is known to conduct regular cyber-espionage operations, as well asprepositioning for disruptive attacksahead of an anticipated invasion of Taiwan, which Beijing has routinely denied,per Reuters.\n\nUNC3886 is known for exploitingzero-day vulnerabilitiesin routers, firewalls, and virtualized environments, where cybersecurity tools that are designed to spot malware cannot typically reach. The hacking group hastargeted the defense, technology, and telecom industriesacross the U.S. and the Asia-Pacific region.\n\nIn the case of the attack on Singapore’s top telcos, Shanmugam said the hackers used advanced tools, like rootkits, to gain long-term persistence to their systems.\n\n“In one instance, they were able to gain limited access to critical systems but did not get far enough to have been able to disrupt services,” according to the government’s statement.\n\nPer Reuters, the telcos said in a joint statement that the companies regularly face distributed denial-of-service and other malware attacks. “We adopt defence-in-depth mechanisms to protect our networks and conduct prompt remediation when any issues are detected,” the statement read.\n\nThe att",
+      "excerpt": "Singapore’s government has blamed a known Chinese cyber-espionage group for targeting four of its top telecommunication companies as part of a months-long attack.\n\nIna statement Monday, Singapore confirmed for the first time that the hackers, known as UNC3886, targeted the country’s telecoms infrast",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
+      "link": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
+      "author": "Rebecca Bellan",
+      "date": "2026-02-10T08:00:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Shay-Sandler-Eli-Rosen.-Credit-Ohad-Kab.jpeg?resize=1200,802",
       "category": "AI",
-      "content": "OpenAI on Monday announced it’s beginning to test ads in the U.S. for users on its Free and Go subscription tiers.\n\nThe newer Go plan is a low-cost subscription at $8 per month in the U.S. and wasintroduced globallyin mid-January.\n\nSubscribers to OpenAI’s paid plans, including its Plus, Pro, Business, Enterprise, and Education tiers, will not see ads, the company said.\n\nOpenAI sought to address concerns about how ads might affect the user experience, stating in ablog post: “Ads do not influence the answers ChatGPT gives you, and we keep your conversations with ChatGPT private from advertisers. Our goal is for ads to support broader access to more powerful ChatGPT features while maintaining the trust people place in ChatGPT for important and personal tasks.”\n\nThe move,which the company announced last month, drew ridicule in a series of Super Bowl ads that ran on Sunday from a top rival, Anthropic.\n\nIn its TV commercials, Anthropic poked fun at the idea that some AI companies, like OpenAI, would soon include advertising by showing how poorly integrated ads could disrupt the consumer experience. This was portrayed on-screen by glassy-eyed actors playing AI chatbots, who would deliver their advice alongside a poorly targeted ad.\n\nOpenAI CEOSam Altman got extremely testyabout the jabs,callingthe ads “dishonest” and Anthropic an “authoritarian company.”\n\nConsumers have so far resisted the idea of ads in AI responses. OpenAI faced abacklash late last yearwhen it tested app suggestions that looked like unwanted ads. Still, the AI company needs to generate revenue from its popular chatbot to cover the costs of developing its technology and growing the business.\n\nWhile understandable, critics fear that ads could influence ChatGPT’s answers. OpenAI denies this in its announcement, saying that ads will be optimized based on “what’s most helpful to you.” The company says ads will also always be clearly labeled as sponsored and separated from the organic content.\n\nIn tests, OpenA",
-      "excerpt": "OpenAI on Monday announced it’s beginning to test ads in the U.S. for users on its Free and Go subscription tiers.\n\nThe newer Go plan is a low-cost subscription at $8 per month in the U.S. and wasintroduced globallyin mid-January.\n\nSubscribers to OpenAI’s paid plans, including its Plus, Pro, Busines",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "The battle begins: 2026 Startup Battlefield 200 nominations are open",
-      "link": "https://techcrunch.com/2026/02/09/the-battle-begins-startup-battlefield-200-nominations-are-open/",
-      "author": "TechCrunch Events",
-      "date": "2026-02-09T06:30:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/54889167026_7a80a409c4_o.jpg?resize=1200,800",
-      "category": "Startups",
-      "content": "Early-stage founders, this is your moment!\n\nAre you ready to put your startup to the test on the ultimate global stage? The Startup Battlefield is calling. Nominations forTechCrunch Startup Battlefield 200, the world’s most iconic startup pitch competition, are officially open.\n\nStep onto the main stage atTechCrunch Disrupt 2026and go head-to-head in front of world-class VC judges and the entire TechCrunch audience. This is where breakout companies are forged. Compete for $100,000 in equity-free funding, earn global exposure, and get real, unfiltered feedback from the investors who shape the future of tech.\n\nStartup Battlefield alumni includeDropbox, Discord, Fitbit, Trello and CloudFlare— over 1,700 startups that once stood exactly where you are now.\n\nThe next breakout doesn’t happen by accident.Nominate now.\n\nThousands of startups apply each year, and this year’s field will be even more competitive. TechCrunch reviews every nomination, but founders who enter early give themselves a strategic edge. If you’re serious about winning, don’t wait to join the fight.\n\nExplore the full list of perks.\n\nWe’re looking for bold, early-stage founders with an MVP and a vision that challenges the status quo. If you’re bootstrapped, pre-seed, or seed-funded, this battlefield was made for you. Series A startups in capital-intensive industries may also qualify.\n\nNominations close mid-June, but champions don’t wait for the last call. Prepare early. Nominate early.Enter Startup Battlefield 200and fight for your place on tech’s biggest stage.",
-      "excerpt": "Early-stage founders, this is your moment!\n\nAre you ready to put your startup to the test on the ultimate global stage? The Startup Battlefield is calling. Nominations forTechCrunch Startup Battlefield 200, the world’s most iconic startup pitch competition, are officially open.\n\nStep onto the main s",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Discord to roll out age verification next month for full access to its platform",
-      "link": "https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/",
-      "author": "Aisha Malik",
-      "date": "2026-02-09T07:39:02-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/discord-app-logo.jpg?resize=1200,800",
-      "category": "Apps",
-      "content": "Discord is rolling out age verification globally starting next month, the companyannouncedon Monday. All users will be put into a “teen-appropriate experience” by default unless they prove they’re adults. Age verification will be required to change certain settings and access age-restricted content.\n\nDiscord users will need to be confirmed as adults in order to unblur sensitive content or turn off the setting, and only adults can access age-restricted channels, servers, and app commands. Additionally, messages from people a user may not know are routed to a separate inbox by default, and only verified adults can modify this setting.\n\nPeople will receive warning prompts for friend requests from users they may not know, and only adults will be able speak onstage in servers.\n\nTo complete age verification, users need to either complete a facial age estimation or submit an ID to Discord’s vendor partners. The platform plans to add more options in the future. Discord notes that some users may be asked to use multiple methods when additional information is needed to assign an age group.\n\nThe facial age estimation requires video selfies, which Discord says never leave your device. Additionally, the company says IDs submitted to its vendor partners are deleted quickly and, in most cases, immediately after age confirmation.\n\nIt’s worth noting that Discorddisclosedlast October that around 70,000 users may have had sensitive data, such as their government ID photos, exposed after hackers breached a third-party vendor that the platform uses for age-related appeals. The breach reflecteddigital rights activists’ concernsover the use of age checks as a way to make the internet “safer.”\n\nDiscord’s global launch of age verification follows the company’s decision toestablish age checksfor users in the U.K. and Australia last year.\n\n“Rolling out teen-by-default settings globally builds on Discord’s existing safety architecture, giving teens strong protections while allowing verified ad",
-      "excerpt": "Discord is rolling out age verification globally starting next month, the companyannouncedon Monday. All users will be put into a “teen-appropriate experience” by default unless they prove they’re adults. Age verification will be required to change certain settings and access age-restricted content.",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Call for speakers: TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/02/09/call-for-speakers-techcrunch-founder-summit-2026/",
-      "author": "TechCrunch Events",
-      "date": "2026-02-09T07:00:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
-      "category": "Startups",
-      "content": "Have real-world scaling experience? TheTechCrunch Founder Summit 2026stage is calling.\n\nOnJune 23 in Boston, this annual founder-focused event will bring together 1,100+ founders and investors to explore the realities of scaling startups across every stage. We’re seeking experienced founders, VCs, and startup operators to lead interactive roundtable discussions rooted in practical, real-world insight.\n\nExperienced leaders from across the startup ecosystem will convene to host interactive roundtable sessions designed to spark real conversations. This is where founders get honest guidance, tactical takeaways, and clarity on the challenges that come with growth.Apply here to get started.\n\nRoundtables at TC Founder Summit are built for depth, not decks. Each session is a 30-minute, informal discussion led by up to two speakers, with no slides or video — just meaningful dialogue and practical insight. These intimate conversations create space for founders to ask real questions and connect directly with experts who’ve been there before.\n\nTo apply, clickApply to Speakon theevent page, submit your proposed topic, and share your experience as a scaling expert. TC Founder Summit is the ideal platform to contribute to the next generation of startup leaders.\n\nSpeaking at TC Founder Summit is more than visibility. It’s full access to the experience. Along with elevating your authority and brand, you’ll gain premium entry to breakout sessions, roundtables, and curated networking with founders seeking guidance and VCs scouting what’s next.\n\nPlus, TechCrunch will amplify your participation through:\n\nLead the conversation. Share what you’ve learned. Help founders navigate the highs and lows of scaling, and strengthen your reputation as a trusted voice in the startup community.\n\nApply early. TC Founder Summit takes place on June 23, but speaker applications close well before then.Submit nowand be part of TechCrunch’s annual founder bootcamp.",
-      "excerpt": "Have real-world scaling experience? TheTechCrunch Founder Summit 2026stage is calling.\n\nOnJune 23 in Boston, this annual founder-focused event will bring together 1,100+ founders and investors to explore the realities of scaling startups across every stage. We’re seeking experienced founders, VCs, a",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Hauler Hero collects $16M for its AI waste management software",
-      "link": "https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/",
-      "author": "Rebecca Szkutak",
-      "date": "2026-02-10T07:00:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/Hauler-Hero-_-Mark.jpg?resize=1200,800",
-      "category": "Startups",
-      "content": "Hauler Herohas picked up fresh funds as demand for its AI-powered waste management software continues to pile up.\n\nThe New York-based startup raised $16 million in a Series A round led by Frontier Growth with participation from I2BF Global Ventures, K5 Global, and Somersault Ventures, among others, TechCrunch has learned. Hauler Hero has raised more than $27 million in venture capital, to date.\n\nHauler Hero has developed an all-in-one software platform for waste management companies that covers a variety of functions, including customer relationship management, billing, and routing. And now, like so many other software companies, Hauler Hero plans to offer AI agents to its customers as well.\n\nHauler Hero was co-founded in 2020 by CEO Mark Hoadley and brother-in-law Ben Sikma, who encountered outdated software while working on mergers and acquisitions in the sector. Their aim was to bring waste management into the modern era.\n\n“All of the existing software in the space, they were clunky, old,” Hoadley told TechCrunch in 2024. “Sometimes we’d talk about how this one reminds us of the Oregon Trail, this reminds us of the cell phone Michael Douglas used in ‘Wall Street.’ They’re very clunky and antiquated.”\n\nThe numbers suggest the company has had some success; Hauler Hero said it has helped facilitate 35 million trash pickups since inception in 2020. And it continues to grow, according to Hoadley, who told TechCrunch the company has doubled its head count, revenue and customer base since announcing itsseed round in late 2024.\n\nHauler Hero has added new features to its platform since its seed round, Hoadley said. The most notable is a product that captures images from third-party cameras on garbage trucks and send them directly to a software command center. This information helps waste management companies confirm pickups, verify billing, and keep a better eye on their distributed fleet, according to the company.\n\nHoadley said some sanitation workers, and their respecti",
-      "excerpt": "Hauler Herohas picked up fresh funds as demand for its AI-powered waste management software continues to pile up.\n\nThe New York-based startup raised $16 million in a Series A round led by Frontier Growth with participation from I2BF Global Ventures, K5 Global, and Somersault Ventures, among others, ",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "India orders social media platforms to take down deepfakes faster",
-      "link": "https://techcrunch.com/2026/02/10/india-orders-social-media-platforms-to-take-down-deepfakes-faster/",
-      "author": "Jagmeet Singh",
-      "date": "2026-02-10T06:51:13-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/india-parliament-getty.jpg?w=1200",
-      "category": "Government & Policy",
-      "content": "India has ordered social media platforms to step up policing of deepfakes and other AI-generated impersonations, while sharply shortening the time they have to comply with takedown orders. It’s a move that could reshape how global tech firms moderate content in one of the world’s largest and fastest growing market for internet services.\n\nThe changes,published(PDF) on Tuesday as amendments toIndia’s 2021 IT Rules, bring deepfakes under a formal regulatory framework, mandating the labelling and traceability of synthetic audio and visual content, while also slashing compliance timelines for platforms, including a three-hour deadline for official takedown orders and a two-hour window for certain urgent user complaints.\n\nIndia’s importance as a digital market amplifies the impact of the new rules. With over a billion internet users and a predominantly young population, the South Asian nation is a critical market for platforms like Meta and YouTube, making it likely that compliance measures adopted in India will influence global product and moderation practices.\n\nUnder the amended rules, social media platforms that allow users to upload or share audio-visual content must require disclosures on whether material is synthetically generated, deploy tools to verify those claims, and ensure that deepfakes are clearly labelled and embedded with traceable provenance data.\n\nCertain categories of synthetic content — including deceptive impersonations, non-consensual intimate imagery, and material linked to serious crimes — are barred outright in the rules. Non-compliance, particularly in cases flagged by authorities or users, can expose companies to greater legal liability by jeopardising their safe-harbour protections under Indian law.\n\nThe rules lean heavily on automated systems to meet those obligations. Platforms are expected to deploy technical tools to verify user disclosures, identify, and label deepfakes, and prevent the creation or sharing of prohibited synthetic content i",
-      "excerpt": "India has ordered social media platforms to step up policing of deepfakes and other AI-generated impersonations, while sharply shortening the time they have to comply with takedown orders. It’s a move that could reshape how global tech firms moderate content in one of the world’s largest and fastest",
+      "content": "Modern enterprises generate enormous amounts of security data, but legacy tools like Splunk still require companies to store all of it in one place before they can detect threats — a slow and costly process that’s increasingly breaking down in cloud environments where volumes are exploding and data lives everywhere.\n\nAI cybersecurity startupVega Securitywants to flip that approach by running security where the data already lives, implementing in cloud services, data lakes, and existing storage systems. And the two-year-old firm just raised a $120 million Series B round to scale that vision, TechCrunch has exclusively learned.\n\nLed by Accel with participation from Cyberstarts, Redpoint, and CRV, the new round nearly doubles Vega’s valuation to $700 million, and brings its total funding to $185 million, money the startup will use to further develop its AI-native security operations suite, beef up its go-to-market team, and expand globally.\n\nShay Sandler, co-founder and CEO of Vega, told TechCrunch that the current operating model of the SIEM (security information and event management) — the dominant technology in this domain for the last two decades — is not only “crazy expensive,” but is also increasingly causing AI-native security operations to fail. In complex cloud environments, he says, the current model often increases exposure to threat actors.\n\n“Vega has defined a new operating model that enables organizations to leverage the full potential of their enterprise data to achieve incident response readiness, without all the complexity, the cost, the drama,” Sandler told TechCrunch. “We want to simply enable them to reach AI-native detection response capability anywhere the data is, at scale.”\n\nLike so many cybersecurity founders, Sandler did his time in the Israeli military’s cybersecurity unit before being one of the founding employees behind Granulate, whichIntel acquired for $650 millionin 2022. After a year at Intel, Sandler decided to “do it big time in the c",
+      "excerpt": "Modern enterprises generate enormous amounts of security data, but legacy tools like Splunk still require companies to store all of it in one place before they can detect threats — a slow and costly process that’s increasingly breaking down in cloud environments where volumes are exploding and data ",
       "tags": [
         "Apple",
         "Amazon",
