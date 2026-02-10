@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-02-10T05:06:55.282392+00:00",
+  "last_updated": "2026-02-10T07:09:21.386907+00:00",
   "articles": [
+    {
+      "title": "The first signs of burnout are coming from the people who embrace AI the most",
+      "link": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
+      "author": "Connie Loizos",
+      "date": "2026-02-09T22:46:55-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1158287360-e1665956231123.jpg?resize=1200,676",
+      "category": "AI",
+      "content": "The most seductive narrative in American work culture right now isn’t that AI will take your job. It’s that AI will save you from it.\n\nThat’s the version the industry has spent the last three years selling to millions of nervous people who are eager to buy it. Yes, some white-collar jobs will disappear. But for most other roles, the argument goes, AI is a force multiplier. You become a more capable, more indispensable lawyer, consultant, writer, coder, financial analyst — and so on. The tools work for you, you work less hard, everybody wins.\n\nBut anew studypublished in Harvard Business Review follows that premise to its actual conclusion, and what it finds there isn’t a productivity revolution. It finds companies are at risk of becoming burnout machines.\n\nAs part of what they describe as “in-progress research,” UC Berkeley researchers spent eight months inside a 200-person tech company watching what happened when workers genuinely embraced AI. What they found across more than 40 “in-depth” interviews was that nobody was pressured at this company. Nobody was told to hit new targets. People just started doing more because the tools made more feel doable. But because they could do these things, work began bleeding into lunch breaks and late evenings. The employees’ to-do lists expanded to fill every hour that AI freed up, and then kept going.\n\nAs one engineer told them, “You had thought that maybe, oh, because you could be more productive with AI, then you save some time, you can work less. But then really, you don’t work less. You just work the same amount or even more.”\n\nOver on the tech industry forum Hacker News, one commenter had thesame reaction, writing, “I feel this. Since my team has jumped into an AI everything working style, expectations have tripled, stress has tripled and actual productivity has only gone up by maybe 10%. It feels like leadership is putting immense pressure on everyone to prove their investment in AI is worth it and we all feel the pressur",
+      "excerpt": "The most seductive narrative in American work culture right now isn’t that AI will take your job. It’s that AI will save you from it.\n\nThat’s the version the industry has spent the last three years selling to millions of nervous people who are eager to buy it. Yes, some white-collar jobs will disapp",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
       "link": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
@@ -10,6 +27,23 @@
       "category": "Startups",
       "content": "On Monday, Databricksannouncedit reached a $5.4 billion revenue run rate, growing 65% year-over-year, of which more than $1.4 billion was from its AI products.\n\nCo-founder and CEO Ali Ghodsi wanted to share these growth numbers because there’s so much talk about how AI is going to kill the SaaS business, he told TechCrunch.\n\n“Everybody’s like, ‘Oh, it’s SaaS. What’s going to happen to all these companies? What’s AI going to do with all these companies?’ For us, it’s just increasing the usage,” he said.\n\nTo be sure, he also wants to distance Databricks from the SaaS label, given that private markets value it as an AI company. Databricks on Monday also officially closed on its massive, previously announced $5 billion raiseat a $134 billion valuation, and nabbed a $2 billion loan facility as well.\n\nBut the company is straddling both worlds. Databricks is still best known as a cloud data warehouse provider. A data warehouse is where enterprises store massive amounts of data to analyze for business insights.\n\nGhodsi called out, in particular, one AI product that’s driving usage of its data warehouse: its LLM user interface named Genie.\n\nGenie is an example of how a SaaS business canreplace its user interfacewith natural language. For instance, he uses it to ask why warehouse usage and revenue spike on particular days.\n\nJust a few years ago, such a request required writing queries in a specific technical language, or having a special report programmed. Today, any product with an LLM interface can be used by anyone, Ghodsi noted. Genie is one reason for the company’s usage growth numbers, he said.\n\nThe threat of AI to SaaS isn’t, asone AI VC jokingly tweeted, that enterprises will rip out their SaaS “systems of record” to replace them with vibe-coded homegrown versions. Systems of record store critical business data, whether it’s on sales, customer support, or finance.\n\n“Why would you move your system of record? You know, it’s hard to move it,” Ghodsi said.\n\nThe model make",
       "excerpt": "On Monday, Databricksannouncedit reached a $5.4 billion revenue run rate, growing 65% year-over-year, of which more than $1.4 billion was from its AI products.\n\nCo-founder and CEO Ali Ghodsi wanted to share these growth numbers because there’s so much talk about how AI is going to kill the SaaS busi",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Tem raises $75M to remake electricity markets using AI",
+      "link": "https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/",
+      "author": "Tim De Chant",
+      "date": "2026-02-09T19:01:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2014/04/shutterstock_103274513.jpg?resize=1200,800",
+      "category": "Climate",
+      "content": "As AIdata centers drive up electricity prices, London-based startupTemthinks AI might be able to help solve it, too.\n\nTem has built an energy transaction engine that relies on AI to cut prices relative to other energy traders. The company has signed up more than 2,600 business customers throughout the U.K. on the promise that buying energy from its utility division can save them up to 30% on their energy bills.\n\nThe startup recently closed an oversubscribed $75 million Series B led by Lightspeed Venture Partners with participation from AlbionVC, Allianz, Atomico, Hitachi Ventures, Revent, Schroders Capital, and Voyager Ventures, TechCrunch has exclusively learned.\n\nThe round values Tem at more than $300 million, a source familiar with the deal told TechCrunch. The startup plans to use the funding to help expand to Australia and the U.S., starting with Texas.\n\n“We’re in a nice position where we kind of have control over our own profitability. So I could have chosen not to raise at all and had a lovely, nice bootstrap business in some ways,” Joe McDonald, co-founder and CEO of Tem, told TechCrunch. “Well, we’re not that kind of business. We know what we want to achieve as someone who wants to go public over the years.”\n\nTem is a classic marketplace play, matching electricity generators with consumers. The company intentionally started by focusing almost exclusively on renewable energy generators and small businesses to fill both sides of the ledger. “The more decentralized and the more distributed, the better it is for the algorithms,” McDonald said. “But this works all the way up to enterprise.”\n\nThe company’s customers include fast-fashion retailer Boohoo Group, soft drink company Fever-Tree, and Newcastle United FC.\n\nCurrently, Tem is running what amounts to two different businesses. One, called Rosso, is the transaction engine that matches suppliers with buyers. Here, machine learning algorithms and LLMs help predict supply and demand.\n\nThe goal with Rosso, McDona",
+      "excerpt": "As AIdata centers drive up electricity prices, London-based startupTemthinks AI might be able to help solve it, too.\n\nTem has built an energy transaction engine that relies on AI to cut prices relative to other energy traders. The company has signed up more than 2,600 business customers throughout t",
       "tags": [
         "Apple",
         "Amazon",
@@ -70,23 +104,6 @@
       ]
     },
     {
-      "title": "Hacktivist scrapes over 500,000 stalkerware customers’ payment records",
-      "link": "https://techcrunch.com/2026/02/09/hacktivist-scrapes-over-500000-stalkerware-customers-payment-records/",
-      "author": "Zack WhittakerLorenzo Franceschi-Bicchierai8:20 AM PST · February 9, 2026",
-      "date": "2026-02-09T08:20:12-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1128003505.jpg?resize=1200,818",
-      "category": "Security",
-      "content": "A hacktivist has scraped more than half-a-million payment records from a provider of consumer-grade “stalkerware” phone surveillance apps, exposing the email addresses and partial payment information of customers who paid to spy on others.\n\nThe transactions contain records of payments for phone-tracking services like Geofinder and uMobix, as well as services like Peekviewer (formerly Glassagram), which purport to allow access to private Instagram accounts, among several other monitoring and tracking apps provided by the same vendor, a Ukrainian company called Struktura.\n\nThe customer data alsoincludes transaction records from Xnspy, a known phone surveillance app, whichin 2022 spilled the private datafrom tens of thousands of unsuspecting people’s Android devices and iPhones.\n\nThis is the latest example of a surveillance vendor exposing the information of its customers due to security flaws. Over the past few years,dozens of stalkerware appshave been hacked, or have managed to lose, spill, or expose people’s private data — often the victims themselves — thanks to shoddy cybersecurity by the stalkerware operators.\n\nContact UsTo contact Zack Whittaker securely, reach out via Signal username zackwhittaker.1337. Contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram, Keybase and Wire @lorenzofb, oremail.\n\nStalkerware apps like uMobix and Xnspy, once planted on someone’s phone, upload the victim’s private data, including their call records, text messages, photos, browsing history, and precise location data, which is then shared with the person who planted the app.\n\nApps like uMobix and Xnspy have explicitly marketed their services for people to spy on their spouses and domestic partners,which is illegal.\n\nThe data, seen by TechCrunch, included about 536,000 lines of customer email addresses, which app or brand the customer paid for, how much they paid, the payment card type (such as Visa or Mastercard), and the last four digits on th",
-      "excerpt": "A hacktivist has scraped more than half-a-million payment records from a provider of consumer-grade “stalkerware” phone surveillance apps, exposing the email addresses and partial payment information of customers who paid to spy on others.\n\nThe transactions contain records of payments for phone-trac",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
       "title": "Discord to roll out age verification next month for full access to its platform",
       "link": "https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/",
       "author": "Aisha Malik",
@@ -95,23 +112,6 @@
       "category": "Apps",
       "content": "Discord is rolling out age verification globally starting next month, the companyannouncedon Monday. All users will be put into a “teen-appropriate experience” by default unless they prove they’re adults. Age verification will be required to change certain settings and access age-restricted content.\n\nDiscord users will need to be confirmed as adults in order to unblur sensitive content or turn off the setting, and only adults can access age-restricted channels, servers, and app commands. Additionally, messages from people a user may not know are routed to a separate inbox by default, and only verified adults can modify this setting.\n\nPeople will receive warning prompts for friend requests from users they may not know, and only adults will be able speak onstage in servers.\n\nTo complete age verification, users need to either complete a facial age estimation or submit an ID to Discord’s vendor partners. The platform plans to add more options in the future. Discord notes that some users may be asked to use multiple methods when additional information is needed to assign an age group.\n\nThe facial age estimation requires video selfies, which Discord says never leave your device. Additionally, the company says IDs submitted to its vendor partners are deleted quickly and, in most cases, immediately after age confirmation.\n\nIt’s worth noting that Discorddisclosedlast October that around 70,000 users may have had sensitive data, such as their government ID photos, exposed after hackers breached a third-party vendor that the platform uses for age-related appeals. The breach reflecteddigital rights activists’ concernsover the use of age checks as a way to make the internet “safer.”\n\nDiscord’s global launch of age verification follows the company’s decision toestablish age checksfor users in the U.K. and Australia last year.\n\n“Rolling out teen-by-default settings globally builds on Discord’s existing safety architecture, giving teens strong protections while allowing verified ad",
       "excerpt": "Discord is rolling out age verification globally starting next month, the companyannouncedon Monday. All users will be put into a “teen-appropriate experience” by default unless they prove they’re adults. Age verification will be required to change certain settings and access age-restricted content.",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Gather AI, maker of ‘curious’ warehouse drones, lands $40M led by Keith Block’s firm",
-      "link": "https://techcrunch.com/2026/02/09/gather-ai-maker-of-curious-warehouse-drones-lands-40m-led-by-keith-blocks-firm/",
-      "author": "Julie Bort",
-      "date": "2026-02-09T06:00:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Gather-AI-CEO-Co-Founder_Sankalp-Arora.jpg?resize=1200,960",
-      "category": "Startups",
-      "content": "Gather AI, a startup that offers an AI platform for warehouse cameras and drones, has raised a $40 million Series B funding round led by Smith Point Capital. That’s the VC firm founded by former Salesforce co-CEO Keith Block.\n\nThe Gather team first met Smith Point a year ago at a logistics conference, and “it took Keith and his team five minutes to get what we’re doing,” co-founder and CEO Sankalp Arora told TechCrunch.\n\nWhatGather AIis doing is unusual. The three founders met as PhD students at Carnegie Mellon University, where they built one of the first autonomous helicopters and tested it on the FBI training grounds in Quantico. (Block is a trustee for CMU.)\n\nIn 2017, the founders took what they learned about teaching helicopters to fly and land safely and launched Gather AI. Using off-the-shelf cameras placed on strategic moving equipment like forklifts, as well as off-the-shelf drones flying around the warehouse, the cameras watch on-the-floor operations and log what they find into the warehouse management systems.\n\nBut the catch is, the AI isn’t being random about what it scans. It is being “curious,” as Arora described it.\n\n“My PhD work focused on how to make different kinds of flying robots curious,” he said. “So they’re curious about boxes and bar codes and workflows.”\n\nIn addition to barcodes, they look for lot codes, text, expiration dates, case counts, damages, occupancy, and other items. The idea is that they will discover and predict issues like low inventory, misplaced stock, and workflows that may cause safety issues.\n\nThey also work in environments unfriendly to people, like freezers and cold storage.\n\nBecause Gather’s underlying tech was built years before the age of large language models, this is not the kind of AI that an LLM uses.\n\n“They’re not end-to-end neural networks,” Arora explains. “They are classical Bayesian techniques, combined with neural networks.”\n\nAI vision Bayesian techniques use probability-base methods to teach computers how to",
-      "excerpt": "Gather AI, a startup that offers an AI platform for warehouse cameras and drones, has raised a $40 million Series B funding round led by Smith Point Capital. That’s the VC firm founded by former Salesforce co-CEO Keith Block.\n\nThe Gather team first met Smith Point a year ago at a logistics conferenc",
       "tags": [
         "Apple",
         "Amazon",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Tem raises $75M to remake electricity markets using AI",
-      "link": "https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/",
-      "author": "Tim De Chant",
-      "date": "2026-02-09T19:01:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2014/04/shutterstock_103274513.jpg?resize=1200,800",
-      "category": "Climate",
-      "content": "As AIdata centers drive up electricity prices, London-based startupTemthinks AI might be able to help solve it, too.\n\nTem has built an energy transaction engine that relies on AI to cut prices relative to other energy traders. The company has signed up more than 2,600 business customers throughout the U.K. on the promise that buying energy from its utility division can save them up to 30% on their energy bills.\n\nThe startup recently closed an oversubscribed $75 million Series B led by Lightspeed Venture Partners with participation from AlbionVC, Allianz, Atomico, Hitachi Ventures, Revent, Schroders Capital, and Voyager Ventures, TechCrunch has exclusively learned.\n\nThe round values Tem at more than $300 million, a source familiar with the deal told TechCrunch. The startup plans to use the funding to help expand to Australia and the U.S., starting with Texas.\n\n“We’re in a nice position where we kind of have control over our own profitability. So I could have chosen not to raise at all and had a lovely, nice bootstrap business in some ways,” Joe McDonald, co-founder and CEO of Tem, told TechCrunch. “Well, we’re not that kind of business. We know what we want to achieve as someone who wants to go public over the years.”\n\nTem is a classic marketplace play, matching electricity generators with consumers. The company intentionally started by focusing almost exclusively on renewable energy generators and small businesses to fill both sides of the ledger. “The more decentralized and the more distributed, the better it is for the algorithms,” McDonald said. “But this works all the way up to enterprise.”\n\nThe company’s customers include fast-fashion retailer Boohoo Group, soft drink company Fever-Tree, and Newcastle United FC.\n\nCurrently, Tem is running what amounts to two different businesses. One, called Rosso, is the transaction engine that matches suppliers with buyers. Here, machine learning algorithms and LLMs help predict supply and demand.\n\nThe goal with Rosso, McDona",
-      "excerpt": "As AIdata centers drive up electricity prices, London-based startupTemthinks AI might be able to help solve it, too.\n\nTem has built an energy transaction engine that relies on AI to cut prices relative to other energy traders. The company has signed up more than 2,600 business customers throughout t",
+      "title": "India makes Aadhaar more ubiquitous, but critics say security and privacy concerns remain",
+      "link": "https://techcrunch.com/2026/02/09/india-makes-aadhaar-more-ubiquitous-but-critics-say-privacy-concerns-remain/",
+      "author": "Jagmeet Singh",
+      "date": "2026-02-09T19:00:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/new-aadhaar-app-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+      "category": "Security",
+      "content": "India is pushing Aadhaar, the world’s largest digital identity system, deeper into everyday private life through a new app and offline verification support, a move that raises new questions about security, consent, and the broader use of the massive database.\n\nAnnouncedin late January by the Indian government-backed Unique Identification Authority of India (UIDAI), the changes introduce a new Aadhaar app alongside an offline verification framework that allows individuals to prove their identity without real-time checks against the central Aadhaar database.\n\nThe app allows users to share a limited amount of information, such as confirming that they are over a certain age rather than revealing their full date of birth, with a range of services, like hotels and housing societies to workplaces, platforms, and payment devices, while the existing mAadhaar app continues to operate in parallel for now.\n\nAlongside the new app, UIDAI is also expanding Aadhaar’s footprint in mobile wallets, withupcoming integration with Google Walletand discussions underway to enable similar functionality in Apple Wallet, in addition to existing support on Samsung Wallet.\n\nThe Indian authority is also promoting the app’s use in policing and hospitality. The Ahmedabad City Crime Branch has become the first police unit in India to integrate Aadhaar-based offline verification with PATHIK, a guest-monitoring platform launched by the police department, aimed at hotels and guest accommodations to record visitors’ information.\n\nUIDAI has also positioned the new Aadhaar app as adigital visiting cardfor meetings and networking, allowing users to share selected personal details via a QR code.\n\nOfficials at the launch in New Delhi said these latest efforts are part of a broader effort to replace photocopies and manual ID checks with consent-based, offline verification. The approach, they argued, is meant to give users more control over which specific identity information they want to share, while enablin",
+      "excerpt": "India is pushing Aadhaar, the world’s largest digital identity system, deeper into everyday private life through a new app and offline verification support, a move that raises new questions about security, consent, and the broader use of the massive database.\n\nAnnouncedin late January by the Indian ",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "India makes Aadhaar more ubiquitous, but critics say security and privacy concerns remain",
-      "link": "https://techcrunch.com/2026/02/09/india-makes-aadhaar-more-ubiquitous-but-critics-say-privacy-concerns-remain/",
-      "author": "Jagmeet Singh",
-      "date": "2026-02-09T19:00:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/new-aadhaar-app-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-      "category": "Security",
-      "content": "India is pushing Aadhaar, the world’s largest digital identity system, deeper into everyday private life through a new app and offline verification support, a move that raises new questions about security, consent, and the broader use of the massive database.\n\nAnnouncedin late January by the Indian government-backed Unique Identification Authority of India (UIDAI), the changes introduce a new Aadhaar app alongside an offline verification framework that allows individuals to prove their identity without real-time checks against the central Aadhaar database.\n\nThe app allows users to share a limited amount of information, such as confirming that they are over a certain age rather than revealing their full date of birth, with a range of services, like hotels and housing societies to workplaces, platforms, and payment devices, while the existing mAadhaar app continues to operate in parallel for now.\n\nAlongside the new app, UIDAI is also expanding Aadhaar’s footprint in mobile wallets, withupcoming integration with Google Walletand discussions underway to enable similar functionality in Apple Wallet, in addition to existing support on Samsung Wallet.\n\nThe Indian authority is also promoting the app’s use in policing and hospitality. The Ahmedabad City Crime Branch has become the first police unit in India to integrate Aadhaar-based offline verification with PATHIK, a guest-monitoring platform launched by the police department, aimed at hotels and guest accommodations to record visitors’ information.\n\nUIDAI has also positioned the new Aadhaar app as adigital visiting cardfor meetings and networking, allowing users to share selected personal details via a QR code.\n\nOfficials at the launch in New Delhi said these latest efforts are part of a broader effort to replace photocopies and manual ID checks with consent-based, offline verification. The approach, they argued, is meant to give users more control over which specific identity information they want to share, while enablin",
-      "excerpt": "India is pushing Aadhaar, the world’s largest digital identity system, deeper into everyday private life through a new app and offline verification support, a move that raises new questions about security, consent, and the broader use of the massive database.\n\nAnnouncedin late January by the Indian ",
+      "title": "Waymo is testing driverless robotaxis in Nashville",
+      "link": "https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/",
+      "author": "Kirsten Korosec",
+      "date": "2026-02-09T14:59:55-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800",
+      "category": "",
+      "content": "Waymo has pulled the human safety driver from its autonomous test vehicles in Nashville, as the Alphabet-owned company moves closer to launching a robotaxi service in the city.\n\nWaymo, which has been testing in Nashville for months, is slated to launch a robotaxi service there this year inpartnership with Lyft. Riders will initially hail rides directly through the Waymo app. Once the service expands, Waymo will also make its self-driving vehicles available through the Lyft app. Lyft has said it will handle fleet services, such as vehicle readiness and maintenance, charging infrastructure, and depot operations, through its wholly owned subsidiary Flexdrive.\n\nWaymo has accelerated its robotaxi expansion and today operates commercial services in Atlanta, Austin, Los Angeles, Miami, the San Francisco Bay Area, and Phoenix. It also has driverless test fleets in Dallas, Houston, San Antonio, and Orlando.\n\nThe company tends to follow the same rollout strategy in every new market, starting with a small fleet of vehicles that are manually driven to map the city. The autonomous vehicles are then tested with a human safety operator in the driver’s seat. Eventually, the company conducts driverless testing, often allowing employees to hail rides, before launching a robotaxi service.",
+      "excerpt": "Waymo has pulled the human safety driver from its autonomous test vehicles in Nashville, as the Alphabet-owned company moves closer to launching a robotaxi service in the city.\n\nWaymo, which has been testing in Nashville for months, is slated to launch a robotaxi service there this year inpartnershi",
       "tags": [
         "Apple",
         "Amazon",
