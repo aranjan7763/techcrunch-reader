@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T02:40:46.789719+00:00",
+  "last_updated": "2026-02-10T05:06:55.282392+00:00",
   "articles": [
     {
       "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Waymo is testing driverless robotaxis in Nashville",
-      "link": "https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/",
-      "author": "Kirsten Korosec",
-      "date": "2026-02-09T14:59:55-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800",
-      "category": "",
-      "content": "Waymo has pulled the human safety driver from its autonomous test vehicles in Nashville, as the Alphabet-owned company moves closer to launching a robotaxi service in the city.\n\nWaymo, which has been testing in Nashville for months, is slated to launch a robotaxi service there this year inpartnership with Lyft. Riders will initially hail rides directly through the Waymo app. Once the service expands, Waymo will also make its self-driving vehicles available through the Lyft app. Lyft has said it will handle fleet services, such as vehicle readiness and maintenance, charging infrastructure, and depot operations, through its wholly owned subsidiary Flexdrive.\n\nWaymo has accelerated its robotaxi expansion and today operates commercial services in Atlanta, Austin, Los Angeles, Miami, the San Francisco Bay Area, and Phoenix. It also has driverless test fleets in Dallas, Houston, San Antonio, and Orlando.\n\nThe company tends to follow the same rollout strategy in every new market, starting with a small fleet of vehicles that are manually driven to map the city. The autonomous vehicles are then tested with a human safety operator in the driver’s seat. Eventually, the company conducts driverless testing, often allowing employees to hail rides, before launching a robotaxi service.",
-      "excerpt": "Waymo has pulled the human safety driver from its autonomous test vehicles in Nashville, as the Alphabet-owned company moves closer to launching a robotaxi service in the city.\n\nWaymo, which has been testing in Nashville for months, is slated to launch a robotaxi service there this year inpartnershi",
+      "title": "Tem raises $75M to remake electricity markets using AI",
+      "link": "https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/",
+      "author": "Tim De Chant",
+      "date": "2026-02-09T19:01:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2014/04/shutterstock_103274513.jpg?resize=1200,800",
+      "category": "Climate",
+      "content": "As AIdata centers drive up electricity prices, London-based startupTemthinks AI might be able to help solve it, too.\n\nTem has built an energy transaction engine that relies on AI to cut prices relative to other energy traders. The company has signed up more than 2,600 business customers throughout the U.K. on the promise that buying energy from its utility division can save them up to 30% on their energy bills.\n\nThe startup recently closed an oversubscribed $75 million Series B led by Lightspeed Venture Partners with participation from AlbionVC, Allianz, Atomico, Hitachi Ventures, Revent, Schroders Capital, and Voyager Ventures, TechCrunch has exclusively learned.\n\nThe round values Tem at more than $300 million, a source familiar with the deal told TechCrunch. The startup plans to use the funding to help expand to Australia and the U.S., starting with Texas.\n\n“We’re in a nice position where we kind of have control over our own profitability. So I could have chosen not to raise at all and had a lovely, nice bootstrap business in some ways,” Joe McDonald, co-founder and CEO of Tem, told TechCrunch. “Well, we’re not that kind of business. We know what we want to achieve as someone who wants to go public over the years.”\n\nTem is a classic marketplace play, matching electricity generators with consumers. The company intentionally started by focusing almost exclusively on renewable energy generators and small businesses to fill both sides of the ledger. “The more decentralized and the more distributed, the better it is for the algorithms,” McDonald said. “But this works all the way up to enterprise.”\n\nThe company’s customers include fast-fashion retailer Boohoo Group, soft drink company Fever-Tree, and Newcastle United FC.\n\nCurrently, Tem is running what amounts to two different businesses. One, called Rosso, is the transaction engine that matches suppliers with buyers. Here, machine learning algorithms and LLMs help predict supply and demand.\n\nThe goal with Rosso, McDona",
+      "excerpt": "As AIdata centers drive up electricity prices, London-based startupTemthinks AI might be able to help solve it, too.\n\nTem has built an energy transaction engine that relies on AI to cut prices relative to other energy traders. The company has signed up more than 2,600 business customers throughout t",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Bluesky finally adds drafts",
-      "link": "https://techcrunch.com/2026/02/09/bluesky-finally-adds-drafts/",
-      "author": "Aisha Malik",
-      "date": "2026-02-09T13:22:08-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
-      "category": "",
-      "content": "Social network Bluesky is finallyrolling outone of users’ most-requested features: drafts. Bluesky’s competitors, X and Threads, have long supported the ability to write drafts, which is seen as a baseline feature for services like this.\n\nUsers can access drafts on Bluesky the same way they do on these other platforms, which is by opening the new post flow and selecting the Drafts button in the top-right corner.\n\nThe rollout of drafts comes as Bluesky recentlyteased its roadmap for the year ahead. The company said it plans to focus on improving the app’s algorithmic Discover feed, offering better recommendations on who to follow, and making the app feel more real-time, among other updates. At the same time, the company acknowledged that it still needs to get the basics right.\n\nAlthough Bluesky has gained a loyal user base, it still lags behind rivals when it comes to basic features, like private accounts and support for longer videos.\n\nLaunched to the public inearly 2024, Bluesky has since scaled to over42 million users, according to data sourced directly from the Bluesky API for developers.",
-      "excerpt": "Social network Bluesky is finallyrolling outone of users’ most-requested features: drafts. Bluesky’s competitors, X and Threads, have long supported the ability to write drafts, which is seen as a baseline feature for services like this.\n\nUsers can access drafts on Bluesky the same way they do on th",
+      "title": "India makes Aadhaar more ubiquitous, but critics say security and privacy concerns remain",
+      "link": "https://techcrunch.com/2026/02/09/india-makes-aadhaar-more-ubiquitous-but-critics-say-privacy-concerns-remain/",
+      "author": "Jagmeet Singh",
+      "date": "2026-02-09T19:00:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/new-aadhaar-app-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+      "category": "Security",
+      "content": "India is pushing Aadhaar, the world’s largest digital identity system, deeper into everyday private life through a new app and offline verification support, a move that raises new questions about security, consent, and the broader use of the massive database.\n\nAnnouncedin late January by the Indian government-backed Unique Identification Authority of India (UIDAI), the changes introduce a new Aadhaar app alongside an offline verification framework that allows individuals to prove their identity without real-time checks against the central Aadhaar database.\n\nThe app allows users to share a limited amount of information, such as confirming that they are over a certain age rather than revealing their full date of birth, with a range of services, like hotels and housing societies to workplaces, platforms, and payment devices, while the existing mAadhaar app continues to operate in parallel for now.\n\nAlongside the new app, UIDAI is also expanding Aadhaar’s footprint in mobile wallets, withupcoming integration with Google Walletand discussions underway to enable similar functionality in Apple Wallet, in addition to existing support on Samsung Wallet.\n\nThe Indian authority is also promoting the app’s use in policing and hospitality. The Ahmedabad City Crime Branch has become the first police unit in India to integrate Aadhaar-based offline verification with PATHIK, a guest-monitoring platform launched by the police department, aimed at hotels and guest accommodations to record visitors’ information.\n\nUIDAI has also positioned the new Aadhaar app as adigital visiting cardfor meetings and networking, allowing users to share selected personal details via a QR code.\n\nOfficials at the launch in New Delhi said these latest efforts are part of a broader effort to replace photocopies and manual ID checks with consent-based, offline verification. The approach, they argued, is meant to give users more control over which specific identity information they want to share, while enablin",
+      "excerpt": "India is pushing Aadhaar, the world’s largest digital identity system, deeper into everyday private life through a new app and offline verification support, a move that raises new questions about security, consent, and the broader use of the massive database.\n\nAnnouncedin late January by the Indian ",
       "tags": [
         "Apple",
         "Amazon",
