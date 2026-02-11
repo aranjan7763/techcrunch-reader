@@ -1,142 +1,6 @@
 {
-  "last_updated": "2026-02-11T16:08:44.905574+00:00",
+  "last_updated": "2026-02-11T17:58:16.297122+00:00",
   "articles": [
-    {
-      "title": "With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon",
-      "link": "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/",
-      "author": "Connie Loizos",
-      "date": "2026-02-10T21:23:26-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024",
-      "category": "AI",
-      "content": "On Tuesday night, Elon Musk gathered the employees of xAI for an all-hands meeting. Evidently, he wanted to talk about the future of his AI company, and specifically, how it relates to the moon.\n\nAccording to The New York Times, which reports that itheard the meeting, Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult. “You have to go to the moon,” he said, per the Times. The move, he explained, will help xAI harness more computing power than any rival. “It’s difficult to imagine what an intelligence of that scale would think about,” he added, “but it’s going to be incredibly exciting to see it happen.”\n\nWhat Musk didn’t appear to address clearly was how any of this would be built, or how he plans to reorganize the newly mergedxAI-SpaceXentity that is simultaneously careening toward a potentially historic IPO. He did acknowledge, proudly, that the company is in flux. “If you’re moving faster than anyone else in any given technology arena, you will be the leader,” he told employees, per the Times, “and xAI is moving faster than any other company — no one’s even close.” He added that “when this happens, there’s some people who are better suited for the early stages of a company and less suited for the later stages.”\n\nIt isn’t clear what prompted the all-hands, but the timing, whatever its cause, is at least curious. On Monday night, xAI co-founder Tony Wu announced he was leaving. Less than a day later, another xAI co-founder, Jimmy Ba, who reported directly to Musk, said he was bouncing, too. That brings the total tosix of xAI’s 12 founding members who have now left the young company. The splits have all been described as copacetic, and with aSpaceX IPOreportedly targeting a $1.5 trillion valuation coming as soon as this summer, everyone involved stands to do very well financially on their way out the door.\n\nThe moon itself is a more recent preoccupation",
-      "excerpt": "On Tuesday night, Elon Musk gathered the employees of xAI for an all-hands meeting. Evidently, he wanted to talk about the future of his AI company, and specifically, how it relates to the moon.\n\nAccording to The New York Times, which reports that itheard the meeting, Musk told employees that xAI ne",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Okay, now exactly half of xAI’s founding team has left the company",
-      "link": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
-      "author": "Russell Brandom",
-      "date": "2026-02-10T17:50:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?resize=1200,800",
-      "category": "AI",
-      "content": "Monday night, xAI co-founder Yuhuai (Tony) Wu announced he was leaving the company. “It’s time for my next chapter,” Wu wrotein a late-night poston X. “It is an era with full possibilities: a small team armed with AIs can move mountains and redefine what’s possible.”\n\nLess than a day later, on Tuesday afternoon, xAI co-founder Jimmy Ba, who reported directly to Musk, said that he, too, is bouncing, posting a gracious note on X on his way out. “Enormous thanks to @elonmusk for bringing us together on this incredible journey. So proud of what the xAI team has done and will continue to stay close as a friend of the team,” itread in part.\n\nOn their own, both were pretty standard tech departure announcements — but they’re part of a troubling pattern for the lab. Six members ofthe company’s 12-person founding teamhave now left the company, with five of the departures coming in just the last year. Infrastructure lead Kyle Kosic left for OpenAI in mid-2024, followed by Google veteran Christian Szegedy in February 2025. This past August, Igor Babuschkinleft to found a venture firm, and Microsoft alum Greg Yang departed just last month,citing health issues.\n\nBy all accounts, the splits have all been amicable, and there are lots of reasons why, nearly three years in, some founders might decide to move on. Elon Musk is a notoriously demanding boss, and with the SpaceX’s acquisition of xAI complete and an IPO pending in the coming months, everyone involved has a pretty big windfall coming. It’s a great time to be fundraising for an AI startup, so it’s only natural for high-level researchers to want to strike out on their own.\n\nThere are also less amicable reasons that might factor in. The company’s flagship product, the Grok chatbot, has struggled withbizarre behaviorandapparent internal tampering— the kind of thing that might easily create friction on the technical team. Then there were the recent changes to xAI’s image-generation tools thatflooded the platform with deepfake po",
-      "excerpt": "Monday night, xAI co-founder Yuhuai (Tony) Wu announced he was leaving the company. “It’s time for my next chapter,” Wu wrotein a late-night poston X. “It is an era with full possibilities: a small team armed with AIs can move mountains and redefine what’s possible.”\n\nLess than a day later, on Tuesd",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "An ice dance duo skated to AI music at the Olympics",
-      "link": "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/",
-      "author": "Amanda Silberling",
-      "date": "2026-02-10T14:31:13-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2260763822.jpg?resize=1200,800",
-      "category": "AI",
-      "content": "Czech ice dancers Kateřina Mrázková and Daniel Mrázek made their Olympic debut on Monday, an unfathomable feat that takes a lifetime of dedication and practice. But the sibling duo used AI music in their rhythm dance program, which doesn’t break any official rules, but serves as a depressing symbol of how absolutely cooked we are.\n\nAs Mrázek spun his sister in a crazy cartwheel-lift-sort-of-move that made them look superhuman, one of the NBC commentators mentioned in passing, “This is AI generated, this first part,” referring to the music. Somehow, that admission is even more baffling than the gravity-defying tricks that the siblings showed off on the pressure of Olympic ice.\n\nThe Olympic ice dance competition is split into two events: the rhythm dance, where pairs must perform a routine that meets a specific theme, and the free dance. This season’s theme is “The Music, Dance Styles, and Feeling of the 1990s.” British ice dancing duo Lilah Fear and Lewis Gibson paid tribute to the Spice Girls, while United States favorites Madison Chock and Evan Bates skated to a Lenny Kravitz medley.\n\nBut, for whatever reason — licensing issues? — Mrázková and Mrázek danced to a routine with music that’s half AC/DC and half AI. It’s weird. What’s even weirder is that this isn’t the duo’s first use of AI, nor is it the first time that this choice backfired.\n\nPer the International Skating Union, the governing body that oversees competitive ice skating, theduo’s music choicefor the rhythm dance this season has been “One Two by AI (of 90s style Bon Jovi)” and “Thunderstruck by AC/DC.” The official Olympics websiteconfirmsthat the duo is using the AI-generated song for the rhythm dance portion.\n\nok I know this is an art account but I have been seething about this ever since Shana Bartel caught it and wrote about it in her blog (which you should be reading it’s very good – link below) and I just NEEDED to get it out of me.  https://www.patreon.com/posts/142706982?utm_campaign=postshare_f",
-      "excerpt": "Czech ice dancers Kateřina Mrázková and Daniel Mrázek made their Olympic debut on Monday, an unfathomable feat that takes a lifetime of dedication and practice. But the sibling duo used AI music in their rhythm dance program, which doesn’t break any official rules, but serves as a depressing symbol ",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Here’s how Rivian changed the rear door manual release on the R2",
-      "link": "https://techcrunch.com/2026/02/10/heres-how-rivian-changed-the-rear-door-manual-release-on-the-r2/",
-      "author": "Sean O'Kane",
-      "date": "2026-02-10T11:38:54-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/r2-lidar.jpeg?resize=1200,900",
-      "category": "Transportation",
-      "content": "There’s been a lot of pushback onelectronic door handleslately, as multiple carmakers —especially Tesla— have been accused of making manual door releases too hard to find and access during an emergency. Rivian is one of the companies that reportedly decided to change this on its upcoming R2 SUV, and aspateof first-look videos released Tuesday finally give us a look at what the company has changed.\n\nFirst off, the front doors open from the inside in thesame way as in the existing R1 vehicles. There is an electronic button that opens the door, and there’s a manual door-release latch tucked into the front part of the interior handle.\n\nThe rear doors also have an electronic button, as well as a change to the rear manual release.\n\nOn R1 vehicles, passengers have to first pull a panel off the door to access a “release cord” that operates the manual latch. On the new R2 SUV, Rivian moved this release cord to that same front-of-the-handle position as the front seat manual releases — though it’s still tucked behind a piece of plastic that must be popped out, making it slightly harder to access than the front door manual releases.\n\nThe R2 SUV isn’t set to go into production for another few months, so the company has not put out proper instructions on how to access this release. But here’s an image from a newvideopublished by JerryRigEverything’s Zack Nelson:\n\nHe doesn’t pull out the actual cord, but it’s the best illustration I’ve seen so far of what passengers will need to do if they are in an R2 that has lost power for whatever reason, limiting the vehicle’s electronic door release.\n\nThe manual release is still behind a piece of plastic, and it’s not the most obvious or accessible way to open a door from the inside. But it’s at least in a more logical spot than just being hidden behind a panel.\n\nThese kinds of situations don’t happen often. But when they do, it’s typically during a major crash. That means every moment can mean the difference between life and death.\n\nRivian ",
-      "excerpt": "There’s been a lot of pushback onelectronic door handleslately, as multiple carmakers —especially Tesla— have been accused of making manual door releases too hard to find and access during an emergency. Rivian is one of the companies that reportedly decided to change this on its upcoming R2 SUV, and",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Amazon may launch a marketplace where media sites can sell their content to AI companies",
-      "link": "https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/",
-      "author": "Lucas Ropek",
-      "date": "2026-02-10T15:16:28-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198353077.jpg?w=1024",
-      "category": "AI",
-      "content": "The AI industry’s pursuit of licensable content has beena messy affair, filled with lawsuits and accusations of copyright infringement. Now, as tech companies look for legally safe sources of AI training data, Amazon is reportedly considering launching a marketplace where publishers can license their content directly to AI companies.\n\nThe InformationreportedMonday that the e-commerce giant has been meeting with publishing executives and alerting them to its plans to launch such a marketplace. Ahead of an AWS conference for publishers that occurred Tuesday, Amazon “circulated slides that mention a content marketplace,” wrote the outlet.\n\nReached by TechCrunch, an Amazon spokesperson didn’t deny the story but didn’t directly address the would-be marketplace either, saying only: “Amazon has built long-lasting, innovative relationships with publishers across many areas of our business, including AWS, Retail, Advertising, AGI, and Alexa. We are always innovating together to best serve our customers, but we have nothing specific to share on this subject at this time.”\n\nAmazon wouldn’t be the first major tech company to take this route. Microsoft recentlylaunchedwhat it calls a Publisher Content Marketplace (PCM), which it says will give publishers “a new revenue stream” while also providing AI systems with “scaled access to premium content.” Microsoft added that the PCM was designed to “empower publishers with a transparent economic framework for licensing” their content.\n\nThe move is a natural next step for the AI industry, which has already sought to solve the legally nebulous problem of how copyrighted material ends up in AI training data by forging deals with major news outlets and media organizations. OpenAI, for instance, has already signedcontent-licensing partnershipswith the Associated Press, Vox Media, News Corp, and The Atlantic, among others.\n\nThose efforts haven’t been enough to stem the legal fallout. The fight over copyrighted material in AI algorithms has ",
-      "excerpt": "The AI industry’s pursuit of licensable content has beena messy affair, filled with lawsuits and accusations of copyright infringement. Now, as tech companies look for legally safe sources of AI training data, Amazon is reportedly considering launching a marketplace where publishers can license thei",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "VC Masha Bucher, Epstein associate and Day One founder, explains herself",
-      "link": "https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/",
-      "author": "Julie Bort",
-      "date": "2026-02-10T13:07:44-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-11-26-at-12.51.48.jpeg?resize=909,1200",
-      "category": "Venture",
-      "content": "Masha Bucher, a Silicon Valley VC and founder of Day One Ventures,took to Xthis week to address news reports documenting her close business and personal relationship with convicted sex offender Jeffrey Epstein. Bucher’s name — primarily under her maiden name, Masha Drokova — appeared in the latest dump of Epstein files over 1,600 times,The San Francisco Standard reported.\n\n“He made me feel I could be safe from the regime, someone with power and connections who could shield me” from threats she associated with her home country Russia, which she said she feared after she obtained her U.S. green card, she wrote in the post.\n\n“I was naive; I didn’t dig deep enough early on,” she wrote about why she agreed to work with Epstein. “I believed his story that his earlier conviction was about sleeping with a girl who lied about her age and trusted validations from multiple investors and scientists.” She also apologized to her founders, team, and investors, saying that this situation has “caused pain I never intended.”\n\nThe files paint a picture of how Bucher — whose Silicon Valley career began in social media and public relations — agreed to become Epstein’s publicist in 2017, helping rehabilitate his reputation after his 2008 sex-trafficking conviction and setting up meetings between him and various journalists,as Forbes reported.\n\nThe documents show that Epstein supported and encouraged her in the early days of Day One Ventures. The firm has since grown substantially — as Buchertold TechCrunch, it closed its most recent fund, a $150 million third vehicle, in 2024, bringing its assets under management to $450 million.\n\nSome of the most salacious details from the emails involve Epstein giving her money and a Prada bag, and on one occasion, asking her for nude photos — though there’s no indication whether she complied — according toSFGate. Bucher is certainly a well-known VC in the Valley, having backed breakout companies like Superhuman, Remote, Worldcoin, and Truebill (whiche",
-      "excerpt": "Masha Bucher, a Silicon Valley VC and founder of Day One Ventures,took to Xthis week to address news reports documenting her close business and personal relationship with convicted sex offender Jeffrey Epstein. Bucher’s name — primarily under her maiden name, Masha Drokova — appeared in the latest d",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Google sent personal and financial information of student journalist to ICE",
-      "link": "https://techcrunch.com/2026/02/10/google-sent-personal-and-financial-information-of-student-journalist-to-ice/",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "date": "2026-02-10T12:41:21-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
-      "category": "Security",
-      "content": "Google handed over a trove of personal data about a student and journalist to U.S. Immigration and Customs Enforcement in response to a subpoena that had not been approved by a judge,according to a report by The Intercept.\n\nThe search and advertising tech giant provided ICE with the usernames, physical addresses, and an itemized list of services associated with the Google account of Amandla Thomas-Johnson, a British student and journalist who briefly attended a pro-Palestinian protest in 2024 while attending Cornell University in New York.\n\nGoogle also turned over Thomas-Johnson’s IP addresses, phone numbers, subscriber numbers and identities, and credit card and bank account numbers linked to his account.\n\nThe subpoena, which reportedly included a gag order, did not include a specific justification for why ICE was requesting Thomas-Johnson’s personal data, but the studentpreviously saidthat the demand for his data came within two hours of Cornell informing him that the U.S. government had revoked his student visa.\n\nThis is the latest example of how the U.S. government is using a controversial type of legal request, called an administrative subpoena, to demand that tech companiesturn over the private data of individualswho have been critical of the Trump administration. This has included anonymous Instagram accounts that share information about ICE presence and raids, as well as people who criticize or protest Trump and his policies.\n\nICE and Google did not immediately respond to a request for comment.\n\nAdministrative subpoenas are issued directly by federal agencies without the intervention of a judge. These legal demands cannot compel companies to turn over the contents of a person’s email accounts, online searches, or location data, but can request metadata and other identifiable information, such as email addresses, in an attempt to de-anonymize the owner of a certain online account.\n\nUnlike a court order, tech companies are under no obligation to provide someon",
-      "excerpt": "Google handed over a trove of personal data about a student and journalist to U.S. Immigration and Customs Enforcement in response to a subpoena that had not been approved by a judge,according to a report by The Intercept.\n\nThe search and advertising tech giant provided ICE with the usernames, physi",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
-      "link": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
-      "author": "Rebecca Bellan",
-      "date": "2026-02-10T08:00:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Shay-Sandler-Eli-Rosen.-Credit-Ohad-Kab.jpeg?resize=1200,802",
-      "category": "AI",
-      "content": "Modern enterprises generate enormous amounts of security data, but legacy tools like Splunk still require companies to store all of it in one place before they can detect threats — a slow and costly process that’s increasingly breaking down in cloud environments where volumes are exploding and data lives everywhere.\n\nAI cybersecurity startupVega Securitywants to flip that approach by running security where the data already lives, implementing in cloud services, data lakes, and existing storage systems. And the two-year-old firm just raised a $120 million Series B round to scale that vision, TechCrunch has exclusively learned.\n\nLed by Accel with participation from Cyberstarts, Redpoint, and CRV, the new round nearly doubles Vega’s valuation to $700 million, and brings its total funding to $185 million, money the startup will use to further develop its AI-native security operations suite, beef up its go-to-market team, and expand globally.\n\nShay Sandler, co-founder and CEO of Vega, told TechCrunch that the current operating model of the SIEM (security information and event management) — the dominant technology in this domain for the last two decades — is not only “crazy expensive,” but is also increasingly causing AI-native security operations to fail. In complex cloud environments, he says, the current model often increases exposure to threat actors.\n\n“Vega has defined a new operating model that enables organizations to leverage the full potential of their enterprise data to achieve incident response readiness, without all the complexity, the cost, the drama,” Sandler told TechCrunch. “We want to simply enable them to reach AI-native detection response capability anywhere the data is, at scale.”\n\nLike so many cybersecurity founders, Sandler did his time in the Israeli military’s cybersecurity unit before being one of the founding employees behind Granulate, whichIntel acquired for $650 millionin 2022. After a year at Intel, Sandler decided to “do it big time in the c",
-      "excerpt": "Modern enterprises generate enormous amounts of security data, but legacy tools like Splunk still require companies to store all of it in one place before they can detect threats — a slow and costly process that’s increasingly breaking down in cloud environments where volumes are exploding and data ",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
     {
       "title": "Former Founders Fund VC Sam Blond launches AI sales startup to upend Salesforce",
       "link": "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/",
@@ -144,8 +8,59 @@
       "date": "2026-02-11T08:00:00-08:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/Monaco-Founder-Photo.jpg?resize=1200,800",
       "category": "Startups",
-      "content": "When Sam Blond left his job as a VC for Founders Fund a year ago — just 18 months after he started — hetold the worldthat being a VC wasn’t for him and he was “going back to operating.”\n\nOn Wednesday, he officially brought his new startup,Monaco, out of stealth. It was co-founded with his brother Brian Blond, who is also an ex-sales professional turned VC. (Brian is a partner at Human Capital and was formerly at Sutter Hill.) The brothers are joined by two other co-founders, Abishek Viswanathan (previously CPO at Apollo and Qualtrics), and Malay Desai (formerly SVP of engineering at Clari).\n\nMonaco has raised a total of $35 million, between a $10 million seed and $25 million Series A round, Sam Blond tells TechCrunch. Both rounds were led by Founders Fund, with participation from Human Capital. The startup has been quietly testing its AI sales platform through a private beta for a while, but on Wednesday opened it up to a public beta.\n\nThe well-connected Blond brothers (Sam was previously head of sales at Brex), also attracted a bunch of big-name angels as backers: Stripe founders Patrick and John Collison, Y Combinator chief Garry Tan, and Greenoaks Capital founder Neil Mehta.\n\nSo what attracted such a venerable list of investors? Monaco is entering the crowded field of AI sales tech with a twist. It isn’t just competing with SaaS-era tech via its AI-native alternative; it’s also supplying experienced human salespeople to be experts in the AI loop, monitoring and guiding the AI’s work.\n\nThe startup is targeting young seed and Series A-level startups with a product suite that includes an AI-native customer relationship management (CRM) system and a built-from-scratch Zoominfo-like database for finding prospects. Its AI agents can create and execute email outreach campaigns and draft follow-up emails all monitored by the human experts. It includes other features, too, like a meeting notetaker.\n\nThe product is intended to automate much of the sales grunt work. “We can",
+      "content": "When Sam Blond left his job as a VC for Founders Fund a year ago — just 18 months after he started — hetold the worldthat being a VC wasn’t for him and he was “going back to operating.”\n\nOn Wednesday, he officially brought his new startup,Monaco, out of stealth. It was co-founded with his brother Brian Blond, who is also an ex-sales professional turned VC. (Brian is a partner at Human Capital and was formerly at Sutter Hill.) The brothers are joined by two other co-founders, Abishek Viswanathan (previously CPO at Apollo and Qualtrics), and Malay Desai (formerly SVP of engineering at Clari).\n\nMonaco has raised a total of $35 million, between a $10 million seed and $25 million Series A round, Sam Blond tells TechCrunch. Both rounds were led by Founders Fund, with participation from Human Capital. The startup has been quietly testing its AI sales platform through a private beta for a while, but on Wednesday opened it up to a public beta.\n\nThe well-connected Blond brothers (Sam was previously head of sales at Brex), also attracted a bunch of big-name angels as backers: Stripe founders Patrick and John Collison, Y Combinator chief Garry Tan, and Greenoaks Capital founder Neil Mehta.\n\nSo what attracted such a venerable list of investors? Monaco is entering the crowded field of AI sales tech with a twist. It isn’t just competing with SaaS-era tech via its AI-native alternative; it’s also supplying experienced human salespeople to be experts in the AI loop, monitoring and guiding the AI’s work.\n\nThe startup is targeting young seed and Series A-level startups with a product suite that includes an AI-native customer relationship management (CRM) system and a built-from-scratch ZoomInfo-like database for finding prospects. Its AI agents can create and execute email outreach campaigns and draft follow-up emails all monitored by the human experts. It includes other features, too, like a meeting notetaker.\n\nThe product is intended to automate much of the sales grunt work. “We can",
       "excerpt": "When Sam Blond left his job as a VC for Founders Fund a year ago — just 18 months after he started — hetold the worldthat being a VC wasn’t for him and he was “going back to operating.”\n\nOn Wednesday, he officially brought his new startup,Monaco, out of stealth. It was co-founded with his brother Br",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Humanoid robot startup Apptronik has now raised $935M at a $5B+ valuation",
+      "link": "https://techcrunch.com/2026/02/11/humanoid-robot-startup-apptronik-has-now-raised-935m-at-a-5b-valuation/",
+      "author": "Julie Bort",
+      "date": "2026-02-11T06:00:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Apptronik-Founders-New-1-e1770763778901.jpg?resize=1200,678",
+      "category": "Startups",
+      "content": "University of Texas spinoutApptronik, a builder of humanoid robots for Google DeepMind among others, on Wednesday announced that it re-opened its Series A to raise a total of $935 million for the round.\n\nWhile the company did not disclose the valuation, TechCrunch separately learned that its post-money valuation is now about $5.3 billion.\n\nApptronik previously announceda $350 million Series A a year ago, but demand was so strong, according to the company, that it expanded the round to $415 million. Now it has raised another $520 million from earlier investors Google, Mercedes-Benz, and B Capital, alongside some new investors.\n\nWhile it may sound like the startup is just selling off ever bigger chunks of itself at its Series A price, that’s not exactly what’s happening. The company says its investors have paid progressively more for shares in each subsequent extension — valuing it at roughly triple the initial Series A valuation of around $1.75 billion, according to PitchBook.\n\nWhy not just call this a Series B then? The company says it is still in early stages of development and was not actively seeking funding —  rather it was dealing with inbound interest, says a source close to the company.\n\nFair enough. Another $520 million in a year, especially at a higher valuation, would be hard to turn away, particularly for tech as expensive to build as bipedal robots. Closely watched competitor Figure AI, for instance,had raised nearly $2 billion totalsince its 2022 founding before announcing a further $1 billion round last fall.\n\nPart of the excitement over Apptronik is that it haspartnered with Google DeepMind, as well as GXO and Mercedes-Benz, to deliver what the industry calls embodied AI — robots capable of perceiving their environment and taking physical action based on reasoning, rather than just following fixed instructions. The robot is being built for tasks like unloading trailers, picking warehouse inventory, and tending machinery, the company says.\n\nDespite ret",
+      "excerpt": "University of Texas spinoutApptronik, a builder of humanoid robots for Google DeepMind among others, on Wednesday announced that it re-opened its Series A to raise a total of $935 million for the round.\n\nWhile the company did not disclose the valuation, TechCrunch separately learned that its post-mo",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Complyance raises $20M to help companies manage risk and compliance",
+      "link": "https://techcrunch.com/2026/02/11/complyance-raises-20m-to-help-companies-manage-risk-and-compliance/",
+      "author": "Dominic-Madori Davis",
+      "date": "2026-02-11T06:00:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Richa-Kaul-.jpg?resize=1200,798",
+      "category": "Startups",
+      "content": "Richa Kaul says she’s a bit of a data privacy nut. At parties, for example, she’s the one helping people with their phone privacy configurations. “It got to a point where I realized the best way to actually protect consumer data is to help secure the enterprises that hold the world’s data.”\n\nSo she launched a company calledComplyanceto do just that. On Wednesday, the company announced a $20 million Series A led by GV. Complyance is an app that companies integrate into their existing tech stack. It uses AI agents to help them manage governance, risk, and, well, data compliance.\n\n“The AI basically automates a number of manual tasks,” Kaul said. “It uses AI to do custom checks on data coming in against their own specific criteria and risk thresholds.” The AI then flags any risks that need review.\n\nThese risk reviews can take weeks or months when done manually. It’s a standard audit-based process that happens perhaps once a year or once a quarter, where teams will run a check on their organization. Tools like Complyance hope to make this process more efficient by using technology to run continuous checks in seconds, so companies never have to wonder if they are in data compliance. It also has an agent that assesses the risk of any third-party vendors.\n\n“We’re trying to redefine what enterprise GRC teams spend their time doing right now,” she said, adding that it’s usually chasing down mundane tasks. GRC refers to governance, risk, and compliance.\n\nOthers in the market include Archer, ServiceNow GRC, and OneTrust. She said her company differs from incumbents because it is AI-native, rather than layering AI features on top.\n\nKaul declined to say how many customers the company has, but noted that it works with a few Fortune 500 companies. Complyance has raised $28 million in funding to date. Though the company came out of stealth in 2023, its first product didn’t go to market until the end of 2024. Kaul called fundraising “kind of a fairy tale,” because GV actually approac",
+      "excerpt": "Richa Kaul says she’s a bit of a data privacy nut. At parties, for example, she’s the one helping people with their phone privacy configurations. “It got to a point where I realized the best way to actually protect consumer data is to help secure the enterprises that hold the world’s data.”\n\nSo she ",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Integrate raises $17M to move defense project management into the 21st century",
+      "link": "https://techcrunch.com/2026/02/11/integrate-raises-17m-to-move-defense-project-management-into-the-21st-century/",
+      "author": "Marina Temkin",
+      "date": "2026-02-11T06:21:28-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2015/12/8465603992_a033bf55f5_o.jpg?resize=1200,853",
+      "category": "Startups",
+      "content": "John Conafay, a veteran of the U.S. Air Force, has spent most of his career leading business development at public and private aerospace companies, including Spire, Astranis, and ABL Space Systems.\n\nAt each company, Conafay ran into the same software hurdle: Collaborating on government contracts was a logistical mess that forced his teams and their federal counterparts to rely on a tedious back-and-forth of PDFs and Excel files. The bottleneck was always the same — most project management tools like Atlassian’s Jira and Asana simply weren’t secure enough to meet the government’s strict security standards.\n\nSo, in early 2022, Conafay launchedIntegrate, a collaboration platform designed specifically to allow private companies, the U.S. Department of Defense, and other government agencies to work jointly on classified, multi-entity projects. Last year, the Seattle-based startup won a$25 million, five-year contract from the U.S. Space Force.\n\nThat validation from a major agency was one of the reasons Wesley Chan, co-founder and managing partner at FPV Ventures, just led Integrate’s $17 million Series A. Chan, known forearly betson Canva, Robinhood, Plaid, and more than 20 other unicorns, told TechCrunch he invested because Integrate solves a big problem for the government and the private companies that serve it.\n\nUntil recently, the tech sector shunned selling to the U.S. Department of Defense, feeling that it was immoral to create products for the military. But that sentiment changed after Russia invaded Ukraine and China began to be viewed as an adversary.\n\nThis shift also means other project management companies may now want to sell their products to the government, but Conafay claims it will be technically difficult for them to catch up to Integrate.\n\n“If you don’t build something from the ground up with government requirements, you can’t really go back and re-architect software that exists for government purposes,” he told TechCrunch.\n\nAccording to Conafay, what se",
+      "excerpt": "John Conafay, a veteran of the U.S. Air Force, has spent most of his career leading business development at public and private aerospace companies, including Spire, Astranis, and ABL Space Systems.\n\nAt each company, Conafay ran into the same software hurdle: Collaborating on government contracts was",
       "tags": [
         "Apple",
         "Amazon",
@@ -161,8 +76,93 @@
       "date": "2026-02-11T08:00:00-08:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/Upside-Robotics.jpg?resize=1200,675",
       "category": "Robotics",
-      "content": "The founders ofUpside Roboticsmet in 2023 because they were both looking to build an impact-driven company that touched climate and agriculture. Less than a year later, they were sleeping in a camper on the side of a Canadian corn field building their robotics startup.\n\nWaterloo, Ontario-based Upside Robotics builds lightweight solar-powered autonomous robots that deliver right-sized amounts of fertilizer and nutrients to crops when they need it. The company’s software runs on proprietary algorithms to decipher when and how much fertilizer the plants need using weather and soil data.\n\nUpside’s robots currently work on corn plants — one of the most fertilizer-intensive crops — which was chosen by Upside for that exact reason, Jana Tian, co-founder and CEO, told TechCrunch.\n\nAfter Tian and Sam Dugan, co-founder and chief technology officer, met at the Entrepreneur First accelerator, they decided to focus on reducing fertilizer waste using robots because it fit squarely into the center of the venn diagram of their interests. It also leaned well toward their backgrounds.\n\nDugan had been building robots since he was ten years old and Tian had years of experience as a chemical engineer in the food division at Unilever.\n\nCustomer discovery with farmers further confirmed this was an area farmers were willing to pay for a better way.\n\n“Traditionally, the way the fertilizer has been applied, only 30% of the total fertilizer gets taken by the crop, so a majority of it gets wasted,” Tian said. “Farmers usually do one application per season, so they have to front load a lot of the fertilizer. But the crops need the fertilizer during the season as well. We knew there was that problem that a lot of our growers really wanted different solutions to.”\n\nThe pair formally founded Upside Robotics in 2024 and then hit the fields — literally.\n\n“We actually bought a camper trailer, and we moved around field to field,” Dugan said. “We stayed on the side of the field every night, and we woul",
+      "content": "The founders ofUpside Roboticsmet in 2023 because they were both looking to build an impact-driven company that touched climate and agriculture. Less than a year later, they were sleeping in a camper on the side of a Canadian corn field building their robotics startup.\n\nWaterloo, Ontario-based Upside Robotics builds lightweight solar-powered autonomous robots that deliver right-sized amounts of fertilizer and nutrients to crops when they need it. The company’s software runs on proprietary algorithms to decipher when and how much fertilizer the plants need using weather and soil data.\n\nUpside’s robots currently work on corn plants — one of the most fertilizer-intensive crops — which was chosen by Upside for that exact reason, Jana Tian, co-founder and CEO, told TechCrunch.\n\nAfter Tian and Sam Dugan, co-founder and chief technology officer, met at the Entrepreneurs First accelerator, they decided to focus on reducing fertilizer waste using robots because it fit squarely into the center of the Venn diagram of their interests. It also leaned well toward their backgrounds.\n\nDugan had been building robots since he was 10 years old and Tian had years of experience as a chemical engineer in the food division at Unilever.\n\nCustomer discovery with farmers further confirmed this was an area farmers were willing to pay for a better way.\n\n“Traditionally, the way the fertilizer has been applied, only 30% of the total fertilizer gets taken by the crop, so a majority of it gets wasted,” Tian said. “Farmers usually do one application per season, so they have to front-load a lot of the fertilizer. But the crops need the fertilizer during the season as well. We knew there was that problem that a lot of our growers really wanted different solutions to.”\n\nThe pair formally founded Upside Robotics in 2024 and then hit the fields — literally.\n\n“We actually bought a camper trailer, and we moved around field to field,” Dugan said. “We stayed on the side of the field every night, and we woul",
       "excerpt": "The founders ofUpside Roboticsmet in 2023 because they were both looking to build an impact-driven company that touched climate and agriculture. Less than a year later, they were sleeping in a camper on the side of a Canadian corn field building their robotics startup.\n\nWaterloo, Ontario-based Upsid",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Meridian raises $17 million to remake the agentic spreadsheet",
+      "link": "https://techcrunch.com/2026/02/11/meridian-ai-raises-17-million-to-remake-the-agentic-spreadsheet/",
+      "author": "Russell Brandom",
+      "date": "2026-02-11T06:00:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/260122_MeridianAi_Group_0047.jpg?resize=1200,900",
+      "category": "AI",
+      "content": "The fight to tame spreadsheets with AI isn’t over yet. A new company calledMeridianhas emerged from stealth with a more comprehensive IDE-based approach to agentic financial modeling — and plenty of funding to build it. On Wednesday, the company announced $17 million in seed funding at a $100 million post-money valuation.\n\n“Our goal is to make financial modeling and spreadsheets way more predictable and auditable,” CEO and co-founder John Ling told TechCrunch. “How can you take a process that traditionally might have taken several hours and condense it down into like 10 minutes?”\n\nThe round was led by Andressen Horowitz and the General Partnership, with participation from QED Investors, FPV Ventures, and Litquidity Ventures. The company says it is currently working with teams at Decagon and OffDeal, and signed $5 million of contracts in December alone.\n\nExcel agents have beena popular target for AI startups, due in part to the high cost of human-led financial analysis. But where previous Excel agentslike Shortcut AIbuilt agents into Excel, Meridian operates as a stand-alone workspace, more akin to Cursor. This allows the app to operate like an IDE, integrating data sources and other outside references that might otherwise create friction.\n\nBased in New York, the Meridian team includes both alumni of AI firms like Scale AI and Anthropic as well as financial veterans from firms like Goldman Sachs.\n\nAs Ling describes it, Meridian’s biggest challenge is the strict requirements of financial clients, which often clash with the non-deterministic nature of AI models.\n\n“If you go to ten different software engineers at Google, and you want to add some new feature into an app, you’ll probably get like 10 completely different implementations. And that’s totally fine,” Ling says. “But if you go to 10 banking analysts at Goldman Sachs and you ask for 10 valuation models for a company, you would probably get 10 almost identical workbooks.”\n\nAs a result, the Meridian team has done ",
+      "excerpt": "The fight to tame spreadsheets with AI isn’t over yet. A new company calledMeridianhas emerged from stealth with a more comprehensive IDE-based approach to agentic financial modeling — and plenty of funding to build it. On Wednesday, the company announced $17 million in seed funding at a $100 millio",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon",
+      "link": "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/",
+      "author": "Connie Loizos",
+      "date": "2026-02-10T21:23:26-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024",
+      "category": "AI",
+      "content": "On Tuesday night, Elon Musk gathered the employees of xAI for an all-hands meeting. Evidently, he wanted to talk about the future of his AI company — specifically, how it relates to the moon.\n\nAccording to The New York Times, which reports that itheard the meeting, Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.\n\n“You have to go to the moon,” he said, per the Times. The move, he explained, will help xAI harness more computing power than any rival. “It’s difficult to imagine what an intelligence of that scale would think about,” he added, “but it’s going to be incredibly exciting to see it happen.”\n\nWhat Musk didn’t appear to address clearly was how any of this would be built, or how he plans to reorganize the newly mergedxAI-SpaceXentity that is simultaneously careening toward a potentially historic IPO. He did acknowledge, proudly, that the company is in flux.\n\n“If you’re moving faster than anyone else in any given technology arena, you will be the leader,” he told employees, per the Times, “and xAI is moving faster than any other company — no one’s even close.” He added that “when this happens, there’s some people who are better suited for the early stages of a company and less suited for the later stages.”\n\nIt isn’t clear what prompted the all-hands, but the timing, whatever its cause, is at least curious. On Monday night, xAI co-founder Tony Wu announced he was leaving. Less than a day later, another xAI co-founder, Jimmy Ba, who reported directly to Musk, said he was bouncing, too.\n\nThat brings the total tosix of xAI’s 12 founding members who have now left the young company. The splits have all been described as copacetic, and with aSpaceX IPOreportedly targeting a $1.5 trillion valuation coming as soon as this summer, everyone involved stands to do very well financially on their way out the door.\n\nThe moon itself is a more recent preoccupation",
+      "excerpt": "On Tuesday night, Elon Musk gathered the employees of xAI for an all-hands meeting. Evidently, he wanted to talk about the future of his AI company — specifically, how it relates to the moon.\n\nAccording to The New York Times, which reports that itheard the meeting, Musk told employees that xAI needs",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Okay, now exactly half of xAI’s founding team has left the company",
+      "link": "https://techcrunch.com/2026/02/10/okay-now-exactly-half-of-xais-founding-team-has-left-the-company/",
+      "author": "Russell Brandom",
+      "date": "2026-02-10T17:50:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?resize=1200,800",
+      "category": "AI",
+      "content": "Monday night, xAI co-founder Yuhuai (Tony) Wu announced he was leaving the company. “It’s time for my next chapter,” Wu wrotein a late-night poston X. “It is an era with full possibilities: a small team armed with AIs can move mountains and redefine what’s possible.”\n\nLess than a day later, on Tuesday afternoon, xAI co-founder Jimmy Ba, who reported directly to Musk, said that he, too, is bouncing, posting a gracious note on X on his way out. “Enormous thanks to @elonmusk for bringing us together on this incredible journey. So proud of what the xAI team has done and will continue to stay close as a friend of the team,” itread in part.\n\nOn their own, both were pretty standard tech departure announcements — but they’re part of a troubling pattern for the lab. Six members ofthe company’s 12-person founding teamhave now left the company, with five of the departures coming in just the last year. Infrastructure lead Kyle Kosic left for OpenAI in mid-2024, followed by Google veteran Christian Szegedy in February 2025. This past August, Igor Babuschkinleft to found a venture firm, and Microsoft alum Greg Yang departed just last month,citing health issues.\n\nBy all accounts, the splits have all been amicable, and there are lots of reasons why, nearly three years in, some founders might decide to move on. Elon Musk is a notoriously demanding boss, and with the SpaceX’s acquisition of xAI complete and an IPO pending in the coming months, everyone involved has a pretty big windfall coming. It’s a great time to be fundraising for an AI startup, so it’s only natural for high-level researchers to want to strike out on their own.\n\nThere are also less amicable reasons that might factor in. The company’s flagship product, the Grok chatbot, has struggled withbizarre behaviorandapparent internal tampering— the kind of thing that might easily create friction on the technical team. Then there were the recent changes to xAI’s image-generation tools thatflooded the platform with deepfake po",
+      "excerpt": "Monday night, xAI co-founder Yuhuai (Tony) Wu announced he was leaving the company. “It’s time for my next chapter,” Wu wrotein a late-night poston X. “It is an era with full possibilities: a small team armed with AIs can move mountains and redefine what’s possible.”\n\nLess than a day later, on Tuesd",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "How AI changes the math for startups, according to a Microsoft VP",
+      "link": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
+      "author": "Russell Brandom",
+      "date": "2026-02-11T09:51:37-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Amanda.jpg?resize=1200,800",
+      "category": "AI",
+      "content": "For 24 years, Microsoft’s Amanda Silver has been working to help developers — and in the last few years, that’s meant building tools for AI. After a long stretch on GitHub Copilot, Silver is now a corporate vice president at Microsoft’s CoreAI division, where she works on tools for deploying apps and agentic systems within enterprises. Her work is focused onthe Foundry systeminside Azure, which is designed as a unified AI portal for enterprises, giving her a close view of how companies are actually using these systems and where deployments end up falling short.\n\nI spoke with Silver about the current capabilities of enterprise agents, and why she believes this is the biggest opportunity for startups since the public cloud.\n\nThis interview was edited for length and clarity.\n\nSo, your work focuses on Microsoft products for outside developers – often startups that aren’t otherwise focused on AI. How do you see AI impacting those companies?\n\nI see this as being a watershed moment for startups as profound as the move to the public cloud. If you think about it, the cloud had a huge impact for startups because it meant that they no longer needed to have the real estate space to host their racks, and they didn’t need to spend as much money on the capital infusion of getting the hardware to be hosted in their labs and things like that. Everything became cheaper. Now agentic AI is going to kind of continue to reduce the overall cost of software operations again, because many of the jobs involved in standing up a new venture — whether it’s support people, legal investigations — a lot of it can be done faster and cheaper with AI agents. I think that’s going to lead to more ventures and more startups launching. And then we’re going to see higher-valuation startups with fewer people at the helm. And I think that that’s an exciting world.\n\nWhat does that look like in practice?\n\nWe are certainly seeing multi-step agents becoming very broadly used across all different kinds of coding",
+      "excerpt": "For 24 years, Microsoft’s Amanda Silver has been working to help developers — and in the last few years, that’s meant building tools for AI. After a long stretch on GitHub Copilot, Silver is now a corporate vice president at Microsoft’s CoreAI division, where she works on tools for deploying apps an",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "UpScrolled’s social network is struggling to moderate hate speech after fast growth",
+      "link": "https://techcrunch.com/2026/02/11/upscrolleds-social-network-is-struggling-to-moderate-hate-speech-after-fast-growth/",
+      "author": "Sarah Perez",
+      "date": "2026-02-11T09:47:15-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/upscrolled.png?resize=1200,942",
+      "category": "Social",
+      "content": "UpScrolled, a social network thatcaught fireafter TikTok’s ownership change in the U.S., is facing a serious moderation problem. Aftergrowing to more than 2.5 million usersin January, users have reported the app is not taking action on the creation of usernames and hashtags that contain racial slurs, and hasn’t been able to properly moderate harmful content.\n\nAfter receiving tips from UpScrolled users, TechCrunch confirmed the existence of a wide range of racial slurs and hate speech being used in people’s usernames on the app. For instance, some usernames would feature the name of the slur itself, the slur combined with other words, or multiple slurs in a single username; other usernames contain hate speech, like “Glory to Hitler.”\n\nAfter reporting these slurs to UpScrolled’s public email address, we received a response from that email that the company is “actively reviewing and removing inappropriate content,” and is working to expand its moderation capacity. The email advised us not to engage with bad-faith actors while the situation is resolved.\n\nDays after reporting this activity on the app, the accounts with slurs in the usernames that were provided to UpScrolled via screenshots remained online.\n\nIn addition, slurs and hate speech can be found elsewhere in the app, including hashtags and text used alongside its photo or video content, TechCrunch found. Other harmful content was available, including text posts with racial slurs and hate speech, and photo and video content glorifying Hitler, based on TechCrunch’s review of the app.\n\nTechCrunch wasn’t alone in identifying this problem; the ADL alsopublished a blog post this month, noting that UpScrolled was becoming home to antisemitic and extremist content anddesignatedforeign terrorist organizations, like Hamas and others.\n\nUpScrolled, which was founded in 2025, claims on its website claims that the platform offers every voice “equal power.” The app has seen more than 4 million downloads on iOS and Android sinc",
+      "excerpt": "UpScrolled, a social network thatcaught fireafter TikTok’s ownership change in the U.S., is facing a serious moderation problem. Aftergrowing to more than 2.5 million usersin January, users have reported the app is not taking action on the creation of usernames and hashtags that contain racial slurs",
       "tags": [
         "Apple",
         "Amazon",
