@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-02-11T05:05:11.527958+00:00",
+  "last_updated": "2026-02-11T07:05:34.484699+00:00",
   "articles": [
+    {
+      "title": "With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon",
+      "link": "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/",
+      "author": "Connie Loizos",
+      "date": "2026-02-10T21:23:26-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024",
+      "category": "AI",
+      "content": "On Tuesday night, Elon Musk gathered the employees of xAI for an all-hands meeting. Evidently, he wanted to talk about the future of his AI company, and specifically, how it relates to the moon.\n\nAccording to The New York Times, which reports that itheard the meeting, Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult. “You have to go to the moon,” he said, per the Times. The move, he explained, will help xAI harness more computing power than any rival. “It’s difficult to imagine what an intelligence of that scale would think about,” he added, “but it’s going to be incredibly exciting to see it happen.”\n\nWhat Musk didn’t appear to address clearly was how any of this would be built, or how he plans to reorganize the newly mergedxAI-SpaceXentity that is simultaneously careening toward a potentially historic IPO. He did acknowledge, proudly, that the company is in flux. “If you’re moving faster than anyone else in any given technology arena, you will be the leader,” he told employees, per the Times, “and xAI is moving faster than any other company — no one’s even close.” He added that “when this happens, there’s some people who are better suited for the early stages of a company and less suited for the later stages.”\n\nIt isn’t clear what prompted the all-hands, but the timing, whatever its cause, is at least curious. On Monday night, xAI co-founder Tony Wu announced he was leaving. Less than a day later, another xAI co-founder, Jimmy Ba, who reported directly to Musk, said he was bouncing, too. That brings the total tosix of xAI’s 12 founding members who have now left the young company. The splits have all been described as copacetic, and with aSpaceX IPOreportedly targeting a $1.5 trillion valuation coming as soon as this summer, everyone involved stands to do very well financially on their way out the door.\n\nThe moon itself is a more recent preoccupation",
+      "excerpt": "On Tuesday night, Elon Musk gathered the employees of xAI for an all-hands meeting. Evidently, he wanted to talk about the future of his AI company, and specifically, how it relates to the moon.\n\nAccording to The New York Times, which reports that itheard the meeting, Musk told employees that xAI ne",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "Okay, now exactly half of xAI’s founding team has left the company",
       "link": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
@@ -112,23 +129,6 @@
       "category": "AI",
       "content": "Modern enterprises generate enormous amounts of security data, but legacy tools like Splunk still require companies to store all of it in one place before they can detect threats — a slow and costly process that’s increasingly breaking down in cloud environments where volumes are exploding and data lives everywhere.\n\nAI cybersecurity startupVega Securitywants to flip that approach by running security where the data already lives, implementing in cloud services, data lakes, and existing storage systems. And the two-year-old firm just raised a $120 million Series B round to scale that vision, TechCrunch has exclusively learned.\n\nLed by Accel with participation from Cyberstarts, Redpoint, and CRV, the new round nearly doubles Vega’s valuation to $700 million, and brings its total funding to $185 million, money the startup will use to further develop its AI-native security operations suite, beef up its go-to-market team, and expand globally.\n\nShay Sandler, co-founder and CEO of Vega, told TechCrunch that the current operating model of the SIEM (security information and event management) — the dominant technology in this domain for the last two decades — is not only “crazy expensive,” but is also increasingly causing AI-native security operations to fail. In complex cloud environments, he says, the current model often increases exposure to threat actors.\n\n“Vega has defined a new operating model that enables organizations to leverage the full potential of their enterprise data to achieve incident response readiness, without all the complexity, the cost, the drama,” Sandler told TechCrunch. “We want to simply enable them to reach AI-native detection response capability anywhere the data is, at scale.”\n\nLike so many cybersecurity founders, Sandler did his time in the Israeli military’s cybersecurity unit before being one of the founding employees behind Granulate, whichIntel acquired for $650 millionin 2022. After a year at Intel, Sandler decided to “do it big time in the c",
       "excerpt": "Modern enterprises generate enormous amounts of security data, but legacy tools like Splunk still require companies to store all of it in one place before they can detect threats — a slow and costly process that’s increasingly breaking down in cloud environments where volumes are exploding and data ",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip",
-      "link": "https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/",
-      "author": "Ivan Mehta",
-      "date": "2026-02-10T08:30:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Veritas-feat-photo.jpg?w=1200",
-      "category": "Commerce",
-      "content": "The fake goods crisis cuts two ways. Luxury brands lose more than$30 billion a yearto counterfeits, while buyers in the booming$210 billion second-hand markethave no reliable way to verify that what they’re purchasing is genuine.Veritaswants to solve both problems with a solution that combines custom hardware and software.\n\nThe startup claims that it has developed a “hack-proof” chip that can’t be bypassed by devices like Flipper Zero, a widely available hacking tool that can be used to tamper with wireless systems. These chips are linked with digital certificates to verify the authenticity of the products.\n\nVeritas founder Luci Holland has experienced life as both a technologist and an artist. She has worked in different artistic mediums, including mixed media painting and metal sculpture. She has also worked at Tesla as a technical product manager and has held several business development, community growth, and product management roles at tech companies and venture funds.\n\nHolland noted that traditionally, luxury goods makers use various symbols or physical marks to authenticate their products. However, with the growing demand for these goods, counterfeiters have learned to create convincing copies of these marks along with high-quality fake certificates. These goods are often called “superfakes.”\n\nHolland mentioned that she spoke with maisons — established luxury fashion houses — that said some of their locations had to stop authenticating goods because fakes were becoming too convincing to reliably detect. She said that drawing on her experience in both the tech and art worlds, she wanted to solve the problem.\n\n“For me, as someone who has a background in being a designer and then also has experience in tech, I saw this problem and thought about the different ways we could solve it. I think what’s truly innovative is we’ve used and combined elements from both hardware and software to create this solution that helps protect brands in this way to convey the informa",
-      "excerpt": "The fake goods crisis cuts two ways. Luxury brands lose more than$30 billion a yearto counterfeits, while buyers in the booming$210 billion second-hand markethave no reliable way to verify that what they’re purchasing is genuine.Veritaswants to solve both problems with a solution that combines custo",
       "tags": [
         "Apple",
         "Amazon",
