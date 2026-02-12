@@ -1,6 +1,57 @@
 {
-  "last_updated": "2026-02-12T19:06:44.887784+00:00",
+  "last_updated": "2026-02-12T20:38:50.800855+00:00",
   "articles": [
+    {
+      "title": "Automattic planned to target 10 competitors with royalty fees, WP Engine claims in new filing",
+      "link": "https://techcrunch.com/2026/02/12/automattic-planned-to-target-10-competitors-with-royalty-fees-wp-engine-claims-in-new-filing/",
+      "author": "Sarah Perez",
+      "date": "2026-02-12T11:02:07-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/wordpress-automattic-v1.jpg?resize=1200,800",
+      "category": "Commerce",
+      "content": "Web hosting company WP Engine has filed an amended complaint with brow-raising new allegations in itsongoing legal battlewith WordPress co-founder Matt Mullenweg and his company Automattic (WordPress.com’s parent company). The company now claims that Mullenweg intended to target 10 different hosting companies with royalty payments for their use of the WordPress trademark and tried to get payment processor Stripe to cancel its contract with WP Engine.\n\nAt the heart of the dispute, Mullenweg believes WP Engine isprofitingfrom the open source WordPress project without contributing back to the community, and demanded the hosting company pay 8% of its monthly gross revenues as a royalty fee for using the WordPress brand.\n\nThe suit,originally filedby WP Engine inOctober 2024, accused Automattic and Mullenweg ofdefamation and abuse of power. Automattic filed itscounterclaimslast year, alleging that the hosting company has been abusing the WordPress trademark and engaging in deceptive marketing practices.\n\nIn this latest filing, WP Engine has amended its complaint for the third time after gaining access to information that was uncovered during the discovery process. The information, now unredacted, had been previously sealed at Automattic’s request.\n\nNotably, one of the new claims accuses Automattic of allegedly planning to target 10 other competitors with royalty claims similar to those aimed at WP Engine.\n\nThe complaint also states that Newfold, a company whose portfolio includes hosting providers like Bluehost and HostGator, among others, is already paying Automattic for use of its trademarks and that Automattic is in conversations with others. (Names of the other hosts were redacted in the complaint, which referenced email conversations between those companies and Mullenweg.)\n\nWP Engine is also alleging that Mullenweg reached out to a Stripe executive via email to pressure the company to cancel WP Engine’s contract. This occurred after WP Engine had filed its lawsuit ag",
+      "excerpt": "Web hosting company WP Engine has filed an amended complaint with brow-raising new allegations in itsongoing legal battlewith WordPress co-founder Matt Mullenweg and his company Automattic (WordPress.com’s parent company). The company now claims that Mullenweg intended to target 10 different hosting",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Aurora’s driverless trucks can now travel farther distances faster than human drivers",
+      "link": "https://techcrunch.com/2026/02/12/auroras-driverless-trucks-can-now-travel-farther-distances-faster-than-human-drivers/",
+      "author": "Kirsten Korosec",
+      "date": "2026-02-12T09:58:30-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Aurora-Launch-6-e1746107306339.jpg?resize=1200,886",
+      "category": "Transportation",
+      "content": "Aurora’s self-driving trucks can now travel nonstop on a 1,000-mile route between Fort Worth and Phoenix — exceeding what a human driver can legally accomplish.\n\nThe distance, and the time it takes to travel it, offers up positive financial implications for Aurora — and any other company hoping to commercialize self-driving semitrucks.\n\nIt takes Aurora about 15 hours to carry freight in its driverless trucks on the 1,000-mile journey, according to the company. Human truck drivers take much longer to complete the same distance due to federal regulations that limit how long they can be behind the wheel. For instance, truck drivers must stop for a 30-minute break after eight hours and can operate a semitruck for a maximum of 11 hours at a time, according to federal regulations. Once drivers hit that threshold, they cannot get behind the wheel for another 10 hours.\n\n“This represents more than a technological achievement,” Aurora co-founder and CEO Chris Urmson said during the company’s earnings call Wednesday afternoon. “It is the dawn of a superhuman future for freight.”\n\nIt also offers compelling economics to its customers, which includes Uber Freight, Werner, FedEx, and Schneider. The company said that eventually it can cut transit times nearly in half, a stat that has won over companies like Hirschbach, an early customer on the Fort Worth-to-Phoenix route.\n\nAurora said in aletter to shareholdersthat it is poised to expand across the Sun Belt of the United States. Today, the company operates driverless trucks — some with a human observer still in the cab — on routes between Dallas and Houston, Fort Worth and El Paso, El Paso and Phoenix, Fort Worth and Phoenix, and Laredo and Dallas.\n\nThe expansion has helped Aurora transition from a developer of autonomous trucks to a commercial operator who is earning money on its driverless routes.\n\nAurora has brought in revenue since April 2025 when it firstdeployed driverless, heavy-duty trucks for commercial useon public roads.",
+      "excerpt": "Aurora’s self-driving trucks can now travel nonstop on a 1,000-mile route between Fort Worth and Phoenix — exceeding what a human driver can legally accomplish.\n\nThe distance, and the time it takes to travel it, offers up positive financial implications for Aurora — and any other company hoping to c",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Hacker linked to Epstein removed from Black Hat cyber conference website",
+      "link": "https://techcrunch.com/2026/02/12/hacker-linked-to-epstein-removed-from-black-hat-cyber-conference-website/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "date": "2026-02-12T11:15:04-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/jeffrey-epstein_8ef3e8.jpg?resize=1200,800",
+      "category": "Security",
+      "content": "Vincenzo Iozzo, a renowned hacker linked to convicted sex offender Jeffrey Epstein, is no longer listed on the website of Black Hat, one of the largest cybersecurity conferences in the world, nor on the Japanese security conference Code Blue.\n\nAs of Thursday, Iozzo does not appear on the official review board pages ofBlack HatorCode Blue. He was still listed on both pages as of last week. Iozzo had been on the Black Hat review board since 2011, according to his LinkedIn profile.\n\nIn a statement shared with TechCrunch through a spokesperson, Iozzo said he told Black Hat that he “will not willingly resign” and welcomed “a full investigation.”\n\nSpokespeople for Black Hat did not respond to requests for comment.\n\nIozzo, currently the founder and chief executive of cybersecurity startup SlashID, has had a long career in the industry. Iozzo authored one of the first manuals for hackers researching Apple’s mobile software, and in 2015, founded cybersecurity startup IperLane, which was later bought by CrowdStrike, leading him to serve as a senior director at the company for almost four years.\n\nIozzo’s name appears in more than 2,300 documents, some of which containseveral emails, released on January 30 as part of the Department of Justice’s legally required effort to publish materials from its investigation into the late financier and sex trafficker.\n\nIozzo’s interactions with Epstein span from October 2014 until December 2018. In late 2018, the Miami Heraldpublished news storiesdetailing allegationsthat Epsteinabused more than 60 women, some of them teenage girls.\n\nAfter these stories were published, newly releasedemails showIozzo was trying to meet with Epstein at his New York town house.\n\nContact UsDo you have more information about Epstein’s connections in the cybersecurity world?? From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram, Keybase and Wire @lorenzofb, orby email.\n\nAmong the new material ",
+      "excerpt": "Vincenzo Iozzo, a renowned hacker linked to convicted sex offender Jeffrey Epstein, is no longer listed on the website of Black Hat, one of the largest cybersecurity conferences in the world, nor on the Japanese security conference Code Blue.\n\nAs of Thursday, Iozzo does not appear on the official re",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "US FTC airs concerns over allegations that Apple News suppresses right-wing content",
       "link": "https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/",
@@ -87,14 +138,14 @@
       ]
     },
     {
-      "title": "Why the economics of orbital AI are so brutal",
-      "link": "https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/",
-      "author": "Tim Fernholz",
-      "date": "2026-02-11T10:15:21-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/03/starlink-satellites-on-orbit.jpg?resize=1200,675",
-      "category": "AI",
-      "content": "In a sense, this whole thing was inevitable. Elon Musk and his coterie have been talking about AI in space for years — mainly in the context of Iain Banks’ science-fiction series about a far-future universe where sentient spaceships roam and control the galaxy.\n\nNow Musk sees an opportunity to realize a version of this vision. His company SpaceX has requested regulatory permission to build solar-powered orbital data centers, distributed across as many as a million satellites, that could shift as much as 100 GW of compute power off the planet. He hasreportedlysuggested some of his AI satellites will be built on the moon.\n\n“By far the cheapest place to put AI will be space in 36 months or less,” Musk said last week on a podcast hosted by Stripe co-founder John Collison.\n\nHe’s not alone. xAI’s head of compute has reportedly bet his counterpart at Anthropic that 1% of global compute will be in orbit by 2028. Google (which has a significant ownership stake in SpaceX) has announced a space AI effort called Project Suncatcher, which will launch prototype vehicles in 2027. Starcloud, a startup that has raised $34 million backed by Google and Andreessen Horowitz, filed its own plans for an 80,000 satellite constellation last week. Even Jeff Bezos has said this is the future.\n\nBut behind the hype, what will it actually take to get data centers into space?\n\nIn a first analysis, today’s terrestrial data centers remain cheaper than those in orbit. Andrew McCalip, a space engineer, has built ahelpful calculatorcomparing the two models. His baseline results show that a 1 GW orbital data center might cost $42.4 billion — almost 3x its ground-bound equivalent, thanks to the up-front costs of building the satellites and launching them to orbit.\n\nChanging that equation, experts say, will require technology development across several fields, massive capital expenditure, and a lot of work on the supply chain for space-grade components. It also depends on costs on the ground rising as re",
-      "excerpt": "In a sense, this whole thing was inevitable. Elon Musk and his coterie have been talking about AI in space for years — mainly in the context of Iain Banks’ science-fiction series about a far-future universe where sentient spaceships roam and control the galaxy.\n\nNow Musk sees an opportunity to reali",
+      "title": "Didero lands $30M to put manufacturing procurement on “agentic” autopilot",
+      "link": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
+      "author": "Marina Temkin",
+      "date": "2026-02-12T12:31:47-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Founders_Exterior_Mid-3.jpg?resize=1200,800",
+      "category": "Startups",
+      "content": "Tim Spencer realized just how complicated manufacturing procurement can be while runningMarkai, an e-commerce startupin Asia, during the pandemic.\n\n“We had thousands of suppliers, and we were distributing products into dozens of countries around the world,” Spencer (pictured left) told TechCrunch. His staff was overwhelmed by the manual complexity of sourcing suppliers, negotiating pricing, tracking orders, and managing payments.\n\n“I found myself running this big team that was not really set up for success,” he said. He sold Markai in 2023, just as it was becoming clear that generative AI could streamline the most time-consuming procurement hurdles for manufacturers and distributors.\n\nLater that year, Spencer launchedDideroalongside Lorenz Pallhuber (pictured center), a veteran of McKinsey’s procurement practice, and Tom Petit, the former technical co-founder ofLandis.\n\nDidero, whose mission is to automate many of the complexities of global procurement, just raised a $30 million Series A co-led by Chemistry and Headline, with participation from Microsoft’s venture fund M12.\n\n“Global trade runs on natural language communication,” Spencer said. “It’s emails, WeChat, phone calls, purchase orders, and packing lists.”\n\nUntil the advent of generative AI, these fragmented pieces had to be tracked by humans who spent their days chasing suppliers and manually updating systems of record. Didero claims its platform can ingest that communication, putting a significant portion of the procurement workflow on autopilot.\n\nDidero functions as an agentic AI layer that sits on top of a company’s existing ERP, acting as a coordinator that reads incoming communications and automatically executes the necessary updates and tasks.\n\n“The goal is to go from ‘I need a good’ to payment without having to lift a finger,” Spencer said.\n\nUnlike Levelpath, Zip, or Oro Labs, which use AI to streamline corporate purchasing, Didero focuses on the supply chain. Its platform is designed for manufacturer",
+      "excerpt": "Tim Spencer realized just how complicated manufacturing procurement can be while runningMarkai, an e-commerce startupin Asia, during the pandemic.\n\n“We had thousands of suppliers, and we were distributing products into dozens of countries around the world,” Spencer (pictured left) told TechCrunch. H",
       "tags": [
         "Apple",
         "Amazon",
@@ -104,65 +155,14 @@
       ]
     },
     {
-      "title": "How to get into a16z’s super-competitive Speedrun startup accelerator program",
-      "link": "https://techcrunch.com/2026/02/11/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/",
-      "author": "Dominic-Madori Davis",
-      "date": "2026-02-11T11:58:01-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/speedrun.webp?resize=1200,800",
-      "category": "Venture",
-      "content": "Without a doubt, one of the hottest new startup accelerators in tech right now is Andreessen Horowitz’s Speedrun program. Launched in 2023, the accelerator has an acceptance rate of less than 1%. In aJanuary blog post,the program said that over 19,000 startups pitched and fewer than 0.4% were accepted into the latest cohort.\n\nThe program used to focus on gaming startups, then expanded into entertainment and media, and is now a “horizontal program,” Joshua Lu, the program’s general manager and a partner at a16z, told TechCrunch. Today, founders of any type of startup can apply, and the program runs for about 12 weeks in San Francisco. It once had a program in Los Angeles, but Lu said the focus will be on SF from now on.\n\nThere are two cohorts a year, and around 50 to 70 startups are accepted into each. The programinvests up to $1 millioninto each company, though the downside is that it’s a bit pricey. It typically invests $500,000 up front in exchange for 10% of the startup’s company via a SAFE note, and another $500,000 if the next round is raised within 18 months, at whatever terms agreed to by the other investors.\n\nIn comparison, Y Combinatortypically takes a fixed 7%of the company for $125,000, with another $375,000 “invested on an uncapped MFN safe.”\n\nSpeedrun said its program is more “equity expensive” because of what it offers founders. It provides them with access to a16z’s advisory and business networks that assist with tasks like go-to-market, brand development, media strategy, and talent sourcing. Plus it offers the startups perks like $5 million in credits to vendors such as AWS, OpenAI, Nvidia, and Deel.\n\nGiven the high interest, and low acceptance rate, TechCrunch spoke to Lu for some tips on how startups can best stand out. The latest cohort began in January and will end in April with a Demo Day. Applications forthe next cohort open in April,though it looks at off-season applications year-round, Lu said.\n\nSpeedrun focuses on early-stage startups. Becau",
-      "excerpt": "Without a doubt, one of the hottest new startup accelerators in tech right now is Andreessen Horowitz’s Speedrun program. Launched in 2023, the accelerator has an acceptance rate of less than 1%. In aJanuary blog post,the program said that over 19,000 startups pitched and fewer than 0.4% were accept",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "How AI changes the math for startups, according to a Microsoft VP",
-      "link": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
-      "author": "Russell Brandom",
-      "date": "2026-02-11T09:51:37-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Amanda.jpg?resize=1200,800",
-      "category": "AI",
-      "content": "For 24 years, Microsoft’s Amanda Silver has been working to help developers — and in the last few years, that’s meant building tools for AI. After a long stretch on GitHub Copilot, Silver is now a corporate vice president at Microsoft’s CoreAI division, where she works on tools for deploying apps and agentic systems within enterprises.\n\nHer work is focused onthe Foundry systeminside Azure, which is designed as a unified AI portal for enterprises, giving her a close view of how companies are actually using these systems and where deployments end up falling short.\n\nI spoke with Silver about the current capabilities of enterprise agents, and why she believes this is the biggest opportunity for startups since the public cloud.\n\nThis interview was edited for length and clarity.\n\nSo, your work focuses on Microsoft products for outside developers — often startups that aren’t otherwise focused on AI. How do you see AI impacting those companies?\n\nI see this as being a watershed moment for startups as profound as the move to the public cloud. If you think about it, the cloud had a huge impact for startups because it meant that they no longer needed to have the real estate space to host their racks, and they didn’t need to spend as much money on the capital infusion of getting the hardware to be hosted in their labs and things like that. Everything became cheaper. Now agentic AI is going to kind of continue to reduce the overall cost of software operations again, because many of the jobs involved in standing up a new venture — whether it’s support people, legal investigations — a lot of it can be done faster and cheaper with AI agents. I think that’s going to lead to more ventures and more startups launching. And then we’re going to see higher-valuation startups with fewer people at the helm. And I think that that’s an exciting world.\n\nWhat does that look like in practice?\n\nWe are certainly seeing multistep agents becoming very broadly used across all different kinds of coding",
-      "excerpt": "For 24 years, Microsoft’s Amanda Silver has been working to help developers — and in the last few years, that’s meant building tools for AI. After a long stretch on GitHub Copilot, Silver is now a corporate vice president at Microsoft’s CoreAI division, where she works on tools for deploying apps an",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Automattic planned to target 10 competitors with royalty fees, WP Engine claims in new filing",
-      "link": "https://techcrunch.com/2026/02/12/automattic-planned-to-target-10-competitors-with-royalty-fees-wp-engine-claims-in-new-filing/",
-      "author": "Sarah Perez",
-      "date": "2026-02-12T11:02:07-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/11/wordpress-automattic-v1.jpg?resize=1200,800",
-      "category": "Commerce",
-      "content": "Web hosting company WP Engine has filed an amended complaint with brow-raising new allegations in itsongoing legal battlewith WordPress co-founder Matt Mullenweg and his company Automattic (WordPress.com’s parent company). The company now claims that Mullenweg intended to target 10 different hosting companies with royalty payments for their use of the WordPress trademark and tried to get payment processor Stripe to cancel its contract with WP Engine.\n\nAt the heart of the dispute, Mullenweg believes WP Engine isprofitingfrom the open-source WordPress project without contributing back to the community, and demanded the hosting company pay 8% of its monthly gross revenues as a royalty fee for using the WordPress brand.\n\nThe suit,originally filedby WP Engine inOctober 2024, accused Automattic and Mullenweg ofdefamation and abuse of power. Automattic filed itscounterclaimslast year, alleging that the hosting company has been abusing the WordPress trademark and engaging in deceptive marketing practices.\n\nIn this latest filing, WP Engine has amended its complaint for the third time after gaining access to information that was uncovered during the discovery process. The information, now unredacted, had been previously sealed at Automattic’s request.\n\nNotably, one of the new claims accuses Automattic of allegedly planning to target 10 other competitors with royalty claims similar to those aimed at WP Engine.\n\nThe complaint also states that Newfold, a company whose portfolio includes hosting providers like Bluehost and HostGator, among others, is already paying Automattic for use of its trademarks and that Automattic is in conversations with others. (Names of the other hosts were redacted in the complaint, which referenced email conversations between those companies and Mullenweg.)\n\nWP Engine is also alleging that Mullenweg reached out to a Stripe executive via email to pressure the company to cancel WP Engine’s contract. This occurred after WP Engine had filed its lawsuit ag",
-      "excerpt": "Web hosting company WP Engine has filed an amended complaint with brow-raising new allegations in itsongoing legal battlewith WordPress co-founder Matt Mullenweg and his company Automattic (WordPress.com’s parent company). The company now claims that Mullenweg intended to target 10 different hosting",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
-      "link": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
-      "author": "Sarah Perez",
-      "date": "2026-02-12T10:30:12-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/blog-header.jpg?resize=1200,683",
-      "category": "AI",
-      "content": "Has AI coding reached a tipping point? That seems to be the case for Spotify at least, which shared this week duringits fourth-quarter earnings callthat the best developers at the company “have not written a single line of code since December.” That statement, from Spotify co-CEO Gustav Söderström, came alongside other comments about how the company is using AI to accelerate development.\n\nOf note, Spotify pointed out it shipped more than 50 new features and changes to its streaming app throughout 2025. And, most recently, it has rolled out more features, like AI-poweredPrompted Playlists,Page Matchfor audiobooks, andAbout This Song, which all launched within the past few weeks.\n\nAt Spotify, engineers are using an internal system called “Honk” to speed up coding and product velocity, the company told analysts on the call. This system allows for things like remote, real-time code deployment using generative AI, and specifically Claude Code.\n\n“As a concrete example, an engineer at Spotify on their morning commute from Slack on their cell phone can tell Claude to fix a bug or add a new feature to the iOS app,” Söderström said. “And once Claude finishes that work, the engineer then gets a new version of the app, pushed to them on Slack on their phone, so that he can then merge it to production, all before they even arrive at the office.”\n\nSpotify credited the system in helping to speed up coding and deployment “tremendously.”\n\n“We foresee this not being the end of the line in terms of AI development, just the beginning,” Söderström said.\n\nThe exec also touted Spotify’s ability to build a unique dataset that other LLMs could not commoditize, the way they could other online resources, like Wikipedia. That’s because there’s not always a factual answer for music-related questions, he said.\n\nFor instance, if you asked what workout music is, you’d get different answers from different people, sometimes based on their geography. Americans tend to prefer hip-hop overall, though m",
-      "excerpt": "Has AI coding reached a tipping point? That seems to be the case for Spotify at least, which shared this week duringits fourth-quarter earnings callthat the best developers at the company “have not written a single line of code since December.” That statement, from Spotify co-CEO Gustav Söderström, ",
+      "title": "Anthropic raises another $30B in Series G, with a new value of $380B",
+      "link": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
+      "author": "Lucas Ropek",
+      "date": "2026-02-12T12:18:37-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
+      "category": "",
+      "content": "Anthropic has just concluded a $30 billion Series G fundraising round, the companyannounced on Thursday. The company’s new value is $380 billion—a huge jump from the company’s previous series F valuation of$183 billion.\n\nSome details of the round werereported earlier this week by Bloomberg.\n\nThe new round was led by Singaporean wealth fundGICand investment management firmCoatue, with a number of other prominent firms—including D. E. Shaw Ventures, Peter Thiel’s Founders Fund, and Abu Dhabi’s MGX—co-leading the round. Other significant investors listed include Accel, General Catalyst, Jane Street, and the Qatar Investment Authority, among many others.\n\nThe infusion of funding for the AI startup takes place as it is vying for customers and cultural attention with its competitor, OpenAI. OpenAI also recently made it known that it is seeking to clinchan additional $100 billion in fundingwhich, were it to secure the funds, wouldballoonthe company’s valuation to some $830 billion.\n\n“Whether it is entrepreneurs, startups, or the world’s largest enterprises, the message from our customers is the same: Claude is increasingly becoming more critical to how businesses work,” said Krishna Rao, Anthropic’s Chief Financial Officer, in a press release. “This fundraising reflects the incredible demand we are seeing from these customers, and we will use this investment to continue building the enterprise-grade products and models they have come to depend on.”",
+      "excerpt": "Anthropic has just concluded a $30 billion Series G fundraising round, the companyannounced on Thursday. The company’s new value is $380 billion—a huge jump from the company’s previous series F valuation of$183 billion.\n\nSome details of the round werereported earlier this week by Bloomberg.\n\nThe new",
       "tags": [
         "Apple",
         "Amazon",
