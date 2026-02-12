@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-02-12T15:56:22.633260+00:00",
+  "last_updated": "2026-02-12T17:05:16.164857+00:00",
   "articles": [
+    {
+      "title": "US FTC airs concerns over allegations that Apple News suppresses right-wing content",
+      "link": "https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/",
+      "author": "Ram Iyer",
+      "date": "2026-02-12T06:40:03-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2193735641.jpg?w=1024",
+      "category": "Government & Policy",
+      "content": "The U.S. Federal Trade Commission (FTC) has raised concerns over allegations that Apple is censoring conservative content on the Apple News app.\n\nIn aletterto Apple CEO Tim Cook, FTC chair Andrew Ferguson citedreportsfrom Media Research Center, a right-leaning think tank, which accused Apple of excluding right-leaning outlets from the top 20 articles in the Apple News feed.\n\n“These reports raise serious questions about whether Apple News is acting in accordance with its terms of service and its representations to consumers […] I abhor and condemn any attempt to censor content for ideological reasons,” Ferguson’s letter reads.\n\nFerguson, a Big Tech critic who Trump appointed to lead the competition regulator, noted the FTC doesn’t have any powers to require Apple to take ideological or political positions when curating news, but he said that if the company’s practices are “inconsistent” its terms of service or “reasonable expectations of consumers,” they may be in violation of the FTC Act.\n\nBrendan Carr, the chairman of the Federal Communications Commission (another Trump appointee critical of Big Tech),supportedFerguson’s stance, writing, “Apple has no right to suppress conservative viewpoints in violation of the FTC Act.”\n\nFerguson has urged Apple to conduct a “comprehensive review” of its terms of service and ensure that the content curated on Apple News is consistent with its policies, and “take corrective action swiftly” if the curation isn’t in line.\n\nThe letter comes a day after President Donald Trumpsharedthe report by Media Research Center on his social media platform, Truth Social. Trump has repeatedly accused Big Tech companies of censoring right-leaning content, though many major platforms have rolled back several measures to curb fake news and disinformation they had imposed in the years prior to his second stint at the White House.\n\nApple’s relationship with the Trump administration has oscillated between warm and cold over the past year. Trump has crit",
+      "excerpt": "The U.S. Federal Trade Commission (FTC) has raised concerns over allegations that Apple is censoring conservative content on the Apple News app.\n\nIn aletterto Apple CEO Tim Cook, FTC chair Andrew Ferguson citedreportsfrom Media Research Center, a right-leaning think tank, which accused Apple of excl",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Eclipse backs all-EV marketplace Ever in $31M funding round",
+      "link": "https://techcrunch.com/2026/02/12/eclipse-backs-all-ev-marketplace-ever-in-31m-funding-round/",
+      "author": "Sean O'Kane",
+      "date": "2026-02-12T06:00:09-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/ever-car-founders.jpg?resize=1156,1200",
+      "category": "Transportation",
+      "content": "If you want to buy or sell a used EV right now, what’s the first step you’d take?\n\nA startup called Ever wants to be the answer to that question. The company, which bills itself as the first “AI-native, full-stack auto retail business” for electric vehicles, already has thousands of customers buying and selling their EVs on the platform.\n\nNow it’s looking to scale with help from a $31 million Series A funding round led by Eclipse, with Ibex Investors, Lifeline Ventures, and JIMCO — the investment arm of the Saudi Arabian Jameel family (an early investor in Rivian) — as co-investors.\n\nOver the last decade, companies like Carvana and CarMax helped usher in the digital car-buying experience. More recently, myriad startups have tried to improve the car-buying experience with AI, pitching ideas like voice agents or smarter scheduling software. Eclipse’s Jiten Behl thinks this is the wrong approach if you want to really modernize the automotive retail experience, though.\n\n“These bolt-on AI tools are band-aids,” he said in an interview with TechCrunch. He likened it to how many major automakers’ first EVs were essentially combustion vehicles that were repackaged to fit electric drivetrains. That approach came with major tradeoffs compared to designing a new EV from the ground up, which was the approach companies like Tesla and Rivian took.\n\n“Auto retail is a perfect candidate for disrupting with AI, you know? It’s a lot of process, lot of labor, [very] rules-based,” he said.\n\nLasse-Mathias Nyberg, Ever co-founder and CEO, said in an interview that buying or selling a car typically triggers “hundreds or thousands of different actions” that a retailer needs to perform in order to complete the transaction. “There’s massive complexities or frictions on both sides.”\n\nIn 2022, he and his team set out to reduce or remove those complexities. What they settled on after a year of research was a digital-first auto retailer. The core tech is an orchestration layer or “operating system",
+      "excerpt": "If you want to buy or sell a used EV right now, what’s the first step you’d take?\n\nA startup called Ever wants to be the answer to that question. The company, which bills itself as the first “AI-native, full-stack auto retail business” for electric vehicles, already has thousands of customers buying",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
       "link": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
@@ -104,14 +138,14 @@
       ]
     },
     {
-      "title": "UpScrolled’s social network is struggling to moderate hate speech after fast growth",
-      "link": "https://techcrunch.com/2026/02/11/upscrolleds-social-network-is-struggling-to-moderate-hate-speech-after-fast-growth/",
-      "author": "Sarah Perez",
-      "date": "2026-02-11T09:47:15-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/upscrolled.png?resize=1200,942",
-      "category": "Social",
-      "content": "UpScrolled, a social network thatcaught fireafter TikTok’s ownership change in the U.S., is facing a serious moderation problem. Aftergrowing to more than 2.5 million usersin January, users have reported the app is not taking action on the creation of usernames and hashtags that contain racial slurs, and hasn’t been able to properly moderate harmful content.\n\nAfter receiving tips from UpScrolled users, TechCrunch confirmed the existence of a wide range of racial slurs and hate speech being used in people’s usernames on the app. For instance, some usernames would feature the name of the slur itself, the slur combined with other words, or multiple slurs in a single username; other usernames contain hate speech, like “Glory to Hitler.”\n\nAfter reporting these slurs to UpScrolled’s public email address, we received a response from that email that the company is “actively reviewing and removing inappropriate content,” and is working to expand its moderation capacity. The email advised us not to engage with bad-faith actors while the situation is resolved.\n\nDays after reporting this activity on the app, the accounts with slurs in the usernames that were provided to UpScrolled via screenshots remained online.\n\nIn addition, slurs and hate speech can be found elsewhere in the app, including hashtags and text used alongside its photo or video content, TechCrunch found. Other harmful content was available, including text posts with racial slurs and hate speech, and photo and video content glorifying Hitler, based on TechCrunch’s review of the app.\n\nTechCrunch wasn’t alone in identifying this problem; the ADL alsopublished a blog post this month, noting that UpScrolled was becoming home to antisemitic and extremist content anddesignatedforeign terrorist organizations, like Hamas and others.\n\nUpScrolled, which was founded in 2025, claims on its website claims that the platform offers every voice “equal power.” The app has seen more than 4 million downloads on iOS and Android sinc",
-      "excerpt": "UpScrolled, a social network thatcaught fireafter TikTok’s ownership change in the U.S., is facing a serious moderation problem. Aftergrowing to more than 2.5 million usersin January, users have reported the app is not taking action on the creation of usernames and hashtags that contain racial slurs",
+      "title": "More U.S. investors sue South Korean government over handling of Coupang data breach",
+      "link": "https://techcrunch.com/2026/02/12/more-u-s-investors-sue-south-korean-government-over-handling-of-coupang-data-breach/",
+      "author": "Kate Park",
+      "date": "2026-02-12T08:56:32-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/coupang-large-rainbow-2250196254.jpg?resize=1200,858",
+      "category": "Government & Policy",
+      "content": "Coupang’smassive data breach in South Koreahas now become a geopolitical flashpoint as a growing number of the company’s U.S. investors take legal action against the South Korean government.\n\nWhat began as a regulatory investigation into data security failures has expanded into a broader dispute over alleged unfair treatment of the U.S.-headquartered company.\n\nWhile Coupang — which operates in South Korea, Taiwan, and Japan — is often referred to as the “Amazon of South Korea,” its worldwide headquarters are actually in Seattle, Washington.\n\nThe company’s investors are now seeking international arbitration under the Korea–U.S. Free Trade Agreement (FTA). On Jan 23, 2026, U.S. investment firms Greenoaks and Altimeterfiled a noticewith South Korea’s Ministry of Justice, saying they suffered losses from what they characterized as the government’s discriminatory investigation into the data breach. They said they plan to pursue investor–state dispute settlement (ISDS) arbitration under the Korea–U.S. FTA.\n\nSouth Korea’s Ministry of JusticesaidThursday that three more investors including Abrams Capital, Durable Capital Partners, and Foxhaven Asset Management have now joined the case. They are alleging the government acted unlawfully toward the e-commerce company.\n\nTo recap the incident: In December, Coupang disclosed that nearly 34 million Korean customers’ personal information had been leaked in a data breach that had been going on for more than five months. The breach involved customer names, email addresses, phone numbers, shipping addresses, and certain order histories, the company said.\n\nWhile other tech breaches in Korea resulted in less severe penalties, Coupang has faced extraordinary government pressure. The government reportedly threatenedmassive fines,suspension of operations, andtravel bansfor executives while, Coupang’s investors allege,trying to block public communicationand misrepresenting the breach.\n\nKorea’s Personal Information Protection Commission (PIP",
+      "excerpt": "Coupang’smassive data breach in South Koreahas now become a geopolitical flashpoint as a growing number of the company’s U.S. investors take legal action against the South Korean government.\n\nWhat began as a regulatory investigation into data security failures has expanded into a broader dispute ove",
       "tags": [
         "Apple",
         "Amazon",
@@ -121,48 +155,14 @@
       ]
     },
     {
-      "title": "Former Founders Fund VC Sam Blond launches AI sales startup to upend Salesforce",
-      "link": "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/",
-      "author": "Julie Bort",
-      "date": "2026-02-11T08:00:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Monaco-Founder-Photo.jpg?resize=1200,800",
-      "category": "Startups",
-      "content": "When Sam Blond left his job as a VC for Founders Fund a year ago — just 18 months after he started — hetold the worldthat being a VC wasn’t for him and he was “going back to operating.”\n\nOn Wednesday, he officially brought his new startup,Monaco, out of stealth. It was co-founded with his brother Brian Blond, who is also an ex-sales professional turned VC. (Brian is a partner at Human Capital and was formerly at Sutter Hill.) The brothers are joined by two other co-founders, Abishek Viswanathan (previously CPO at Apollo and Qualtrics), and Malay Desai (formerly SVP of engineering at Clari).\n\nMonaco has raised a total of $35 million, between a $10 million seed and $25 million Series A round, Sam Blond tells TechCrunch. Both rounds were led by Founders Fund, with participation from Human Capital. The startup has been quietly testing its AI sales platform through a private beta for a while, but on Wednesday opened it up to a public beta.\n\nThe well-connected Blond brothers (Sam was previously head of sales at Brex), also attracted a bunch of big-name angels as backers: Stripe founders Patrick and John Collison, Y Combinator chief Garry Tan, and Greenoaks Capital founder Neil Mehta.\n\nSo what attracted such a venerable list of investors? Monaco is entering the crowded field of AI sales tech with a twist. It isn’t just competing with SaaS-era tech via its AI-native alternative; it’s also supplying experienced human salespeople to be experts in the AI loop, monitoring and guiding the AI’s work.\n\nThe startup is targeting young seed and Series A-level startups with a product suite that includes an AI-native customer relationship management (CRM) system and a built-from-scratch ZoomInfo-like database for finding prospects. Its AI agents can create and execute email outreach campaigns and draft follow-up emails all monitored by the human experts. It includes other features, too, like a meeting notetaker.\n\nThe product is intended to automate much of the sales grunt work. “We can",
-      "excerpt": "When Sam Blond left his job as a VC for Founders Fund a year ago — just 18 months after he started — hetold the worldthat being a VC wasn’t for him and he was “going back to operating.”\n\nOn Wednesday, he officially brought his new startup,Monaco, out of stealth. It was co-founded with his brother Br",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Apple acquires all rights to Severance, will produce future seasons in-house",
+      "title": "Apple acquires all rights to ‘Severance,’ will produce future seasons in-house",
       "link": "https://techcrunch.com/2026/02/12/apple-acquires-all-rights-to-severance-will-produce-future-seasons-in-house/",
       "author": "Aisha Malik",
       "date": "2026-02-12T07:34:11-08:00",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/Severance_Photo_020401.jpg.photo_modal_show_home_large.jpg?resize=1200,675",
       "category": "",
-      "content": "Apple has acquired the IP and all rights to its hit show “Severance” from its original studio, Fifth Season, as firstreported by Deadline. Under the deal, which was worth just under $70 million, Apple’s in-house studio will be producing the show’s future seasons. Fifth Season will remain as an executive producer.\n\nThe deal is similar to one Apple struck with AMC Studios for sci-fi show “Silo” after season one.\n\nSeverance will now be one of Apple’s marquee titles, joining popular series such as “Your Friends and Neighbors” and  “Stick.”\n\nAccording to Deadline, the production costs for Severance had exceeded what Fifth Season could afford. The studio had already requested advances from Apple and was considering relocating production from New York to Canada for bigger and quicker tax rebates. Since Apple definitely has the funds to back the show, the company decided to take full control.\n\nSeverance is important to the streamer, as the show’s second season became Apple’s most-watched series at the time. It also had the highest number of nominations at the 2025 Emmy Awards.\n\nDeadline reports that the show is expected to run for four seasons, with the possibility of spin-offs, a prequel, and foreign versions.",
+      "content": "Apple has acquired the IP and all rights to its hit show “Severance” from its original studio, Fifth Season, as firstreported by Deadline. Under the deal, which was worth just under $70 million, Apple’s in-house studio will be producing the show’s future seasons. Fifth Season will remain as an executive producer.\n\nThe deal is similar to one Apple struck with AMC Studios for sci-fi show “Silo” after season one.\n\n“Severance” will now be one of Apple’s marquee titles, joining popular series such as “Your Friends and Neighbors” and “Stick.”\n\nAccording to Deadline, the production costs for “Severance” had exceeded what Fifth Season could afford. The studio had already requested advances from Apple and was considering relocating production from New York to Canada for bigger and quicker tax rebates. Since Apple definitely has the funds to back the show, the company decided to take full control.\n\n“Severance” is important to the streamer, as the show’s second season became Apple’s most-watched series at the time. It also had the highest number of nominations at the 2025 Emmy Awards.\n\nDeadline reports that the show is expected to run for four seasons, with the possibility of spin-offs, a prequel, and foreign versions.",
       "excerpt": "Apple has acquired the IP and all rights to its hit show “Severance” from its original studio, Fifth Season, as firstreported by Deadline. Under the deal, which was worth just under $70 million, Apple’s in-house studio will be producing the show’s future seasons. Fifth Season will remain as an execu",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "US FTC airs concerns over allegations that Apple News suppresses right-wing content",
-      "link": "https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/",
-      "author": "Ram Iyer",
-      "date": "2026-02-12T06:40:03-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2193735641.jpg?w=1024",
-      "category": "Government & Policy",
-      "content": "The U.S. Federal Trade Commission (FTC) has raised concerns over allegations that Apple is censoring conservative content on the Apple News app.\n\nIn aletterto Apple CEO Tim Cook, FTC chair Andrew Ferguson citedreportsfrom Media Research Center, a right-leaning think tank, which accused Apple of excluding right-leaning outlets from the top 20 articles in the Apple News feed.\n\n“These reports raise serious questions about whether Apple News is acting in accordance with its terms of service and its representations to consumers […] I abhor and condemn any attempt to censor content for ideological reasons,” Ferguson’s letter reads.\n\nFerguson, a Big Tech critic who Trump appointed to lead the competition regulator, noted the FTC doesn’t have any powers to require Apple to take ideological or political positions when curating news, but he said that if the company’s practices are “inconsistent” its terms of service or “reasonable expectations of consumers,” they may be in violation of the FTC Act.\n\nBrendan Carr, the chairman of the Federal Communications Commission (another Trump appointee critical of Big Tech),supportedFerguson’s stance, writing, “Apple has no right to suppress conservative viewpoints in violation of the FTC Act.”\n\nFerguson has urged Apple to conduct a “comprehensive review” of its terms of service and ensure that the content curated on Apple News is consistent with its policies, and “take corrective action swiftly” if the curation isn’t in line.\n\nThe letter comes a day after President Donald Trumpsharedthe report by Media Research Center on his social media platform, Truth Social. Trump has repeatedly accused Big Tech companies of censoring right-leaning content, though many major platforms have rolled back several measures to curb fake news and disinformation they had imposed in the years prior to his second stint at the White House.\n\nApple’s relationship with the Trump administration has oscillated between warm and cold over the past year. Trump has crit",
-      "excerpt": "The U.S. Federal Trade Commission (FTC) has raised concerns over allegations that Apple is censoring conservative content on the Apple News app.\n\nIn aletterto Apple CEO Tim Cook, FTC chair Andrew Ferguson citedreportsfrom Media Research Center, a right-leaning think tank, which accused Apple of excl",
       "tags": [
         "Apple",
         "Amazon",
