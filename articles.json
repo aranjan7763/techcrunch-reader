@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-02-13T18:55:16.787946+00:00",
+  "last_updated": "2026-02-13T19:43:51.014378+00:00",
   "articles": [
+    {
+      "title": "The SEC closed its investigation into Fisker",
+      "link": "https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/",
+      "author": "Sean O'Kane",
+      "date": "2026-02-13T09:48:43-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/fisker-ocean-black.jpg?resize=1200,763",
+      "category": "Transportation",
+      "content": "The Securities and Exchange Commission closed its investigation into bankrupt electric vehicle startup Fisker  last September, roughlyone year after the probe was opened.\n\nTechCrunch learned the investigation was closed when the financial regulator responded to a Freedom of Information Act (FOIA) request in January. The SEC’s FOIA department said it had identified “approximately 21.7 gigabytes of electronically maintained records” related to the investigation. The agency doesn’t typically make records available if investigations are still open, and it explained in a follow-up email that it “was closed in September 2025.”\n\nIt’s not clear how far the investigation progressed. The SECrevealed the existence of the probein an October 2024 filing in Fisker’s bankruptcy case. The agency wrote at the time that it had sent subpoenas to the company and that it may need to “request or subpoena additional documents in the future relating to its ongoing investigation.”\n\nA spokesperson for the agency declined to comment. Founder and former CEO Henrik Fisker did not respond to a message seeking comment.\n\nThe closure of the Fisker investigation comes amid a significant drop in enforcement actions and settlements during President Trump’s second term. The SEC initiated 313 enforcement actions in 2025 — the lowest in a decade and down 27% from the the final year of President Biden’s term, according toan analysis by law firm Paul, Weiss. Only four of those enforcement actions were against public companies. Total monetary settlements fell 45% from 2024.\n\nFisker was one of the last remaining electric vehicle startups under investigation by the SEC. Over the last few years, the agency settled fraud or other charges brought againstNikola,Lordstown Motors,Canoo,Hyzon Motors, and others. In 2023, itclosed an investigationinto Lucid Motors without a lawsuit.\n\nThe only known active investigation remaining into an electric vehicle startup is the one related to Faraday Future, which is now nearl",
+      "excerpt": "The Securities and Exchange Commission closed its investigation into bankrupt electric vehicle startup Fisker  last September, roughlyone year after the probe was opened.\n\nTechCrunch learned the investigation was closed when the financial regulator responded to a Freedom of Information Act (FOIA) re",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "India partners with Alibaba.com for export push despite past China tech bans",
+      "link": "https://techcrunch.com/2026/02/13/india-partners-with-alibaba-com-for-export-push-despite-past-china-tech-bans/",
+      "author": "Jagmeet Singh",
+      "date": "2026-02-13T09:32:59-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/alibaba-com-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+      "category": "Government & Policy",
+      "content": "India’s government has partnered with China’s Alibaba.com on an export-focused program aimed at helping startups and small businesses reach overseas buyers. The move highlights New Delhi’s selective engagement with Chinese-linked tech platforms years after itimposed sweeping banson consumer apps and games.\n\nThis week, the Indian government’s Startup India initiativeannouncedthe collaboration with Alibaba.com to identify and support Indian startups that can help onboard and scale Indian exporters on the group’s global B2B platform. The program offers commissions and technical support to those startups to assist small manufacturers and traders in reaching overseas markets.\n\nThe new partnership arrives after years of strained India–China relations. New Delhibanned dozens of Chinese-linked appsin 2020 following a deadly border clash, including major platforms such as TikTok, PUBG Mobile, and AliExpress, an e-commerce app operated by Alibaba Group. Those restrictions remain in place, making the Indian government’s public collaboration with Alibaba’s export-focused platform a carefully circumscribed form of engagement rather than a broader policy reset.\n\nIndia’s export ambitions are closely tied to its small businesses and the platforms they use to reach overseas markets. Micro, small, and medium enterprises account fornearly half of the country’s exportsand about 31% of GDP, according to the Indian government’s latest Economic Survey, underlining why New Delhi has focused on expanding digital market access for smaller firms through global B2B channels, including Alibaba.com.\n\nAlibaba.com’s B2B platform connects more than 50 million active buyers across over 200 countries and regions, said Rocky Lu, head of India business at the company.\n\n“Alibaba.com has been active in India for over two decades, and we remain dedicated to our core mission of empowering MSMEs to scale their businesses globally,” Lu told TechCrunch. “Our focus continues to be on leveraging our digital inf",
+      "excerpt": "India’s government has partnered with China’s Alibaba.com on an export-focused program aimed at helping startups and small businesses reach overseas buyers. The move highlights New Delhi’s selective engagement with Chinese-linked tech platforms years after itimposed sweeping banson consumer apps and",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "A Stanford grad student created an algorithm to help his classmates find love; now, Date Drop is the basis of his new startup",
       "link": "https://techcrunch.com/2026/02/13/a-stanford-grad-student-created-an-algorithm-to-help-his-classmates-find-love-now-date-drop-is-the-basis-of-his-new-startup/",
@@ -10,6 +44,23 @@
       "category": "Apps",
       "content": "As Valentine’s Day approaches at Stanford, some students may be gearing up for first dates — not with people they met on Tinder or Hinge, but with matches from a service calledDate Drop, designed by Stanford graduate student Henry Weng. Date Drop pairs students with potential dates once per week based on their responses to a questionnaire.\n\nA Stanford whiz kid is trying to disrupt an established industry from his Palo Alto dorm?Stop meifyou’ve heard thisonebefore! But young adults are deeplydisillusionedwith the frustrating, demoralizingstate of online dating. Why not try something different?\n\nOver 5,000 students at Stanford have given Date Drop a try since its launch in the fall. It has also rolled out at 10 more schools, including MIT, Princeton, and the University of Pennsylvania, and Weng says he wants to roll out Date Drop more broadly in some cities this summer.\n\n“Our matches convert to actual dates at about 10x the rate of Tinder,” Weng told TechCrunch. “Instead of swiping, we get to know each person deeply and send them one compatible match per week.”\n\nAt first, Weng didn’t intend to turn Date Drop into the foundation of a startup. Then, a close friend of his met their partner via Date Drop. “That was when I got the sense that this was less of a project,” he said.\n\nNow, Weng thinks of Date Drop as just the first service from his startup, TheRelationship Company, which is a public benefit corporation — a type of company legally required to consider social impact alongside profits.\n\n“This started as something I just wanted to exist on campus, and it became a company because people kept on asking for it in their schools and I needed resources to do that,” he said.\n\nAlready, Weng has raised “a few million” from some angel investors, including Zynga founder and early Facebook backer Mark Pincus, who has taught business courses at Stanford (including to Weng). Andy Chen, a former partner at Coatue, and Elad Gil, an early backer of Airbnb, Stripe, and Pinterest, al",
       "excerpt": "As Valentine’s Day approaches at Stanford, some students may be gearing up for first dates — not with people they met on Tinder or Hinge, but with matches from a service calledDate Drop, designed by Stanford graduate student Henry Weng. Date Drop pairs students with potential dates once per week bas",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
+      "link": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
+      "author": "Sarah Perez",
+      "date": "2026-02-13T09:16:27-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Claude-app-gettyImages-2216579136.jpg?w=1024",
+      "category": "Apps",
+      "content": "Anthropic’sSuper Bowl ads— which feature darkly comedic scenarios of people seeking advice from chatbots, only to be steered to “cougar” dating sites and height-boosting insoles — have been paying off. In the days since, Anthropic’s AI chatbot Claude has climbed from No. 41 on the U.S. App Store to become a top 10 app. As of Friday, Claude sits at No. 7 — its highest rank to date — suggesting its “no ads” pitch resonates strongly with users.\n\nAccording to new data from market intelligence providerAppfigures, Claude’s U.S. downloads across both iOS and Android totaled an estimated 148,000 from Sunday through Tuesday — the most recent data available. That’s a 32% increase from the preceding three days, Thursday through Saturday, where downloads totaled approximately 112,000.\n\nClaude’s daily average number of downloads from Sunday through Tuesday was 49,200, up 32% from the usual Sunday through Tuesday average of 37,400 per day.\n\nThe numbers suggest that Anthropic’s Super Bowl commercials, combined with Anthropic’s recentrelease of its new Opus 4.6 model, worked to drive attention to Claude’s app and its key differentiator from ChatGPT. The latterrolled out ads to free usersthis week, just as Anthropic’s ads had warned.\n\nAs a result, Claude’s app is gaining more attention than it did when it first debuted on mobile.\n\nThe consumer-focused AI apparrived on iOS in May 2024to a fairly tepid reception. ChatGPT had beaten it to market on mobile devices and had grown tonearly half a million installsin its first five days. By comparison, Claude had only pulled in 157,000 total global downloads within its first week and didn’t reach a rank higher than No. 55 on the U.S. App Store.\n\nGlobally, Claude saw some gains this past week, too. Overall worldwide downloads of Claude across both the App Store and Google Play grew 15% from Sunday to Tuesday versus last Thursday to Saturday. However, this was less than half the gains seen in the U.S., Appfigures noted.",
+      "excerpt": "Anthropic’sSuper Bowl ads— which feature darkly comedic scenarios of people seeking advice from chatbots, only to be steered to “cougar” dating sites and height-boosting insoles — have been paying off. In the days since, Anthropic’s AI chatbot Claude has climbed from No. 41 on the U.S. App Store to ",
       "tags": [
         "Apple",
         "Amazon",
@@ -87,57 +138,6 @@
       ]
     },
     {
-      "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
-      "link": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
-      "author": "Sarah Perez",
-      "date": "2026-02-12T15:26:56-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/pinterest-header.jpg?resize=1200,800",
-      "category": "Social",
-      "content": "After a particularlypoor performanceon its fourth-quarter earnings, Pinterest CEO Bill Ready attempted to favorably compare the digital pinboarding site to the popular AI chatbot ChatGPT.\n\nTrying to highlight its potential as a unique search destination, Ready asserted that the site sees larger search volume than ChatGPT. According to third-party data, ChatGPT sees 75 billion searches per month, while Pinterest sees 80 billion searches and generates 1.7 billion monthly clicks, he said.\n\n“That makes us one of the largest search destinations in the world. And importantly, more than half of those searches are commercial in nature, compared to, I think . . . approximately 2% [of ChatGPT searches],” Ready added.\n\nPinterest in the fourth quarter missed expectations on both revenue and earnings per share, reporting $1.32 billion in revenue versus $1.33 billion expected, and earnings per share of 67 cents, compared to the 69 cents projected. It also forecast that first-quarter 2026 sales will come in between $951 million to $971 million, below the $980 million expected.\n\nThe company blamed its shortfall on larger advertisers pulling back on spend, particularly in Europe, and a new furniture tariff implemented in October that caused issues within the home category. It said those trends could worsen in the first quarter.\n\nSurprisingly, Pinterest missed on earnings despite a user base that’s growing faster than expected. The company reported monthly active users were up 12% year-over-year to 619 million, when Wall Street had forecast 613 million users.\n\nSharesdropped20% in after-hours trading.\n\nPinterest has long struggled to translate the high usage of its platform into ad dollars, as its users often go to Pinterest to plan and dream, not shop and buy. That challenge could become even more acute in the AI era, especially if advertisers shift their dollars to platforms where intent to buy is clearer — such as chatbot requests that ask for product recommendations.\n\nWhen asked a",
-      "excerpt": "After a particularlypoor performanceon its fourth-quarter earnings, Pinterest CEO Bill Ready attempted to favorably compare the digital pinboarding site to the popular AI chatbot ChatGPT.\n\nTrying to highlight its potential as a unique search destination, Ready asserted that the site sees larger sear",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Rivian was saved by software in 2025",
-      "link": "https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025/",
-      "author": "Kirsten Korosec",
-      "date": "2026-02-12T15:17:32-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/250522-ANASTASIA-BENSON-GOOGLE-MAPS-AEB08056-FINAL.jpg?resize=1200,790",
-      "category": "Transportation",
-      "content": "Rivian is, by every measure, a maker and seller of EVs. But in 2025, it was the company’s software and services that helped its annual revenue grow by 8%.\n\nRivian reported Thursday $5.38 billion in total revenue in 2025, up from $4.97 billion from the prior year. That rosy picture dulls a bit when looking just at its automotive revenue, which fell 15% to $3.8 billion in 2025. The fall was fueled by a $134 million drop in regulatory credit sales and lower vehicle deliveries, which were partially offset by higher average selling prices, according to Rivian.\n\nMeanwhile, software and services revenue grew more than threefold to $1.55 billion for the year. And the joint venture with Volkswagen Group was behind most of that growth, according to Rivian. The “services” component of this line item, which Rivian doesn’t break out, includes a variety of items, including vehicle repair, vehicle trade-ins, and maintenance services. The remainder, and the bulk of the revenue, is from software, and specifically due to the joint venture with VW Group.\n\nVW and Rivian formed atechnology joint venturein 2024 that is worth up to $5.8 billion. The joint venture is milestone-based and in 2025 Rivian hit the mark, which meant a $1 billion payout in the form of a share sale. Under the terms of the JV, Rivian will supply VW Group with its existing electrical architecture and software technology stack.\n\nRivian received an initial $1 billion convertible note in 2024 and another$1 billion paymentin July 2025.\n\nRivian is expected to continue to receive payments from VW Group through 2027. Rivian is expected to receive an additional $2 billion of capital as part of the joint venture in 2026, CFO Claire McDonough said Thursday on the company earnings call. About $1 billion of that is subject to the successful completion of winter testing, which is underway. The remaining $1 billion is nonrecourse debt, which is expected to be received in October.\n\nAnd while the funds provide a hefty stopgap, Rivi",
-      "excerpt": "Rivian is, by every measure, a maker and seller of EVs. But in 2025, it was the company’s software and services that helped its annual revenue grow by 8%.\n\nRivian reported Thursday $5.38 billion in total revenue in 2025, up from $4.97 billion from the prior year. That rosy picture dulls a bit when l",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Didero lands $30M to put manufacturing procurement on ‘agentic’ autopilot",
-      "link": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
-      "author": "Marina Temkin",
-      "date": "2026-02-12T12:31:47-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Founders_Exterior_Mid-3.jpg?resize=1200,800",
-      "category": "Startups",
-      "content": "Tim Spencer realized just how complicated manufacturing procurement can be while runningMarkai, an e-commerce startupin Asia, during the pandemic.\n\n“We had thousands of suppliers, and we were distributing products into dozens of countries around the world,” Spencer (pictured left) told TechCrunch. His staff was overwhelmed by the manual complexity of sourcing suppliers, negotiating pricing, tracking orders, and managing payments.\n\n“I found myself running this big team that was not really set up for success,” he said. He sold Markai in 2023, just as it was becoming clear that generative AI could streamline the most time-consuming procurement hurdles for manufacturers and distributors.\n\nLater that year, Spencer launchedDiderowith Lorenz Pallhuber (pictured center), a veteran of McKinsey’s procurement practice, and Tom Petit, the former technical co-founder ofLandis.\n\nDidero, whose mission is to automate many of the complexities of global procurement, just raised a $30 million Series A co-led by Chemistry and Headline, with participation from Microsoft’s venture fund M12.\n\n“Global trade runs on natural language communication,” Spencer said. “It’s emails, WeChat, phone calls, purchase orders, and packing lists.”\n\nUntil the advent of generative AI, these fragmented pieces had to be tracked by humans who spent their days chasing suppliers and manually updating systems of record. Didero claims its platform can ingest that communication, putting a significant portion of the procurement workflow on autopilot.\n\nDidero functions as an agentic AI layer that sits on top of a company’s existing ERP, acting as a coordinator that reads incoming communications and automatically executes the necessary updates and tasks.\n\n“The goal is to go from ‘I need a good’ to payment without having to lift a finger,” Spencer said.\n\nUnlike Levelpath, Zip, or Oro Labs, which use AI to streamline corporate purchasing, Didero focuses on the supply chain. Its platform is designed for manufacturers and",
-      "excerpt": "Tim Spencer realized just how complicated manufacturing procurement can be while runningMarkai, an e-commerce startupin Asia, during the pandemic.\n\n“We had thousands of suppliers, and we were distributing products into dozens of countries around the world,” Spencer (pictured left) told TechCrunch. H",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
       "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
       "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
       "author": "Amanda Silberling",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "The SEC closed its investigation into Fisker",
-      "link": "https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/",
-      "author": "Sean O'Kane",
-      "date": "2026-02-13T09:48:43-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/fisker-ocean-black.jpg?resize=1200,763",
-      "category": "Transportation",
-      "content": "The Securities and Exchange Commission closed its investigation into bankrupt electric vehicle startup Fisker  last September, roughlyone year after the probe was opened.\n\nTechCrunch learned the investigation was closed when the financial regulator responded to a Freedom of Information Act (FOIA) request in January. The SEC’s FOIA department said it had identified “approximately 21.7 gigabytes of electronically maintained records” related to the investigation. The agency doesn’t typically make records available if investigations are still open, and it explained in a follow-up email that it “was closed in September 2025.”\n\nIt’s not clear how far the investigation progressed. The SECrevealed the existence of the probein an October 2024 filing in Fisker’s bankruptcy case. The agency wrote at the time that it had sent subpoenas to the company and that it may need to “request or subpoena additional documents in the future relating to its ongoing investigation.”\n\nA spokesperson for the agency declined to comment. Founder and former CEO Henrik Fisker did not respond to a message seeking comment.\n\nThe closure of the Fisker investigation comes amid a significant drop in enforcement actions and settlements during President Trump’s second term. The SEC initiated 313 enforcement actions in 2025 — the lowest in a decade and down 27% from the the final year of President Biden’s term, according toan analysis by law firm Paul, Weiss. Only four of those enforcement actions were against public companies. Total monetary settlements fell 45% from 2024.\n\nFisker was one of the last remaining electric vehicle startups under investigation by the SEC. Over the last few years, the agency settled fraud or other charges brought againstNikola,Lordstown Motors,Canoo,Hyzon Motors, and others. In 2023, itclosed an investigationinto Lucid Motors without a lawsuit.\n\nThe only known active investigation remaining into an electric vehicle startup is the one related to Faraday Future, which is now nearl",
-      "excerpt": "The Securities and Exchange Commission closed its investigation into bankrupt electric vehicle startup Fisker  last September, roughlyone year after the probe was opened.\n\nTechCrunch learned the investigation was closed when the financial regulator responded to a Freedom of Information Act (FOIA) re",
+      "title": "Roku to launch streaming bundles as part of its efforts to continue growing its profitability",
+      "link": "https://techcrunch.com/2026/02/13/roku-to-launch-streaming-bundles-as-part-of-its-efforts-to-continue-growing-its-profitability/",
+      "author": "Lauren Forristal",
+      "date": "2026-02-13T08:39:27-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/04/roku-logo.jpg?resize=1200,800",
+      "category": "Media & Entertainment",
+      "content": "Roku shared itsfourth-quarter earningsfor 2025 this week, as well as some exciting plans in the pipeline. The company is rolling out new streaming bundles, expanding its $3 subscription service, Howdy, to more platforms, and partnering with more premium streaming services following the successful addition of HBO Max.\n\nLaunching bundles in 2026 is a smart move, as it could attract more viewers looking for enticing deals amid rising subscription prices. Many streaming platforms have been increasing their rates recently, and Roku aims to appeal to cost-conscious consumers. The positive impact of HBO Max on Roku’s premium subscriptions has encouraged the company to continue this strategy by adding more top-tier partners, which is likely to drive growth going forward.\n\nAdditionally, Rokulaunchedits ad-free subscription streaming service, Howdy, last year and plans to expand its availability beyond the Roku platform. While specific details remain undisclosed, Roku CEO Anthony Woodstated at CES last monththat the goal is to distribute Howdy widely, saying, “We want to distribute it everywhere.”\n\nOther highlights include Roku users streaming 145.6 billion hours of video in 2025, marking a 15% increase from 2024. The company is also nearing the milestone of 100 million streaming households, though it has decided to report this figure less frequently.\n\nFinancially, Roku delivered an impressive quarter, posting net income of $80.5 million, a rebound from a $35.5 million loss in the same period last year. Total revenue for Q4 2025 reached $1.4 billion, representing a 16% year-over-year increase.\n\nLooking ahead, Roku is optimistic, projecting total net revenue of $5.5 billion and gross profit of $2.4 billion.\n\n“In 2023, our priority was to rightsize our cost structure and reach adjusted EBITDA breakeven in 2024, and we achieved that goal a full year ahead of schedule,” Wood told investors during the call yesterday afternoon. “Looking ahead to 2026 and beyond, we are confident in",
+      "excerpt": "Roku shared itsfourth-quarter earningsfor 2025 this week, as well as some exciting plans in the pipeline. The company is rolling out new streaming bundles, expanding its $3 subscription service, Howdy, to more platforms, and partnering with more premium streaming services following the successful ad",
       "tags": [
         "Apple",
         "Amazon",
