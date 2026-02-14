@@ -1,6 +1,57 @@
 {
-  "last_updated": "2026-02-14T06:51:10.797002+00:00",
+  "last_updated": "2026-02-14T07:36:00.104825+00:00",
   "articles": [
+    {
+      "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+      "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
+      "author": "Sarah Perez",
+      "date": "2026-02-13T14:12:26-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675",
+      "category": "AI",
+      "content": "Airbnb says itscustom-built AI agentis now handling roughly a third of its customer support issues in North America, and it’s preparing to roll out the feature globally. If successful, the company believes that in a year’s time, more than 30% of its total customer support tickets will be handled by AI voice and chat in all the languages where it also employs a human customer service agent.\n\n“We think this is going to be massive because not only does this reduce the cost base of Airbnb customer service, but the quality of service is going to be a huge step change,” CEO Brian Chesky said during the company’sfourth-quarter earningscall this week. This seems to suggest he believes the AI would do a better job than its human counterparts in resolving some issues.\n\nThe company also touted its recent hire of CTO Ahmad Al-Dahle,poached from Metafor his AI expertise, and its plans to create an AI-native experience.\n\nWith his guidance, Chesky said that Airbnb was poised to introduce an app that doesn’t just search for you, but one that “knows you.”\n\n“It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale,” Chesky explained, adding that’s why Airbnb brought Al-Dahle on board.\n\n“Ahmad is one of the world’s leading AI experts. He spent 16 years at Apple, and most recently led the generative AI team at Meta that built the Llama models. He’s an expert at pairing massive technical scale with world-class design, which is exactly how we’re going to transform the Airbnb experience,” Chesky noted.\n\nLike other businesses poised for disruption by AI, Airbnb’s leadership is pushing the idea that it has a unique database and product that other AI chatbots can’t replicate.\n\n“A chatbot doesn’t have our 200 million verified identities or our 500 million proprietary reviews, and it can’t message the hosts, which 90% of our guests do,” Chesky told analysts during the earnings call. Instead, he pitched the idea o",
+      "excerpt": "Airbnb says itscustom-built AI agentis now handling roughly a third of its customer support issues in North America, and it’s preparing to roll out the feature globally. If successful, the company believes that in a year’s time, more than 30% of its total customer support tickets will be handled by ",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Indian pharmacy chain giant exposed customer data and internal systems",
+      "link": "https://techcrunch.com/2026/02/13/indias-major-pharmacy-chain-exposed-customer-data-and-internal-systems/",
+      "author": "Jagmeet Singh",
+      "date": "2026-02-13T19:30:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/medications-drugs-2237708773.jpg?resize=1200,795",
+      "category": "Security",
+      "content": "A security lapse by one of India’s largest pharmacy chains allowed outsiders to gain full administrative control of its platform, exposing customer order data and sensitive drug-control functions, TechCrunch has exclusively learned.\n\nThe issue affected DavaIndia Pharmacy, the pharmacy arm of Zota Healthcare, which operates a large network of retail outlets across India. Security researcher Eaton Zveare told TechCrunch that he discovered the flaw after identifying insecure “super admin” application programming interfaces on DavaIndia’s website and privately shared details with Indian cybersecurity authorities.\n\nThe bug is now fixed, and Zvearedisclosed his findings.\n\nThe exposure comes as Zota Healthcare rapidly scales DavaIndia Pharmacy’s retail business. The Gujarat-headquartered company operates more than 2,300 DavaIndia stores across India, including276 new outletsannounced in January, and plans toadd another 1,200 to 1,500over the next two years.\n\nZveare told TechCrunch that the flaw stemmed from insecure admin interfaces, which allowed unauthenticated users to create “super admin” accounts with high privileges.\n\nWith that level of access, an attacker could view thousands of online orders containing customer information, modify product listings and prices, create discount coupons, and change settings governing whether certain medicines required a prescription, the researcher said.\n\nBased on system timestamps, Zveare said the vulnerable administrative interfaces appeared to have been live since late 2024. The access exposed nearly 17,000 online orders and administrative controls spanning 883 stores, he said, allowing changes to product pricing, prescription requirements, and promotional discounts. Zveare said the access allowed edits to website content that could have been used for defacement or disruption.\n\nPharmacy order data can be particularly sensitive, as it may reveal information about a person’s health conditions, medications or other private purchases. E",
+      "excerpt": "A security lapse by one of India’s largest pharmacy chains allowed outsiders to gain full administrative control of its platform, exposing customer order data and sensitive drug-control functions, TechCrunch has exclusively learned.\n\nThe issue affected DavaIndia Pharmacy, the pharmacy arm of Zota He",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "A Stanford grad student created an algorithm to help his classmates find love; now, Date Drop is the basis of his new startup",
+      "link": "https://techcrunch.com/2026/02/13/a-stanford-grad-student-created-an-algorithm-to-help-his-classmates-find-love-now-date-drop-is-the-basis-of-his-new-startup/",
+      "author": "Amanda Silberling",
+      "date": "2026-02-13T08:24:53-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/headshot.jpg?resize=898,1200",
+      "category": "Apps",
+      "content": "As Valentine’s Day approaches at Stanford, some students may be gearing up for first dates — not with people they met on Tinder or Hinge, but with matches from a service calledDate Drop, designed by Stanford graduate student Henry Weng. Date Drop pairs students with potential dates once per week based on their responses to a questionnaire.\n\nA Stanford whiz kid is trying to disrupt an established industry from his Palo Alto dorm?Stop meifyou’ve heard thisonebefore! But young adults are deeplydisillusionedwith the frustrating, demoralizingstate of online dating. Why not try something different?\n\nOver 5,000 students at Stanford have given Date Drop a try since its launch in the fall. It has also rolled out at 10 more schools, including MIT, Princeton, and the University of Pennsylvania, and Weng says he wants to roll out Date Drop more broadly in some cities this summer.\n\n“Our matches convert to actual dates at about 10x the rate of Tinder,” Weng told TechCrunch. “Instead of swiping, we get to know each person deeply and send them one compatible match per week.”\n\nAt first, Weng didn’t intend to turn Date Drop into the foundation of a startup. Then, a close friend of his met their partner via Date Drop. “That was when I got the sense that this was less of a project,” he said.\n\nNow, Weng thinks of Date Drop as just the first service from his startup, TheRelationship Company, which is a public benefit corporation — a type of company legally required to consider social impact alongside profits.\n\n“This started as something I just wanted to exist on campus, and it became a company because people kept on asking for it in their schools and I needed resources to do that,” he said.\n\nAlready, Weng has raised “a few million” from some angel investors, including Zynga founder and early Facebook backer Mark Pincus, who has taught business courses at Stanford (including to Weng). Andy Chen, a former partner at Coatue, and Elad Gil, an early backer of Airbnb, Stripe, and Pinterest, al",
+      "excerpt": "As Valentine’s Day approaches at Stanford, some students may be gearing up for first dates — not with people they met on Tinder or Hinge, but with matches from a service calledDate Drop, designed by Stanford graduate student Henry Weng. Date Drop pairs students with potential dates once per week bas",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "The SEC closed its investigation into Fisker",
       "link": "https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/",
@@ -27,23 +78,6 @@
       "category": "Government & Policy",
       "content": "India’s government has partnered with China’s Alibaba.com on an export-focused program aimed at helping startups and small businesses reach overseas buyers. The move highlights New Delhi’s selective engagement with Chinese-linked tech platforms years after itimposed sweeping banson consumer apps and games.\n\nThis week, the Indian government’s Startup India initiativeannouncedthe collaboration with Alibaba.com to identify and support Indian startups that can help onboard and scale Indian exporters on the group’s global B2B platform. The program offers commissions and technical support to those startups to assist small manufacturers and traders in reaching overseas markets.\n\nThe new partnership arrives after years of strained India–China relations. New Delhibanned dozens of Chinese-linked appsin 2020 following a deadly border clash, including major platforms such as TikTok, PUBG Mobile, and AliExpress, an e-commerce app operated by Alibaba Group. Those restrictions remain in place, making the Indian government’s public collaboration with Alibaba’s export-focused platform a carefully circumscribed form of engagement rather than a broader policy reset.\n\nIndia’s export ambitions are closely tied to its small businesses and the platforms they use to reach overseas markets. Micro, small, and medium enterprises account fornearly half of the country’s exportsand about 31% of GDP, according to the Indian government’s latest Economic Survey, underlining why New Delhi has focused on expanding digital market access for smaller firms through global B2B channels, including Alibaba.com.\n\nAlibaba.com’s B2B platform connects more than 50 million active buyers across over 200 countries and regions, said Rocky Lu, head of India business at the company.\n\n“Alibaba.com has been active in India for over two decades, and we remain dedicated to our core mission of empowering MSMEs to scale their businesses globally,” Lu told TechCrunch. “Our focus continues to be on leveraging our digital inf",
       "excerpt": "India’s government has partnered with China’s Alibaba.com on an export-focused program aimed at helping startups and small businesses reach overseas buyers. The move highlights New Delhi’s selective engagement with Chinese-linked tech platforms years after itimposed sweeping banson consumer apps and",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "A Stanford grad student created an algorithm to help his classmates find love; now, Date Drop is the basis of his new startup",
-      "link": "https://techcrunch.com/2026/02/13/a-stanford-grad-student-created-an-algorithm-to-help-his-classmates-find-love-now-date-drop-is-the-basis-of-his-new-startup/",
-      "author": "Amanda Silberling",
-      "date": "2026-02-13T08:24:53-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/headshot.jpg?resize=898,1200",
-      "category": "Apps",
-      "content": "As Valentine’s Day approaches at Stanford, some students may be gearing up for first dates — not with people they met on Tinder or Hinge, but with matches from a service calledDate Drop, designed by Stanford graduate student Henry Weng. Date Drop pairs students with potential dates once per week based on their responses to a questionnaire.\n\nA Stanford whiz kid is trying to disrupt an established industry from his Palo Alto dorm?Stop meifyou’ve heard thisonebefore! But young adults are deeplydisillusionedwith the frustrating, demoralizingstate of online dating. Why not try something different?\n\nOver 5,000 students at Stanford have given Date Drop a try since its launch in the fall. It has also rolled out at 10 more schools, including MIT, Princeton, and the University of Pennsylvania, and Weng says he wants to roll out Date Drop more broadly in some cities this summer.\n\n“Our matches convert to actual dates at about 10x the rate of Tinder,” Weng told TechCrunch. “Instead of swiping, we get to know each person deeply and send them one compatible match per week.”\n\nAt first, Weng didn’t intend to turn Date Drop into the foundation of a startup. Then, a close friend of his met their partner via Date Drop. “That was when I got the sense that this was less of a project,” he said.\n\nNow, Weng thinks of Date Drop as just the first service from his startup, TheRelationship Company, which is a public benefit corporation — a type of company legally required to consider social impact alongside profits.\n\n“This started as something I just wanted to exist on campus, and it became a company because people kept on asking for it in their schools and I needed resources to do that,” he said.\n\nAlready, Weng has raised “a few million” from some angel investors, including Zynga founder and early Facebook backer Mark Pincus, who has taught business courses at Stanford (including to Weng). Andy Chen, a former partner at Coatue, and Elad Gil, an early backer of Airbnb, Stripe, and Pinterest, al",
-      "excerpt": "As Valentine’s Day approaches at Stanford, some students may be gearing up for first dates — not with people they met on Tinder or Hinge, but with matches from a service calledDate Drop, designed by Stanford graduate student Henry Weng. Date Drop pairs students with potential dates once per week bas",
       "tags": [
         "Apple",
         "Amazon",
@@ -104,40 +138,6 @@
       ]
     },
     {
-      "title": "Waymo is asking DoorDash drivers to shut the doors of its self-driving cars",
-      "link": "https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/",
-      "author": "Amanda Silberling",
-      "date": "2026-02-12T20:41:41-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800",
-      "category": "Transportation",
-      "content": "It still feels like a technological marvel: Waymo’s autonomous cars are now transporting passengers across six cities. Alas, this driverless future comes with its own set of problems. These vehicles can be rendered inert if a passenger accidentally leaves the door open.\n\nAccording toa Reddit post, one DoorDash driver discovered this issue when an odd request appeared in their queue. Instead of making a delivery, the driver was offered $6.25 to drive less than one mile to a Waymo vehicle and close its door. After “verified completion,” they would get an extra $5.\n\n“You actually ‘door’ dashed,” one commenter noted.\n\nIt seems too ironic to be real. Waymo vehicles represent technological breakthroughs that once seemed unfathomable. The Alphabet-owned company just raised$16 billionto take its driverless cars international!\n\nBut Waymo and DoorDash confirmed to TechCrunch that this Reddit post is legitimate. This is, in fact, a real problem.\n\n“Waymo is currently running a pilot program in Atlanta to enhance its AV fleet efficiency. In the rare event a vehicle door is left ajar, preventing the car from departing, nearby Dashers are notified, allowing Waymo to get its vehicles back on the road quickly,” Waymo and DoorDash said in a joint response. (The door-closing partnership, which beganearlier this year, is just one facet of Waymo and DoorDash’s broader relationship. In October, the companies launched an autonomous delivery service in Phoenix, where Waymo vehicles deliver food and groceries to DoorDash customers.)\n\nIf a Waymo door is left open, it’s worth it to the company to pay someone to close it — the car cannot complete any more rides if it’s left immobile. Not to mention, an unmoving car could block the flow of traffic.\n\nThis isn’t the first time Waymo has enlisted help with its door troubles. In Los Angeles, Waymo works withHonk, an app that’s like Uber for towing services. According to reports, Honk users in L.A. have been offeredup to $24to close a Waymo door — m",
-      "excerpt": "It still feels like a technological marvel: Waymo’s autonomous cars are now transporting passengers across six cities. Alas, this driverless future comes with its own set of problems. These vehicles can be rendered inert if a passenger accidentally leaves the door open.\n\nAccording toa Reddit post, o",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
-      "link": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
-      "author": "Tim Fernholz",
-      "date": "2026-02-12T14:10:55-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-10.37.51-AM.png?resize=1200,666",
-      "category": "AI",
-      "content": "“Join xAI if the idea of mass drivers on the Moon appeals to you,” CEO Elon Muskproclaimedyesterday following a restructuring that saw a stream of former executivesexit the AI lab.\n\nThis is an interesting recruitment strategy after the company’s merger with Musk’s rocket maker, SpaceX, and the combined company’s anticipated IPO. You might think that xAI employees ought to be fascinated with achieving AGI, using deep learning models to disrupt traditional software companies, or simply bad wordplay like “Macrohard.” But instead, Elon is going to the moon.\n\nAfter outlining plans tobuild AI data centers in orbit, the primary synergy between the two companies, Musk took the idea further. “What if you want to go beyond a mere terawatt per year?” Musk asked. “To do that, you have to go to the moon…I really want to see a mass driver on the moon that is shooting AI satellites into deep space.”\n\nIn Musk’s telling, the step beyond data centers orbiting Earth is even larger computers in deep space. And furthermore, Musk says the best way to achieve that is to build a city on the moon to manufacture space computers and hurl them into the solar system using a big maglev train.\n\nIf that all feels a bit much, veteran Musk watchers know there’s a clue about where the discussion appears in a video of anall-hands meetingxAI shared with the public. The slide describing the moon base comes at the end of the presentation deck, where, during SpaceX pep talks, Musk typically shares renderings of SpaceX rockets landing on Mars and waxes rhapsodic about the future of multi-planetary humanity.\n\nNotably, the moon base comes just after SpaceX has publicly backed away from its long-held goal of colonizing Mars. Now, with xAI in the corporate fold, Musk needs a new science fiction metaphor for the future: In this case, theKardashev Scale, a theoretical measure of galactic civilizations coined by the eponymous Soviet astronomer in the 1960s. The idea is climbing the scale of energy usage — early c",
-      "excerpt": "“Join xAI if the idea of mass drivers on the Moon appeals to you,” CEO Elon Muskproclaimedyesterday following a restructuring that saw a stream of former executivesexit the AI lab.\n\nThis is an interesting recruitment strategy after the company’s merger with Musk’s rocket maker, SpaceX, and the combi",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
       "title": "Nothing opens its first retail store in India",
       "link": "https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/",
       "author": "Ivan Mehta",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Indian pharmacy chain giant exposed customer data and internal systems",
-      "link": "https://techcrunch.com/2026/02/13/indias-major-pharmacy-chain-exposed-customer-data-and-internal-systems/",
-      "author": "Jagmeet Singh",
-      "date": "2026-02-13T19:30:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/medications-drugs-2237708773.jpg?resize=1200,795",
-      "category": "Security",
-      "content": "A security lapse by one of India’s largest pharmacy chains allowed outsiders to gain full administrative control of its platform, exposing customer order data and sensitive drug-control functions, TechCrunch has exclusively learned.\n\nThe issue affected DavaIndia Pharmacy, the pharmacy arm of Zota Healthcare, which operates a large network of retail outlets across India. Security researcher Eaton Zveare told TechCrunch that he discovered the flaw after identifying insecure “super admin” application programming interfaces on DavaIndia’s website and privately shared details with Indian cybersecurity authorities.\n\nThe bug is now fixed, and Zvearedisclosed his findings.\n\nThe exposure comes as Zota Healthcare rapidly scales DavaIndia Pharmacy’s retail business. The Gujarat-headquartered company operates more than 2,300 DavaIndia stores across India, including276 new outletsannounced in January, and plans toadd another 1,200 to 1,500over the next two years.\n\nZveare told TechCrunch that the flaw stemmed from insecure admin interfaces, which allowed unauthenticated users to create “super admin” accounts with high privileges.\n\nWith that level of access, an attacker could view thousands of online orders containing customer information, modify product listings and prices, create discount coupons, and change settings governing whether certain medicines required a prescription, the researcher said.\n\nBased on system timestamps, Zveare said the vulnerable administrative interfaces appeared to have been live since late 2024. The access exposed nearly 17,000 online orders and administrative controls spanning 883 stores, he said, allowing changes to product pricing, prescription requirements, and promotional discounts. Zveare said the access allowed edits to website content that could have been used for defacement or disruption.\n\nPharmacy order data can be particularly sensitive, as it may reveal information about a person’s health conditions, medications or other private purchases. E",
-      "excerpt": "A security lapse by one of India’s largest pharmacy chains allowed outsiders to gain full administrative control of its platform, exposing customer order data and sensitive drug-control functions, TechCrunch has exclusively learned.\n\nThe issue affected DavaIndia Pharmacy, the pharmacy arm of Zota He",
+      "title": "Airbnb plans to bake in AI features for search, discovery and support",
+      "link": "https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/",
+      "author": "Ivan Mehta",
+      "date": "2026-02-13T18:40:42-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/brian-chesky-GettyImages-2217178973.jpg?w=1024",
+      "category": "Apps",
+      "content": "Airbnb has taken its time to launch AI features within the app, but CEO Brian Chesky on Friday said the company is now planning to bake in features powered by large language models that would help users search for listings, plan their trips, and aid hosts in managing their properties.\n\nSpeaking at the company’s fourth-quarter conference call, Chesky said the company wants to increase its use of large language models for customer discovery, support and engineering.\n\n“We are building an AI-native experience where the app does not just search for you. It knows you. It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale,” he said.\n\nThe company separately said it is testing a new feature that lets users search and ask questions about properties and locations using natural language queries.\n\nCurrently, Airbnb offers an LLM-powered customer service bot, for some personalization, and communications. The new AI search feature is expected to “evolve into a more comprehensive and intuitive search experience that extends through the trip.”\n\nQuestioned by analyst whether Airbnb would roll out sponsored property slots within AI search, Chesky said the company wants to get the design and user experience right first.\n\n“AI search is live to a very small percentage of traffic right now. We are doing a lot of experimentation. Over time, we are gonna be experimenting with making AI search more conversational, integrating it into more than the trip, and, eventually, we will be looking at sponsor listings as a result of that,” Chesky said, adding that Airbnb would consider designing an ad unit that fits the conversational search flow.\n\nChesky said Airbnb plans to tap the AI expertise of its new CTO, Ahmad Al-Dahle (he worked on Meta’s  Llama models previously), to use its trove of identity and review data to make the app more useful.\n\nAirbnb claimed itsAI-powered customer supportbot, launched in North Ame",
+      "excerpt": "Airbnb has taken its time to launch AI features within the app, but CEO Brian Chesky on Friday said the company is now planning to bake in features powered by large language models that would help users search for listings, plan their trips, and aid hosts in managing their properties.\n\nSpeaking at t",
       "tags": [
         "Apple",
         "Amazon",
