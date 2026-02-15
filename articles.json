@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-02-15T20:31:11.727616+00:00",
+  "last_updated": "2026-02-15T21:28:17.119302+00:00",
   "articles": [
+    {
+      "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
+      "link": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
+      "author": "Rebecca Bellan",
+      "date": "2026-02-15T09:30:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259183688.jpg?w=1024",
+      "category": "AI",
+      "content": "The battle for enterprise AI is heating up. Microsoft is bundling Copilot into Office. Google is pushing Gemini into Workspace. OpenAI and Anthropic are selling directly to enterprises. Every SaaS vendor now ships an AI assistant.\n\nIn the scramble for the interface, Glean is betting on something less visible: becoming the intelligence layer beneath it.\n\nSeven years ago, Glean set out to be the Google for enterprise — an AI-powered search tool designed to index and search across a company’s SaaS tool library, from Slack to Jira, Google Drive to Salesforce. Today, the company’s strategy has shifted from building a better enterprise chatbot to becoming the connective tissue between models and enterprise systems.\n\n“The layer we built initially – a good search product – required us to deeply understand people and how they work and what their preferences are,” Jain told TechCrunch on last week’sepisode of Equity, which we recorded at Web Summit Qatar. “All of that is now becoming foundational in terms of building high quality agents.”\n\nHe says that while large language models are powerful, they’re also generic.\n\n“The AI models themselves don’t really understand anything about your business,” Jain said. “They don’t know who the different people are, they don’t know what kind of work you do, what kind of products you build. So you have to connect the reasoning and generative power of the models with the context inside your company.”\n\nGlean’s pitch is that it already maps that context and can sit between the model and the enterprise data.\n\nThe Glean Assistant is often the entry point for customers — a familiar chat interface powered by a mix of leading proprietary (ie, ChatGPT, Gemini, Claude) and open-source models, grounded in the company’s internal data. But what keeps customers, Jain argues, is everything underneath it.\n\nFirst is model access. Rather than forcing companies to commit to a single LLM provider, Glean acts as the abstraction layer, allowing enterprises to sw",
+      "excerpt": "The battle for enterprise AI is heating up. Microsoft is bundling Copilot into Office. Google is pushing Gemini into Workspace. OpenAI and Anthropic are selling directly to enterprises. Every SaaS vendor now ships an AI assistant.\n\nIn the scramble for the interface, Glean is betting on something les",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "The great computer science exodus (and where students are going instead)",
       "link": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
@@ -87,23 +104,6 @@
       ]
     },
     {
-      "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
-      "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
-      "author": "Sarah Perez",
-      "date": "2026-02-13T14:12:26-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675",
-      "category": "AI",
-      "content": "Airbnb says itscustom-built AI agentis now handling roughly a third of its customer support issues in North America, and it’s preparing to roll out the feature globally. If successful, the company believes that in a year’s time, more than 30% of its total customer support tickets will be handled by AI voice and chat in all the languages where it also employs a human customer service agent.\n\n“We think this is going to be massive because not only does this reduce the cost base of Airbnb customer service, but the quality of service is going to be a huge step change,” CEO Brian Chesky said during the company’sfourth-quarter earningscall this week. This seems to suggest he believes the AI would do a better job than its human counterparts in resolving some issues.\n\nThe company also touted its recent hire of CTO Ahmad Al-Dahle,poached from Metafor his AI expertise, and its plans to create an AI-native experience.\n\nWith his guidance, Chesky said that Airbnb was poised to introduce an app that doesn’t just search for you, but one that “knows you.”\n\n“It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale,” Chesky explained, adding that’s why Airbnb brought Al-Dahle on board.\n\n“Ahmad is one of the world’s leading AI experts. He spent 16 years at Apple, and most recently led the generative AI team at Meta that built the Llama models. He’s an expert at pairing massive technical scale with world-class design, which is exactly how we’re going to transform the Airbnb experience,” Chesky noted.\n\nLike other businesses poised for disruption by AI, Airbnb’s leadership is pushing the idea that it has a unique database and product that other AI chatbots can’t replicate.\n\n“A chatbot doesn’t have our 200 million verified identities or our 500 million proprietary reviews, and it can’t message the hosts, which 90% of our guests do,” Chesky told analysts during the earnings call. Instead, he pitched the idea o",
-      "excerpt": "Airbnb says itscustom-built AI agentis now handling roughly a third of its customer support issues in North America, and it’s preparing to roll out the feature globally. If successful, the company believes that in a year’s time, more than 30% of its total customer support tickets will be handled by ",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
       "title": "India doubles down on state-backed venture capital, approving $1.1B fund",
       "link": "https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/",
       "author": "Jagmeet Singh",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
-      "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
-      "author": "Jagmeet Singh",
-      "date": "2026-02-15T10:00:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?resize=1200,800",
-      "category": "AI",
-      "content": "India has 100 million weekly active ChatGPT users, making the country one of OpenAI’s largest markets globally, CEO Sam Altman said ahead of a government-hosted AI summit.\n\nOn Sunday, Altman outlined ChatGPT’s growing adoption in India in an articlepublishedin the Indian English daily Times of India, as OpenAI prepares to formally participate in the five-day India AI Impact Summit in New Delhi, beginning Monday. Altman isattending the eventalongside senior executives from several of the world’s leading AI companies.\n\nThe growth comes as OpenAI,like other leading AI firms, looks to India’s young population and its more than a billion internet users to fuel global expansion. The ChatGPT makeropened a New Delhi officein August 2025 after months of groundwork in the country, and has adjusted its approach for India’s price-sensitive market, including rolling out asub-$5 ChatGPT Go tierthat waslater made free for a yearfor Indian users.\n\nIn the article, Altman said India is ChatGPT’s second-largest user base after the United States, highlighting the South Asian nation’s growing weight in OpenAI’s global strategy. The disclosure comes as ChatGPT’s overall usage has surged worldwide, with the platformreaching 800 million weekly active usersas of October 2025 and reported to beapproaching 900 million.\n\nAltman also highlighted the role of students in driving adoption, saying India has the largest number of student users of ChatGPT globally.\n\nIndian students have become a key growth segment for leading AI companies more broadly, as rivals race to embed their tools in classrooms and learning workflows. Google has similarly targeted the market, offering Indian students afree one-year subscription to its AI Pro planin September 2025. Separately, India accounts for thehighest global usage of Gemini for learning, Chris Phillips, Google’s vice president and general manager for education, said last month.\n\n“With its focus on access, practical Al literacy, and the infrastructure that ",
-      "excerpt": "India has 100 million weekly active ChatGPT users, making the country one of OpenAI’s largest markets globally, CEO Sam Altman said ahead of a government-hosted AI summit.\n\nOn Sunday, Altman outlined ChatGPT’s growing adoption in India in an articlepublishedin the Indian English daily Times of India",
+      "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
+      "link": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
+      "author": "Anthony Ha",
+      "date": "2026-02-15T13:11:28-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1252170580.jpg?resize=1200,800",
+      "category": "",
+      "content": "The Pentagon is pushing AI companies to allow the U.S. military to use their technology for “all lawful purposes,” but Anthropic is pushing back, according toa new report in Axios.\n\nThe government is reportedly making the same demand to OpenAI, Google, and xAI. An anonymous Trump administration official told Axios that one of those companies has agreed, while the other two have supposedly shown some flexibility.\n\nAnthropic, meanwhile, has reportedly been the most resistant. In response, the Pentagon is apparently threatening to pull the plug on its $200 million contract with the AI company.\n\nIn January,the Wall Street Journal reportedthat there was significant disagreement between Anthropic and Defense Department officials over how its Claude models could be used. The WSJ subsequently said thatClaude was used in the U.S. military’s operationto capture then-Venezuelan President Nicolás Maduro.\n\nAnthropic did not immediately respond to TechCrunch’s request for comment.\n\nA company spokesperson told Axios that the company has “not discussed the use of Claude for specific operations with the Department of War” but is instead “focused on a specific set of Usage Policy questions — namely, our hard limits around fully autonomous weapons and mass domestic surveillance.”",
+      "excerpt": "The Pentagon is pushing AI companies to allow the U.S. military to use their technology for “all lawful purposes,” but Anthropic is pushing back, according toa new report in Axios.\n\nThe government is reportedly making the same demand to OpenAI, Google, and xAI. An anonymous Trump administration offi",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
-      "link": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
-      "author": "Rebecca Bellan",
-      "date": "2026-02-15T09:30:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259183688.jpg?w=1024",
+      "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
+      "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
+      "author": "Jagmeet Singh",
+      "date": "2026-02-15T10:00:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?resize=1200,800",
       "category": "AI",
-      "content": "The battle for enterprise AI is heating up. Microsoft is bundling Copilot into Office. Google is pushing Gemini into Workspace. OpenAI and Anthropic are selling directly to enterprises. Every SaaS vendor now ships an AI assistant.\n\nIn the scramble for the interface, Glean is betting on something less visible: becoming the intelligence layer beneath it.\n\nSeven years ago, Glean set out to be the Google for enterprise — an AI-powered search tool designed to index and search across a company’s SaaS tool library, from Slack to Jira, Google Drive to Salesforce. Today, the company’s strategy has shifted from building a better enterprise chatbot to becoming the connective tissue between models and enterprise systems.\n\n“The layer we built initially – a good search product – required us to deeply understand people and how they work and what their preferences are,” Jain told TechCrunch on last week’sepisode of Equity, which we recorded at Web Summit Qatar. “All of that is now becoming foundational in terms of building high quality agents.”\n\nHe says that while large language models are powerful, they’re also generic.\n\n“The AI models themselves don’t really understand anything about your business,” Jain said. “They don’t know who the different people are, they don’t know what kind of work you do, what kind of products you build. So you have to connect the reasoning and generative power of the models with the context inside your company.”\n\nGlean’s pitch is that it already maps that context and can sit between the model and the enterprise data.\n\nThe Glean Assistant is often the entry point for customers — a familiar chat interface powered by a mix of leading proprietary (ie, ChatGPT, Gemini, Claude) and open-source models, grounded in the company’s internal data. But what keeps customers, Jain argues, is everything underneath it.\n\nFirst is model access. Rather than forcing companies to commit to a single LLM provider, Glean acts as the abstraction layer, allowing enterprises to sw",
-      "excerpt": "The battle for enterprise AI is heating up. Microsoft is bundling Copilot into Office. Google is pushing Gemini into Workspace. OpenAI and Anthropic are selling directly to enterprises. Every SaaS vendor now ships an AI assistant.\n\nIn the scramble for the interface, Glean is betting on something les",
+      "content": "India has 100 million weekly active ChatGPT users, making the country one of OpenAI’s largest markets globally, CEO Sam Altman said ahead of a government-hosted AI summit.\n\nOn Sunday, Altman outlined ChatGPT’s growing adoption in India in an articlepublishedin the Indian English daily Times of India, as OpenAI prepares to formally participate in the five-day India AI Impact Summit in New Delhi, beginning Monday. Altman isattending the eventalongside senior executives from several of the world’s leading AI companies.\n\nThe growth comes as OpenAI,like other leading AI firms, looks to India’s young population and its more than a billion internet users to fuel global expansion. The ChatGPT makeropened a New Delhi officein August 2025 after months of groundwork in the country, and has adjusted its approach for India’s price-sensitive market, including rolling out asub-$5 ChatGPT Go tierthat waslater made free for a yearfor Indian users.\n\nIn the article, Altman said India is ChatGPT’s second-largest user base after the United States, highlighting the South Asian nation’s growing weight in OpenAI’s global strategy. The disclosure comes as ChatGPT’s overall usage has surged worldwide, with the platformreaching 800 million weekly active usersas of October 2025 and reported to beapproaching 900 million.\n\nAltman also highlighted the role of students in driving adoption, saying India has the largest number of student users of ChatGPT globally.\n\nIndian students have become a key growth segment for leading AI companies more broadly, as rivals race to embed their tools in classrooms and learning workflows. Google has similarly targeted the market, offering Indian students afree one-year subscription to its AI Pro planin September 2025. Separately, India accounts for thehighest global usage of Gemini for learning, Chris Phillips, Google’s vice president and general manager for education, said last month.\n\n“With its focus on access, practical Al literacy, and the infrastructure that ",
+      "excerpt": "India has 100 million weekly active ChatGPT users, making the country one of OpenAI’s largest markets globally, CEO Sam Altman said ahead of a government-hosted AI summit.\n\nOn Sunday, Altman outlined ChatGPT’s growing adoption in India in an articlepublishedin the Indian English daily Times of India",
       "tags": [
         "Apple",
         "Amazon",
