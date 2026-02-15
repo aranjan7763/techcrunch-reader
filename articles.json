@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T15:28:56.552622+00:00",
+  "last_updated": "2026-02-15T16:35:11.695667+00:00",
   "articles": [
     {
       "title": "The great computer science exodus (and where students are going instead)",
@@ -54,9 +54,9 @@
     },
     {
       "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
-      "link": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+      "link": "https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
       "author": "Anthony Ha",
-      "date": "2026-02-14T10:26:52-08:00",
+      "date": "2026-02-15T07:41:16-08:00",
       "image": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1263876301.jpeg?w=1024",
       "category": "Media & Entertainment",
       "content": "Hollywood organizations are pushing back against a new AI video model calledSeedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.\n\nByteDance, the Chinese company that recently finalized a deal to sell TikTok’s U.S. operations (itretains a stake in the new joint venture), launched Seedance 2.0 earlier this week.According to the Wall Street Journal, the updated model is currently available to Chinese users of ByteDance’s Jianying app, and the company says it will soon be available to global users of its CapCut app.\n\nSimilar to tools such asOpenAI’s Sora, Seedance allows users to create videos (currently limited to 15 seconds in length) by just entering a text prompt. And like Sora, Seedance quickly drew criticism for an apparent lack of guardrails around the ability to create videos using the likeness of real people, as well as studios’ intellectual property.\n\nAfter one X userposted a brief videoshowing Tom Cruise fighting Brad Pitt, which they said was created by “a 2 line prompt in seedance 2,” “Deadpool” screenwriterRhett Reese responded, “I hate to say it. It’s likely over for us.”\n\nThe Motion Picture Association soon issueda statementfrom CEO Charles Rivkin demanding that ByteDance “immediately cease its infringing activity.”\n\n“In a single day, the Chinese AI service Seedance 2.0 has engaged in unauthorized use of U.S. copyrighted works on a massive scale,” Rivkin said. “By launching a service that operates without meaningful safeguards against infringement, ByteDance is disregarding well-established copyright law that protects the rights of creators and underpins millions of American jobs.”\n\nThe Human Artistry Campaign — an initiative backed by Hollywood unions and trade groups —condemned Seedance 2.0as “an attack one very creator around the world,” whilethe actors’ union SAG-AFTRA saidit “stands with the studios in condemning the blatant infringement enabled by Bytedance’s new AI video model Seedance 2.0.”\n\nSeedance videos",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts",
-      "link": "https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/",
-      "author": "Anthony Ha",
-      "date": "2026-02-14T14:30:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2258756561.jpg?w=1024",
-      "category": "",
-      "content": "The Department of Homeland Security has been increasing pressure on tech companies to identify the owners of social media accounts that criticize Immigration and Customs Enforcement (ICE),according to The New York Times.\n\nThis echoes other recent reporting, withBloomberg pointing to five casesin which Homeland Securitysought to identify the owners of anonymous Instagram accounts, with the department withdrawing its subpoenas after the owners sued. And aWashington Post storydescribed Homeland Security’s growing use of administrative subpoenas — which do not require the approval of a judge — to target Americans.\n\nNow the NYT says a practice that was previously used sparingly has become increasingly common in recent months, with the department sending hundreds of these subpoenas to Google, Reddit, Discord, and Meta. The subpoenas reportedly focused on accounts that did not have a real name attached and either criticized ICE or described the location of ICE agents.\n\nGoogle, Meta, and Reddit have reportedly complied in at least some cases. Echoing past comments, Google said that it informs users of these subpoenas when it can, and that it pushes back when the subpoenas are “overbroad.”",
-      "excerpt": "The Department of Homeland Security has been increasing pressure on tech companies to identify the owners of social media accounts that criticize Immigration and Customs Enforcement (ICE),according to The New York Times.\n\nThis echoes other recent reporting, withBloomberg pointing to five casesin whi",
+      "title": "How to get into a16z’s super-competitive Speedrun startup accelerator program",
+      "link": "https://techcrunch.com/2026/02/15/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/",
+      "author": "Dominic-Madori Davis",
+      "date": "2026-02-15T07:53:53-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/speedrun.webp?resize=1200,800",
+      "category": "Venture",
+      "content": "Without a doubt, one of the hottest new startup accelerators in tech right now is Andreessen Horowitz’s Speedrun program. Launched in 2023, the accelerator has an acceptance rate of less than 1%. In aJanuary blog post,the program said that over 19,000 startups pitched and fewer than 0.4% were accepted into the latest cohort.\n\nThe program used to focus on gaming startups, then expanded into entertainment and media, and is now a “horizontal program,” Joshua Lu, the program’s general manager and a partner at a16z, told TechCrunch. Today, founders of any type of startup can apply, and the program runs for about 12 weeks in San Francisco. It once had a program in Los Angeles, but Lu said the focus will be on SF from now on.\n\nThere are two cohorts a year, and around 50 to 70 startups are accepted into each. The programinvests up to $1 millioninto each company, though the downside is that it’s a bit pricey. It typically invests $500,000 up front in exchange for 10% of the startup’s company via a SAFE note, and another $500,000 if the next round is raised within 18 months, at whatever terms agreed to by the other investors.\n\nIn comparison, Y Combinatortypically takes a fixed 7%of the company for $125,000, with another $375,000 “invested on an uncapped MFN safe.”\n\nSpeedrun said its program is more “equity expensive” because of what it offers founders. It provides them with access to a16z’s advisory and business networks that assist with tasks like go-to-market, brand development, media strategy, and talent sourcing. Plus it offers the startups perks like $5 million in credits to vendors such as AWS, OpenAI, Nvidia, and Deel.\n\nGiven the high interest, and low acceptance rate, TechCrunch spoke to Lu for some tips on how startups can best stand out. The latest cohort began in January and will end in April with a Demo Day. Applications forthe next cohort open in April,though it looks at off-season applications year-round, Lu said.\n\nSpeedrun focuses on early-stage startups. Becau",
+      "excerpt": "Without a doubt, one of the hottest new startup accelerators in tech right now is Andreessen Horowitz’s Speedrun program. Launched in 2023, the accelerator has an acceptance rate of less than 1%. In aJanuary blog post,the program said that over 19,000 startups pitched and fewer than 0.4% were accept",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Is safety ‘dead’ at xAI?",
-      "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
+      "title": "Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts",
+      "link": "https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/",
       "author": "Anthony Ha",
-      "date": "2026-02-14T13:55:44-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
+      "date": "2026-02-14T14:30:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2258756561.jpg?w=1024",
       "category": "",
-      "content": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged,” according to a former employee whospoke to The Vergeabout recent departures from Musk’s AI company.\n\nThis week, following the announcement thatMusk’s SpaceX is acquiring xAI(which previously acquired his social media company X), at least 11 engineers andtwo co-founderssaid they’re leaving the company. Some said they’re departing to start something new, andMusk himself suggestedthis is part of an effort to organize xAI more effectively.\n\nBut two sources who left the company (at least one of them before the current wave) reportedly told The Verge that employees have become increasingly disillusioned by the company’s disregard for safety, resulting in global scrutiny after Grok was used tocreate more than 1 million sexualized images, including deepfakes of real women and minors.\n\nOne source said, “Safety is a dead org at xAI,” while the other said that Musk is “actively is trying to make the model more unhinged because safety means censorship, in a sense, to him.”\n\nThey also reportedly complained about a lack of direction, with one saying they felt xAI was “stuck in the catch-up phase” compared to competitors.",
-      "excerpt": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged,” according to a former employee whospoke to The Vergeabout recent departures from Musk’s AI company.\n\nThis week, following the announcement thatMusk’s SpaceX is acquiring xAI(which previously acquired his social media company",
+      "content": "The Department of Homeland Security has been increasing pressure on tech companies to identify the owners of social media accounts that criticize Immigration and Customs Enforcement (ICE),according to The New York Times.\n\nThis echoes other recent reporting, withBloomberg pointing to five casesin which Homeland Securitysought to identify the owners of anonymous Instagram accounts, with the department withdrawing its subpoenas after the owners sued. And aWashington Post storydescribed Homeland Security’s growing use of administrative subpoenas — which do not require the approval of a judge — to target Americans.\n\nNow the NYT says a practice that was previously used sparingly has become increasingly common in recent months, with the department sending hundreds of these subpoenas to Google, Reddit, Discord, and Meta. The subpoenas reportedly focused on accounts that did not have a real name attached and either criticized ICE or described the location of ICE agents.\n\nGoogle, Meta, and Reddit have reportedly complied in at least some cases. Echoing past comments, Google said that it informs users of these subpoenas when it can, and that it pushes back when the subpoenas are “overbroad.”",
+      "excerpt": "The Department of Homeland Security has been increasing pressure on tech companies to identify the owners of social media accounts that criticize Immigration and Customs Enforcement (ICE),according to The New York Times.\n\nThis echoes other recent reporting, withBloomberg pointing to five casesin whi",
       "tags": [
         "Apple",
         "Amazon",
