@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T10:58:12.588074+00:00",
+  "last_updated": "2026-02-16T11:47:49.990973+00:00",
   "articles": [
     {
       "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "African defensetech Terra Industries, founded by two Gen Zers, raises additional $22M in a month",
-      "link": "https://techcrunch.com/2026/02/16/terra-industries-raises-22-million/",
-      "author": "Dominic-Madori Davis",
-      "date": "2026-02-16T00:01:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/Nathan-Nwachuku-Maxwell-Maduka.jpg?w=1080",
-      "category": "Startups",
-      "content": "Just one month afterraising $11.75 million in a roundled by Joe Lonsdale’s 8VC, African defensetech Terra Industries announced that it’s raised an additional $22 million in funding, led by Lux Capital.\n\nNathan Nwachuku, 22, and Maxwell Maduka, 24, launched Terra Industries in 2024 to design infrastructure and autonomous systems to help African nations monitor and respond to threats.\n\nTerrorismremains one of the biggest threats in Africa, but much of the security intelligence on which its nations rely on come from Russia, China, or the West. In January, CEO Nwachuku said his goal was to build “Africa’s first defense prime, to build autonomous defense systems and other systems to protect our critical infrastructure and resources from armed attacks.”\n\nAt the time, Terra had just won its first federal contract. The company has government and commercial clients, and Nwachuku said Terra had already generated more than $2.5 million in commercial revenue and was protecting assets valued at around $11 billion.\n\nHe said this extension round came fast due to “strong momentum.” Other investors in the round include 8VC, Nova Global, and Resiliience17 Capital, which was founded by Flutterwave CEO Olugbenga Agboola. Nwachuku said investors saw “faster-than-expected traction” regarding deals and partnerships, which created urgency to preempt and increase their commitment. The round came about in just under two weeks, bringing the company’s total funding to $34 million.\n\nThe extended raise is not that surprising. Afterall, building a defense company is not cheap. For comparison, Anduril has raisedmore than $2.5 billionin funding; ShieldAI hasraised around $1 billion in equity;drone maker Skydio hasraised around $740 million,and naval autonomous vessel maker Saronic,has raised around $830 million.\n\nSince January, Nwachuku said the company has started expanding into other African nations yet to be announced (Terra is based in Nigeria), and has secured more government and commercial co",
-      "excerpt": "Just one month afterraising $11.75 million in a roundled by Joe Lonsdale’s 8VC, African defensetech Terra Industries announced that it’s raised an additional $22 million in funding, led by Lux Capital.\n\nNathan Nwachuku, 22, and Maxwell Maduka, 24, launched Terra Industries in 2024 to design infrastr",
+      "title": "All the important news from the ongoing India AI Impact Summit",
+      "link": "https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/",
+      "author": "Ivan Mehta",
+      "date": "2026-02-16T03:20:27-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
+      "category": "AI",
+      "content": "With an eye towards luring more AI investment to the country, India is hosting a four-day AI Impact Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.\n\nThe event, which expects 250,000 visitors, will see Alphabet CEO Sundar Pichai, OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Reliance Chairman Mukesh Ambani, and Google DeepMind CEO Demis Hassabis in attendance.\n\nIndia’s prime minister, Narendra Modi, is scheduled to deliver a speech with French President Emmanuel Macron on Thursday.\n\nHere are all the key updates from the event:",
+      "excerpt": "With an eye towards luring more AI investment to the country, India is hosting a four-day AI Impact Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.\n\nThe event, whi",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
-      "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
-      "author": "Jagmeet Singh",
-      "date": "2026-02-15T17:00:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1195233690.jpg?resize=1200,775",
-      "category": "AI",
-      "content": "Power, rather than compute, is fast becoming the limiting factor in scaling AI data centers. That shift has prompted Peak XV Partners to backC2i Semiconductors, an Indian startup building plug-and-play, system-level power solutions designed to cut energy losses and improve the economics of large-scale AI infrastructure.\n\nC2i (which stands for control conversion and intelligence) has raised $15 million in a Series A round led by Peak XV Partners, with participation from Yali Deeptech and TDK Ventures, bringing the two-year-old startup’s total funding to $19 million.\n\nThe investment comes as data-center energy demand accelerates worldwide. Electricity consumption from data centers isprojected to nearly triple by 2035, per a December 2025 report from BloombergNEF, while Goldman Sachs Research estimates data-center power demandcould surge 175% by 2030from 2023 levels — the equivalent of adding another top-10 power-consuming country.\n\nMuch of that strain comes not from generating electricity but from converting it efficiently inside data centers, where high-voltage power must be stepped down thousands of times before it reaches GPUs. This process currently wastes about 15% to 20% of energy, C2i’s co-founder and CTO Preetam Tadeparthy said in an interview.\n\n“What used to be 400 volts has already moved to 800 volts, and will likely go higher,” Tadeparthy told TechCrunch.\n\nFounded in 2024 by former Texas Instruments power executives Ram Anant, Vikram Gakhar, Preetam Tadeparthy, and Dattatreya Suryanarayana, along with Harsha S. B and Muthusubramanian N. V, C2i is redesigning power delivery as a single, plug-and-play “grid-to-GPU” system spanning the data-center bus to the processor itself.\n\nBy treating power conversion, control and packaging as an integrated platform, C2i estimates it can cut end-to-end losses by around 10% — roughly 100 kilowatts saved for every megawatt consumed — with knock-on effects for cooling costs, GPU utilisation and overall data-center economics.\n",
-      "excerpt": "Power, rather than compute, is fast becoming the limiting factor in scaling AI data centers. That shift has prompted Peak XV Partners to backC2i Semiconductors, an Indian startup building plug-and-play, system-level power solutions designed to cut energy losses and improve the economics of large-sca",
+      "title": "African defensetech Terra Industries, founded by two Gen Zers, raises additional $22M in a month",
+      "link": "https://techcrunch.com/2026/02/16/terra-industries-raises-22-million/",
+      "author": "Dominic-Madori Davis",
+      "date": "2026-02-16T00:01:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/Nathan-Nwachuku-Maxwell-Maduka.jpg?w=1080",
+      "category": "Startups",
+      "content": "Just one month afterraising $11.75 million in a roundled by Joe Lonsdale’s 8VC, African defensetech Terra Industries announced that it’s raised an additional $22 million in funding, led by Lux Capital.\n\nNathan Nwachuku, 22, and Maxwell Maduka, 24, launched Terra Industries in 2024 to design infrastructure and autonomous systems to help African nations monitor and respond to threats.\n\nTerrorismremains one of the biggest threats in Africa, but much of the security intelligence on which its nations rely on come from Russia, China, or the West. In January, CEO Nwachuku said his goal was to build “Africa’s first defense prime, to build autonomous defense systems and other systems to protect our critical infrastructure and resources from armed attacks.”\n\nAt the time, Terra had just won its first federal contract. The company has government and commercial clients, and Nwachuku said Terra had already generated more than $2.5 million in commercial revenue and was protecting assets valued at around $11 billion.\n\nHe said this extension round came fast due to “strong momentum.” Other investors in the round include 8VC, Nova Global, and Resiliience17 Capital, which was founded by Flutterwave CEO Olugbenga Agboola. Nwachuku said investors saw “faster-than-expected traction” regarding deals and partnerships, which created urgency to preempt and increase their commitment. The round came about in just under two weeks, bringing the company’s total funding to $34 million.\n\nThe extended raise is not that surprising. Afterall, building a defense company is not cheap. For comparison, Anduril has raisedmore than $2.5 billionin funding; ShieldAI hasraised around $1 billion in equity;drone maker Skydio hasraised around $740 million,and naval autonomous vessel maker Saronic,has raised around $830 million.\n\nSince January, Nwachuku said the company has started expanding into other African nations yet to be announced (Terra is based in Nigeria), and has secured more government and commercial co",
+      "excerpt": "Just one month afterraising $11.75 million in a roundled by Joe Lonsdale’s 8VC, African defensetech Terra Industries announced that it’s raised an additional $22 million in funding, led by Lux Capital.\n\nNathan Nwachuku, 22, and Maxwell Maduka, 24, launched Terra Industries in 2024 to design infrastr",
       "tags": [
         "Apple",
         "Amazon",
