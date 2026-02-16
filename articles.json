@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T23:30:30.484744+00:00",
+  "last_updated": "2026-02-16T02:30:46.954459+00:00",
   "articles": [
     {
       "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Longtime NPR host David Greene sues Google over NotebookLM voice",
-      "link": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
-      "author": "Anthony Ha",
-      "date": "2026-02-15T14:07:51-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-837551280.jpg?resize=1200,675",
-      "category": "",
-      "content": "David Greene, the longtime host of NPR’s “Morning Edition,” is suing Google, alleging that the male podcast voice in the company’sNotebookLM toolis based on Greene,according to The Washington Post.\n\nGreene said that after friends, family members, and coworkers began emailing him about the resemblance, he became convinced that the voice was replicating his cadence, intonation, and use of filler words like “uh.”\n\n“My voice is, like, the most important part of who I am,” said Greene, who currently hoststhe KCRW show “Left, Right, & Center.”\n\nAmong other features, Google’s NotebookLM allows users togenerate a podcast with AI hosts. A company spokesperson told the Post that the voice used in this product is unrelated to Greene’s: “The sound of the male voice in NotebookLM’s Audio Overviews is based on a paid professional actor Google hired.”\n\nThis isn’t the first dispute over AI voices resembling real people. In one notable example, OpenAI removed a ChatGPT voice afteractress Scarlett Johansson complainedthat it was an imitation of her own.",
-      "excerpt": "David Greene, the longtime host of NPR’s “Morning Edition,” is suing Google, alleging that the male podcast voice in the company’sNotebookLM toolis based on Greene,according to The Washington Post.\n\nGreene said that after friends, family members, and coworkers began emailing him about the resemblanc",
+      "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
+      "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
+      "author": "Jagmeet Singh",
+      "date": "2026-02-15T17:00:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1195233690.jpg?resize=1200,775",
+      "category": "AI",
+      "content": "Power, rather than compute, is fast becoming the limiting factor in scaling AI data centers. That shift has prompted Peak XV Partners to backC2i Semiconductors, an Indian startup building plug-and-play, system-level power solutions designed to cut energy losses and improve the economics of large-scale AI infrastructure.\n\nC2i (which stands for control conversion and intelligence) has raised $15 million in a Series A round led by Peak XV Partners, with participation from Yali Deeptech and TDK Ventures, bringing the two-year-old startup’s total funding to $19 million.\n\nThe investment comes as data-center energy demand accelerates worldwide. Electricity consumption from data centers isprojected to nearly triple by 2035, per a December 2025 report from BloombergNEF, while Goldman Sachs Research estimates data-center power demandcould surge 175% by 2030from 2023 levels — the equivalent of adding another top-10 power-consuming country.\n\nMuch of that strain comes not from generating electricity but from converting it efficiently inside data centers, where high-voltage power must be stepped down thousands of times before it reaches GPUs. This process currently wastes about 15% to 20% of energy, C2i’s co-founder and CTO Preetam Tadeparthy said in an interview.\n\n“What used to be 400 volts has already moved to 800 volts, and will likely go higher,” Tadeparthy told TechCrunch.\n\nFounded in 2024 by former Texas Instruments power executives Ram Anant, Vikram Gakhar, Preetam Tadeparthy, and Dattatreya Suryanarayana, along with Harsha S. B and Muthusubramanian N. V, C2i is redesigning power delivery as a single, plug-and-play “grid-to-GPU” system spanning the data-center bus to the processor itself.\n\nBy treating power conversion, control and packaging as an integrated platform, C2i estimates it can cut end-to-end losses by around 10% — roughly 100 kilowatts saved for every megawatt consumed — with knock-on effects for cooling costs, GPU utilisation and overall data-center economics.\n",
+      "excerpt": "Power, rather than compute, is fast becoming the limiting factor in scaling AI data centers. That shift has prompted Peak XV Partners to backC2i Semiconductors, an Indian startup building plug-and-play, system-level power solutions designed to cut energy losses and improve the economics of large-sca",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
-      "link": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
-      "author": "Anthony Ha",
-      "date": "2026-02-15T13:11:28-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1252170580.jpg?resize=1200,800",
-      "category": "",
-      "content": "The Pentagon is pushing AI companies to allow the U.S. military to use their technology for “all lawful purposes,” but Anthropic is pushing back, according toa new report in Axios.\n\nThe government is reportedly making the same demand to OpenAI, Google, and xAI. An anonymous Trump administration official told Axios that one of those companies has agreed, while the other two have supposedly shown some flexibility.\n\nAnthropic, meanwhile, has reportedly been the most resistant. In response, the Pentagon is apparently threatening to pull the plug on its $200 million contract with the AI company.\n\nIn January,the Wall Street Journal reportedthat there was significant disagreement between Anthropic and Defense Department officials over how its Claude models could be used. The WSJ subsequently said thatClaude was used in the U.S. military’s operationto capture then-Venezuelan President Nicolás Maduro.\n\nAnthropic did not immediately respond to TechCrunch’s request for comment.\n\nA company spokesperson told Axios that the company has “not discussed the use of Claude for specific operations with the Department of War” but is instead “focused on a specific set of Usage Policy questions — namely, our hard limits around fully autonomous weapons and mass domestic surveillance.”",
-      "excerpt": "The Pentagon is pushing AI companies to allow the U.S. military to use their technology for “all lawful purposes,” but Anthropic is pushing back, according toa new report in Axios.\n\nThe government is reportedly making the same demand to OpenAI, Google, and xAI. An anonymous Trump administration offi",
+      "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
+      "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+      "author": "Jagmeet Singh",
+      "date": "2026-02-15T16:30:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1156074432.jpg?resize=1200,800",
+      "category": "AI",
+      "content": "Neysa, an Indian AI infrastructure startup, has secured backing from U.S. private equity firm Blackstone as it scales domestic compute capacity amid India’spush to build homegrown AI capabilities.\n\nBlackstone and co-investors, including Teachers’ Venture Growth, TVS Capital, 360 ONE Assets, and Nexus Venture Partners, have agreed to invest up to $600 million of primary equity in Neysa, giving Blackstone a majority stake, Blackstone and Neysa told TechCrunch. The Mumbai-headquartered startup also plans to raise an additional $600 million in debt financing as it expands GPU capacity, a sharp increase from the $50 million it had raised previously.\n\nThe deal comes asdemand for AI computing surges globally, creatingsupply constraints for specialized chipsanddata center capacity neededto train and run large models. Newer AI-focused infrastructure providers — oftenreferred to as “neo-clouds”— have emerged to bridge that gap by offering dedicated GPU capacity and faster deployment than traditional hyperscalers, particularly for enterprises and AI labs with specific regulatory, latency, or customisation requirements.\n\nNeysaoperates in this emerging segment, positioning itself as a provider of customized, GPU-first infrastructure for enterprises, government agencies, and AI developers in India, where demand for local compute is still at an early but rapidly expanding stage.\n\n“A lot of customers want hand-holding, and a lot of them want round-the-clock support with a 15-minute response and a couple of our resolutions. And so those are the kinds of things that we provide that some of the hyperscalers don’t,” said Neysa co-founder and CEO Sharad Sanghi.\n\nGanesh Mani, a senior managing director at Blackstone Private Equity, said his firm estimates that India currently has fewer than 60,000 GPUs deployed — and it expects the figure to scale up nearly 30 times to more than two million in the coming years.\n\nThat expansion is being driven by a combination of government demand, enterp",
+      "excerpt": "Neysa, an Indian AI infrastructure startup, has secured backing from U.S. private equity firm Blackstone as it scales domestic compute capacity amid India’spush to build homegrown AI capabilities.\n\nBlackstone and co-investors, including Teachers’ Venture Growth, TVS Capital, 360 ONE Assets, and Nexu",
       "tags": [
         "Apple",
         "Amazon",
