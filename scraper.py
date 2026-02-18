@@ -98,7 +98,7 @@ def scrape_article(url):
             'date': date,
             'image': image,
             'category': category,
-            'content': content[:2000] if content else '',  # Limit to 2000 chars
+            'content': content if content else '',
             'excerpt': content[:300] if content else '',
             'tags': tags
         }
