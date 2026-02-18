@@ -1,8 +1,11 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 import json
 import re
 from datetime import datetime, timezone
+
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 def get_article_urls():
     """Get article URLs from TechCrunch homepage"""
@@ -125,7 +128,7 @@ def main():
         'articles': articles
     }
 
-    with open('articles.json', 'w', encoding='utf-8') as f:
+    with open(os.path.join(SCRIPT_DIR, 'articles.json'), 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
     print(f"Saved {len(articles)} articles to articles.json")

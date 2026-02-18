@@ -27,11 +27,11 @@ jobs:
           pip install requests beautifulsoup4
 
       - name: Run scraper
-        run: python scraper.py
+        run: python techcrunch-reader/scraper.py
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add articles.json
+          git add techcrunch-reader/articles.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update articles $(date -u +%Y-%m-%d\ %H:%M)" && git push)
