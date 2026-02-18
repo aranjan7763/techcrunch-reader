@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T02:30:47.404132+00:00",
+  "last_updated": "2026-02-18T04:55:43.808699+00:00",
   "articles": [
     {
       "title": "Meta’s own research found parental supervision doesn’t really help curb teens’ compulsive social media use",
@@ -121,6 +121,23 @@
       ]
     },
     {
+      "title": "Tesla dodges 30-day suspension in California after removing Autopilot",
+      "link": "https://techcrunch.com/2026/02/17/tesla-dodges-30-day-suspension-in-california-after-removing-autopilot/",
+      "author": "Kirsten Korosec",
+      "date": "2026-02-17T20:07:15-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/tesla-autopiot-Getty.jpg?resize=1200,800",
+      "category": "Transportation",
+      "content": "The California Department of Motor Vehicles will not suspend Tesla’s sales and manufacturing licenses for 30 days because the EV maker has stopped using the term “Autopilot” in the marketing of its vehicles in the state.\n\nThe decision,issued late Tuesday, means Tesla can continue selling its EVs in California without interruption and officially settles a case that has been dragging on for nearly three years. California is Tesla’s biggest U.S. market.\n\nIn November 2023, the DMV filed accusations that Tesla violated state law by using deceptive marketing of Autopilot, its basic advanced driver assistance system, as well as its more capable Full Self-Driving driver assistance software. The state regulator argued that the terms mislead customers and distorted the capabilities of the advanced driver assistance systems.\n\nTesla stopped using the term “Full Self-Driving Capability,” and instead used Full Self-Driving (Supervised) to more accurately describe the system and clarify that drivers were still required to monitor it. But Tesla held on to the Autopilot term, prompting the DMV to refer the case to an administrative law judge at the California Office of Administrative Hearings.\n\nIn December, the administrative law judge agreed with the DMV’s request to suspend Tesla’s sales and manufacturing licenses in the state for 30 days as a penalty for its actions. The DMV agreed with the ruling, but didn’t pounce; instead, the state regulator gave Tesla 60 days to comply.\n\n“Since then, Tesla took corrective action and has stopped using the misleading term ‘Autopilot’ in the marketing of its electric vehicles in California,” the DMV stated in a release posted on its website. “Tesla had previously modified its use of the term ‘Full Self-Driving’ to clarify that driver supervision is required. By taking this prescribed action, Tesla will avoid having its dealer and manufacturer licenses suspended in the state for 30 days by the DMV.”\n\nTesla didn’t just stop using the term Autopil",
+      "excerpt": "The California Department of Motor Vehicles will not suspend Tesla’s sales and manufacturing licenses for 30 days because the EV maker has stopped using the term “Autopilot” in the marketing of its vehicles in the state.\n\nThe decision,issued late Tuesday, means Tesla can continue selling its EVs in ",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
       "title": "Intellexa’s Predator spyware used to hack iPhone of journalist in Angola, research says",
       "link": "https://techcrunch.com/2026/02/17/intellexas-predator-spyware-used-to-hack-iphone-of-journalist-in-angola-research-says/",
       "author": "Lorenzo Franceschi-Bicchierai",
@@ -144,25 +161,8 @@
       "date": "2026-02-17T15:54:55-08:00",
       "image": "https://techcrunch.com/wp-content/uploads/2019/10/Jack-Eric-_-Founder-Photo-e1758050526778.jpg?w=873",
       "category": "",
-      "content": "Jack Altman and Benchmarkannounced todaythat he would be joining the firm as a general partner.\n\nThis news is a big deal, especially since Altman has been running his own VC firm, Alt Capital, since at least 2024. The fund raised a $150 million Fund I in early 2024 and then, just last September,announced a $274 million Fund II, raised in just a week. On LinkedIn,Altman called the past two yearsrunning Alt Capital as an investor “the most rewarding” of his life, adding that he loved “new ideas and being part of a team with a mission.”\n\nAlt Capital invested in at least 52 companies, according to PitchBook, including Rippling, Antares Nuclear, and CompLabs. It’s unclear what happens to Alt Capital or whether Benchmark has acquired its portfolio, as Altman also announced that his teammates from the fund will be following him to Benchmark. (That’s also unusual, given Benchmark has historically been structured as a flat firm with primarily GPs only, versus layers of investors.)\n\nAltman also said he will retain the board seats at the companies he backed while at Alt Capital.\n\nAltman did not respond to requests for comment earlier today; Benchmark declined to comment.\n\nAltman, a younger brother of OpenAI co-founder Sam, is also the founder of the HR platform Lattice, which he still chairs, per his LinkedIn profile.",
+      "content": "Jack Altman and Benchmarkannounced todaythat he would be joining the firm as a general partner.\n\nThis news is a big deal, especially since Altman has been running his own VC firm, Alt Capital, since at least 2024. The fund raised a $150 million Fund I in early 2024 and then, just last September,announced a $274 million Fund II, raised in just a week. On LinkedIn,Altman called the past two yearsrunning Alt Capital “the most rewarding” of his life, adding that he loved “new ideas and being part of a team with a mission.”\n\nAlt Capital invested in at least 52 companies, according to PitchBook, including Rippling, Antares Nuclear, and CompLabs. It’s unclear what happens to Alt Capital or whether Benchmark has acquired its portfolio, as Altman also announced that his teammates from the fund will be following him to Benchmark. (That’s also unusual, given Benchmark has historically been structured as a flat firm with primarily GPs only, versus layers of investors.)\n\nAltman also said he will retain the board seats at the companies he backed while at Alt Capital.\n\nAltman did not respond to requests for comment earlier today; Benchmark declined to comment.\n\nAltman, a younger brother of OpenAI co-founder Sam, is also the founder of the HR platform Lattice, which he still chairs, per his LinkedIn profile.",
       "excerpt": "Jack Altman and Benchmarkannounced todaythat he would be joining the firm as a general partner.\n\nThis news is a big deal, especially since Altman has been running his own VC firm, Alt Capital, since at least 2024. The fund raised a $150 million Fund I in early 2024 and then, just last September,anno",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Ford turns to F1 and bounties to build a $30,000 electric truck",
-      "link": "https://techcrunch.com/2026/02/17/ford-turns-to-f1-and-bounties-to-build-a-30000-electric-truck/",
-      "author": "Kirsten Korosec",
-      "date": "2026-02-17T15:43:21-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/UEV_aero.jpg?resize=1200,1200",
-      "category": "Transportation",
-      "content": "Ford is promising to deliver an EV truck next year that starts at $30,000 and can compete with Chinese automakers without undermining profit margins. A combination of 3D-printed Lego-like parts, Formula 1 thinking, and a bounty program will help the company hit that target, Ford said Tuesday.\n\nIt will have to. Ford took a$19.5 billion hitin December and ended production of its battery-electric F-150 Lightning. It can’t afford for this new EV business strategy to fall flat.\n\nFord’s bet on a line of affordable EVs began several years ago with askunkworks teamled by Alan Clarke, a 12-year Tesla veteran. Pieces of its plan were revealed last August, when Ford said it would ditch its traditional moving assembly line andinvest $2 billionin its Louisville factory to adopt a new production system that promises to speed up manufacturing by 15%.\n\nThe company said at the time that its line of EVs would be built on a universal platform with single-piece aluminum unicastings — large components cast as one piece to eliminate parts and allow for faster assembly — and lithium iron phosphate batteries with tech licensed from China’s CATL.\n\nNow Ford is sharing more specifics in aflurry of blog and social media postson how it will fulfill its promise of a desirable EV truck that will be $20,000 cheaper than the average new vehicle while still generating profits. Ford didn’t share specs like the range, features, or charging times of this future EV. But it did reveal how it plans to build lighter, cheaper, more efficient EVs made with fewer parts.\n\nIt all starts with the universal EV platform, or UEV. The platform will underpin a midsized truck first, then could support a sedan, crossover, three-row SUV, and even small commercial vans, according to Clarke. The UEV is Ford’s first “clean sheet” EV built from the ground up — a strategic shift for the company, which built its Mustang Mach-E and the Lightning EVs using existing infrastructure and manufacturing practices.\n\n“It’s a platform t",
-      "excerpt": "Ford is promising to deliver an EV truck next year that starts at $30,000 and can compete with Chinese automakers without undermining profit margins. A combination of 3D-printed Lego-like parts, Formula 1 thinking, and a bounty program will help the company hit that target, Ford said Tuesday.\n\nIt wi",
       "tags": [
         "Apple",
         "Amazon",
