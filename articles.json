@@ -1,6 +1,57 @@
 {
-  "last_updated": "2026-02-19T23:33:03.249307+00:00",
+  "last_updated": "2026-02-20T02:25:26.196096+00:00",
   "articles": [
+    {
+      "title": "Nvidia deepens early-stage push into India’s AI startup ecosystem",
+      "link": "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/",
+      "author": "Jagmeet Singh",
+      "date": "2026-02-19T16:30:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+      "category": "AI",
+      "content": "Nvidia is stepping up efforts to court India’s artificial intelligence startups earlier in their lifecycle, unveiling a string of partnerships this week aimed at reaching founders even before their companies are formally established. The push is intended to help the AI chipmaker cultivate relationships with future customers in one of the world’s fastest-growing developer markets.\n\nThe latest move comes through a partnership with early-stage venture firmActivate, which plans to back about 25 to 30 AI startups from its $75 million debut fund while giving portfolio companies preferential access to Nvidia’s technical expertise. The collaboration follows other India-focused efforts unveiled this week, including work with nonprofit AI Grants India to support early-stage founders and new ties with venture firms focused on the South Asian nation.\n\nThe flurry of activity comes as India hosts itsAI Impact Summitin New Delhi, drawing top technology companies including OpenAI, Anthropic, and Google. Nvidia Chief Executive Jensen Huang was slated to attend but skipped the event due to what the company called unforeseen circumstances. A senior delegation led by executive vice president Jay Puri attended in his place, meeting AI researchers, startups, developers, and partners on the ground.\n\nIndia has emerged as one of the fastest-growing pools of AI developers and startups, making it an increasingly important market for Nvidia as it looks to expand adoption of chips and computing software. By working more closely with founders at the earliest stages, the company is positioning itself to capture long-term demand as new AI-native companies scale.\n\nAakrit Vaish, founder of Activate, said Nvidia’s engagement with startups in India has historically been relatively light-touch compared with the U.S., but the chipmaker is now looking to work with founders much earlier in their journey. Activate aims to leverage that shift by connecting portfolio startups directly with Nvidia experts.\n\nThe VC firm, which Vaish describes as focused on “inception investing,” meets technical teams months before company formation and works closely with them as they grow. Its backers include venture capitalist Vinod Khosla, Perplexity co-founder Aravind Srinivas, Peak XV managing director Shailendra Singh, and Paytm CEO Vijay Shekhar Sharma, underlining the prominent network Activate is assembling around its early-stage strategy.\n\nFor Nvidia, the logic behind partnering with an early-stage venture firm is straightforward: the earlier it builds relationships with promising AI startups, the more likely those companies are to rely on its computing infrastructure as they scale. Vaish told TechCrunch that growing startups typically consume increasing amounts of AI compute over time, making early technical engagement valuable for the chipmaker as a way of generating future business.\n\nNvidia already has a sizable presence in the country through itsInception program, which supports more than 4,000 startups in India. This week, the chipmaker alsoexpanded its local ecosystem ties, including partnerships with venture firms such as Accel, Peak XV, Z47, Elevation Capital, and Nexus Venture Partners to identify and fund AI startups. It separately teamed up with AI Grants India, co-founded by Vaibhav Domkundwar and Bhasker (Bosky) Kode, to support more than 10,000 early-stage founders over the next 12 months.\n\nThe company has also been broadening its startup outreach in India over time. In November 2025, Nvidiajoined the India Deep Tech Alliance, a consortium of U.S. and Indian investors including Accel, Blume Ventures, Premji Invest, and Celesta Capital, to provide strategic and technical guidance to emerging startups in the country.\n\nVaish said Activate’s partnership with Nvidia is designed to provide a more curated layer on top of the company’s broad-based Inception program, which serves thousands of startups globally. By serving as an early filter for high-potential technical teams, Activate aims to give its portfolio companies more direct, timely access to Nvidia’s engineering expertise.\n\nThe stepped-up activity underscores intensifying competition among global technology firms to court AI developers and startups in India, which has become one of the fastest-growing pools of technical talent outside the U.S.",
+      "excerpt": "Nvidia is stepping up efforts to court India’s artificial intelligence startups earlier in their lifecycle, unveiling a string of partnerships this week aimed at reaching founders even before their companies are formally established. The push is intended to help the AI chipmaker cultivate relationsh",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "FBI says ATM ‘jackpotting’ attacks are on the rise, and netting hackers millions in stolen cash",
+      "link": "https://techcrunch.com/2026/02/19/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting-hackers-millions-in-stolen-cash/",
+      "author": "Zack Whittaker",
+      "date": "2026-02-19T14:31:34-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/atm-cash-machine-1236158262.jpg?resize=1200,800",
+      "category": "Security",
+      "content": "In 2010, the famed security researcherBarnaby Jackspectacularly hacked into an ATM cash machine onstage at the Black Hat security conference, forcing it to spit out reams of bank notes in front of an awestruck audience.\n\nMore than a decade later, ATM jackpotting — as it’s called — has broken free from the realms of theoretical security research into big business in the criminal world.\n\nAccording to a new security bulletin issued by the FBI, hackers have rapidly ramped up their attacks in recent years, with more than 700 attacks on cash dispensers during 2025 alone, netting hackers at least $20 million in stolen cash.\n\nPer the bulletin, the FBI says hackers are using a mix of physical access to ATM machines, such as generic keys for unlocking front panels and accessing hard drives, and digital tools, like planting malware that can force ATMs to rapidly dispense cash in a flash.\n\nThe FBI warned that one particular malware, known asPloutus, affects a variety of ATM manufacturers and cash dispensers by targeting the underlying Windows operating system that powers many ATMs. Ploutus grants the hackers full control over a compromised ATM, allowing them to issue instructions capable of tricking the dispenser into disbursing notes without drawing funds from customer accounts.\n\nPloutus takes advantage of extensions for financial services, or XFS software, which ATMs rely on to communicate with its various other hardware components, such as the PIN keypad, the card reader, and the all-important cash dispensing unit.\n\n“Ploutus attacks the ATM itself rather than customer accounts, enabling fast cash-out operations that can occur in minutes and are often difficult to detect until after the money is withdrawn,” per the FBI bulletin.\n\nSecurity researcherspreviously foundissues with XFS software that can allow hackers to trick ATMs into dispensing cash.\n\nUpdated the lede paragraph to amend date.",
+      "excerpt": "In 2010, the famed security researcherBarnaby Jackspectacularly hacked into an ATM cash machine onstage at the Black Hat security conference, forcing it to spit out reams of bank notes in front of an awestruck audience.\n\nMore than a decade later, ATM jackpotting — as it’s called — has broken free fr",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "At a critical moment, Snap loses a top Specs exec",
+      "link": "https://techcrunch.com/2026/02/19/at-a-critical-moment-snap-loses-a-top-specs-exec/",
+      "author": "Lucas Ropek",
+      "date": "2026-02-19T14:30:36-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/IMG_1804.jpg?resize=1200,900",
+      "category": "Hardware",
+      "content": "Snap has big plans to release the newest version of its AR glasses, Specs, later this year. Despite the strategic priority that the hardware product represents, the company recently shed one of the top executives tied to the project, reportedly over a dispute with Snap CEO Evan Spiegel.\n\nThe tech blog Sourcesoriginally reportedthat the company had recently lost Scott Myers, its SVP of Specs, over a supposed “blow-up” with Spiegel.\n\nWhen reached for comment by TechCrunch, a Snap spokesperson said that Myers had “decided to step down from his role at Snap.” The statement thanked him for his contributions, and wished him “the best in his next chapter.” The spokesperson also disputed the “blow-up” characterization but wouldn’t reveal more about Myers’ departure.\n\nThe spokesperson added: “We can’t wait to bring Specs to the world later this year. We remain focused on disciplined execution and long-term value creation for our developer partners, community and shareholders.”\n\nIt’s unclear when exactly Myers left the company, or what the alleged “blow-up” might have entailed. When a user on X asked Sources author Alex Heath about the nature of the reported dispute, he replied that it was about “strategy,” adding that he couldn’t reveal more.\n\nSnap has teased the commercial release of Specs for quite a while and, in recent months, has signaled that it’s getting serious about the product’s launch. In January, the companyspun off the Specs teaminto its own distinct subsidiary, Specs Inc., saying that the move would allow for “greater operational focus and alignment.”\n\nMyers joined the Snap team in 2020 and, prior to that, held roles at SpaceX, Apple, and Nokia, according tohis LinkedInprofile. Inan interviewwith Tom’s Guide last summer, Myers called the development process for Specs an “entirely new paradigm” but also discussed the tricky nature of getting its form factor just right. “I don’t want to see people wearing a wire coming out of the back of their head,” he quipped.",
+      "excerpt": "Snap has big plans to release the newest version of its AR glasses, Specs, later this year. Despite the strategic priority that the hardware product represents, the company recently shed one of the top executives tied to the project, reportedly over a dispute with Snap CEO Evan Spiegel.\n\nThe tech bl",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "Google says its AI systems helped deter Play Store malware in 2025",
       "link": "https://techcrunch.com/2026/02/19/google-says-its-ai-systems-helped-deter-play-store-malware-in-2025/",
@@ -87,82 +138,31 @@
       ]
     },
     {
-      "title": "Zuckerberg grilled in court over social media harms on teens",
-      "link": "https://techcrunch.com/2026/02/19/zuckerberg-grilled-in-court-over-social-media-harms-on-teens/",
-      "author": "Sarah Perez",
-      "date": "2026-02-19T08:41:59-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024",
-      "category": "Social",
-      "content": "Meta CEO Mark Zuckerberg testified in court on Wednesday in a landmark trial aiming to determine if the tech giant’s social media applications are addictive and harmful to teens and kids. The trial, taking place in LA Superior Court, already revealed that Meta’sown research indicatedthat parental supervision couldn’t prevent teens from compulsive use of social media, and teens who faced traumatic life experiences were even more inclined to overuse social media.\n\nLawyers for the plaintiff, a 20-year-old who goes by her initials KGM, questioned Zuckerberg this week about whether Instagram employees were given goals to increase daily app usage. The Meta CEO had said during an earlier congressional hearing that this was not the case,the AP noted, but a 2015 email chain presented as evidence in the trial showed Zuckerberg pushing to increaseusers’ time spent in app by 12%.\n\nZuckerberg was also asked about Instagram’s use of beauty filters, which Meta’s own experts said should be banned when it comes to teens, as well as internal documents with Meta’s estimates of how many children under the age of 13 were on the platform. OneMeta document from 2018stated that, as of 2015, 4 million children under 13 had Instagram accounts, including roughly 30% of children aged 10-12 in the U.S., for instance.\n\nHere, Zuckerberg pushed back, saying age verification was difficult and smartphone makers like Apple could be more helpful on this front. (Apple recently rolled out itsown age assurance toolsfor developers, as a result of the increasing push to regulate apps like Facebook and Instagram in the U.S., wheremanystateshavenow created or are developingtheir own social media laws.)\n\nReports from the courtroomnoted Zuckerberg largely stuck to the company’s talking points during his testimony, sometimes claiming the plaintiff’s lawyers weretaking things out of contextormischaracterizingwhat documents said.\n\nPlaintiff KGM (who also goes by her first name Kaley) sued four social media companies over what she alleges is the harmful and addictive nature of their platforms.TikTokandSnapsettled before the trial began, with YouTube and Meta defending their apps’ success.\n\nDuring the trial, lawyers for Meta have pointed to Kaley’s unhappy childhood as leading to her mental health concerns, not the social apps themselves. The results of this trial by jury could lead to big tech reforms, prompt new laws and regulations, and lead to a settlement with victims, if the tech companies are found to be at fault.",
-      "excerpt": "Meta CEO Mark Zuckerberg testified in court on Wednesday in a landmark trial aiming to determine if the tech giant’s social media applications are addictive and harmful to teens and kids. The trial, taking place in LA Superior Court, already revealed that Meta’sown research indicatedthat parental su",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "As browser wars heat up, Chrome adds new productivity features",
-      "link": "https://techcrunch.com/2026/02/19/as-browser-wars-heat-up-chrome-adds-new-productivity-features/",
-      "author": "Sarah Perez",
-      "date": "2026-02-19T10:30:51-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
-      "category": "Apps",
-      "content": "AsAIcompaniesandstartupspush their way into theweb browser market,the world’sbiggestbrowser, Google Chrome, isrolling outa handful of new features. The company on Thursday announced the official launch of a trio of options, including Split View, PDF annotations, and a Save to Google Drive feature, designed to more deeply integrate Chrome with one of Google’s other online services.\n\nWhile these particular additions aren’t focused on AI,Google already integrated its Gemini AI assistant into Chrome. The move was made in response to the increased competition from AI providers like OpenAI and Perplexity, which are dabbling in agentic browsers. These so-calledbrowser warshave pushed Google to be less stagnant in terms of developing and releasing more consumer-facing features.\n\nWith Split View, multitasking in Chrome has become easier as the feature puts two pages side-by-side in the same tab. This lets you work across two web pages or watch a video while taking notes, among other things. To use the feature, you’ll drag a tab to the left or right edge of the browser window or right-click a link and select “Open Link in Split View.” The tabs will automatically snap into place. When no longer needed, you can exit the Split View layout via an option found via a right-click.\n\nAnother practical addition is the PDF annotations feature, which lets you add notes to a PDF or highlight its text from the browser. This means you don’t have to download the PDF and then open it in another application to work with its content. The option, a long time coming, could make it much simpler to do basic PDF tasks, like digitally signing a document, filling out a form, making notes within a file or personal document, and more.\n\nFinally, the new Save to Google Drive feature will allow you to save any PDF directly to your Google Drive account, instead of your computer, where it may get lost. When using this feature, the saved files will appear in a Saved from Chrome folder in your Drive, making them easy to find.\n\nToday’s update follows the expansion ofGemini and other agentic featuresto Chromebook users last month. And soon, Chrome is poised to adoptanother changethat was first spearheaded by its competitors: support for vertical tabs. (Tech-savvy users can even enable that option now, in an experimental phase,by changing a flag.)\n\nThis reimagined way to organize open tabs was one of the flagship features inThe Browser Company’sfirst alternative browser, Arc, and is now found in itsAI browser, Dia.By adding this feature and the others, Google hopes to give Chrome users fewer reasons to switch.",
-      "excerpt": "AsAIcompaniesandstartupspush their way into theweb browser market,the world’sbiggestbrowser, Google Chrome, isrolling outa handful of new features. The company on Thursday announced the official launch of a trio of options, including Split View, PDF annotations, and a Save to Google Drive feature, d",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Meta is shutting down Messenger’s standalone website",
-      "link": "https://techcrunch.com/2026/02/19/meta-is-shutting-down-messengers-standalone-website/",
-      "author": "Aisha Malik",
-      "date": "2026-02-19T09:01:29-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2233007024.jpg?resize=1200,800",
-      "category": "Social",
-      "content": "Meta is shutting down its standalone Messenger website, the company shared in ahelp page. Starting April 2026, the website will no longer be available. If users still want to send and receive messages on the web, they can do so while logged into Facebook.\n\n“After messenger.com goes away, you will be automatically redirected to usefacebook.com/messagesfor messaging on a computer,” the help page reads. “You can continue your conversations there or on the Messenger mobile app.”\n\nIf you use Messenger without a Facebook account, then you’ll only be able to continue your conversations on the Messenger mobile app. Users can restore their chat history on any platform using the PIN they entered when they first created a backup on Messenger. If you can’t remember your PIN, you can reset it.\n\nThe move comes a few months afterMeta shut down Messenger’s standalone desktop appsfor Windows and Mac. The writing may have been on the wall at the time, as Meta had been redirecting existing desktop app users to the Facebook website to continue using the messaging service, rather than the Messenger website.\n\nThe change was first spotted by reverse engineerAlessandro Paluzzi. Meta is notifying users of the update via a pop-up message on the Messenger website and app.\n\nUsers have taken to social media toexpress their frustrationwith the update, withmany sayingthey don’t want to rely on the Facebook website to send and receive Messenger chats on the web, especially those who have deactivated their Facebook accounts.\n\nWhile Meta’s decision to shut down various Messenger platforms is frustrating for users, it allows the tech giant to reduce costs by leaving it with fewer platforms to maintain.\n\nMessenger first launched as “Facebook Chat” back in 2008, and Facebook (now Meta) launched Facebook Messenger as a standalone app in 2011. Over the years, the tech giant positioned Messenger as its own service outside of Facebook, and in 2014, the social network removed messaging capabilities from its main mobile app to push people to the Messenger app. However, the company reversed this in 2023 when it beganmerging Messengerback into the Facebook app.\n\nMeta did not immediately respond to a request for comment.",
-      "excerpt": "Meta is shutting down its standalone Messenger website, the company shared in ahelp page. Starting April 2026, the website will no longer be available. If users still want to send and receive messages on the web, they can do so while logged into Facebook.\n\n“After messenger.com goes away, you will be",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "FBI says ATM ‘jackpotting’ attacks are on the rise, and netting hackers millions in stolen cash",
-      "link": "https://techcrunch.com/2026/02/19/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting-hackers-millions-in-stolen-cash/",
-      "author": "Zack Whittaker",
-      "date": "2026-02-19T14:31:34-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/atm-cash-machine-1236158262.jpg?resize=1200,800",
-      "category": "Security",
-      "content": "In 2010, the famed security researcherBarnaby Jackspectacularly hacked into an ATM cash machine on stage at the Black Hat security conference, forcing it to spit out reams of bank notes in front of an awestruck audience.\n\nMore than a decade later, ATM jackpotting — as it’s called — has broken free from the realms of theoretical security research into big business in the criminal world.\n\nAccording to a new security bulletin issued by the FBI, hackers have rapidly ramped up their attacks in recent years, with more than 700 attacks on cash dispensers during 2025 alone, netting hackers at least $20 million in stolen cash.\n\nPer the bulletin, the FBI says hackers are using a mix of physical access to ATM machines, such as generic keys for unlocking front panels and accessing hard drives, and digital tools, like planting malware that can force ATMs to rapidly dispense cash in a flash.\n\nThe FBI warned that one particular malware, known asPloutus, affects a variety of ATM manufacturers and cash dispensers by targeting the underlying Windows operating system that powers many ATMs. Ploutus grants the hackers full control over a compromised ATM, allowing them to issue instructions capable of tricking the dispenser into disbursing notes without drawing funds from customer accounts.\n\nPloutus takes advantage of extensions for financial services, or XFS software, which ATMs rely on to communicate with its various other hardware components, such as the PIN keypad, the card reader, and the all-important cash dispensing unit.\n\n“Ploutus attacks the ATM itself rather than customer accounts, enabling fast cash-out operations that can occur in minutes and are often difficult to detect until after the money is withdrawn,” per the FBI bulletin.\n\nSecurity researcherspreviously foundissues with XFS software that can allow hackers to trick ATMs into dispensing cash.\n\nUpdated the lede paragraph to amend date.",
-      "excerpt": "In 2010, the famed security researcherBarnaby Jackspectacularly hacked into an ATM cash machine on stage at the Black Hat security conference, forcing it to spit out reams of bank notes in front of an awestruck audience.\n\nMore than a decade later, ATM jackpotting — as it’s called — has broken free f",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "At a critical moment, Snap loses a top Specs exec",
-      "link": "https://techcrunch.com/2026/02/19/at-a-critical-moment-snap-loses-a-top-specs-exec/",
+      "title": "Google’s new Gemini Pro model has record benchmark scores — again",
+      "link": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
       "author": "Lucas Ropek",
-      "date": "2026-02-19T14:30:36-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/IMG_1804.jpg?resize=1200,900",
-      "category": "Hardware",
-      "content": "Snap has big plans to release the newest version of its AR glasses, Specs, later this year. Despite the strategic priority that the hardware product represents, the company recently shed one of the top executives tied to the project, reportedly over a dispute with Snap CEO Evan Spiegel.\n\nThe tech blog Sourcesoriginally reportedthat the company had recently lost Scott Myers, its SVP of Specs, over a supposed “blow-up” with Spiegel.\n\nWhen reached for comment by TechCrunch, a Snap spokesperson said that Myers had “decided to step down from his role at Snap.” The statement thanked him for his contributions, and wished him “the best in his next chapter.” The spokesperson also disputed the “blow-up” characterization but wouldn’t reveal more about Myers’ departure.\n\nThe spokesperson added: “We can’t wait to bring Specs to the world later this year. We remain focused on disciplined execution and long-term value creation for our developer partners, community and shareholders.”\n\nIt’s unclear when exactly Myers left the company, or what the alleged “blow-up” might have entailed. When a user on X asked Sources author Alex Heath about the nature of the reported dispute, he replied that it was about “strategy,” adding that he couldn’t reveal more.\n\nSnap has teased the commercial release of Specs for quite a while and, in recent months, has signaled that it’s getting serious about the product’s launch. In January, the companyspun off the Specs teaminto its own distinct subsidiary, Specs Inc., saying that the move would allow for “greater operational focus and alignment.”\n\nMyers joined the Snap team in 2020 and, prior to that, held roles at SpaceX, Apple, and Nokia, according tohis LinkedInprofile. Inan interviewwith Tom’s Guide last summer, Myers called the development process for Specs an “entirely new paradigm” but also discussed the tricky nature of getting its form factor just right. “I don’t want to see people wearing a wire coming out of the back of their head,” he quipped.",
-      "excerpt": "Snap has big plans to release the newest version of its AR glasses, Specs, later this year. Despite the strategic priority that the hardware product represents, the company recently shed one of the top executives tied to the project, reportedly over a dispute with Snap CEO Evan Spiegel.\n\nThe tech bl",
+      "date": "2026-02-19T16:55:22-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+      "category": "",
+      "content": "On Thursday, Googlereleasedthe newest version of Gemini Pro, its powerful LLM. The model, 3.1, is currently available as a preview and will be generally released soon, the company said.\n\nGoogle’s new model may be one of the most powerful LLMs yet. Onlookers have noted that Gemini 3.1 Pro appears to be a big step up from its predecessor, Gemini 3 — which, upon its release in November,was already considereda highly capable AI tool.\n\nOn Thursday, Google also shared statistics from independent benchmarks — such as one called Humanity’s Last Exam — that showed it performing significantly better than its previous version.\n\nGemini 3.1 Pro was also praised by Brendan Foody, the CEO of AI startup Mercor, whose benchmarking system, APEX, is designed to measure how well new AI models perform real professional tasks. “Gemini 3.1 Pro is now at the top of the APEX-Agents leaderboard,” Foody saidin a social media post, adding that the model’s impressive results show “how quickly agents are improving at real knowledge work.”\n\nThe release comes as theAI model wars are heating up, and tech companies continue to release increasingly powerful LLMs designed for agentic work and multi-step reasoning. Other major names — including OpenAI and Anthropic — have recently released new models as well.",
+      "excerpt": "On Thursday, Googlereleasedthe newest version of Gemini Pro, its powerful LLM. The model, 3.1, is currently available as a preview and will be generally released soon, the company said.\n\nGoogle’s new model may be one of the most powerful LLMs yet. Onlookers have noted that Gemini 3.1 Pro appears to ",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Second and last chance for innovators to win scaling perks: Belden extends nomination window",
+      "link": "https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window/",
+      "author": "TechCrunch Events",
+      "date": "2026-02-19T14:23:15-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Belden-Innovation-Award-2025-6.jpg?resize=1200,800",
+      "category": "Startups",
+      "content": "The search for the next wave of breakthrough innovation isn’t over yet. Due to overwhelming interest and strong early submissions, nominations for the2026 Joseph C. Belden Innovation Awardhave been extended throughFebruary 27, 2026, giving innovators additional time to bring their technologies into the spotlight.\n\nLearn more and start your submission here.\n\nNamed after Joseph C. Belden — a pioneer in connectivity and communications — the award honors emerging companies and breakthrough solutions driving meaningful change across connected industries. From digital infrastructure and cybersecurity to industrial automation and intelligent operations, the program recognizes technologies that deliver measurable, real-world impact.\n\nA critical focus for 2026 is IT/OT convergence, highlighting solutions that bridge information technology and operational systems. As enterprises modernize operations and connect physical and digital environments, technologies that unify these domains are becoming essential to performance, resilience, and growth.\n\nFinalists will receive more than recognition. Selected innovators gain access to industry visibility, executive audiences, and tailored co-marketing opportunities designed to elevate their solutions and accelerate adoption. Winners will be announced live at theBelden Innovation Summit, June 9-11, 2026, in Detroit, where industry leaders will gather to explore the technologies shaping what comes next.\n\nEligibility is open to small and midsize companies with revenue under $500 million and products launched on or after July 1, 2024, with at least one customer deployment.\n\nWith the extended deadline now set forFebruary 27, innovators have a renewed opportunity to showcase their work and join a growing community of companies defining the future of connected industries.\n\nNominations are open now — but not forever. Don’t miss your chance, start orcomplete your submission today.",
+      "excerpt": "The search for the next wave of breakthrough innovation isn’t over yet. Due to overwhelming interest and strong early submissions, nominations for the2026 Joseph C. Belden Innovation Awardhave been extended throughFebruary 27, 2026, giving innovators additional time to bring their technologies into ",
       "tags": [
         "Apple",
         "Amazon",
