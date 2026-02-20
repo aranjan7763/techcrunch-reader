@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-20T18:53:38.918459+00:00",
+  "last_updated": "2026-02-20T19:38:09.147410+00:00",
   "articles": [
     {
       "title": "Lucid Motors slashes 12% of its workforce as it seeks profitability",
@@ -104,6 +104,23 @@
       ]
     },
     {
+      "title": "InScope nabs $14.5M to solve the pain of financial reporting",
+      "link": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
+      "author": "Marina Temkin",
+      "date": "2026-02-20T11:24:57-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/In-scope.jpg?resize=1200,1012",
+      "category": "Fintech",
+      "content": "Even without a background in accounting, anyone who has ever glanced at a 10-K or 10-Q can tell that preparing financial statements is a complex, tedious process.\n\nWhile legacy platforms like Workiva and Donnelley Financial Solutions aim to streamline financial reporting, longtime accountants Mary Antony (pictured right) and Kelsey Gootnick (pictured center) found themselves exhausted by various manual hurdles within these tools.\n\nThe duo met seven years ago at Flexport, where Gootnick served as the company’s controller and Antony served as assistant controller. They stayed in touch even after Antony moved to Miro and Gootnick to Hopin and later Thrive Global.\n\nNo matter where they worked, Antony and Gootnick kept running into the same manual challenges.\n\n“The way financial statements come together, it’s just patched together in a lot of spreadsheets, moved into a bunch of Word documents, emailed back and forth between people,” Antony told TechCrunch.\n\nSo, in 2023, the pair decided to launchInScope, an AI-powered financial reporting platform that helps companies and accounting firms automate many aspects of the financial statement preparation process. The startup just raised $14.5 million in Series A funding led by Norwest, with participation from Storm Ventures, and existing backers Better Tomorrow Ventures and Lightspeed Venture Partners.\n\nWhile InScope isn’t fully automating the generation of income statements and balance sheets yet, it automates a vast amount of the manual busy work, from verifying math to formatting. Simply ensuring that dollar signs and commas are uniform and correctly placed can save accountants up to 20% of their time, according to Antony, InScope’s CEO.\n\nOver the last 12 months, InScope has grown its customer base by 5x, attracting significant accounting firms such as CohnReznick, currently ranked in thetop 15 nationally.\n\nOf course, it may be a while before accountants — a profession Antony describes as risk-averse — feel comfortable letting AI fully automate financial statement preparation. Nonetheless, that remains InScope’s ultimate goal.\n\nNorwest partner Sean Jacobsohn told TechCrunch that he invested in InScope after he heard from multiple clients that the startup’s product saves them a lot of time.\n\nJacobsohn is convinced that InScope stands out because few founders possess the specific expertise required to reinvent financial reporting technology.\n\n“It’s a very complex space, and you need to be able to have been in the shoes of the buyer before,” he said.\n\nAntony agrees that accountants are not typically the type to launch startups. Fortunately, she and Gootnick developed their entrepreneurial instincts through years of operating within the fast-paced cultures of other high-growth startups.",
+      "excerpt": "Even without a background in accounting, anyone who has ever glanced at a 10-K or 10-Q can tell that preparing financial statements is a complex, tedious process.\n\nWhile legacy platforms like Workiva and Donnelley Financial Solutions aim to streamline financial reporting, longtime accountants Mary A",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
       "title": "Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate",
       "link": "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/",
       "author": "Russell Brandom",
@@ -146,23 +163,6 @@
       "category": "",
       "content": "A judge has denied Tesla’s request to overturn a$243 million jury verdictthat held the automaker partially responsible for a fatal crash involving its Autopilot driver assistance system.\n\n“The grounds for relief that Tesla relies upon are virtually the same as those Tesla put forth previously during the course of trial and in their briefings on summary judgment — arguments that were already considered and rejected,”Hon. Judge Beth Bloom’s decisionreads. “Furthermore, Tesla does not present additional arguments or controlling law that persuades this Court to alter its earlier decisions or the jury verdict.”\n\nLast August, a jury awarded a $243 million verdictagainst Teslaover its culpability in a 2019 fatal crash in Florida that killed Naibel Benavides and critically injured Dillon Angulo. The jury assigned the driver two-thirds of the blame, and attributed one-third to Tesla. Notably, the jury assessed punitive damages only against Tesla.\n\nTesla’s lawyers argued, in its request to reverse the ruling, that the blame rested on the driver, who helped cause the crash.",
       "excerpt": "A judge has denied Tesla’s request to overturn a$243 million jury verdictthat held the automaker partially responsible for a fatal crash involving its Autopilot driver assistance system.\n\n“The grounds for relief that Tesla relies upon are virtually the same as those Tesla put forth previously during",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Threads posts can now be shared directly to your Instagram Story without leaving the app",
-      "link": "https://techcrunch.com/2026/02/20/threads-posts-can-now-be-shared-directly-to-your-instagram-story-without-leaving-the-app/",
-      "author": "Sarah Perez",
-      "date": "2026-02-20T08:55:12-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/instagram-threads-GettyImages-2159215889.jpg?resize=1200,800",
-      "category": "Social",
-      "content": "Threadsalready has over400 million monthly users, but Meta wants to push that number even higher. With the launch of a new Threads feature this week, the company is making it easier for Threads users to share posts on the app to their Instagram Stories — a move that could capitalize on Instagram’s larger user base to bring more people to Meta’s X competitor.\n\nThe companyannouncedon Thursday a new feature that lets you share a Threads post to your Instagram Story without having to leave the Threads app, instead previewing how the post would look on your Story directly within the Threads app.\n\nThe app previously allowed you to share anyone’s Threads post to your Instagram Story similar to how you would reshare someone’s Instagram post to your Story. It also already offered tools for sharing posts to your Instagram Feed or DMs.\n\nMeta’s text-first, Twitter-like app Threads firstlaunched in July 2023and benefited from its ties with Instagram to rapidly grow its initial user base. To sign up, users had to authenticate with their Instagram credentials, which allowed Threads to populate with account details, like username, bio, and photo, as well as verification status and followers.\n\nWith one tap, users could immediately follow the accounts they already followed on Instagram — and those not on Threads would get a notification that someone had added them.\n\nIn the months and years following its launch, Meta has heavily leaned on its other, bigger social platforms to continue to grow Threads, including bydisplaying popular Threads posts on Facebookand adding a similar carousel ofThreads posts to Instagram users. The company also made it easy for users tocross-post from Instagram and Facebook to Threads, which also helped boost adoption.\n\nThese moves have paid off. Data from market intelligence provider Similarweb last month indicated thatThreads is now seeing more daily usagethan Elon Musk’s X on mobile devices. (X still dominates on the web, however.) Threads’ numbers overall have been steadily growing as well, doubling usage from200 million monthly active users in August 2024to400 million monthly usersas of August 2025. The company announcedin Octoberthat Threads reached 150 million daily active users, as well.",
-      "excerpt": "Threadsalready has over400 million monthly users, but Meta wants to push that number even higher. With the launch of a new Threads feature this week, the company is making it easier for Threads users to share posts on the app to their Instagram Stories — a move that could capitalize on Instagram’s l",
       "tags": [
         "Apple",
         "Amazon",
