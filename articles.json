@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-10-04T10:59:44.415797+00:00",
+  "last_updated": "2026-10-04T15:45:37.153507+00:00",
   "articles": [
+    {
+      "title": "Trump unveils his new Super Intelligence Force",
+      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "author": "Anthony Ha",
+      "date": "2026-10-04T08:15:10-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
+      "category": "AI",
+      "content": "As promised, President Donald Trump has announced the formation of a new Super Intelligence Force, which he said will be led by national intelligence director Jay Clayton and other members of his administration.\n\n“The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans,” Trump said ina Sunday morning poston his social network Truth Social.\n\nBack in September, in response to an AI safety debate that the president haslargely dismissed as a hoax created by “Radical Left Dumocrats,”Trump said he would nevertheless form an AI Force and appoint an AI czar (“Only High I.Q. individuals need apply!”).\n\nSince then, Trump signed an executive order seeking torebrand AI as “super intelligence,”a term seemingly embraced,with some stumbles, by the tech executives who gathered at the White House this week to sign a non-binding safety pledge. (The pledgeincluded an impressive typo.)\n\nSo it’s only natural that Trump’s new task force is named in accordance with this new branding.The Wall Street Journal reportsthat Clayton will chair the Super Intelligence Force, effectively making him the new AI/SI czar, with Federal Trade Commission Chair Andrew Ferguson, Undersecretary of War for Research and Engineering Emil Michael, and Office of Personnel Management Director Scott Kupor serving as vice chairs.\n\nThe task force will have reportedly 120 days to create a report on the risks and opportunities presented by AI. Clayton, whopreviously saidthat it would be irresponsible for the United States to “back away” from AI while countries like China advance, made similar comments to the WSJ, insisting that one of the biggest risks is “not being first.”\n\nThe task force’s charter reportedly says that it will “develop plans for responding to SI-enabled threats to our society, while preventing overregulation and regulatory capture that would stifle innovation and competition.”",
+      "excerpt": "As promised, President Donald Trump has announced the formation of a new Super Intelligence Force, which he said will be led by national intelligence director Jay Clayton and other members of his administration.\n\n“The Super Intelligence Force is tasked with coordinating the effort of the Federal Gov",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
+    {
+      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+      "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "author": "Anthony Ha",
+      "date": "2026-10-03T12:33:15-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
+      "category": "Government & Policy",
+      "content": "A federal judge ruled this week that a Tulsa, Oklahoma sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock Safety to search for her license plate without a warrant.\n\nAsreported by 404 Media, thisrulingdoes not create a binding precedent, but it is one of the first times that a federal judge has ruled that a Flock search is unconstitutional.\n\nIn this case, Judge Sara Hill said the deputy should have obtained a warrant before searching the Flock database for the woman’s license plate, as he had “no apparent reason” for the search “other than the fact that [the woman’s vehicle] had a California license plate.”\n\nThe deputy then used the woman’s travel history in Flock as part of the justification for searching her car, where he allegedly discovered 91 pounds of meth. But Judge Hill wrote that all evidence obtained after the Flock search “must be suppressed as the fruit of a poisonous tree.”\n\nJudge Hill also took broader aim at warrantless searches of the Flock database, writing that tracking people’s location — even when they’re in public places — becomes “constitutionally problematic when law enforcement can indiscriminately and passively catalog your whereabouts over an extended period of time and then use that information for any purpose whenever convenient.”\n\n“This is a type of indiscriminate mass surveillance,” Hill wrote. “It is not targeted on a single individual, as in [Carpenter v. United States, a Supreme Court casefocused on how government agencies access location data from cell phones]. It is a tool that collects information about all vehicles that pass by any network-connected camera at all times, and it serves up the information to law enforcement on demand.”\n\nHill joins a growing chorus of Flock critics from across the political spectrum. Numerous local and state governments,including Florida and Texas, have said they will stop using the technology. And on Friday, Senator Bernie Sandersintroduced the Block Flock Act, which would bar federal agencies from using automated license plate readers such as Flock.\n\nFlock CEO Garrett Langley — who we’ll be interviewing on-stage atTechCrunch Disrupt— hascalled for a “compromise” between privacy and safetyand offered an apology to women who have been stalked by law enforcement officers using the Flock system. And with all those cancellations, Flock has alsoreportedly offered voluntary employee buyoutsas a way to shrink its workforce.",
+      "excerpt": "A federal judge ruled this week that a Tulsa, Oklahoma sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock Safety to search for her license plate without a warrant.\n\nAsreported by 404 Media, thisrulingdoes not create a binding precedent, but it is one of the first times that",
+      "tags": [
+        "Apple",
+        "Amazon",
+        "Cloud Computing",
+        "EVs",
+        "Google"
+      ]
+    },
     {
       "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
       "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
@@ -53,23 +87,6 @@
       ]
     },
     {
-      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-      "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-      "author": "Anthony Ha",
-      "date": "2026-10-03T12:33:15-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
-      "category": "Government & Policy",
-      "content": "A federal judge ruled this week that a Tulsa, Oklahoma sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock Safety to search for her license plate without a warrant.\n\nAsreported by 404 Media, this ruling does not create a binding precedent, but it is one of the first times that a federal judge has ruled that a Flock search is unconstitutional.\n\nIn this case, Judge Sara Hill said the deputy should have obtained a warrant before searching the Flock database for the woman’s license plate, as he had “no apparent reason” for the search “other than the fact that [the woman’s vehicle] had a California license plate.”\n\nThe deputy then used the woman’s travel history in Flock as part of the justification for searching her car, where he allegedly discovered 91 pounds of meth. But Judge Hill wrote that all evidence obtained after the Flock search “must be suppressed as the fruit of a poisonous tree.”\n\nJudge Hill also took broader aim at warrantless searches of the Flock database, writing that tracking people’s location — even when they’re in public places — becomes “constitutionally problematic when law enforcement can indiscriminately and passively catalog your whereabouts over an extended period of time and then use that information for any purpose whenever convenient.”\n\n“This is a type of indiscriminate mass surveillance,” Hill wrote. “It is not targeted on a single individual, as in [Carpenter v. United States, a Supreme Court casefocused on how government agencies access location data from cell phones]. It is a tool that collects information about all vehicles that pass by any network-connected camera at all times, and it serves up the information to law enforcement on demand.”\n\nHill joins a growing chorus of Flock critics from across the political spectrum. Numerous local and state governments,including Florida and Texas, have said they will stop using the technology. And on Friday, Senator Bernie Sanders — a Democrat from Vermont —introduced the Block Flock Act, which would bar federal agencies from using automated license plate readers such as Flock.\n\nFlock CEO Garretty Langley — who we’ll be interviewing on-stage atTechCrunch Disrupt— hascalled for a “compromise” between privacy and safetyand offered an apology to women who have been stalked by law enforcement officers using the Flock system. And with all those cancellations, Flock has alsoreportedly offered voluntary employee buyoutsas a way to shrink its workforce.",
-      "excerpt": "A federal judge ruled this week that a Tulsa, Oklahoma sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock Safety to search for her license plate without a warrant.\n\nAsreported by 404 Media, this ruling does not create a binding precedent, but it is one of the first times th",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
       "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
       "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
       "author": "Jagmeet Singh",
@@ -112,23 +129,6 @@
       "category": "AI",
       "content": "Meta’s Muse, a personal AI agent that books travel, fills out forms, and shops on a user’s behalf, has alreadyproven popularwith the masses, but a new side project could be particularly alluring to tinkerers and hackers.\n\nOn Friday, the company introducedMuse Gadgets, an open-source project that lets developers build their own hardware that connects to Muse.\n\nMeta is providing open-source firmware (the low-level software that runs a device), and a Linux software development kit (SDK), along with a few project ideas to get users started. These include giving Muse a color e-ink display or loading it onto a stick that plugs into a TV’s HDMI port.\n\nThere don’t appear to be many limits, either. Users can set up a low-cost hobbyist computer like a Raspberry Pi or an off-the-shelf ESP32 board, and then connect Muse “to your displays, buttons, sensors, actuators, and whatever else you’ve got lying on your workbench,” Meta notes.\n\nThe company has also set up a Discord channel to support users.\n\nMeta has already tried the code itself, naturally. Nat Friedman, head of product at Meta’s Superintelligence Labs, said ina post on Xthat the company built a gadget called Muse Home Link. The USB-C-powered device lets Muse connect to a home network and talk to the smart devices on it, including speakers and smart TVs.\n\nMeta made 5,000 of these Home Links, in fact, and is giving them away for free to Muse subscribers while supplies last, according to Friedman. Considering Friedman’s post about Home Link received nearly 30,000 views in a few hours, we’re guessing those freebies have been claimed. Friedman said Home Link would be ready to ship a few weeks.\n\nMuse Gadgets may not have wide appeal, but it fits nicely into Meta’s all-in strategy to make Muse more than a standalone chatbot. Meta isn’t content to push Muse on everyday consumers; it’s also trying to woosmall businessesand enterprises.\n\nThe company earlier this week introduced Muse for Small Business, which is free with usage limits and connects Muse to tools such as Shopify, Dropbox, and Slack. It has also launched a new business unit, Meta Enterprise Platform, to help it push its AI offerings to businesses and corporate customers.",
       "excerpt": "Meta’s Muse, a personal AI agent that books travel, fills out forms, and shops on a user’s behalf, has alreadyproven popularwith the masses, but a new side project could be particularly alluring to tinkerers and hackers.\n\nOn Friday, the company introducedMuse Gadgets, an open-source project that let",
-      "tags": [
-        "Apple",
-        "Amazon",
-        "Cloud Computing",
-        "EVs",
-        "Google"
-      ]
-    },
-    {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "author": "Sarah Perez",
-      "date": "2026-10-02T11:11:27-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
-      "category": "Apps",
-      "content": "Days after a journalist claimed that Meta’s Muse app on Mac read their private messages — aclaim that Meta disputed— Apple announced that it’s introducing additional controls around a setting called “Full Disk Access” on macOS. The feature was designed to allow backups to function properly, but AI agents have now increased “the risks associated with this level of access,” Apple said.\n\nApple’s statement comes shortly after Inc. columnist Jason Atenreportedthat Muse knew the content of his private messages — even though he claimed to have not given the AI agent permission. The report raised questions about the level of security and trust users have in desktop-based AI, which can control things on their systems and read their files and messages.\n\nThe decision also comes after aWired reportcited that a flaw in ChatGPT’s Mac app could have allowed hackers to access sensitive data.\n\nAI agents that run on the desktop allow users to provide their respective apps with greater access to the files, messages, and other personal content on their computers by adjusting macOS settings.\n\nIn Muse’s case, the AI optionally allows users to enable Full Disk Access. This setting, Apple explains, gives an app permission to access files, mail, messages, and even browsing history.\n\n“Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their systems…without users’ full knowledge and understanding,” Apple saidin a new blog postaimed at developers.\n\nThe company says that, going forward, it will introduce new controls aimed at ensuring that users who “genuinely wish to grant an app this extraordinary level of access” can do so only with “very explicit user action.”\n\n“Addressing this is critical. As AI agents become increasingly capable and autonomous, the risks associated with this level of access will grow substantially. We are committed to ensuring users clearly understand these risks before granting such access, so they can make informed decisions about their own data and privacy,” Apple wrote.\n\nApple did not respond to TechCrunch’s inquiry about the feature change.\n\nCorrection: Due to an editorial error, the change was described as Apple “limiting” permissions. After publication, the author of this article updated the wording to reflect their original intent: the change reflects informed consent, but is not a new limit.",
-      "excerpt": "Days after a journalist claimed that Meta’s Muse app on Mac read their private messages — aclaim that Meta disputed— Apple announced that it’s introducing additional controls around a setting called “Full Disk Access” on macOS. The feature was designed to allow backups to function properly, but AI a",
       "tags": [
         "Apple",
         "Amazon",
