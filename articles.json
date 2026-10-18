@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T17:08:10.781757+00:00",
+  "last_updated": "2026-10-18T20:16:23.033373+00:00",
   "articles": [
     {
       "title": "TechCrunch Mobility: Rivian’s next act",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
       "author": "Anthony Ha",
-      "date": "2026-10-18T09:30:00-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
-      "category": "",
-      "content": "After chatbot startup Character.AIfiled for bankruptcyearlier this week, many of its employees will have the opportunity to take jobs at Disney.\n\nCharacter.AI’s former CEO Karandeep Anand recentlybecame the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million.\n\nAlegal filingspotted byBloombergrevealed more details about the agreement between Character.AI and Disney, with Disney agreeing to make employment offers to at least 60 Character.AI employees — the majority of the workforce — paying them an estimated $60 million in annual compensation.\n\nThe filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.\n\nThe filing says that despite its “large and engaged user base,” Character.AI has been hobbled by high costs and “potential litigation-related liabilities and regulatory engagement.” (The company wassued by the mother of a 14-year-old boywho said her son became obsessed with one of Character.AI’s chatbots before committing suicide; it alsofaces government investigations over child safety concerns.)",
-      "excerpt": "After chatbot startup Character.AIfiled for bankruptcyearlier this week, many of its employees will have the opportunity to take jobs at Disney.\n\nCharacter.AI’s former CEO Karandeep Anand recentlybecame the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to ac",
+      "date": "2026-10-18T12:03:38-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+      "category": "Media & Entertainment",
+      "content": "“You Can See Everything” is already a box office sensation, with a $15 million opening weekend (based on Sunday estimates). That’sthe second biggest opening weekend everfor a documentary film.\n\nThe nearly three-hour movie —  first revealed last month ata secretive screening at the Telluride Film Festival—is only playing in 855 theaters this weekend. (In contrast, the weekend’s number one movie, “Street Fighter,” is playing in 3,575.) But it had a reported 2,000 sellout screenings, and the reviews are overwhelmingly positive; “You Can See Everything” currently has a score of 99% on bothRotten TomatoesandMetacritic.\n\nThe story of Elizabeth Holmes’ rise and fall — founding blood-testing startup Theranos, attracting support from many of Silicon Valley’s biggest names, then ultimately beingsentenced to 11 years in prisonfor defrauding in investors — has already been told in books, podcasts, scripted miniseries, and other documentaries.\n\nBut “You Can See Everything”’s filmmakers were given extensive access to Holmes and her family in the month before she went to jail, and the involvement of “The Rehearsal” creator Nathan Fielder — who co-directed the film with Lance Oppenheim — made the whole thing even more intriguing.\n\nWhile I haven’t seen the movie myself, I can at least attest to the difficulty of finding tickets in Manhattan: I spent a good chunk of yesterday trying to find a screening for tonight. I found exactly one with seats available that weren’t in the front row. (Yes, of course I’m going.)\n\nAnd TechCrunch’sAmanda Silberling already got to see it on Thursday. She wrote that the enigmatic Holmes finally seems to have met her match in Fielder, a deadpan comedian who’s arguably just as strange and mysterious as she is. Fielder’s month with Holmes is apparently just the beginning of what sounds like an increasingly surreal, metatextual odyssey.\n\nThe discussion around “You Can See Everything” may be making it harder for other tech-centric films to break through. Aaron Sorkin’s “Social Network” follow-up “The Social Reckoning”opened to a disappointing $5.5 million last weekend, and has already fallen entirely out of the top 10. And Alex Gibney’s four-hour documentary “Musk” — hampered, perhaps, byresistance from social platformsand a four-hour runtime —made only $306,702this weekend.",
+      "excerpt": "“You Can See Everything” is already a box office sensation, with a $15 million opening weekend (based on Sunday estimates). That’sthe second biggest opening weekend everfor a documentary film.\n\nThe nearly three-hour movie —  first revealed last month ata secretive screening at the Telluride Film Fes",
       "tags": [
         "Apple",
         "Amazon",
@@ -155,14 +155,14 @@
       ]
     },
     {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "author": "Anthony Ha",
-      "date": "2026-10-17T14:31:32-07:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+      "date": "2026-10-18T09:30:00-07:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
       "category": "",
-      "content": "Meta recently updated its commercial terms of use, declaring that the company can “use any content from [a business account’s] domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of” Meta products and services.\n\nAccording tolegal experts interviewed by Nieman Lab, this looked like a “remarkable provision” that could give Meta permission to scrape the website of any publisher with a Meta business account and use the content to train the company’s AI models. (WhileMeta defeated a high-profile lawsuit over alleged copyright infringementlast year,other casesagainst AI companies, including Meta, continue.)\n\nHowever, a Meta spokespersoninsistedthat the updated terms did not reflect a change in the way Meta crawls the web. And now,The Verge reportsthat the provision has been removed.\n\n“We’ve heard you and want to clarify: the crawling terms we consolidated only applied to our ads and business products, and we’ve clarified that in the terms themselves,” the company said in a statement. “It does not change how Meta uses web crawlers.”",
-      "excerpt": "Meta recently updated its commercial terms of use, declaring that the company can “use any content from [a business account’s] domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of” Meta products and services.\n\nAccording tolegal experts interviewed ",
+      "content": "After chatbot startup Character.AIfiled for bankruptcyearlier this week, many of its employees will have the opportunity to take jobs at Disney.\n\nCharacter.AI’s former CEO Karandeep Anand recentlybecame the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million.\n\nAlegal filingspotted byBloombergrevealed more details about the agreement between Character.AI and Disney, with Disney agreeing to make employment offers to at least 60 Character.AI employees — the majority of the workforce — paying them an estimated $60 million in annual compensation.\n\nThe filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.\n\nThe filing says that despite its “large and engaged user base,” Character.AI has been hobbled by high costs and “potential litigation-related liabilities and regulatory engagement.” (The company wassued by the mother of a 14-year-old boywho said her son became obsessed with one of Character.AI’s chatbots before committing suicide; it alsofaces government investigations over child safety concerns.)",
+      "excerpt": "After chatbot startup Character.AIfiled for bankruptcyearlier this week, many of its employees will have the opportunity to take jobs at Disney.\n\nCharacter.AI’s former CEO Karandeep Anand recentlybecame the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to ac",
       "tags": [
         "Apple",
         "Amazon",
