@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T01:09:16.341137+00:00",
+  "last_updated": "2026-11-21T09:20:32.946395+00:00",
   "articles": [
     {
       "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
@@ -138,14 +138,14 @@
       ]
     },
     {
-      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-      "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-      "author": "Connie Loizos",
-      "date": "2026-11-20T05:25:00-08:00",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266464474.jpg?resize=1200,774",
-      "category": "",
-      "content": "Earlier this week at the DealBook conference in New York, Elon Musk, beamed in from a trip to China with President Donald Trump, was asked about the ouster of his longtime friend, former Nvidia CEO Jensen Huang. Musk compared it to kickingMichael Jordanoff the Chicago Bulls’ roster during his historic run. Of Nvidia’s employees, he said, “They love [Huang]. They love him.”\n\nWell, maybe not all of them. Thousands of employees have signed a letter asking for Huang’s return, butothers tell The New York Timeshe ruled through praise and fear, as well as by humiliating people.\n\nAccording to the Times, Huang told subordinates that Nvidia’s wealth meant it wasn’t possible to motivate employees with money, so humiliation was the only lever left. He reportedly told one executive his mother should have aborted him and told another employee he would rip his arms off and beat him to death with them.\n\nNaturally, over a 33-year career, regrettable things may have been said, but the Times found a long paper trail that suggests the incidents weren’t isolated. In 2005, for example, Michael Winston, a former HR chief, threatened to sue and called Huang’s conduct the most abusive he’d seen. Nvidia paid him more than $1 million. Huang’s spokesman calls the allegations fabrications.",
-      "excerpt": "Earlier this week at the DealBook conference in New York, Elon Musk, beamed in from a trip to China with President Donald Trump, was asked about the ouster of his longtime friend, former Nvidia CEO Jensen Huang. Musk compared it to kickingMichael Jordanoff the Chicago Bulls’ roster during his histor",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "author": "Jagmeet Singh",
+      "date": "2026-11-20T20:00:00-08:00",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/apple-namedrop.jpg?resize=1200,800",
+      "category": "Apps",
+      "content": "Apple is being sued in India by a U.S.-based startup that alleges the iPhone maker’s NameDrop feature, which lets users share contact information by bringing devices close together, infringes its patented technology.\n\nGG Technologies, the startup behindStayTouch, an app that lets users exchange contact details by bringing their phones close together, is seeking ₹15 billion (about $161.86 million) in damages and an injunction against Apple, per court documents reviewed by TechCrunch.\n\nSanta Monica-headquartered GG Technologies filed the lawsuit in India in October after mediation proceedings initiated in April failed in September, the startup told TechCrunch. Pre-institution mediation is generally required before filing commercial lawsuits in India. The company also sued Apple in the U.S. in April over related patent infringement claims.\n\nIn its 781-page court filing in the Bombay High Court, GG Technologies alleged that Apple’s NameDrop infringes its Indian patent on technology that helps phones exchange contact details with nearby devices without requiring manual pairing. The company launched StayTouch in 2019, the same year it first sought patent protection for the technology in the U.S. It filed its Indian patent application in 2021 and received the patent in July 2024.\n\nAppleintroducedNameDrop as part of iOS 17 in June 2023. The feature debuted on iPhones later that year, with support for compatible Apple Watches arriving in October through watchOS 10.1.\n\n“We are seeking an injunction to restrict the usage of the NameDrop feature which is native to iOS,” GG Technologies told TechCrunch. GG Technologies urged the court in its filing to restrict Apple from selling or importing iPhones and Apple Watches preloaded with NameDrop in India. The case has yet to be listed for a hearing.\n\nIn the U.S., the International Trade Commissionopened an investigationinto Apple’s alleged patent infringement in August, following a complaint from GG Technologies. The startup is seeking an order that could block imports of infringing Apple devices into the country, along with restrictions on their sale.\n\nFounded in 2018 by Gaurav Goel, a graduate of the Indian Institute of Technology (IIT) Delhi and a former Goldman Sachs investment banker, GG Technologies developed StayTouch as an alternative to exchanging business cards. The app is available oniOSandAndroid.\n\nApple did not respond to a request for comment.\n\nIndia has become increasingly important to Apple, both as a fast-growing consumer market and amajor manufacturing hub outside China. The Cupertino company hasexpanded its retail presencein the South Asian nation, where iPhones stillaccount for less than 10%of smartphone shipments, giving considerable room for growth.",
+      "excerpt": "Apple is being sued in India by a U.S.-based startup that alleges the iPhone maker’s NameDrop feature, which lets users share contact information by bringing devices close together, infringes its patented technology.\n\nGG Technologies, the startup behindStayTouch, an app that lets users exchange cont",
       "tags": [
         "Apple",
         "Amazon",
